@@ -56,7 +56,7 @@
 </table>
 
 <br/>
-### 4️⃣ Pull requests 방법 (제출방법)
+### Pull requests 방법 (제출방법)
 
 <br/>
 
