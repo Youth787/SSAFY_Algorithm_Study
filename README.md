@@ -15,7 +15,7 @@
 
 1주일간 정해진 알고리즘 개념을 공부하고, 알고리즘에 관련된 필수문제 5문제를 푼 뒤, 서로의 코드를 리뷰한다.
 
-목표: 🏦금융권 코딩테스트 PASS
+⛳목표: 🏦금융권 코딩테스트 PASS
 
 <details>
   <summary>자세히</summary>
@@ -26,8 +26,8 @@
 </details>
 <br/>
 ## 🔎스터디 참고자료 <br/>
-* https://github.com/jeonseongjae98/basic-algo-lecture/blob/master/workbook.md <br/>
-* https://github.com/ghdcksgml1/Algorithm_Study
+📚 https://github.com/jeonseongjae98/basic-algo-lecture/blob/master/workbook.md <br/>
+📚 https://github.com/ghdcksgml1/Algorithm_Study
 
 <br/>
 
