@@ -15,7 +15,7 @@
 
 1주일간 정해진 알고리즘 개념을 공부하고, 알고리즘에 관련된 필수문제 5문제를 푼 뒤, 서로의 코드를 리뷰한다.
 
-목표: 🏦금융권 코테
+목표: 🏦금융권 코딩테스트 PASS
 
 <details>
   <summary>자세히</summary>
@@ -42,7 +42,7 @@
       <td height="140px" align="center"> <a href="https://github.com/Youth787"><img src="https://avatars.githubusercontent.com/u/90955152?v=4" width="140px" /><br/>SSAFY 10기<br/>🐔 정연미 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/BanApp"><img src="https://avatars.githubusercontent.com/u/93313445?s=460&v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 조아영 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/zzionyy"><img src="https://avatars.githubusercontent.com/u/122343467?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 박지원 (JAVASCRIPT)</a></td>
-        <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 (JAVA,C++)</a></td>
+        <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 (JAVA)</a></td>
     </tr>
     <tr>
