@@ -69,7 +69,7 @@
 </table>
 
 <br/>
-## Pull requests 방법 (제출방법)
+📌 Pull requests 방법 (제출방법)
 <br/>
 
 <a href="https://blog.naver.com/ghdcksgml2/222466153666">Pull requests 방법</a> <= 링크를 타고 들어가면 나옵니다!
