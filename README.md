@@ -46,7 +46,7 @@
       <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 (JAVA)</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://solved.ac/anaooauc1236"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=anaooauc1236" /></a><br/><a href="https://www.acmicpc.net/user/anaooauc1236">Baekjoon</a><br/><a href="https://solved.ac/profile/anaooauc1236">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/ar77gt"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt" /></a><br/>
       <td align="center"><a href="https://solved.ac/blackberry97"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=blackberry97" /></a><br/><a href="https://www.acmicpc.net/user/blackberry97">Baekjoon</a><br/><a href="https://solved.ac/profile/blackberry97">solved.ac</a></td>
       <td align="center"><a href="https://solved.ac/wldnjs1123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123" /></a><br/>
       <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
