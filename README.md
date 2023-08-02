@@ -24,6 +24,19 @@
 - 그말은 즉, 한번 진도를 놓치면 상당히 따라가기 힘들다. 그러니 열심히하자!
 
 </details>
+<br/>
+## 🔎스터디 참고자료
+- https://github.com/jeonseongjae98/basic-algo-lecture/blob/master/workbook.md
+- https://github.com/ghdcksgml1/Algorithm_Study
+
+<br/>
+
+### 알고리즘 사이트    
+* [백준사이트](https://www.acmicpc.net/)
+* [SWEA](https://swexpertacademy.com/main/main.do)
+* [solved.ac](https://solved.ac/)
+* [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)   
+
 
 <br/>
 
