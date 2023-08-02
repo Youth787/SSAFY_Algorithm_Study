@@ -1,4 +1,4 @@
-# 🎮 SSAFY 06반 알고리즘 1등 스터디 🎮
+# 🎮 SSAFY 10기 서울 06반 알고리즘 1등 스터디 🎮
 
 <br/>
 
@@ -41,7 +41,7 @@
     <tr>
       <td height="140px" align="center"> <a href="https://github.com/Youth787"><img src="https://avatars.githubusercontent.com/u/90955152?v=4" width="140px" /><br/>SSAFY 10기<br/>🐔 정연미 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/BanApp"><img src="https://avatars.githubusercontent.com/u/93313445?s=460&v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 조아영 (JAVA)</a></td>
-      <td height="140px" align="center"> <a href="https://github.com/zzionyy"><img src="https://avatars.githubusercontent.com/u/122343467?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 박지원 (JAVASCRIPT)</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/zzionyy"><img src="https://avatars.githubusercontent.com/u/122343467?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 박지원 <br/> (JAVASCRIPT)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 (JAVA)</a></td>
     </tr>
