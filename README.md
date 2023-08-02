@@ -26,12 +26,12 @@
 </details>
 <br/>
 ## 🔎스터디 참고자료 <br/>
-- https://github.com/jeonseongjae98/basic-algo-lecture/blob/master/workbook.md <br/>
-- https://github.com/ghdcksgml1/Algorithm_Study
+* https://github.com/jeonseongjae98/basic-algo-lecture/blob/master/workbook.md <br/>
+* https://github.com/ghdcksgml1/Algorithm_Study
 
 <br/>
 
-### 🔗알고리즘 사이트    
+## 🔗알고리즘 사이트    
 * [백준사이트](https://www.acmicpc.net/)
 * [SWEA](https://swexpertacademy.com/main/main.do)
 * [solved.ac](https://solved.ac/)
