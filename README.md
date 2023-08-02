@@ -2,11 +2,11 @@
 
 <br/>
 
-정기 회의 : 매주 수요일 20시 30분
+📌정기 회의 : 매주 수요일 20시 30분
 
-마감 기한 : 매주 화요일 23시
+📌마감 기한 : 매주 화요일 23시
 
-- 벌금 : 문제당 1000원, 지각 3000원, 결석 5000원  <br/>
+💰벌금 : 문제당 1000원, 지각 3000원, 결석 5000원  <br/>
 (벌금은 🍺회식비로 맛있게 사용할 예정입니다.)
 
 <br/>
@@ -25,13 +25,13 @@
 
 </details>
 <br/>
-## 🔎스터디 참고자료
-- https://github.com/jeonseongjae98/basic-algo-lecture/blob/master/workbook.md
+## 🔎스터디 참고자료 <br/>
+- https://github.com/jeonseongjae98/basic-algo-lecture/blob/master/workbook.md <br/>
 - https://github.com/ghdcksgml1/Algorithm_Study
 
 <br/>
 
-### 알고리즘 사이트    
+### 🔗알고리즘 사이트    
 * [백준사이트](https://www.acmicpc.net/)
 * [SWEA](https://swexpertacademy.com/main/main.do)
 * [solved.ac](https://solved.ac/)
