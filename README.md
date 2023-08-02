@@ -40,16 +40,16 @@
 <table>
     <tr>
       <td height="140px" align="center"> <a href="https://github.com/Youth787"><img src="https://avatars.githubusercontent.com/u/90955152?v=4" width="140px" /><br/>SSAFY 10기<br/>🐔 정연미 <br/> (JAVA)</a></td>
-      <td height="140px" align="center"> <a href="https://github.com/BanApp"><img src="https://avatars.githubusercontent.com/u/93313445?s=460&v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 조아영 <br/> (JAVA)</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/aycho00"><img src="https://avatars.githubusercontent.com/u/141216710?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 조아영 <br/> (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/zzionyy"><img src="https://avatars.githubusercontent.com/u/122343467?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 박지원 <br/> (JAVASCRIPT)</a></td>
-        <td height="140px" align="center"> <a href="https://github.com/ghdcksgml1"><img src="https://avatars.githubusercontent.com/u/79779676?s=460&v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 <br/> (JAVA)</a></td>
+        <td height="140px" align="center"> <a href="https://github.com/jw-choi-kzz"><img src="https://avatars.githubusercontent.com/u/141205653?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 <br/> (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 <br/> (JAVA)</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/ar77gt"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt" /></a><br/>
-      <td align="center"><a href="https://solved.ac/blackberry97"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=blackberry97" /></a><br/><a href="https://www.acmicpc.net/user/blackberry97">Baekjoon</a><br/><a href="https://solved.ac/profile/blackberry97">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/aycho00"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aycho00" /></a><br/>
       <td align="center"><a href="https://solved.ac/wldnjs1123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123" /></a><br/>
-      <td align="center"><a href="https://solved.ac/ghdcks33"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdcks33" /></a><br/><a href="https://www.acmicpc.net/user/ghdcks33">Baekjoon</a><br/><a href="https://solved.ac/profile/ghdcks33">solved.ac</a></td>
+      <td align="center"><a href="https://solved.ac/jiwonq"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jiwonq" /></a><br/>
       <td align="center"><a href="https://solved.ac/jeonseongjae"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jeonseongjae" />
   </tr>
   
