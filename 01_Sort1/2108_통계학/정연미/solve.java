@@ -44,20 +44,29 @@ public class 통계학 {
 		}
 		for (int i = 0; i < N; i++) {
 			if (mp.containsKey(array[i])) {
-				mp.put(array[i], mp.get(array[i]) + 1);
+				mp.put(array[i], mp.get(array[i]) + 1); // mp.put(key,value) :  값 추가 
 			} else {
 				mp.put(array[i], 1);
 			}
 		}
-		
+		// 동일한 키를 포함하고 있으면 +1씩 개수를 늘린다.
+		// 없다면 본인만 존재 : 1개로 설정. 
+
 		int maxValue = Collections.max(mp.values());
+		// mp의 value중에서 가장 큰 값을 maxvalue에 넣는다. 
 		ArrayList<Integer> arrayList = new ArrayList<>();
-		// 가장 많이 나온 값
+		// 새로운 리스트 생성.
+
 		for (Map.Entry<Integer, Integer> m : mp.entrySet()) {
+			// map에 값을 전체 출력하기 위해서는 entryset(), keyset() 메소드를 사용.
+			// entryset() 메소드는 key와 value의 값이 모두 필요한 경우 사용한다. 
+			// keyset() 메소드는 key의 값만 필요한 경우 사용한다. 
 			if (m.getValue() == maxValue) {
 				arrayList.add(m.getKey());
 			}
+			// 가장 빈도수가 높은 값에 해당하는 key값을 리스트에 넣는다. 
 		}
+		
 		Collections.sort(arrayList);
 		// 가장 많이 나온 값이 여러개일 경우 두번째로 작은 값
 		if (arrayList.size() > 1)
