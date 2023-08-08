@@ -1,3 +1,5 @@
+package backjoon_algorithm_study;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -23,17 +25,22 @@ public class 통계학 {
 		for (int i = 0; i < N; i++) {
 			array[i] = Integer.parseInt(br.readLine());
 		}
-
+		
+		// 산술평균 
 		double sum = 0;
-		for (double a : array)
+		for (int a : array)
 			sum += a;
 		double avg = sum / N;
-		System.out.println(String.format("%.0f", avg));; // 소수점 이하 첫째 자리에서 반올림한 값을 출력한다.
-
+//		System.out.println(String.format("%.0f", avg)); -0 이 출력된다.
+		System.out.println(Math.round(avg)); // 반올림 
+		// 다음과 같이 자릿수를 지정하여 반올림할 수도 있다. 
+		// Math.round(1.222 * 10) / 10; // 1.2
+		
 		// 중앙값 출력
 		Arrays.sort(array);
+		if(N>1) {
 		System.out.println(array[N / 2]);
-
+		}
 		// 최빈값 출력
 		// https://vanillacreamdonut.tistory.com/91
 		Map<Integer, Integer> mp = new HashMap<>();
