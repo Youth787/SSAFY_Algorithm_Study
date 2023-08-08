@@ -24,12 +24,11 @@ public class 통계학 {
 			array[i] = Integer.parseInt(br.readLine());
 		}
 
-		// 산술평균
-		int sum = 0;
-		for (int a : array)
+		double sum = 0;
+		for (double a : array)
 			sum += a;
 		double avg = sum / N;
-		System.out.println(Math.round(avg * 100) / 100.0); // 소수점 이하 첫째 자리에서 반올림한 값을 출력한다.
+		System.out.println(String.format("%.0f", avg));; // 소수점 이하 첫째 자리에서 반올림한 값을 출력한다.
 
 		// 중앙값 출력
 		Arrays.sort(array);
@@ -49,6 +48,11 @@ public class 통계학 {
 				mp.put(array[i], 1);
 			}
 		}
+		//초기에 mp가 비어있어도, 
+		//for 루프를 통해 배열의 모든 원소를 순회하면서 mp에 값이 추가되며, 
+		//containsKey를 사용하여 이미 존재하는 키를 확인하고 
+		//빈도를 증가시키는 작업이 이루어진다.
+
 		// 동일한 키를 포함하고 있으면 +1씩 개수를 늘린다.
 		// 없다면 본인만 존재 : 1개로 설정. 
 
@@ -66,7 +70,7 @@ public class 통계학 {
 			}
 			// 가장 빈도수가 높은 값에 해당하는 key값을 리스트에 넣는다. 
 		}
-		
+
 		Collections.sort(arrayList);
 		// 가장 많이 나온 값이 여러개일 경우 두번째로 작은 값
 		if (arrayList.size() > 1)
