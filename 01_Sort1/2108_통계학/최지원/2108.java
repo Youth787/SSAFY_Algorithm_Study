@@ -66,19 +66,11 @@ public class Test3 {
 						arrList.clear();
 						arrList.add(arr[i]);
 					}
-				}
-					
+				}		
 			}
-			
-
+			//출력을 어쩧ㄹ까핳
 		}
-		
-		
-
-		
 		//범위 출력=최대값-최소값
 		System.out.println(arr[N-1]-arr[0]);
-
 	}
-
 }
