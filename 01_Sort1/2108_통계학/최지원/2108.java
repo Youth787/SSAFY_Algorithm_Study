@@ -40,49 +40,41 @@ public class Test3 {
 				}
 			}
 		}
-		System.out.println(arr[(N+1)/2-1]);		
+		System.out.println(arr[(N+1)/2-1]);
+
+
+		//최빈값
+		//배열된 상태에서 cnt, mode와 비교
+		int cnt = 0;
+		int mode = 0;
+
+		//최빈값을 저장하는 ArrayList
+		ArrayList<Integer> arrList = new ArrayList<Integer>(); 
+		
+		for (int i = 0; i < N-2; i++) {
+			//뒤에 있는 값이랑 같다면 cnt+1
+			if ( arr[i]==arr[i+1] )	{
+				cnt++;
+			} else	{
+				//아니면 그 수는 여기까지다 =>현재 mode와 비교+ cnt 초기화
+				if (mode <= cnt){
+					if (mode == cnt) {
+						arrList.add(arr[i]);
+						cnt=0;
+					} else {
+						mode= arr[i]; //최빈값 
+						arrList.clear();
+						arrList.add(arr[i]);
+					}
+				}
+					
+			}
+			
+
+		}
 		
 		
-//		//최빈값 출력(최빈값 중 두번째로 작은 값)
-//		//최소 -4000 부터 4000까지 = 8001개
-//		//인덱스 0부터 값 입력. 인덱스마다 +4000
-//		int [] nums = new int[8002];
-//		for (int i= 0; i<N; i++) {
-//			nums[arr[i]+4000]++;
-//		}
-//		int maxIdx = 0;		
-//		for (int i= 0; i<8002; i++) {
-//			if(nums[i]>maxIdx) {
-//				maxIdx = nums[i];
-//			}
-//		} 
-    
-//		List<Integer> m = new ArrayList<>();
-//		for (int i= 0; i<N; i++) {
-//			m.add(arr[i]);
-//		}
-//		
-//		int maxIdx = 0;		
-//		for (int i= 0; i<8002; i++) {
-//			if(nums[i]>maxIdx) {
-//				maxIdx = nums[i];
-//			}
-//		}
-//
-//		List<Integer> m = new ArrayList<>();
-//		for (int i= 0; i<8002; i++) {
-//			if(nums[i]==maxIdx) {
-//				m.add(i);
-//				if (m.size()==2) {
-//					System.out.println(maxIdx-4000);
-//					break;
-//				}
-//			
-//			} else if(nums[i]<maxIdx) {
-//				System.out.println(maxIdx-4000);
-//			}
-//			
-//		}
+
 		
 		//범위 출력=최대값-최소값
 		System.out.println(arr[N-1]-arr[0]);
