@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
-public class 수_정렬하기_2751 {
+public class solve {
 	
 	public static void main(String[] args) {
     

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class 수_정렬하기_2750 {
+public class solve {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		// 입력받을 숫자의 개수
@@ -20,7 +20,7 @@ public class 수_정렬하기_2750 {
 		for(int i : array) {
 			System.out.println(i);
 		}
-		
+		sc.close();	
 		
 	}
 }

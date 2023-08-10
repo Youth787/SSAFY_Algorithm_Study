@@ -1,5 +1,3 @@
-package backjoon_algorithm_study;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -9,7 +7,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 통계학 {
+public class solve {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 
 //		산술평균 : N개의 수들의 합을 N으로 나눈 값 소수점 이하 첫째 자리에서 반올림한 값을 출력한다.
