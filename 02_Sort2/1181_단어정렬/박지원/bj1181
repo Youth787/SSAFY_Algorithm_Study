@@ -1,0 +1,39 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+import java.util.stream.Collectors;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		List<String> list = new ArrayList<>();
+		for (int i = 0; i < n; i++) {
+			String str = sc.next();
+			list.add(str);
+		}
+		// list중복 제거하는 방법..
+		List<String> newList = list.stream().distinct().collect(Collectors.toList());
+		// 람다식을 사용하여 sort를 해보았 습니다..
+		newList.sort((s1, s2) -> {
+			if (s1.length() == s2.length()) { // 길이가 같을 경우에 오름차순
+				for (int i = 0; i < s1.length(); i++) { // 길이도같고 첫글자도 같을경우에도 오름차순
+					if (s1.charAt(i) != s2.charAt(i)) {
+						return s1.charAt(i) - s2.charAt(i);
+					}
+				}
+				return s1.charAt(1) - s2.charAt(1);
+			} else {
+				return s1.length() - s2.length();
+			}
+		});
+
+		for (String str : newList) {
+			System.out.println(str);
+		}
+	}
+}
+
+//list, array 관련 https://devlogofchris.tistory.com/42
+//map, hashmap 관련 https://devlogofchris.tistory.com/41
+//람다식 관련 http://www.tcpschool.com/java/java_lambda_concept
