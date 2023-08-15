@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 // buffer, stringtokenizer 사용. 
 // hashset 사용. 중복 원소 제거 
 
-public class Main{
+public class Main_timeout {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int T = Integer.parseInt(br.readLine()); // 입력받을 숫자의 개수 
@@ -32,4 +32,4 @@ public class Main{
 	}// main end
 }
 
-
+// 시간초과가 난다.. 
