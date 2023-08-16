@@ -22,13 +22,15 @@ public class Main {
 		for (int i=0; i < N; i ++) {
 			arr[i] = br.readLine();
 		} //일단 arr 안에 단어 넣기까지 끝
-		
+
+		//Comparator 
 		Arrays.sort(arr, new Comparator<String>() { //Arrays.sort 사용(arr에서 새롭게 String형을 비교하겠다)
 			public int compare(String str1, String str2) { //문자열 str1과 str2를 비교하는데
 				if (str1.length() == str2.length()) {
 					return str1.compareTo(str2); //2번 기준 : str1와 str2의 길이가 같다면 사전 순
 				} else {
 					return str1.length() - str2.length(); //1번 기준 : 문자열 길이가 다르다면 길이 순으로
+					//기본으로 sort가 오름차순 정렬인데, str1길이 빼기 str2 길이
 				}
 			}
 		});
@@ -40,12 +42,41 @@ public class Main {
 		for (int i = 1; i<N; i++) { 
 			if (!(arr[i].equals(arr[i-1]))) {
 				sb.append(arr[i]).append('\n');
-			} //1번부터는 그 앞의 인덱스와 중복인 경우를 제외하고 append
+			} //1번부터는 그 앞의 인덱스와 중복인 경우를 제외하고
+			//정렬된 좌표를 append 사용하여 쭉 이어진 문자열로 만듬
 		}
 		
 		System.out.println(sb); //출력
 		
 
-	}
+	}//Main
 
-}
+}//class
+
+//추가내용들
+/* Comparator로 2차원배열 정렬 구현하는 방법
+import java.util.Arrays;
+import java.util.Comparator;
+
+int[][] arrays = { { 0, 3 }, { 2, 6 }, { 1, 9 }, { 1, 8 } };
+
+틀:
+Arrays.sort (정렬할 배열 이름, new Comparator <클래스 타입> 클래스명
+Arrays.sort(arrays, new Comparator<int[]>() {
+  @Override
+  public int compare(int[] o1, int[] o2) {
+    if (o1[0] == o2[0])
+      return o1[1] - o2[1];
+    else
+      return o1[0] - o2[0];
+  }
+});
+*/
+
+/* 람다식으로 2차원배열 정렬 구현하는 방법
+import java.util.Arrays;
+
+int[][] arrays = { { 0, 3 }, { 2, 6 }, { 1, 9 }, { 1, 8 } };
+Arrays.sort(arrays, (o1, o2) -> o1[0] == o2[0] ? o1[1] - o2[1] : o1[0] - o2[0]);
+
+*/
