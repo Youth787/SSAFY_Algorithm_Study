@@ -33,7 +33,6 @@ public class Main {
 
 		StringBuilder sb = new StringBuilder();
 		for(int i = 0 ; i< T ; i++) {
-			//sb.append(dot[i][0] + " " + dot[i][1]).append('\n');
 			sb.append(dot[i][0] + " " + dot[i][1]+'\n');
 		}
 		System.out.println(sb);
