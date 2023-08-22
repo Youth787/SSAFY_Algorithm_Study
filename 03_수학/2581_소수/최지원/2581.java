@@ -5,7 +5,7 @@ import java.util.Scanner;
 //[문제] 자연수 M과 N이 주어질 때 M이상 N이하의 자연 수 중 소수인 것을 모두 골라 소수의 합, 최소값.
 //소수 없을 때 -1출력
 //[입력] 첫 줄 M, 다음에 N (M<=N)
-public class Solution {
+public class Main {
 
 	public static void main(String[] args) {
 		
