@@ -1,0 +1,28 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+
+public class bj2217 {
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int n = Integer.parseInt(br.readLine());
+		int[] rope = new int[n + 1];
+		rope[0] = 0;
+		for (int tc = 1; tc <= n; tc++) { // 로프 받아오기
+			rope[tc] = Integer.parseInt(br.readLine());
+		}
+		Arrays.sort(rope); // 오름차순정렬
+
+		int max = 0; // 최대값 구할 변수
+		int cnt = 1; // 로프의 갯수
+		int weight = 0; // 들 수 있는 중량
+		for (int i = n; i > 0; i--) { // 로프가 1개라면 rope[n]이 최대, 로프가 2개라면 rope[n], rope[n-1]일때가 최대 이런느낌
+			weight = cnt * rope[i]; // 로프가 적을 수록 로프중량이 높아야하고 로프가 많으면 많을수록 로프중량이 적어도됨.
+			cnt++;
+			if (weight > max) max = weight;
+		}
+		System.out.println(max);
+	}
+}
+
