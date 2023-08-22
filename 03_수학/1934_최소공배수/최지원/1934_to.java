@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 //최소공배수
-public class Solution {
+public class Main {
 
 	public static void main(String[] args) {
 		
