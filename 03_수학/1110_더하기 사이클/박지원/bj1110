@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class bj1110 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int origin = sc.nextInt(); // 처음 숫자 받아오기
+		int cycle = 0; // 싸이클 횟수 변수
+		int target = origin; // 처음 숫자를 변경할 수 없으니 변경 가능한 변수를 생성
+		while (true) { 
+			int first = target / 10; // 10의자리수
+			int second = target % 10; // 1의자리수
+			int next = second * 10 + (first + second) % 10; // 다음 숫자를 만든다.
+			cycle++;
+			target = next;
+			if (next == origin) break; // 만약 다음 수랑 처음 숫자가 같다면 while문 끝내기
+		}
+		System.out.println(cycle);
+	}
+}

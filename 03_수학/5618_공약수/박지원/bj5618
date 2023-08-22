@@ -1,0 +1,33 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class bj5618 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		List<Integer> list = new ArrayList<>(); // 공약수 담을 리스트
+		if (n == 2) { // 두개만 숫자가 들어오면
+			int a = sc.nextInt();
+			int b = sc.nextInt();
+			for (int i = 1; i <= Math.min(a, b); i++) { // 1 ~ 두 수중 작은 수까지 반복문돌리기
+				if (a % i == 0 && b % i == 0) { // 두 숫자를 i로 나눴을 때 둘 다 나머지가 0이라면
+					list.add(i); // 리스트에 추가
+				}
+			}
+		} else if (n == 3){ // 3개의 수가 들어온다면
+			int a = sc.nextInt(); // 3개 수를 받아와서
+			int b = sc.nextInt();
+			int c = sc.nextInt();
+			for (int i = 1; i <= Math.min(a, Math.min(b, c)); i++) { // 똑같이 진행
+				if (a % i == 0 && b % i == 0 && c % i == 0) {
+					list.add(i);
+				}
+			}
+		}
+		for (int a: list) {
+			System.out.println(a);
+		}
+		
+	}
+}
