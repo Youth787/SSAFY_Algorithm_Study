@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Main {
@@ -9,19 +10,23 @@ public class Main {
 		int num2 = N/10 + num1; //각 자리수 합
 		int num3 = (num1*10)+num2%10; //일의자리를 서로 붙인다
 		int cnt = 0;
-		while (num3 != N ) {
-			cnt++;
-			num1 = num3%10;
-			num2 = num3/10 +num1;
-			num3 = num1*10 + num2%10;
-			
-			if (num3 == N) {
+		if (num3 == N) {
+			System.out.println(1); //사실 0인 경우 때문에 껴놓은 부분
+		} else {
+			while (num3 != N ) {
 				cnt++;
-				break;
+				num1 = num3%10;
+				num2 = num3/10 +num1;
+				num3 = num1*10 + num2%10;
+
+				if (num3 == N) {
+					cnt++;
+					break;
+				}
+
 			}
-			
+			System.out.println(cnt);
 		}
-		System.out.println(cnt);
 	}
 
 }
