@@ -22,3 +22,7 @@ public static int gcd(int p, int q)  { //이 때 p > q이어야 함)
   }
   return gcd(q, p%q); //q가 0이 아니라면 다시 q와 'p를 q로 나눈 나머지'를 두고 반복
 }
+
+
+최소공배수 : 두 수의 최대공약수 * 두 수의 나머지들
+두 수 곱/최대공약수 
