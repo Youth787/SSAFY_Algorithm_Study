@@ -1,0 +1,32 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+import java.util.HashSet;
+
+public class bj2960 {
+    public static void main(String[] args) throws IOException, NumberFormatException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int n = Integer.parseInt(st.nextToken());
+        int k = Integer.parseInt(st.nextToken());
+
+        int cnt = 0; // k번째에 다가갈 변수
+        HashSet<Integer> set = new HashSet<>();
+        for (int i = 2; i <= n; i++) { // 2~n까지의 정수
+            if (set.contains(i)) continue; // 만약 이미 지웠다면 넘어가고
+            for (int j = i; j <= n; j+=i) { // i의 배수들 반복문
+                if (!set.contains(j)){ // 만약 지우지않았다면
+                    cnt++; // 지우는 횟수 늘려주고
+                }
+                set.add(j); // 지우기(셋에 넣는 것을 지운다고 생각하기)
+                if (cnt == k) { // 만약 지운 횟수와 k가 일치한다면
+                    System.out.println(j); // 수를 출력
+                    break;
+                }
+            }
+
+        }
+    }
+
+}
