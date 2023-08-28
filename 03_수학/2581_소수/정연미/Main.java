@@ -49,7 +49,7 @@ public class Main {
 		if(targetNumber ==1) {
 			return false;
 		}
-		for (int i = 2; i <= Math.sqrt(targetNumber); i++) {
+		for (int i = 1; i <= Math.sqrt(targetNumber); i++) {
 			if (targetNumber % i == 0) {
 				return false;
 			}
