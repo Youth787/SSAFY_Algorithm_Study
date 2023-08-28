@@ -1,0 +1,42 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+import java.util.List;
+import java.util.Arrays;
+import java.util.ArrayList;
+
+public class bj21919 {
+    static boolean isPrime(int n) { // 소수인지 아닌지 체크하는 함수. 맞으면 true 반환
+        if (n <= 1) return false;
+        for (int i = 2; i <= Math.sqrt(n); i++) {
+            if (n % i == 0) return false;
+        }
+        return true;
+    }
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int n = Integer.parseInt(br.readLine());
+        int[] num = new int[n]; // 수열 받아올 배열
+        List<Integer> prime = new ArrayList<>(); // 그 중 소수만 받아올 리스트
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        for (int i = 0; i < n; i++) {
+            num[i] = Integer.parseInt(st.nextToken());
+        }
+        for (int i = 0; i < n; i++) {
+            if (isPrime(num[i]) && !prime.contains(num[i])) prime.add(num[i]); // 소수이고, list에 없다면 list에 추가해주기
+        }
+        long number = 1; // 답은 long 형태로 나올 수 있음
+        if (prime.size() == 0) { // 소수가 없다면 -1 반환
+            System.out.println(-1);
+        } else { //소수가 있다면?! number에 곱해주기!
+            for (int i = 0; i < prime.size(); i++) {
+                number *= prime.get(i);
+            }
+            System.out.println(number);
+        }
+
+
+    }
+}
