@@ -25,7 +25,7 @@ public class bj1644 {
 				sum += prime.get(j);
 				if (sum < n) { // n보다 작으면 계속 더하고
 					continue;
-				} else if (sum == n) { // n 이면 멈춰주고 다시 i++해서 돌리기
+				} else if (sum == n) { // n 이면 ans++하고 멈춰주고 다시 i++해서 돌리기
 					ans++;
         				break;
 				} else if (sum > n) { // n보다 더한게 크면 멈추고 i++해서 다시 돌리기
