@@ -1,4 +1,4 @@
-
+//시간초과
 import java.util.Scanner;
 
 /*
