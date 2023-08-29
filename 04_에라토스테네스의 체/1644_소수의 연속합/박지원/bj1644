@@ -27,7 +27,7 @@ public class bj1644 {
 					continue;
 				} else if (sum == n) { // n 이면 멈춰주고 다시 i++해서 돌리기
 					ans++;
-          break;
+        				break;
 				} else if (sum > n) { // n보다 더한게 크면 멈추고 i++해서 다시 돌리기
 					break;
 				}
