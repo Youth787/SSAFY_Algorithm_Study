@@ -61,3 +61,14 @@ public class Main {
 	} //main
 
 } //class
+
+/*
+   public static int isPrime(int k) {
+		for (int i = 2; i<=(int)Math.sqrt(k); i++) {  //Math.sqrt = 제곱근 구하기
+	      if (k % i == 0) {
+	          return 0;
+	      }
+		}
+		return 1;
+	} //isPrime
+ */
