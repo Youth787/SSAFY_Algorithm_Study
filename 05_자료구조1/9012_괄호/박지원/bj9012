@@ -1,0 +1,33 @@
+import java.util.Scanner;
+import java.util.Stack;
+
+public class bj9012 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		sc.nextLine();
+		for (int tc = 1; tc <= t; tc++) {
+			String str = sc.nextLine();
+			String ans = "NO";
+			Stack<Character> stack = new Stack<>();
+			for (int i = 0; i < str.length(); i++) {
+				char c = str.charAt(i);
+				if (c == '(') { // (이면 걍 넣어줘
+					stack.add(c);
+				} else { // )이면 ?
+					if (stack.empty()) { // 넣기도전에 스택이 비어있다? 그럼 넣어주고 반복문멈춰
+						stack.add(c);
+						break;
+					}
+					if (stack.peek() == '(') { // 전에 마지막이 (이면 ?
+						stack.pop(); // 걍 그걸 빼
+					} else { // 전이 )야? 그럼 멈춰
+						break;
+					}
+				}
+			}
+			if (stack.empty()) ans = "YES";
+			System.out.println(ans);
+		}
+	}
+}
