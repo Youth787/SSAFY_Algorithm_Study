@@ -1,0 +1,43 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.StringTokenizer;
+
+public class bj10866 {
+	public static void main(String[] args) throws NumberFormatException, IOException { // br, sb활용해서 시간초과해결
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
+		int n = Integer.parseInt(br.readLine());
+		Deque<Integer> q = new LinkedList<>();  // deque로 구현해보자!!
+		for (int i = 0; i < n; i++) {
+			StringTokenizer st = new StringTokenizer(br.readLine());
+			String str = st.nextToken();
+			if (str.equals("pop_front")) { // 앞에꺼 없애
+				if (q.isEmpty()) sb.append(-1).append("\n");
+				else sb.append(q.remove()).append("\n");
+			} else if (str.equals("pop_back")) { // 뒤에꺼 없애
+				if (q.isEmpty()) sb.append(-1).append("\n");
+				else sb.append(q.removeLast()).append("\n");
+			} else if (str.equals("size")) { // 사이즈
+				sb.append(q.size()).append("\n");
+			} else if (str.equals("empty")) { // 비었니?
+				if (q.isEmpty()) sb.append(1).append("\n");
+				else sb.append(0).append("\n");
+			} else if (str.equals("front")) { // 앞에꺼출력
+				if (q.isEmpty()) sb.append(-1).append("\n");
+				else sb.append(q.peek()).append("\n");
+			} else if (str.equals("back")) { // 뒤에꺼출력
+				if (q.isEmpty()) sb.append(-1).append("\n");
+				else sb.append(q.peekLast()).append("\n"); 
+			} else if (str.equals("push_front")){ // 앞에 넣으셈
+				q.addFirst(Integer.parseInt(st.nextToken()));
+			}else if (str.equals("push_back")){ // 뒤에 넣으셈
+				q.addLast(Integer.parseInt(st.nextToken()));
+			}
+		}
+		System.out.println(sb);
+	}
+}
+/* Deque를 사용하면 first, last를 붙여서 함수 사용가능!! 앞 뒤로 값을 넣거나 뺄 수 있고 확인도 가능!! 좋은디? */
