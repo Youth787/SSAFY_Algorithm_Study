@@ -1,0 +1,39 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.LinkedList;
+import java.util.StringTokenizer;
+
+public class bj18258{
+	public static void main(String[] args) throws NumberFormatException, IOException { // 시간초과떠서 br, sb활용
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
+		int n = Integer.parseInt(br.readLine());
+		LinkedList<Integer> q = new LinkedList<>(); //q를 queue라고 안하고 링크드리스트로 받아옴(마지막인덱스출력하려고)
+		for (int i = 0; i < n; i++) {
+			StringTokenizer st = new StringTokenizer(br.readLine());
+			String str = st.nextToken();
+			if (str.equals("pop")) { // 팝
+				if (q.isEmpty()) sb.append(-1).append("\n");
+				else sb.append(q.remove()).append("\n");
+			} else if (str.equals("size")) { //사이즈
+				sb.append(q.size()).append("\n");
+			} else if (str.equals("empty")) { // 엠티
+				if (q.isEmpty()) sb.append(1).append("\n");
+				else sb.append(0).append("\n");
+			} else if (str.equals("front")) { // 맨 앞 값
+				if (q.isEmpty()) sb.append(-1).append("\n");
+				else sb.append(q.peek()).append("\n");
+			} else if (str.equals("back")) { // 맨 뒷 값
+				if (q.isEmpty()) sb.append(-1).append("\n");
+				else sb.append(q.peekLast()).append("\n"); 
+			} else { // 푸시
+				q.add(Integer.parseInt(st.nextToken()));
+			}
+		}
+		System.out.println(sb);
+	}
+}
+
+/*  Queue<Integer> q 는 마지막 값을 가져오는 함수가 없지만
+LinkedList<Integer> q는 마지막 값을 가져오는 q.peekLast()가 존재한다!! */
