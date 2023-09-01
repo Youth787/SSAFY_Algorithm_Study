@@ -1,0 +1,47 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayDeque;
+import java.util.Deque;
+import java.util.StringTokenizer;
+
+public class bj2346 {
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
+		
+		int n = Integer.parseInt(br.readLine());
+		Deque<int[]> q = new ArrayDeque<>(); // Deque사용(LinkedList쓰면 메모리초과, 순차적인 데이터 추가 및 삭제에는 ArrayList를 사용하는 것이 더 효과적이다.)
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		
+		int move = Integer.parseInt(st.nextToken());
+		sb.append("1 ");
+		
+		for (int i = 2; i <= n; i++) { // q는 배열로 받아오기 (인덱스, 쪽지 값)
+			q.add(new int[] {i, Integer.parseInt(st.nextToken())});
+		}
+
+		
+		while (!q.isEmpty()) { // q가 빌때까지 진행
+			if (move < 0) { // 진행방향 바꾸기(뒤값 지우고 앞에 추가하기)
+				for (int i = move; i < -1; i++) {
+					q.addFirst(q.pollLast());
+				}
+				int[] j = q.removeLast();
+				move = j[1];
+				sb.append(j[0]).append(" ");
+			} else { // 그대로 진행
+				for (int i = 1; i < move; i++) {
+					q.add(q.pollFirst());
+				}
+				int[] j = q.removeFirst();
+				move = j[1];
+				sb.append(j[0]).append(" ");
+			}
+			
+		}
+		
+		
+		System.out.println(sb);
+	}
+}
