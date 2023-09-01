@@ -1,0 +1,32 @@
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+import java.util.Scanner;
+
+public class bj1158 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		int k = sc.nextInt();
+		List<Integer> list = new ArrayList<>();
+		Queue<Integer> q = new LinkedList<>();
+		for (int i = 1; i <= n; i++) { // q에 1~n숫자 넣어주기
+			q.add(i);
+		}
+		while (!q.isEmpty()) { // 큐가 빌때까지 반복 또 반복
+			for (int i = 0; i < k - 1; i++) { // k-1번 큐에서 제거해주고 추가해주기
+				int a = q.remove();
+				q.add(a);
+			}
+			list.add(q.remove()); // 큐에서 제거되는 숫자(다시 안 넣어줄 숫자) 리스트에 넣어주기
+		}
+		System.out.print("<"); // 리스트 출력
+		for (int i = 0; i < list.size() - 1; i++) {
+			System.out.print(list.get(i) + ", ");
+		}
+		System.out.print(list.get(list.size() - 1) + ">");
+		
+	}
+
+}
