@@ -1,0 +1,31 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class bj1010 {
+	static int n;
+	static int m;
+	static int[][] dp = new int[30][30]; // n m최대 30개
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int t = Integer.parseInt(br.readLine());
+		for (int tc = 1; tc <= t; tc++) {
+			StringTokenizer st = new StringTokenizer(br.readLine());
+			n = Integer.parseInt(st.nextToken());
+			m = Integer.parseInt(st.nextToken());
+			
+			System.out.println(bridge(m, n)); // m개에서 n개선택!!!
+			
+		}
+	}
+	static int bridge(int n, int m) { // n개에서 m개 선택해라 /조합은 순서를 신경쓰지않음.
+		if (dp[n][m] > 0) return dp[n][m]; // 이미선택된 다리라면 리턴
+		
+		if (n == m || m == 0) return dp[n][m] = 1; // 될 수 있는 경우의 수를 1로 반환해서
+		
+		return dp[n][m] = bridge(n - 1, m - 1) + bridge(n - 1, m); // 계속 더해간다
+	}
+}
+
+//참고 블로그 https://st-lab.tistory.com/159#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
