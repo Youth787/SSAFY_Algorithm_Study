@@ -1,0 +1,23 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class bj9655 {
+    static int n;
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        n = Integer.parseInt(br.readLine());
+        //n=1 > 상근이김
+        //n=2 > 창영이김
+        //n=3 > 상근이김
+        //n=4 > 상근1 or 3, 창영 3or 1이므로 창영이김
+        //n=5 > 상근1, 창영1or3, 상근1 / 상근3, 창영1, 상근1 상근이김
+        //n=6 > 상근3, 창영3 창영이김
+        //n=7 > 상근1, 창영1, 상근3, 창영1, 상근1 상근이김
+        //n=8 > 상근1, 창영1, 상근1, 창영3, 상근1, 창영1
+        // 고로 n이 짝이면 창영 홀수면 상근이 이김
+        if (n % 2 == 0) System.out.println("CY");
+        else System.out.println("SK");
+        
+    }
+}
