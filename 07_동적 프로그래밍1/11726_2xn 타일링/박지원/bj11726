@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class bj11726 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		int[] arr = new int[1001];
+		arr[0] = 0;
+		arr[1] = 1;
+		arr[2] = 2;
+		for (int i = 3; i <= n; i++) { // 규칙을 구하면 쉬운문제!
+			arr[i] = (arr[i - 2] + arr[i - 1] ) % 10007;
+		}
+		System.out.println(arr[n]);
+	}	
+}
+
+//n = 3일때는 3개
+//n = 4일때는 5개
+//n = 5일때는 8개
+//n = 6일때는 13개 
+//이런식으로 앞에꺼와 그전꺼를 더하는 문제! fibo로 사용해도 되지만 걍 저렇게 구해도 시간초과 안뜸
