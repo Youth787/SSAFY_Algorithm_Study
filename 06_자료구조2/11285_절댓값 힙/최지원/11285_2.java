@@ -24,15 +24,14 @@ public class Main {
 		
    
 		//람다식 표현 (o1, o2) -> Math.abs(o1) == Math.abs(o2) ? Integer.compare(o1, o2) : Integer.compare(Math.abs(o1), Math.abs(o2))
-    // o1,o2라는 값이 들어왔을 때, 둘의 절댓값이 같다면 둘 자체를 비교할 것이고, 절댓값이 다르다면 둘의 절대값끼리 비교를 하여서 우선순위를 정하겠다
+    		// o1,o2라는 값이 들어왔을 때, 둘의 절댓값이 같다면 둘 자체를 비교할 것이고, 절댓값이 다르다면 둘의 절대값끼리 비교를 하여서 우선순위를 정하겠다
 	
 		//삽입은 add(없으면 예외)나 offer(없으면 null 반환), 루트 반환 및 삭제는 poll이나 remove
 		
-		
-		// 절댓값이 같은 경우 그 중에서 작은 값으로 오름차순 정렬하고, 아닌 경우 절댓값이 작은 순서로 오름차순 정렬
-        PriorityQueue<Integer> heap = new PriorityQueue<>((o1, o2) ->
-        	//o1의 절대값이 o2의 절대값과 같다? (true면) o1과 o2를 비교 : (false면) o1와 o2의 절대값끼리 비교
-            Math.abs(o1) == Math.abs(o2) ? Integer.compare(o1, o2) : Integer.compare(Math.abs(o1), Math.abs(o2))
+		//기본적으로 Priority Queue 는 오름차순 정렬. 추가해야 할 것은 절대값끼리 비교하는 부분.
+        	PriorityQueue<Integer> heap = new PriorityQueue<>((o1, o2) ->
+        	//o1의 절대값이 o2의 절대값과 같다? (true면) o1과 o2를 비교하여 오름차순 정렬 : (false면) o1와 o2의 절대값끼리 비교하여 오름차순 정렬
+            	Math.abs(o1) == Math.abs(o2) ? Integer.compare(o1, o2) : Integer.compare(Math.abs(o1), Math.abs(o2))
         );
 		
         for (int i = 0; i < n; i++) {
