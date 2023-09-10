@@ -1,0 +1,90 @@
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class bj11285 {
+    static int n;
+    static int[] arr; // 트리 배열
+    static int idx; // 트리의 사이즈(배열의 마지막 인덱스)를 표현할 변수
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        n = Integer.parseInt(br.readLine()); // n개의 숫자를 입력받겠습니다
+        arr = new int[100001]; // n이 100000개 까지니까 +1해서 배열을 미리 만들어둠(배열엔 0이 담긴 상태) -> 0은 사용안함. 1부터 사용할거임
+        idx = 0; // 트리의 사이즈
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < n; i++) {
+            int x = Integer.parseInt(br.readLine());
+            if (x == 0) { // 들어온 숫자가 0이라면 절대값의 최소값을 출력한 뒤 삭제해주기
+                sb.append(arr[1]).append("\n"); // 트리의 최소값은 항상 arr[1]입니다. 그렇게 만들꺼거든요.
+                remove(); // 그리고 삭제해줄 것입니다.
+            } else { // 0이아닌 다른 숫자가 들어온다면 트리에 추가해줄 것입니다.
+                add(x);
+            }
+        }
+        System.out.println(sb);
+    }
+
+    static void swap(int a, int b) { // 단순 배열 값 교환 함수입니다.
+        int temp = arr[a];
+        arr[a] = arr[b];
+        arr[b] = temp;
+    }
+    static void remove() { // 0이 들어왔을 때 삭제해주는 함수입니다.
+        if (idx == 0) return; // 만약 트리의 사이즈가 0이라면 안합니다.
+        arr[1] = arr[idx]; // 배열의 첫번째 값을 삭제할 것이기 때문에 마지막 값을 트리의 탑(배열의 첫번째 값)으로 놓아주고
+        arr[idx--] = 0; // 마지막 값은 삭제해주며 트리의 사이즈를 하나 줄입니다.
+        int cur = 1; // 내가지금 현재 볼 인덱스를 의미하는 변수를 설정해주고요
+        while (cur * 2 <= idx) { // 2씩 곱해줄건데, 트리의 숫자보다 크면 안되잖아요 ? 그러니 그 전까지만 반복할거에요
+            int left = cur * 2; // 나의 왼쪽자식과 오른쪽자식을 설정해주고
+            int right = left + 1;
+            if (Math.abs(arr[cur]) < Math.abs(arr[left]) && Math.abs(arr[cur]) < Math.abs(arr[right])) break; // 만약 부모가 왼쪽, 오른쪽자식 둘 다 보다 절대값이 작다면 멈춰줍니다.
+            if (arr[right] == 0) {
+                if (Math.abs(arr[cur]) > Math.abs(arr[left])){
+                    swap(cur, left);
+                } else if (Math.abs(arr[cur]) == Math.abs(arr[left])) {
+                    if (arr[cur] > arr[left]) swap(cur, left);
+                    else break;
+                } else break;
+            } else if (Math.abs(arr[left]) > Math.abs(arr[right])) { // 아니라면 왼쪽 자식과 오른쪽자식 둘을 비교해서 절대값이 작은값과 부모를 바꿔주고, 부모를 절대값이 작은값의 인덱스으로 바꿔줍니다.
+                swap(cur, right);
+                cur = right;
+            } else if (Math.abs(arr[left]) == Math.abs(arr[right])) {
+                if (arr[left] < arr[right]) {
+                    swap(cur, left);
+                    cur = left;
+                }
+                else {
+                    swap(cur, right);
+                    cur = right;
+                }
+            } else {
+                swap(cur, left);
+                cur = left;
+            }
+        } // 계속 반복하다보면 arr[1](원래는 arr[idx]였던 것)은 자기자리를 찾아갈 것이고, arr[1]에는 결국 절대값이 제일 작은 값이 들어가게 됩니다.
+    }
+
+    static void add(int x) { // 자연수가 들어왔을 때 추가해주는 함수입니다.
+        arr[++idx] = x; // 배열의 마지막(트리의 마지막)에 숫자를 추가해주면서 동시에 사이즈를 늘려줍니다.
+        int cur = idx; // 여기서는 현재의 인덱스를 마지막 인덱스로 해줄 것입니다.
+
+        while (cur > 1 && Math.abs(arr[cur/2]) >= Math.abs(arr[cur])) { // 그래서 만약 현재 인덱스가 1보다 작거나, 내 부모가 될 노드가 나보다 절대값이 작다면 멈춰주는 반복문을 돌립니다.
+           if (Math.abs(arr[cur/2]) == Math.abs(arr[cur])) { // 만약 절대값이 같다면?
+               if (arr[cur/2] > arr[cur]) { // 둘의 값을 비교해서 작은 값을 위로 올려준다
+                   swap(cur/2, cur);
+                   cur /= 2;
+               } else { // 아니라면 걍 멈춰주세용
+                   break;
+               }
+           } else { // 절대값이 같지 않고 부모의 절대값이 크다면 ?
+               swap(cur/2, cur);
+               cur /= 2;
+           }
+        }
+
+        // 결국 반복문을 돌리다보면 값들이 자기자리를 찾아가는 모습을 발견 할 수 있습니다.
+    }
+
+}
