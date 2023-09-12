@@ -1,4 +1,16 @@
 //죄쏭해요....혼자 못풀겠어서 공부했슴다
+
+/*
+풀이들 공통점
+1) dp[i] 의 의미 = i명의 고객을 늘리기 위한 최소 비용
+(최소 c명의 고객을 늘릴 수 있는 최소 비용은 dp[c~c+100] 범위에서의 최소값)
+
+2) 1차원 배열 dp의 크기 = c+101 (한 도시에서 얻을 수 있는 고객 수가 최대 100이기 때문)
+
+
+*/
+
+
 // 1번 풀이( https://dingdingmin-back-end-developer.tistory.com/entry/%EB%B0%B1%EC%A4%80-1106-%EC%9E%90%EB%B0%94-java-%ED%98%B8%ED%85%94 )
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -75,5 +87,126 @@ class Main {
         }
         System.out.println(result);
         br.close();
+    }
+}
+
+//-----------------------------
+// 3번 풀이 ( https://jyeonnyang2.tistory.com/m/318 )
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.StringTokenizer;
+
+public class Main {
+
+	public static void main(String[] args) throws IOException {
+
+		// 입력
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		int c = Integer.parseInt(st.nextToken());
+		int n = Integer.parseInt(st.nextToken());
+		
+		// 각 도시에서 비용으로 얻을 수 있는 고객수는 100명 이하
+		// 적어도 C명을 늘여야하므로 그보다 더 큰 고객을 들였을 때의 비용이 더 작을 수 있음
+		int dp[] = new int[c+100]; // i명의 고객을 늘리기 위한 최소 비용
+		Arrays.fill(dp, Integer.MAX_VALUE); //int 최대값으로 dp 초기화
+		dp[0] = 0;
+		
+		for(int i=0; i<n; i++) {
+			st = new StringTokenizer(br.readLine());
+			int cost = Integer.parseInt(st.nextToken());
+			int customer = Integer.parseInt(st.nextToken());
+			
+   //c명보다 더 큰 값에서 최소비용이 들 경우를 고려하기 위해, 해당 도시의 (비용으로 늘릴 수 있는) 고객 수부터~각 도시가 확보할 수 있는 최대 100명의 고객까지
+			for(int j=customer; j<c+100; j++) {
+				// 돈에 정수배 만큼 투자할 수 있으므로
+				// cost(현재 비용) + dp[j-customer] 로 j명의 고객을 늘린다.
+				if (dp[j-customer] != Integer.MAX_VALUE) // 무한이라면 아직 초기화 그대로 값이므로 고객을 확보할 수 없다
+					dp[j] = Math.min(dp[j], cost+dp[j-customer]);
+			}
+		}
+  //여기까지 모든 경우의 최소비용을 구했고
+		
+  //여기부터 문제에서 원하는 값을 찾음
+		int answer = Integer.MAX_VALUE;
+		for(int i=c; i<c+100; i++) {// 최소 c명을 확보해야 하므로 dp[c]부터 탐색
+			answer = Math.min(answer, dp[i]);
+		}
+		System.out.println(answer);
+		
+	}
+
+}
+
+//----------------------
+// 풀이 4 ( https://dev-bok.tistory.com/m/9 )
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.StringTokenizer;
+
+public class Main {
+
+    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    static StringTokenizer st;
+    static MarketingCost[] city;
+    static int result = 987654321;
+    static int[] array;
+    static int N, C;
+
+    public static void main(String[] args) throws IOException {
+
+        br = new BufferedReader(new InputStreamReader(System.in));
+
+        st = new StringTokenizer(br.readLine());
+
+        N = Integer.parseInt(st.nextToken());
+        C = Integer.parseInt(st.nextToken());
+
+        city = new MarketingCost[C];
+        array = new int[1101];
+        Arrays.fill(array, 987654321);
+        array[0] = 0;
+
+        for (int i = 0; i < C; i++) {
+            st = new StringTokenizer(br.readLine());
+            city[i] = new MarketingCost(Integer.parseInt(st.nextToken()), Integer.parseInt(st.nextToken()));
+        }
+
+        for (int i = 1; i <= N; i++) {
+            for (MarketingCost m : city) {
+                int index = 0;
+                if (i - m.person < 0){
+                    index = 0;
+                }else{
+                    index = i - m.person;
+                }
+
+                array[i] = Math.min(array[index] + m.cost, array[i]);
+            }
+        }
+
+        for (int i = N; i <= N; i++) {
+            result = Math.min(result, array[i]);
+        }
+
+        System.out.println(result);
+    }
+
+}
+
+class MarketingCost {
+    int cost;
+    int person;
+
+    public MarketingCost(int cost, int person) {
+        this.cost = cost;
+        this.person = person;
     }
 }
