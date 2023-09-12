@@ -1,0 +1,36 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.PriorityQueue;
+import java.util.Comparator;
+
+public class bj1655 {
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int n = Integer.parseInt(br.readLine());
+		PriorityQueue<Integer> minHeap = new PriorityQueue<>((o1, o2) -> o1 - o2);
+		PriorityQueue<Integer> maxHeap = new PriorityQueue<>((o1, o2) -> o2 - o1);
+  //PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+  //PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Comparator.reverseOrder()); 로도 가능
+		StringBuilder sb = new StringBuilder();
+		for (int i = 0; i < n; i++) {
+			int num = Integer.parseInt(br.readLine());
+			if (minHeap.size() == maxHeap.size()) maxHeap.offer(num);
+			else minHeap.offer(num);
+			
+			if (!minHeap.isEmpty() && !maxHeap.isEmpty())
+				if (minHeap.peek() < maxHeap.peek()) {
+					int temp = minHeap.poll();
+					minHeap.offer(maxHeap.poll());
+					maxHeap.offer(temp);
+				}
+			
+			sb.append(maxHeap.peek()).append("\n");
+		}
+		System.out.print(sb);
+		
+	}
+}
+
+//https://dragon-h.tistory.com/6
+//https://gh402.tistory.com/32
