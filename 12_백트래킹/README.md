@@ -88,7 +88,7 @@
   <tr>
     <td align="center">10</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">15664</td>
     <td align="center">N과 M (10)</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/15664">바로가기</a></td>
@@ -96,7 +96,7 @@
   <tr>
     <td align="center">11</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">15665</td>
     <td align="center">N과 M (11)</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/15665">바로가기</a></td>
@@ -104,7 +104,7 @@
   <tr>
     <td align="center">12</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">15666</td>
     <td align="center">N과 M (12)</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/15666">바로가기</a></td>
