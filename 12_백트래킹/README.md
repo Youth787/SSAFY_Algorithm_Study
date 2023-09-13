@@ -88,18 +88,34 @@
   <tr>
     <td align="center">10</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
-    <td align="center">1300</td>
-    <td align="center">K번째 수</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1300">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">15664</td>
+    <td align="center">N과 M (10)</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/15664">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">11</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
-    <td align="center">7453</td>
-    <td align="center">합이 0인 네 정수</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/7453">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">15665</td>
+    <td align="center">N과 M (11)</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/15665">바로가기</a></td>
+  </tr>
+  <tr>
+    <td align="center">12</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">15666</td>
+    <td align="center">N과 M (12)</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/15666">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">13</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">15663</td>
+    <td align="center">N-Queen</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/9663">바로가기</a></td>
   </tr>
 </table>
 
