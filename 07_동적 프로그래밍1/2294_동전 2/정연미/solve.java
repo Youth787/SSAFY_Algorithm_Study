@@ -18,7 +18,7 @@ public class 동전2 {
 		int[] money = new int[n];
 		int[] dp = new int[k+1];
 		
-		Arrays.fill(dp, Integer.MAX_VALUE-1);
+		Arrays.fill(dp, 987654321);
 		dp[0] = 0;
 		
 		for(int i =0; i<n; i++) {
@@ -30,9 +30,8 @@ public class 동전2 {
 				dp[j] = Math.min(dp[j], dp[j-money[i]]+1); 
 			}
 		}
-		System.out.println(dp[k]==Integer.MAX_VALUE-1? -1:dp[k]);
+		System.out.println(dp[k]==987654321? -1:dp[k]);
 	}// main end 
 }
 
-// 100001을 integer.max_value로 설정하면 틀렸습니다가 뜬다.
-// integer.max_value-1은 괜찮음 
+
