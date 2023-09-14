@@ -18,7 +18,7 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg"></td>
     <td align="center">3029</td>
     <td align="center">경고</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/3029">바로가기</a></td>
@@ -26,42 +26,43 @@
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
-    <td align="center">17829</td>
-    <td align="center">222_풀링</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/17829">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg"></td>
+    <td align="center">11720</td>
+    <td align="center">숫자의 합 </td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/11720">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
-    <td align="center">18222</td>
-    <td align="center">투에-모스 문자열</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/18222">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg"></td>
+    <td align="center">11365</td>
+    <td align="center">!밀비 급일</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/11365">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
-    <td align="center">2447</td>
-    <td align="center">별 찍기 - 10</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2447">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">9046</td>
+    <td align="center">복호화</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/9046">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
-    <td align="center">1992</td>
-    <td align="center">쿼드트리</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1992">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"></td>
+    <td align="center">10798</td>
+    <td align="center">세로읽기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/10798">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">06</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
-    <td align="center">1074</td>
-    <td align="center">Z</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1074">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">20154</td>
+    <td align="center">이 구역의 승자는 누구야?!
+</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/20154">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">07</td>
