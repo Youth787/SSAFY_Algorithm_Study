@@ -42,7 +42,7 @@
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg"></td>
     <td align="center">9046</td>
     <td align="center">복호화</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/9046">바로가기</a></td>
@@ -67,21 +67,37 @@
   <tr>
     <td align="center">07</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">2448</td>
-    <td align="center">별 찍기 - 11
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">1316</td>
+    <td align="center">그룹 단어 체커
 </td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2448">바로가기</a></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1316">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">08</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
-    <td align="center">4256</td>
-    <td align="center">트리</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/4256">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">1181</td>
+    <td align="center">단어 정렬</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1181">바로가기</a></td>
   </tr>
-
+  <tr>
+    <td align="center">09</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">4659</td>
+    <td align="center">비밀번호 발음하기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/4659">바로가기</a></td>
+  </tr>
+  <tr>
+    <td align="center">10</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg"></td>
+    <td align="center">16171</td>
+    <td align="center">나는 친구가 적다 (Small)
+</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/16171">바로가기</a></td>
+  </tr>
 </table>
 
 <br/><br/>
