@@ -23,7 +23,7 @@ public class Main {
 	static int[][] map;
 
 	static int N, M;
-	static int min = -1;
+	static int max = -1;
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -77,7 +77,7 @@ public class Main {
 
 					// 제곱수 판별
 					if (Math.pow(root, 2) == sqr)
-						min = Math.max(min, sqr);
+						max = Math.max(min, sqr);
 
 					x += i;
 					y += j;
