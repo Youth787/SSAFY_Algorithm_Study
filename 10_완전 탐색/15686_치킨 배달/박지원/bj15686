@@ -1,0 +1,79 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+class Point { // 집과 치킨집을 포인트로 만들어서 쓸 것입니다.
+	int a;
+	int b;
+	
+	Point(int a, int b) {
+		this.a = a;
+		this.b = b;
+	}
+}
+
+public class bj15686 {
+	static int n, m;
+	static int[][] map;
+	static ArrayList<Point> home = new ArrayList<>();
+	static ArrayList<Point> chicken = new ArrayList<>();
+	static boolean[] open;
+	static int ans;
+	
+
+	static int get_distance(int x1, int x2, int y1, int y2) { // 좌표 거리 구하는 함수
+		return Math.abs(x1 - x2) + Math.abs(y1 - y2);
+	}
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		n = Integer.parseInt(st.nextToken());
+		m = Integer.parseInt(st.nextToken());
+		map = new int[n][n];
+		for (int i = 0; i < n; i++) {
+			st = new StringTokenizer(br.readLine());
+			for (int j = 0; j < n; j++) { // 맵 받아오면서 집과 치킨집 좌표를 구해준다.
+				map[i][j] = Integer.parseInt(st.nextToken());
+				if (map[i][j] == 1) {
+					home.add(new Point(i, j));
+				} else if (map[i][j] == 2) {
+					chicken.add(new Point(i, j));
+				}
+			}
+		}
+		ans = Integer.MAX_VALUE;
+		open = new boolean[chicken.size()]; // 치킨집 갯수 만큼 boolean 을 만들어서 open할 거면 true, 닫을거면false로 한다.
+		DFS(0, 0);
+
+		System.out.println(ans);
+	}
+	static void DFS(int start, int cnt) {
+		if (cnt == m) { // 만약 치킨집 개수가 최대라면?!
+			int res = 0;
+			for (int i = 0; i < home.size(); i++) { // 이제 집들과 치킨집들 거리 비교 해야돼
+				int temp = Integer.MAX_VALUE;
+				
+				//어떤 집과 치킨집 중 open한 치킨집의 모든 거리를 비교한다
+				//그 중 최소 거리를 구한다
+				for (int j = 0; j < chicken.size(); j++) {
+					if (open[j]) {
+						int dist = get_distance(home.get(i).a, chicken.get(j).a, home.get(i).b, chicken.get(j).b); // 내집, 치킨집거리변수
+						temp = Math.min(temp,  dist); // 지금 치킨집과 저번 치킨집 거리중 작은 값을 구해
+					}
+				}
+				res += temp; // 작은값 구한걸 res에 계속 더해주고 (res는 집-치킨집 거리들의 합!)
+			}
+			ans = Math.min(ans, res); // res구했으면 최종 답안인 ans랑 계속계쏙 최솟값 비교해서 넣어주기
+			return; // 최대값이니까 더 할거없어 그만.
+		}
+
+		for (int i = start; i < chicken.size(); i++) { // 치킨집 개수 최대아니야?! 그러면 하나더 증설해!
+			open[i] = true;
+			DFS(i + 1, cnt + 1);
+			open[i] = false;
+		}
+	}
+}
