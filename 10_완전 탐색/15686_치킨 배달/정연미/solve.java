@@ -43,14 +43,12 @@ public class 치킨배달 {
 			// 리스트라서 한번 담긴 값들이 밀려서 누적되기 때문에
 			// sidx 이후에 담긴 값들은 지워야한다.
 			
-			
 			for(int i=0; i<chicken_select.size(); i++) {
 				System.out.println(chicken_select.get(i).x+" "+chicken_select.get(i).y);
 				}
 				System.out.println();
 				// 문제를 찾음.. 
 				// 리스트라서 값이 누적된다. 
-			
 			
 			for (int i = 0; i < N; i++) {
 				for (int j = 0; j < N; j++) {
@@ -78,12 +76,9 @@ public class 치킨배달 {
 		} // 기저 조건 종료
 
 		// 재귀파트
-		
 		chicken_select.add(sidx, chicken_home.get(idx)); // sidx인덱스에 idx인덱스에 해당하는 치킨집의 좌표를 담는다.
-		
 		ncr(idx + 1, sidx + 1); // 뽑은거
 		ncr(idx + 1, sidx); // 안뽑은거
-	}
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
