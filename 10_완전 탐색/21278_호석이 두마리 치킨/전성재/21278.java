@@ -1,101 +1,81 @@
-// 플로이드 와샬 알고리즘 = a->c로 가는 값보다 b를 거쳐 a->b + b->c 값이 더 작다면 작은 값을 택하는 알고리즘.
-//바로 위의 로직은 하나의 노드를 거쳐 가지만(a->b->c),
-//해당 로직이 반복되면 수많은 노드를 거쳐도 (a->b->c->d->e)
-//시작노드와 도착노드만 남게 된다 (a->e)
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+//플로이드 와샬 알고리즘 = a->c로 가는 값보다 b를 거쳐 a->b + b->c 값이 더 작다면 작은 값을 택하는 알고리즘.
+//바로 위의 로직은 하나의 노드를 거쳐 가지만(a->b->c),
+//해당 로직이 반복되면 수많은 노드를 거쳐도 (a->b->c->d->e)
+//시작노드와 도착노드만 남게 된다 (a->e)
+
 public class Main {
-	static int[][] floyd;
-	static int N, M;
+	static int n, m;
+	static int[][] map;
 
 	public static void main(String[] args) throws IOException {
+
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
 		StringTokenizer st = new StringTokenizer(br.readLine());
-		N = Integer.parseInt(st.nextToken());
-		M = Integer.parseInt(st.nextToken());
+		n = Integer.parseInt(st.nextToken());
+		m = Integer.parseInt(st.nextToken());
 
-		floyd = new int[N][N];
+		map = new int[n + 1][n + 1];
 
-		for (int i = 0; i < N; i++) {
-			for (int j = 0; j < N; j++) {
-				floyd[i][j] = 101; // 점의 최대 개수는 100개이므로, 점과 점은 아무리 멀어도 거리 99가 최대임.
+		for (int i = 1; i <= n; i++) {
+			for (int j = 1; j <= n; j++) {
+				if (i == j)
+					continue;
+				// 점의 최대 개수는 100개이므로, 점과 점은 아무리 멀어도 거리 99가 최대임.
 				// 즉, 거리 101로 해주는 것은 다익스트라의 Integer.MAX_VALUE와 같음.
+				map[i][j] = 101;
 			}
 		}
-		// 존재하는 길이 없다. 를 101 로 표현.
-		// 있으면, 거리는 전부 1이니 해당 값 넣기
 
-		for (int i = 0; i < M; i++) {
+		// 간선 정보 입력 받기
+		for (int i = 0; i < m; i++) {
 			st = new StringTokenizer(br.readLine());
 			int a = Integer.parseInt(st.nextToken());
 			int b = Integer.parseInt(st.nextToken());
-			floyd[a - 1][b - 1] = 1;
-			floyd[b - 1][a - 1] = 1;
-		}
-		// 초깃값.
 
-		for (int i = 0; i < N; i++) {
-			for (int j = 0; j < N; j++) {
-				if (i == j)
-					continue;
-				for (int k = 0; k < N; k++) {
-					if (i == k || j == k)
-						continue;
-
-					if (floyd[j][k] > floyd[j][i] + floyd[i][k])
-						floyd[j][k] = floyd[j][i] + floyd[i][k];
-
-				}
-			}
+			map[a][b] = map[b][a] = 1;
 		}
 
-		// 플로이드 워셜로 각 점에서 각 점까지의 거리의 최솟값 다 채운 후
-		// 플로이드 워셜 로직 = a->c로 가는 값보다 b를 거쳐 a->b + b->c 값이 더 작다면 작은 값을 택하는 알고리즘.
+		// 플로이드 와샬 알고리즘
+		for (int k = 1; k <= n; k++)
+			for (int i = 1; i <= n; i++)
+				for (int j = 1; j <= n; j++)
+					map[i][j] = Math.min(map[i][j], map[i][k] + map[k][j]);
 
+		int point1 = Integer.MAX_VALUE;
+		int point2 = Integer.MAX_VALUE;
 		int min = Integer.MAX_VALUE;
-		int n1 = 0;
-		int n2 = 0;
 
-		for (int i = 0; i < N; i++) {
-			for (int j = 0; j < N; j++) {
-				if (i == j)
-					continue;
-				// 두 점을 고른다. (1, 2부터 N-1, N까지)
-
-				int now = sum(i, j);
-				// 고른 두 점을 기준으로 각각의 점의 거리의 최솟값을 더해나간다.
-				// 1, 2를 골랐으면
-				// sum(1, 2) = 그 둘(1, 2)에서 3까지의 거리의 최솟값 + ... + 그 둘(1, 2)에서 N 까지의 거리의 최솟값
-
-				if (min > now) {
-					n1 = i + 1;
-					n2 = j + 1;
-					min = now;
+		for (int i = 1; i <= n; i++) {
+			for (int j = i + 1; j <= n; j++) {
+				// 2개의 지점을 치킨집으로 선정
+				int dis = distance(i, j);
+				// 더 작은 값을 찾으면 치킨집 장소와 최솟값 갱신
+				if (min > dis) {
+					point1 = i;
+					point2 = j;
+					min = dis;
 				}
-				// 해당 값이 최솟값이 된다면 두 점을 기록해놓는다.
-
 			}
 		}
 
-		// 기록한 두 점과 최솟값을 출력한다.
-		System.out.printf("%d %d %d", n1, n2, min * 2); // min*2는 왕복이라서.
-
+		// 왕복 거리이기 때문에 min*2 한 값을 출력
+		System.out.println(point1 + " " + point2 + " " + min * 2);
 	}
 
-	static int sum(int n1, int n2) {
-		int sum = 0;
-		for (int i = 0; i < N; i++) {
-			if (i == n1 || i == n2)
-				continue;
-			sum += Math.min(floyd[n1][i], floyd[n2][i]);
-		}
+	/*
+	 * 모든 건물에서 가장 가까운 치킨집까지 왕복하는 최단 시간의 총합을 구하는 문제이기 때문에 두 치킨집 중 더 가까운 치킨집까지의 거리를 구해
+	 * return 한다.
+	 */
+	static int distance(int x, int y) {
+		int result = 0;
+		for (int i = 1; i <= n; i++)
+			result += Math.min(map[x][i], map[y][i]);
 
-		return sum;
+		return result;
 	}
-
 }
