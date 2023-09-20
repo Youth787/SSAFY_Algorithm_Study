@@ -18,7 +18,7 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">2961</td>
     <td align="center">도영이가 만든 맛있는 음식</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/2961">바로가기</a></td>

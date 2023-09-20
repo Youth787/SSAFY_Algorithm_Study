@@ -1,0 +1,73 @@
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class bj15661 {
+    static int n;
+    static boolean[] check;
+    static int[][] skill;
+    static int ans;
+    static int start; // 0번이랑 같이 팀할 사람들 합
+    static int link; // 0번 반대편 팀 합
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        n = sc.nextInt();
+        check = new boolean[n];
+        skill = new int[n][n];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                skill[i][j] = sc.nextInt();
+            }
+        }
+        ans = Integer.MAX_VALUE;
+        check[0] = true;
+        bf(0);
+        System.out.println(ans);
+
+    }
+    static void bf(int i) {
+        start = 0;
+        link = 0;
+        //처음에는 0번만 팀, 1, 2, 3은 같은팀
+        //0 , 1 , 2, 3
+        // 0 / 1, 2, 3
+        List<Integer> startIdx = new ArrayList<>(); // 0번이랑 같은팀이면 여기에 넣고
+        List<Integer> linkIdx = new ArrayList<>(); // 다른팀이면 여기에 넣기
+        for (int k = 0; k < n; k++) {
+            if (check[k]) startIdx.add(k); // 0번이랑 같은팀이면 check가 true -> startIdx에 넣어주고
+            else linkIdx.add(k); // 다른팀이라면 linkIdx
+        }
+        for (int k = 0; k < startIdx.size() - 1; k++) { // 능력치 더해주기
+            for (int l = k + 1; l < startIdx.size(); l++) {
+                start += skill[startIdx.get(k)][startIdx.get(l)];
+                start += skill[startIdx.get(l)][startIdx.get(k)];
+            }
+        }
+        for (int k = 0; k < linkIdx.size() - 1; k++) { // 능력치 더해주기
+            for (int l = k + 1; l < linkIdx.size(); l++) {
+                link += skill[linkIdx.get(k)][linkIdx.get(l)];
+                link += skill[linkIdx.get(l)][linkIdx.get(k)];
+            }
+        }
+
+
+        ans = Math.min(ans, Math.abs(start - link)); // 최솟값인지 비교하기
+
+        for (int j = i + 1; j < n; j++) { // 재귀함수
+            if (check[j]) continue;
+            check[j] = true;
+            bf(j);
+            check[j] = false;
+        }
+    }
+}
+// 1번이랑 같은팀 아닌팀만 알면되는 문제!!!
+// 1 -> 2, 3, 4
+// 1, 2 -> 3, 4
+// 1, 2, 3 -> 4
+// 1, 3 -> 2, 4
+// 1, 3, 4 -> 2
+// 1, 4 -> 2, 3
+

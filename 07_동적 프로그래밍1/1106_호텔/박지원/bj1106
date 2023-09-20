@@ -1,0 +1,34 @@
+import java.io.IOException;
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class bj1106 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int c = sc.nextInt();
+		int n = sc.nextInt();
+		int[] price = new int[n];
+		int[] customer = new int[n];
+		for (int i = 0; i < n; i++) {
+			price[i] = sc.nextInt();
+			customer[i] = sc.nextInt();
+		}
+		int[] dp = new int[c + 100]; // c 이상이니까!!!! 정확히 c였으면 c만큼 만드는게 맞지만 이상이니까 될수있는 값을 모두 봐야함
+		Arrays.fill(dp, Integer.MAX_VALUE); // dp배열에 최대값을 다 추가해주고
+		dp[0] = 0; // 0은 당연히 0
+
+		for (int i = 0; i < n; i++) {
+			for (int j = customer[i]; j < c + 100; j++) {
+				if (dp[j - customer[i]] != Integer.MAX_VALUE)
+					dp[j] = Math.min(dp[j], dp[j - customer[i]] + price[i]);
+			}
+		}
+		int result = Integer.MAX_VALUE;
+		for (int i = c; i < c + 100; i++) {
+			result = Math.min(result,  dp[i]);
+		}
+		System.out.println(result);
+	}
+}
+
+//https://jyeonnyang2.tistory.com/318

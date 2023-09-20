@@ -1,0 +1,42 @@
+
+import java.util.Scanner;
+
+public class bj2961 {
+    static int n;
+    static int[] s;
+    static int[] b;
+    static boolean[] check;
+    static int ans;
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        n = sc.nextInt();
+        s = new int[n]; // 신맛은 곱하고
+        b = new int[n]; // 쓴맛은 더하기
+        check = new boolean[n]; // 이미 곱하거나 더했는지 확인할 배열
+        for (int i = 0; i < n; i++) { // 신맛, 쓴맛 받아오기
+            s[i] = sc.nextInt();
+            b[i] = sc.nextInt();
+        }
+        ans = Integer.MAX_VALUE;
+        for (int i = 0; i < n; i++) { // 0, 1, 2, ... n-1을 각각 처음 넣었을 때 부터 재귀함수 시작.
+            check[i] = true; // 넣어줬으니까 true
+            bruteforce(i, s[i], b[i]); // 브루트포스 함수 고고
+            check[i] = false; // 이제 뺄거니까 false
+        }
+
+        System.out.println(ans);
+
+    }
+
+    static void bruteforce(int i, int so, int bi) { // 재귀함수
+        ans = Math.min(ans, Math.abs(so - bi)); // 최솟값 계쏙 계속 갱신해주기
+
+        for (int j = i + 1; j < n; j++) {
+            if (check[j]) continue; // 만약 이미 재료를 넣었따면 넘어가기 
+            check[j] = true; //마찬가지로 재료 넣을꺼니까 트루
+            bruteforce(j , so * s[j], bi + b[j]); // 다음 재료 넣으러 고고씽
+            check[j] = false; // 다 빠져나온뒤 이제 이 재료는 안쓸거니까 false
+        }
+    }
+}

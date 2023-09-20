@@ -1,0 +1,109 @@
+//DFS와 BFS 가 섞인 문제입니다.
+//
+//문제푸는 로직은,
+//1. DFS로 2개씩 조합을 구합니다.
+//2. 각 조합 안에서 BFS를 통하여서 최단거리를 구합니다.
+//
+//그래프의 간선의 가중치가 모두 1로 같기에 BFS로 가능했던 문제입니다.
+//만약에 간선의 가중치가 존재한다면, 다른 최단경로 그래프 알고리즘을 사용해야합니다.
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
+
+class Node {
+	int a;
+	int b;
+	int count = 0;
+	public Node(int a, int b, int cnt) {
+		this.a = a;
+		this.b = b;
+		this.count = cnt;
+	}
+}
+public class bj21278 {
+	
+	static int n, m;
+	static ArrayList<ArrayList<Node>> g = new ArrayList<>();
+	static boolean[] v;
+	static boolean[] counted;
+	static int resultFirstIdx = 0;
+	static int resultSecondIdx = 0;
+	static int answer = Integer.MAX_VALUE;
+	
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		n = sc.nextInt();
+		m = sc.nextInt();
+		for (int i = 0; i <= n; i++) {
+			g.add(new ArrayList<>());
+		}
+		v = new boolean[n + 1];
+		for (int i = 0; i < m; i++) {
+			int a = sc.nextInt();
+			int b = sc.nextInt();
+			g.get(a).add(new Node(a, b, 0));
+			g.get(b).add(new Node(b, a, 0));
+		}
+		simulate(1, 0);
+		System.out.println(resultFirstIdx + " " + resultSecondIdx + " " + answer * 2);
+		
+
+	}
+	
+	static void simulate(int idx, int level) {
+		if (level == 2) {
+			counted = new boolean[n + 1];
+			Queue<Node> q = new LinkedList<>();
+			int result = 0;
+			for (int i = 1; i <= n; i++) {
+				if (v[i]) {
+					q.offer(new Node(i, 0, 0));
+					counted[i] = true;
+				}
+			}
+			
+			while(!q.isEmpty()) {
+				Node temp = q.poll();
+				int nodeA = temp.a;
+				int cnt = temp.count;
+				
+				for (int i = 0; i < g.get(nodeA).size(); i++) {
+					if (!counted[g.get(nodeA).get(i).b]) {
+						q.offer(new Node(g.get(nodeA).get(i).b, 0, cnt + 1));
+						counted[g.get(nodeA).get(i).b] = true;
+						result += cnt + 1;
+					}
+				}
+			}
+			
+			if (answer > result) {
+				answer = result;
+				resultFirstIdx = 0;
+				resultSecondIdx = 0;
+				for (int i = 1; i <= n; i++) {
+					if (v[i]) {
+						if (resultFirstIdx == 0)
+							resultFirstIdx = i;
+						else resultSecondIdx = i;
+					}
+				}
+			}
+			return;
+		}
+		
+		for (int i = idx; i <= n; i++) {
+			if (v[i]) continue;
+			v[i] = true;
+			simulate(i + 1, level + 1);
+			v[i] = false;
+		}
+	}
+	
+	
+
+}
+
+//https://c-king.tistory.com/465
+//https://passionfruit200.tistory.com/435
