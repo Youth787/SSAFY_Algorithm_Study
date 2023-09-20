@@ -29,7 +29,7 @@ public class Main {
 	static boolean [] visited; //방문처리
 	
 	//인자로 cnt = 고른 치킨집 cnt. m개의 치킨집을 골랐을 때인지 보려고.
-	static void DFS(int cnt) {
+	static void DFS(int cnt, int now) {
 		//기저 : m개의 치킨집을 다 고른 상황에, 모든 집에서의 거리 비교하고, 최소값이 나왔는지 확인함
 		if (cnt == m) {
 			//그 집에서 열려있는 치킨집과의 거리들을 다 구하면서, 최소값인 친구를 
@@ -48,9 +48,11 @@ public class Main {
 			ans = Math.min(ans, resTmp);//지금까지의 최소값과 지금 구한 값(resTmp)의 비교
 			return; //다했으면 나가
 		}
-		
-		//백트래킹 : 
-		
+		for (int i = now; i < store.size(); i++) {
+            visited[i] = true;
+            DFS(i + 1, cnt + 1); //방문한 경우의 수
+            visited[i] = false; //방문안했다고 초기화
+        }
 		
 	}
 	
@@ -78,12 +80,9 @@ public class Main {
 		
 		visited = new boolean [store.size()];
 		
-		//완전 탐색
-		//거리합 임시변수
-		int tmp = 0;
+		DFS(0,0);
 		
-		//지금 치킨집 ch개에서 m개만 뽑는다면? 
-		
+		System.out.println(ans);
 		
 		
 	}//main
