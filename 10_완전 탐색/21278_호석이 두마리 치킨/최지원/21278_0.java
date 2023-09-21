@@ -8,6 +8,10 @@
 //6번 https://velog.io/@dlsrjsdl6505/%EB%B0%B1%EC%A4%80-21278-%ED%98%B8%EC%84%9D%EC%9D%B4-%EB%91%90-%EB%A7%88%EB%A6%AC-%EC%B9%98%ED%82%A8-%EC%9E%90%EB%B0%94
 //7번  https://passionfruit200.tistory.com/435
 
+//대부분 따로 빼서 풀긴 했지만 3개 이하로 : 1번(line 17~), 4-1,2번(line 307~), 5번 (line 458~), 6번(line 532~), 7번(line 625~)
+//메소드 따로 다 빼서 푼 코드들 : 2번(line 114~), 3번(line 201~, ArrayDeque 사용)
+
+
 //----------------
 
 //1번 : https://ws-pace.tistory.com/54
@@ -54,7 +58,6 @@ public class Main {
 
     private static void comb(int start, int select, int max, boolean[] visited, int[] selected) {
         if (select == max) { //만약 후보를 다 골랐다면(그냥 select == 2라고 해도?)
-
             int sum = 0;//왕복 시간을 저장하는 변수
             for (int i = 1; i < N + 1; i++) { //1번~n번 건물을 돌면서
                if (visited[i]) continue; //방문했으면 이전 반복문에서 계산했었으니까 넘어가
@@ -64,38 +67,53 @@ public class Main {
                 sum += min * 2;//왕복시간 계산이니까 *2해서 지금까지 방문한 건물의 왕복 이동 시간 저장
             }
 
-            if (Min > sum) {
+            if (Min > sum) {//지금 구한 값이 더 작으면 최소값 갱신
                 Min = sum;
-                I = selected[0];
+                I = selected[0];//지금 후보들이 정식 등록됨
                 J = selected[1];
             }
             return;
         }
 
         for (int i = start; i < N + 1; i++) {
-            if (!visited[i]) {
-                visited[i] = true;
-                selected[select] = i;
-                comb(i + 1, select + 1, max, visited, selected);
-                visited[i] = false;
+            if (!visited[i]) {//i가 아직 방문 안한 곳이었다면?
+                visited[i] = true;//방문하자
+                selected[select] = i;//후보에 올려
+                comb(i + 1, select + 1, max, visited, selected);//다음 후보를 찾아 떠난다
+                visited[i] = false;//위에서 방문처리 했던거 철수..
             }
-        }
-    }
+        }//for
+    }//comb
 
     private static void floyd() {
-        for (int k = 1; k <= N; k++) {
-            for (int i = 1; i <= N; i++) {
-                for (int j = 1; j <= N; j++) {
-                    if (time[i][j] > time[i][k] + time[k][j]) {
-                        time[i][j] = time[i][k] + time[k][j];
+        for (int k = 1; k <= N; k++) { //경유지를 도는
+            for (int i = 1; i <= N; i++) { //출발지를 도는
+                for (int j = 1; j <= N; j++) { //도착지를 도는
+                    if (time[i][j] > time[i][k] + time[k][j]) { // 다이렉트로 가는 방법이 > 경유지 들러서 가는 경우보다 크면
+                        time[i][j] = time[i][k] + time[k][j]; //거기까지 가는 방법을 아예 경유지들러서 가는 시간으로 똑같이 맞춰 적음
                     }
                 }
             }
         }
-    }
+    }//floyd
+
+/* 오늘 잠깐 흘러가듯 나온 "모든 정점들에 대한 최단 경로 = 플로이드-워샬(Floyd-Warshall) 알고리즘"
+for (경유지를 도는 반복문)
+    for (출발지를 도는 반복문)
+    	for (도착지를 도는 반복문)
+
+=음수 사이클이 없는 그래프 내의 각 모든 정점에서, 각 모든 정점에까지의 최단거리를 모두 구할 수 있는 알고리즘.
+(다잌스트라와 다른점은 그래프에 음수 사이클<사이클 돌아서 원래 지점으로 왔을 때 최종 비용이 음수인 경우>만 존재하지 않으면, 음의 가중치를 갖는 간선이 존재해도 상관없다)
+=인접 행렬을 이용하여 각 노드 간 최소 비용 계산. 
+= 모든 노드에서, 모든 노드로 사는 최소 비용을 "단계적으로 갱신"하면서 진행
+
+ 디익스트라 = 시작 정점에서 거리가 최소인 정점을 선택해 나가면서 최단 경로를 구하는 방식. 음의 가중치 허용 안함
+ */
 }
 
 //2번 https://nahwasa.com/entry/%EC%9E%90%EB%B0%94-%EB%B0%B1%EC%A4%80-21278-%ED%98%B8%EC%84%9D%EC%9D%B4-%EB%91%90-%EB%A7%88%EB%A6%AC-%EC%B9%98%ED%82%A8-java
+// 이 풀이는 너무 나눠나서 저는 오히려 보기 불편했슴다.. 대신 플로이드-워샬(Floyd-Warshall) 알고리즘
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -112,12 +130,13 @@ public class Main {
         new Main().solution();
     }
 
+	//솔루션으로 왔어여
     private void solution() throws Exception {
         StringTokenizer st = new StringTokenizer(br.readLine());
-        int n = Integer.parseInt(st.nextToken());
-        int m = Integer.parseInt(st.nextToken());
+        int n = Integer.parseInt(st.nextToken());//건물 수
+        int m = Integer.parseInt(st.nextToken());//도로 수
 
-        int[][] map = initMap(n, m);
+        int[][] map = initMap(n, m);//지도
 
         floydWarshall(n, map);
 
@@ -140,6 +159,7 @@ public class Main {
         return map;
     }
 
+	//플로이드-워샬(Floyd-Warshall) 알고리즘
     private void floydWarshall(final int n, int[][] map) {
         for (int k = 0; k < n; k++) {
             for (int i = 0; i < n; i++) {
@@ -200,8 +220,8 @@ public class BOJ21278 {
     static int ans = Integer.MAX_VALUE;
     static int build1, build2;
     public static void main(String[] args) throws IOException {
-        input();
-        pro();
+        input();//입력받자
+        pro();//
     }
  
     static void pro() {
