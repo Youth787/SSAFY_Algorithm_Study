@@ -24,43 +24,44 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        N = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
-        time = new int[N + 1][N + 1];
-        for (int i = 1; i <= N; i++) {
-            Arrays.fill(time[i], INF);
-            time[i][i] = 0;
+        N = Integer.parseInt(st.nextToken());//건물 수(여기서 접근성 높은 2곳을 골라서 치킨집 오픈)
+        M = Integer.parseInt(st.nextToken());//도로 수(도로는 'a와 b 사이에 1시간짜리 도로가 있다' 식으로 주어짐)
+        time = new int[N + 1][N + 1];//건물끼리의 최소 이동 시간 저장하는 2차원 배열
+        for (int i = 1; i <= N; i++) { //건물 1번부터 n번까지
+            Arrays.fill(time[i], INF);//최소 이동 시간 저장해야 하니까 int 최대값으로 초기화
+            time[i][i] = 0;//본인이랑은 거리 없으니까 0으로 저장
         }
 
-        for (int i = 0; i < M; i++) {
+	//입력된 도로 정보를 통해 time에 시간 저장
+        for (int i = 0; i < M; i++) {//m개의 도로 정보
             st = new StringTokenizer(br.readLine());
-            int u = Integer.parseInt(st.nextToken());
-            int v = Integer.parseInt(st.nextToken());
-            time[u][v] = 1;
-            time[v][u] = 1;
+            int u = Integer.parseInt(st.nextToken());//건물1
+            int v = Integer.parseInt(st.nextToken());//건물2
+            time[u][v] = 1;//둘 사이에는 1시간 거리의 도로 있다
+            time[v][u] = 1;//반대로 이동할때도 마찬가지
         }
 
-        floyd();
+        floyd();//나머지 time 배열 내 값을 저장하는 과정
 
-        // nC2
-        boolean[] visited = new boolean[N + 1];
-        int[] selected = new int[2];
-        Arrays.fill(visited, false);
-        comb(1, 0, 2, visited, selected);
+        // nC2 : 건물 n개 중 2개를 고른다
+        boolean[] visited = new boolean[N + 1]; //방문 처리 배열
+        int[] selected = new int[2]; //치킨집 후보 건물 2개의 번호를 저장하는 배열
+        Arrays.fill(visited, false); //? 이미 false로 초기화되어있지 않나
+        comb(1, 0, 2, visited, selected);//건물 1부터 시작하여, 아직 후보로 고른 건물이 0개고, (이건 필요없을듯?)우리가 골라야 하는 건물은 총 2개고, 방문처리했던 배열 갖고 다니면서, 후보 저장한 배열고 갖고 다님
 
         System.out.println(I + " " + J + " " + Min);
     }
 
     private static void comb(int start, int select, int max, boolean[] visited, int[] selected) {
-        if (select == max) {
+        if (select == max) { //만약 후보를 다 골랐다면(그냥 select == 2라고 해도?)
 
-            int sum = 0;
-            for (int i = 1; i < N + 1; i++) {
-               if (visited[i]) continue;
-                int min = INF;
-                for (int k : selected)
-                    min = Math.min(time[i][k], min);
-                sum += min * 2;
+            int sum = 0;//왕복 시간을 저장하는 변수
+            for (int i = 1; i < N + 1; i++) { //1번~n번 건물을 돌면서
+               if (visited[i]) continue; //방문했으면 이전 반복문에서 계산했었으니까 넘어가
+                int min = INF; //어떤 치킨집이 더 가까운지를 판단하려는 변수. 치킨집까지의 편도 이동 시간 계산
+                for (int k : selected) //치킨집 후보들와 건물i의 이동 시간 중
+                    min = Math.min(time[i][k], min);//더 작은 거 선택해서 저장하고
+                sum += min * 2;//왕복시간 계산이니까 *2해서 지금까지 방문한 건물의 왕복 이동 시간 저장
             }
 
             if (Min > sum) {
