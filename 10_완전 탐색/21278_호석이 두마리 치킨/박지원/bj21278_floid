@@ -1,0 +1,74 @@
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
+
+public class bj21278_floid {
+	
+	static int n, m, ansA, ansB, sum;
+	static int[][] adj;
+	static int INF = 87654321;
+	
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		n = sc.nextInt(); // 마을갯수
+		m = sc.nextInt(); // 간선갯수
+		
+		adj = new int[n + 1][n + 1];
+
+		for (int i = 1; i <= n; i++) {
+			for (int j = 1; j <= n; j++) {
+				if (i == j) adj[i][j] = 0;
+				else adj[i][j] = INF;
+			}
+		}
+		
+		for (int i = 0; i < m; i++) {
+			int a = sc.nextInt();
+			int b = sc.nextInt();
+
+			adj[a][b] = adj[b][a] = 1;
+		}
+		
+		//플로이드 워셜 알고리즘
+		for (int k = 1; k <= n; k++) {
+			//노드 i에서 j로 가는 경우
+			for (int i = 1; i <= n; i++) {
+				for (int j = 1; j <= n; j++) {
+					//k번째 노드를 거쳐가는 비용이 기존 비용보다 더 작은 경우 갱신
+					//또는 연결이 안되어있던 경우(INF) 연결 비용 갱신
+					adj[i][j] = Math.min(adj[i][j], adj[i][k] + adj[k][j]);
+				}
+			}
+		}
+
+		ansA = ansB = sum = INF;
+		for (int i = 1; i <= n; i++) {
+			for (int j = i + 1; j <= n; j++) {
+				int tmp = solution(i, j);
+				if (sum > tmp) {
+					ansA = i;
+					ansB = j;
+					sum = tmp;
+				}
+			}
+		}
+		
+
+		System.out.printf("%d %d %d", ansA, ansB, sum * 2);
+		
+	}
+	static int solution(int i, int j) { // 거리를 계산해주는 함수
+		int dis = 0;
+		for (int k = 1; k <= n; k++) {
+			dis += Math.min(adj[i][k], adj[j][k]);
+		}
+		return dis;
+	}
+	
+
+}
+
+//https://c-king.tistory.com/465
+//https://passionfruit200.tistory.com/435
+//https://nahwasa.com/entry/%EC%9E%90%EB%B0%94-%EB%B0%B1%EC%A4%80-21278-%ED%98%B8%EC%84%9D%EC%9D%B4-%EB%91%90-%EB%A7%88%EB%A6%AC-%EC%B9%98%ED%82%A8-java
