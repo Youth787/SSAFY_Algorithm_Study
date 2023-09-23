@@ -1,0 +1,55 @@
+import java.util.Scanner;
+
+public class bj3029 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String wait = sc.nextLine();
+        String throwing = sc.nextLine();
+
+
+        int[] arr = new int[3];
+        String[] str1 = wait.split(":");
+        int[] arr2 = new int[3];
+        String[] str2 = throwing.split(":");
+        for (int i = 0; i < 3; i++) {
+            arr[i] = Integer.parseInt(str1[i]);
+            arr2[i] = Integer.parseInt(str2[i]);
+        }
+        int[] answer = new int[3];
+
+        if (arr2[2] - arr[2] < 0) {
+            answer[2] = arr2[2] - arr[2] + 60;
+            arr2[1]--;
+        } else {
+            answer[2] = arr2[2] - arr[2];
+        }
+
+        if (arr2[1] - arr[1] < 0) {
+            answer[1] = arr2[1] - arr[1] + 60;
+            arr2[0]--;
+        } else {
+            answer[1] = arr2[1] - arr[1];
+        }
+
+        if (arr2[0] - arr[0] < 0) {
+            answer[0] = arr2[0] - arr[0] + 24;
+        } else {
+            answer[0] = arr2[0] - arr[0];
+        }
+
+        if (answer[0] == 0 && answer[1] == 0 && answer[2] == 0){
+            System.out.print("24:00:00");
+        } else {
+            if (answer[0] < 10) System.out.print("0" + answer[0] + ":");
+            else System.out.print(answer[0] + ":");
+
+            if (answer[1] < 10) System.out.print("0" + answer[1] + ":");
+            else System.out.print(answer[1] + ":");
+
+            if (answer[2] < 10) System.out.print("0" + answer[2]);
+            else System.out.print(answer[2]);
+        }
+
+
+    }
+}
