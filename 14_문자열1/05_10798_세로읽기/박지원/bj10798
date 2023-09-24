@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.List;
+
+public class bj10798 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        List<Character>[] list = new ArrayList[15];
+        for (int i = 0; i < 15; i++) {
+            list[i] = new ArrayList<>();
+        }
+
+        for (int tc = 0; tc < 5; tc++) {
+            String str = sc.nextLine();
+            for (int i = 0; i < str.length(); i++) {
+                list[i].add(str.charAt(i));
+            }
+        }
+        String ans = "";
+        for (List l : list) {
+            for (int i = 0; i < l.size(); i++) {
+                ans += l.get(i);
+            }
+        }
+        System.out.println(ans);
+    }
+}
