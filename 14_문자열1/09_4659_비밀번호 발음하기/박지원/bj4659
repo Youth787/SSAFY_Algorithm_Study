@@ -1,0 +1,71 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class bj45 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		while (true) {
+			String str = sc.nextLine();
+			if (str.equals("end")) break; // end나오면 와일문 멈춰!
+
+   //출력!!
+			System.out.print("<" + str + "> is ");
+			if (solve(str)) { // 만약 solve가 트루라면
+				System.out.print("acceptable."); // 허용합니다
+			} else { // false라면
+				System.out.print("not acceptable."); // 안됩니다.
+			}
+			System.out.println(); // 줄바꿈
+			
+		}
+		
+	}
+ 
+	static boolean solve(String s) {
+		char[] cArr = s.toCharArray();
+		List<Character> clist = new ArrayList<>();
+		for (int i = 0; i < cArr.length; i++) {
+			clist.add(cArr[i]);
+		}
+		
+		// 1. 모음을 포함하나요 ?
+		if (!haveMo(clist)) return false;
+		
+		// 2.모음 혹은 자음이 3개연속 오나요 ?
+		for (int i = 2; i < cArr.length; i++) {
+			//모음일때
+			if (isMo(cArr[i])) {
+				if (isMo(cArr[i - 1]) && isMo(cArr[i - 2])) {
+					return false;
+				}
+			} else { // 자음일 때
+				if (!isMo(cArr[i - 1]) && !isMo(cArr[i - 2])) {
+					return false;
+				}
+			}
+		}
+		
+		// 3. ee, oo제외한 연속 2개가 나오나요?
+		for (int i = 1; i < cArr.length; i++) {
+			if(cArr[i] == cArr[i - 1]) {
+				if (cArr[i] != 'e' && cArr[i] != 'o') {
+					return false;
+				}
+			}
+		}
+		return true;
+	}
+	
+	static boolean haveMo(List<Character> clist) { // 모음 가지고 있는지 확인하는 불린함수
+		return (clist.contains('a') || clist.contains('o') ||clist.contains('i') || clist.contains('u') || clist.contains('e'));
+	}
+	static boolean isMo(Character c) { // c가 모음인지 확인하는 불린함수(true=모음, false=자음)
+		return (c == 'a' || c == 'o' || c == 'e' || c == 'u' || c == 'i');
+	}
+	}
+
+
+
+
+// https://coder-in-war.tistory.com/entry/BOJ-JAVA4659-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0
