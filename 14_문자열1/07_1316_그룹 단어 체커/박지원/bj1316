@@ -1,0 +1,39 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+import java.util.Stack;
+
+public class bj1316 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		sc.nextLine();
+		int ans = 0; // 정답
+		
+		for (int tc = 0; tc < n; tc++) { // tc돌려
+			String str = sc.nextLine(); // 문장 받아와
+			Stack<Character> stack = new Stack<>();
+
+			stack.push(str.charAt(0)); // 0번째 캐릭터 우선 스택에 넣어주고
+			for (int i = 1; i < str.length(); i++) {
+				char c = str.charAt(i); // i 번째 캐릭터 받아와서
+				if (stack.peek() != c) stack.push(c); // 만약 스택에 있는 문자랑 다르다면 스택에 넣어줘
+			}
+			List<Character> list = new ArrayList<>();
+			while(!stack.isEmpty()) // 스택이 빌때 까지
+				list.add(stack.pop()); // 리스트에 스택 인자들 다 넣어주기
+			
+			int flag = 0;
+			x: for (int i = 0; i < list.size(); i++) { // 완전 탐색
+				for (int j = 0; j < list.size(); j++) {
+					if (list.get(i) == list.get(j) && i != j) { // i, j값 다른데 만약 같은 값이있어???? 중복이 있어???
+						flag = 1; // 그럼 flag = 1
+						break x;
+					}
+				}
+			}
+			if (flag == 0) ans++; // 중복된 값이 없다면 ans++
+		}
+		System.out.println(ans);
+	}
+}
