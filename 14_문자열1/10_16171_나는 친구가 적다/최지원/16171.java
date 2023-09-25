@@ -39,3 +39,8 @@ public class Main {
 		
 	}//main
 }//class
+
+//누가 이렇게 풀었는데...
+//if (!(str.charAt(i) - '0' >= 0 && str.charAt(i) - '0' <= 9)) word += str.charAt(i);
+//System.out.println(word.indexOf(find) != -1 ? 1 : 0);
+
