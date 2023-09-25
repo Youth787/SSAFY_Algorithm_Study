@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class bj16171 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String str = sc.nextLine(); // 숫자가 들어간 문장
+		String find = sc.nextLine(); // 찾아야할 문장
+		String exceptNum = ""; // 숫자 뺀 문장
+		int ans = 0; // 정답
+		for (int i = 0; i < str.length(); i++) {
+			char c = str.charAt(i);
+			if (c == '0' || c == '1' ||c == '2' || c == '3' ||c == '4' || c == '5' ||c == '6' || c == '7' ||c == '8' || c == '9') {
+				continue; // i번째 글자가 숫자면 걍 넘어가고
+			} else {
+				exceptNum += c; // 문자면 더해주기
+			}
+		}
+		if (exceptNum.contains(find)) ans = 1; // contain 활용
+		System.out.println(ans);
+	}
+
+}
