@@ -84,8 +84,6 @@
 </td>
     <td align="center"><a href="https://www.acmicpc.net/problem/17609">바로가기</a></td>
   </tr>
-  
-    <td align="center"><a href="https://www.acmicpc.net/problem/20437">바로가기</a></td>
   </tr>
   
   <tr>
