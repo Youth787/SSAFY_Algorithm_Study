@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+public class bj15650 {
+
+    static int n, m;
+    static int[] nums;
+    static boolean[] visited;
+
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        n = sc.nextInt();
+        m = sc.nextInt();
+        nums = new int[n + 1]; // 1~n까지의 수 (0번째인덱스안써)
+        for (int i = 1; i <= n; i++) {
+            nums[i] = i; // 수 넣어주기.
+        }
+        visited = new boolean[n + 1]; // 방문체크도 마찬가지로 0번째 안써
+
+        solve(0, 1);
+
+    }
+
+    //count: 뽑은 숫자의 수
+    //idx: 현재 인덱스
+    static void solve(int count, int idx) { // 순열과는 다르게 count, idx를 들고감
+        if (count == m) { // 뽑은 숫자가 m개라면 출력해주고 리턴
+            for (int i = 1; i <= n; i++) {
+                if (visited[i]) System.out.print(nums[i] + " ");
+            }
+            System.out.println();
+            return;
+        }
+        if (idx > n) return; // 인덱스가 n보다 크면 리턴
+
+        visited[idx] = true; // 현재 idx방문했으면
+        solve(count + 1, idx + 1); // 갯수늘려주고, 인덱스도 늘려줘
+        visited[idx] = false; // 방문 안했으면
+        solve(count, idx + 1); // 갯수는 똑같고 다음 인덱스로 넘어가
+
+    }
+}
