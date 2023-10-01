@@ -1,0 +1,39 @@
+import java.util.Scanner;
+
+public class bj15649 {
+
+    static int n, m;
+    static int[] arr, ans; // 1~n숫자 받을 배열과 정답만 넣을 배열
+    static boolean[] visited; // 방문했나요 ?
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        n = sc.nextInt();
+        m = sc.nextInt();
+        arr = new int[n + 1]; // 1~n인덱스 쓰려고 +1해줬음
+        for (int i = 1; i <= n; i++) {
+            arr[i] = i;
+        }
+        ans = new int[m + 1]; // 정답도 마찬가지로 0번째인덱스 안씀
+        visited = new boolean[n + 1]; // 불린도 그럼 마찬가지.
+
+        solve(0); // 0 : 정답배열에 넣은 숫자의 갯수는 0부터 시작
+    }
+    static void solve(int count) {
+        if (count == m) {
+            for (int j = 1; j <= m; j++) {
+                System.out.print(ans[j] + " ");
+            }
+            System.out.println();
+            return;
+        }
+        for (int i = 1; i <= n; i++) {
+            if (!visited[i]) { // 방문하지않았다면
+                visited[i] = true; // 방문처리해주고
+                ans[count + 1] = arr[i]; // 정답 배열의 카운트 + 1 번째의 인덱스에 숫자 넣어주기!!!!!
+                solve(count + 1); // 방문했으니 +1해주고 다시 재귀함수.
+                visited[i] = false; // 방문끝났으니 안방문했다고 처리
+            }
+        }
+    }
+}
