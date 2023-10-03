@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//이거 틀렸다고 나옴 매번 %10007 해야함 ㅠㅠ (이전에 제출한 코드 참고) 
 public class DP1_11726_2xn타일링 {
 	
 	public static void main(String[] args) {
