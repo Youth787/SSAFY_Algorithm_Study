@@ -1,0 +1,61 @@
+import java.io.*;
+import java.util.ArrayList;
+
+//저에겐 ㄴㅓ무 어려운 문제라 블로그를 참조할 수 밖에없었떤 현실이 슬픕니다..
+public class bj16337 {
+	
+    public static int N;
+    public static int max = Integer.MIN_VALUE;
+    public static ArrayList<Integer> number;
+    public static ArrayList<Character> operation;
+    
+    public static void main(String[] args) {
+        try {
+            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+            N = Integer.parseInt(br.readLine());
+            number = new ArrayList<>();
+            operation = new ArrayList<>();
+
+            String input = br.readLine();
+            for(int i=0; i<N; i++) {
+                char c = input.charAt(i);
+                if(i % 2 != 0) operation.add(c);
+                else number.add(Character.getNumericValue(c));
+            } // 입력 끝! 숫자는 number에, 연산기호는 operation에 넣어줌.
+
+            // 배열의 첫번째 숫자로 시작하고 다음 깊이를 1로 설정
+            dfs(number.get(0), 0);
+            bw.write(max + "\n");
+            bw.close();
+        } catch (IOException e) {
+            e.getStackTrace();
+        }
+    }
+    //total: 연산 결과, index: 연산 횟수
+    public static void dfs(int total, int index) {
+        // 입력받은 연산자의 개수를 초과하면 max를 갱신하고 종료
+        if(index >= operation.size()) {
+            max = Math.max(max, total);
+            return;
+        }
+        
+        // 괄호를 사용하지 않는 경우
+        dfs(cal(total, number.get(index + 1), operation.get(index)), index + 1);
+
+        // total 다음 숫자를 시작으로 괄호를 사용하는 경우
+        if(index + 1 < operation.size()) {
+            int subTotal = cal(number.get(index + 1), number.get(index + 2), operation.get(index + 1));
+            dfs(cal(total, subTotal, operation.get(index)), index + 2);
+        }
+    }
+    
+    public static int cal(int a, int b, char op) { // 연산해주는 함수
+        if(op == '+') return a + b;
+        if(op == '-') return a - b;
+        return a * b;
+    }
+}
+
+//https://hareandrabbit.tistory.com/entry/BOJ-%EB%B0%B1%EC%A4%80-16637%EB%B2%88-%EA%B4%84%ED%98%B8-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0with-Java
