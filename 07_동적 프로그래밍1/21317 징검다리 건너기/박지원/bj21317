@@ -1,0 +1,42 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class bj21317 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		int[][] board = new int[2][Math.max(4, n)];
+		for (int i = 1; i <= n - 1; i++) {
+			board[0][i] = sc.nextInt(); // 작은 점푸
+			board[1][i] = sc.nextInt(); // 큰 점푸
+		}
+		int k = sc.nextInt();
+		//입렦끝
+		
+		//dp[j][i] = 세 칸 점프를 j번 사용해 i번째 칸까지 이동하는 최소값
+		int[][] dp = new int[2][Math.max(4, n + 1)];
+		for (int i = 0; i < dp.length; i++) {
+			Arrays.fill(dp[i], 10000); // 대충 큰수를 채운다.
+		}
+		//10000으로 채워줬으니  초기화는 시켜줘야겠지.
+		dp[0][0] = 0;
+		dp[0][1] = 0;
+		dp[1][0] = 0;
+		dp[1][1] = 0;
+		dp[0][2] = board[0][1];
+		dp[0][3] = Math.min(dp[0][2] + board[0][2], dp[0][0] + board[1][1]);
+		for (int i = 4; i <= n; i++) { // dp[0]과 dp[1]을 따로 생각하자!!
+			//0: 베리빅점프 안씀, 1: 베리빅점프 씀 -> dp, board를 헷가리지말자!!!! board에서 0은 작점, 1은 큰점!!
+			dp[0][i] = Math.min(dp[0][i - 1] + board[0][i - 1], dp[0][i - 2] + board[1][i - 2]);
+			dp[1][i] = Math.min(Math.min(dp[1][i - 1] + board[0][i - 1], dp[1][i - 2] + board[1][i - 2]), dp[0][i - 3] + k);
+			
+		}
+		int answer = Math.min(dp[0][n], dp[1][n]); // 다돌리면 아무튼 작은값 내놓으셈
+		System.out.println(answer);
+		
+	}
+}
+
+//https://ongveloper.tistory.com/689
+//https://velog.io/@qwerty1434/%EB%B0%B1%EC%A4%80-21317%EB%B2%88-%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC-%EA%B1%B4%EB%84%88%EA%B8%B0
