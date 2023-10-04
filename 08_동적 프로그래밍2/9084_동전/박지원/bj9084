@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class bj9084 {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        for (int tc = 1; tc <= t; tc++) {
+            int n = sc.nextInt(); // 동전 가짓 수
+            int[] coin = new int[n + 1]; // 동전 배열
+            for (int i = 1; i <= n; i++) {
+                coin[i] = sc.nextInt();
+            }
+            int m = sc.nextInt(); // 만들어야할 금액
+            // 입력 끝!
+
+            int[] dp = new int[m + 1]; // 될수 있는 수 전부 카운트 할 것임!
+
+            for (int i = 1; i <= n; i++) { // 코인 인덱스 1부터 n까지 
+                for (int j = 1; j <= m; j++) { // 1부터 m까지의 금액!
+                    if (j - coin[i] > 0) { // 만약 j보다 coin[i]가 작다면?!
+                        dp[j] = dp[j] + dp[j - coin[i]]; // 더해줄것이다.
+                    } else if (j - coin[i] == 0) { // 근데 j랑 coin[i]랑 같다면
+                        dp[j]++; // 하나만 더해주기
+                    }
+                }
+            }
+            System.out.println(dp[m]);
+        }
+
+    }
+}
