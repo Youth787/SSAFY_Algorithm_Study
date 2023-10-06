@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
-//중복 없는 조합
+//1부터 N까지 자연수 중에서 M개를 고른 수열
+//같은 수를 여러 번 골라도 된다.
 public class Main {
 	
 	public static int[] arr;
