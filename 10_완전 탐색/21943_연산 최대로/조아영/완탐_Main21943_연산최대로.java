@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 //https://codingrapper.tistory.com/201 
+//https://record-developer.tistory.com/164
 public class 완탐_Main21943_연산최대로 {
 	
 	static int n, p, q; 
