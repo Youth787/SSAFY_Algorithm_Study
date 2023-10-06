@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//중복 없는 조합
 public class Main {
 	
 	public static int[] arr;
