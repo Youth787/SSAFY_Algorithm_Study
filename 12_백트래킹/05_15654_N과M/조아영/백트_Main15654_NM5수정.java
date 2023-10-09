@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class 백트_Main15654_NM5 {
+public class 백트_Main15654_NM5수정 {
 	
 	static int n, m; 
 	static int[] arr; 
