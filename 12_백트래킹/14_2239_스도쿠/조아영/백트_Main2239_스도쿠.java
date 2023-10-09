@@ -65,4 +65,3 @@ public class 백트_Main2239_스도쿠 {
 	}
 	
 }
-test
