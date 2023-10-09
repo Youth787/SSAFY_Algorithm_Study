@@ -3,42 +3,39 @@ import java.util.Scanner;
 
 public class 백트_Main15654_NM5 {
 	
-	static int n, m; 
-	static int[] arr; 
-	static int[] result; 
-	static boolean[] visited; 
+	static int n, m;
+	static int[] nums, res;
+	static boolean[] visited;
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
 		m = sc.nextInt();
-		arr = new int[n];
+		nums = new int[n];
+		res = new int[m]; //result
+		visited = new boolean[n];
 		for (int i=0; i<n; i++) {
-			arr[i] = sc.nextInt();
+			nums[i] = sc.nextInt();
 		}
-		result = new int[m];
-		visited = new boolean[n]; 
-		//n개의 자연수 중에서 m개를 고른 수열 
-		Arrays.sort(arr);
-		permutation(0); 
-		
+		Arrays.sort(nums);
+		dfs(0); //n개 중 m개 뽑는 순열 //사전순 나열 
 	}
-	
-	static void permutation(int depth) { //순열 (dfs) 
-		if (depth==m) {
-			for (int i : result) System.out.print(i+" ");
+
+	static void dfs(int cnt) { 
+		if (cnt==m) {
+			for (int i : res) System.out.print(i+" ");
 			System.out.println();
 			return;
 		}
 		
 		for (int i=0; i<n; i++) {
 			if (!visited[i]) {
-				visited[i] = true; 
-				result[depth] = arr[i]; //해당 깊이를 index로 하여 i+1값 저장 
-				permutation(depth+1); //다음 자식 노드 방문을 위해 depth+1 하고 재귀 호출
+				visited[i] = true;
+				res[cnt] = nums[i];
+				dfs(cnt+1);
 				visited[i] = false;
 			}
 		}
-	} //permutation
-
+	}
+	
 }
