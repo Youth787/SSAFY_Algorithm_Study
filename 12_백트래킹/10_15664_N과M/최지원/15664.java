@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 import java.util.Iterator;
 
 
-//n개 자연수 중 (중복 선택 가능) m개 고른 수열 모두 출력
+//n개 자연수 중 m개 고른 수열 모두 출력
 //고른 수열은 비내림차순=길이가 K인 수열 A가 A1 ≤ A2 ≤ ... ≤ AK-1 ≤ AK를 만족하면, 비내림차순이라고 한다.
 public class Main {
 
