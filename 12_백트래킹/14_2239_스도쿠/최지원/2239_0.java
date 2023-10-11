@@ -22,8 +22,10 @@ public class Main {
 					map[i][j] = input.charAt(j) - '0';
 				}
 			}
+//입력
 			
 			dfs(0);
+//빈 부분 작성
 			
 			for (int i = 0; i < 9; ++i) {
 				for (int j = 0; j < 9; ++j) {
@@ -34,10 +36,14 @@ public class Main {
 			e.printStackTrace();
 		}
 	}
+//작성한 스도쿠 출력
 	
+
+//0으로 된 칸 채우는 dfs. 인자는 지금 탐색하는 칸의 번호(depth)
 	public static void dfs(int depth) {
+//기저 : 모든 칸을 다 돌았을 때(depth가 0~80까지 돌고 81이 되었을때
 		if (depth == 81) {
-			end = true;
+			end = true;//스도쿠 채우기가 끝났다
 			return;
 		}
 		
