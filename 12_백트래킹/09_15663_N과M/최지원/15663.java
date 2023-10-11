@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 import java.util.Iterator;
 
 
-//n개 자연수 중 (중복 선택 가능) m개 고른 수열 모두 출력
+//n개 자연수 중 m개 고른 수열 모두 출력
 public class Main {
 
 	static int n, m;
