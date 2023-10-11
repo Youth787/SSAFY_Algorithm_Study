@@ -68,11 +68,14 @@ public class Main {
 		}
 	}
 	
+//map[y][x]에 n을 넣을 수 있는지 확인
 	public static boolean isVaild(int y, int x, int n) {
+//가로, 세로 줄 에 같은 숫자가 있는지 확인
 		for (int i = 0; i < 9; ++i) {
 			if (map[y][i] == n || map[i][x] == n) return false;
 		}
 		
+//3 * 3 칸안에 같은 숫자가 있는지 확인 
 		int yy = y / 3 * 3;
 		int xx = x / 3 * 3;
 		for (int i = yy; i < yy + 3; ++i) {
@@ -80,7 +83,7 @@ public class Main {
 				if (map[i][j] == n) return false;
 			}
 		}
-		return true;
+		return true;//아닌 경우에는 그 자리에서 false로 리턴했고, 남은 경우는 n 넣기 가능하기 때문에 true로 리턴
 	}
 }
 
