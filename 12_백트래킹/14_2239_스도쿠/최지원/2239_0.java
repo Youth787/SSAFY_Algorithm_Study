@@ -1,4 +1,6 @@
 //풀이 1 : ( https://velog.io/@dailyhyun/BOJ%EB%B0%B1%EC%A4%80-2239.-%EC%8A%A4%EB%8F%84%EC%BF%A0-Java )
+//main, dfs,isValid 로 구성
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
