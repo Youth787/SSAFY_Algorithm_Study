@@ -9,8 +9,8 @@ import java.io.OutputStreamWriter;
 
 public class Main {
 
-	static int[][] map;
-	static boolean end;
+	static int[][] map;//스도쿠 숫자 채울 2차원배열 
+	static boolean end;//스도쿠 채우기가 끝났는지 표현하는 boolean 변수(필요한가..?)
 	
 	public static void main(String[] args) throws IOException {
 		try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -41,24 +41,29 @@ public class Main {
 
 //0으로 된 칸 채우는 dfs. 인자는 지금 탐색하는 칸의 번호(depth)
 	public static void dfs(int depth) {
-//기저 : 모든 칸을 다 돌았을 때(depth가 0~80까지 돌고 81이 되었을때
+//기저 : 모든 칸을 다 돌았을 때(depth가 0~8까지 돌고 81이 되었을때
 		if (depth == 81) {
 			end = true;//스도쿠 채우기가 끝났다
-			return;
+			return;//리턴
 		}
 		
-		int y = depth / 9;
-		int x = depth % 9;
+//내부에서 사용할 변수를 인자를 통해 만든다
+		int y = depth / 9;//depth를 9로 나눴을때 몫은 현재 칸이 몇번째 행에 있는지 (0~8)
+		int x = depth % 9;//나머지는 현재칸이 몇번째 열에 있는지 (0~8)
 		
 		if (map[y][x] != 0) {
+//칸이 이미 채워져있으면 다음칸으로 넘어가
 			dfs(depth + 1);
 		} else {
+//값이 0이면 아직 미작성한 칸이므로 for문을 통해 1~9 숫자를 넣어보겠다
 			for (int i = 1; i <= 9; ++i) {
-				if (!isVaild(y, x, i)) continue;
-				map[y][x] = i;
-				dfs(depth + 1);
-				if (end) return;
-				map[y][x] = 0;
+//map[y][x]에 i가 가능한지 isValid에서 확인하여
+				if (!isVaild(y, x, i)) continue;//불가능하면 숫자 i는 넘어가, 다음 숫자 넣어본다
+//숫자 i를 넣는게 가능하다면
+				map[y][x] = i;//넣고
+				dfs(depth + 1);//다음칸으로 넘어간다
+				if (end) return;//기저조건에 있는 end가 true상태로 리턴되었다면, 여기 if문에서도 리턴=어디로 나가지???
+				map[y][x] = 0;//못채웠네 하고 다시 그 칸 값을 0으로 만듬
 			}
 		}
 	}
