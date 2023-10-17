@@ -23,8 +23,8 @@ public class Main {
 
         for (int k = 1; k <= K; k++) { // 무게
             for (int i = 1; i <= N; i++) { // item
-                dp[i][k] = dp[i - 1][k];
-                if (k - item[i][0] >= 0) {
+                dp[i][k] = dp[i - 1][k]; // 이전 행 결과 복사
+                if (k - item[i][0] >= 0) { // 무게가 남으면
                     dp[i][k] = Math.max(dp[i - 1][k], item[i][1] + dp[i - 1][k - item[i][0]]);
                 }
             }
