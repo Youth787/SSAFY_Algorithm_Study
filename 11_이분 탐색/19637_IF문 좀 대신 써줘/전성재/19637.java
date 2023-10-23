@@ -7,8 +7,8 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
-		StringBuilder sb = new StringBuilder(); // 전투력에 대한 칭호를 매번 출력해도 시간초과에 걸리더라
-												// StringBuilder에 하나씩 붙여놓고 한 번에 출력하기
+		StringBuilder sb = new StringBuilder(); // 전투력에 대한 칭호를 매번 출력해도 시간초과에 걸림
+												
 
 		int N = Integer.parseInt(st.nextToken()); // 칭호 갯수
 		int M = Integer.parseInt(st.nextToken()); // 전투력 갯수
