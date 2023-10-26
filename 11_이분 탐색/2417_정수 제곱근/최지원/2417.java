@@ -11,4 +11,21 @@ public class Main {
 		if (q*q < n) q+=1;
 		System.out.println(q);
 	}//main
+
+	//추가: 위의 내용은 이분탐색이 아니라서 이분탐색 방법 찾아봄
+	public static void binarySearch() {
+    		long start = 0;
+    		long end = N;
+    	
+    		while(start <= end) {
+    			long middle = ( start + end ) / 2;
+    		    		
+    			if( Math.pow(middle, 2) >= N ) {
+    				answer = middle;
+    				end = middle - 1;
+    			} else  {
+    				start = middle + 1;
+    			}
+    		}
+    	}
 }//class
