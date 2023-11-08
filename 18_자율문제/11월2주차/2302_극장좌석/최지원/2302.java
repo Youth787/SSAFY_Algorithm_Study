@@ -1,0 +1,123 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+//문제: 1번 좌석부터 N번 좌석까지 모든 좌석이 다 팔렸다. VIP 회원들의 좌석 번호들이 주어졌을 때, 사람들이 좌석에 앉는 서로 다른 방법의 가짓수
+
+///자기의 바로 왼쪽 좌석 또는 바로 오른쪽 좌석으로는 자리를 옮길 수 있다. 
+//VIP 회원들은 반드시 자기 좌석에만 앉아야 하며 옆 좌석으로 자리를 옮길 수 없다.
+
+//좌석의 개수 N(1 이상 40 이하) / 고정석의 개수 M(0 이상 N 이하) / 고정석의 번호가 작은 수부터 큰 수의 순서로 m개의 줄에 입력
+//방법의 가짓수는 2,000,000,000을 넘지 않는다. 
+public class Main {
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		int n = Integer.parseInt(br.readLine());//좌석 개수
+		int m = Integer.parseInt(br.readLine());//고정석 개수
+		int [] dp = new int [41];//경우의 수 
+    //근데 n까지만 구하려고 했는데 백준 런타임에러 (ArrayIndexOutOfBounds) 뜸..우째서
+		
+		boolean [] isVip = new boolean [n+1];//고정석인지 
+		
+		//고정석 boolean 처리
+		for (int i = 0; i < m; i++) {
+			int tmp =Integer.parseInt(br.readLine());
+			isVip[tmp] = true;
+		}
+		
+		//피보나치랑 같은거 같음 = 여러 가능한 경우 중에 끝자리에 마지막 제일 큰 수 오는 경우만 (123까지 경우에서 3이 맨 뒤일때만) 4랑 자리를 바꿀 수 있는 추가 경우 발생
+		dp[0] = 1;		
+		dp[1] = 1;		
+		dp[2] = 2;
+		for (int i = 3 ; i <= 40; i++) {
+			dp[i] = dp[i-1] + dp[i-2];
+		}
+		
+		//true 고정석을 기준으로 구역을 나눈다?
+		int cnt = 0;
+		int ans = 1;
+		
+		for (int i = 1; i <= n; i++) {
+			if (!isVip[i]) {
+				if (i==n) {
+					cnt++;
+					ans *= dp[cnt];
+				} else {
+					cnt++;
+				}
+			}
+			else {
+				//고정석 발견했다면 그 직전 자리가 끝지점
+				ans *= dp[cnt];						
+				//------다음 시작점 설정
+				cnt = 0;//다시 자리 세기 시작
+			}
+		}		
+		System.out.println(ans);
+	}//main
+	
+}//class
+
+
+/*
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+//문제: 1번 좌석부터 N번 좌석까지 모든 좌석이 다 팔렸다. VIP 회원들의 좌석 번호들이 주어졌을 때, 사람들이 좌석에 앉는 서로 다른 방법의 가짓수
+
+///자기의 바로 왼쪽 좌석 또는 바로 오른쪽 좌석으로는 자리를 옮길 수 있다. 
+//VIP 회원들은 반드시 자기 좌석에만 앉아야 하며 옆 좌석으로 자리를 옮길 수 없다.
+
+//좌석의 개수 N(1 이상 40 이하) / 고정석의 개수 M(0 이상 N 이하) / 고정석의 번호가 작은 수부터 큰 수의 순서로 m개의 줄에 입력
+//방법의 가짓수는 2,000,000,000을 넘지 않는다. 
+public class Main {
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		int n = Integer.parseInt(br.readLine());//좌석 개수
+		int m = Integer.parseInt(br.readLine());//고정석 개수
+		int [] dp = new int [n+1];//경우의 수
+		
+		boolean [] isVip = new boolean [n+1];//고정석인지 
+		
+		//고정석 boolean 처리
+		for (int i = 0; i < m; i++) {
+			int tmp =Integer.parseInt(br.readLine());
+			isVip[tmp] = true;
+		}
+		
+		//피보나치랑 같은거 같음 = 가능한 경우의수 중 끝자리가 마지막 수 (123까지 경우에서 3이 맨 뒤)에 오는 경우만 4랑 자리를 바꿀 수 있는 추가 경우 발생
+		dp[0] = 1;		
+		dp[1] = 1;		
+		dp[2] = 2;
+		for (int i = 3 ; i <= n; i++) {
+			dp[i] = dp[i-1] + dp[i-2];
+		}
+		
+		//true 고정석을 기준으로 구역을 나눈다?
+		int cnt = 0;
+		int ans = 1;
+		
+		for (int i = 1; i <= n; i++) {
+			if (!isVip[i]) {
+				if (i==n) {
+					cnt++;
+					ans *= dp[cnt];
+				} else {
+					cnt++;
+				}
+			}
+			else {
+				//고정석 발견했다면 그 직전 자리가 끝지점
+				ans *= dp[cnt];						
+				//------다음 시작점 설정
+				cnt = 0;//다음 고정석으로 넘어가라
+			}
+		}		
+		System.out.println(ans);
+	}//main	
+}//class
+
+*/
