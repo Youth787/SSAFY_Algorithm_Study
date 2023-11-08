@@ -1,4 +1,4 @@
-//푸는 중...
+//틀림
 //package p20923_숫자할리갈리게임;
 //도 수 각 n장. 그라운드에 위에서부터(나중에 놓은 카드부터) 숫자를 보이게 내려놓는다. 도도->수연 순
 //종 : 수연 = 각 카드 더미에서 숫자 합이 5가 되는 순간(두 그라운드에 카드가 존재해야함)
@@ -35,15 +35,58 @@ public class Main {
 		Queue<Integer> groundD = new LinkedList<>();//도도 그라운드
 		Queue<Integer> groundS = new LinkedList<>();//수연 그라운드
 		
-		뭐시기..args.
+		String ans = "";//답
 		
-		if (deckD.size()==0) System.out.println("su");
-		else if (deckS.size()==0) System.out.println("do");
+		//m번 반복문 돌기
+		for (int i = 1; i <= m; i++) {
+			//deque를 stack처럼 활용하여 맨 마지막에 들어간 값을 뺀다.
+			int dodo = deckD.pop();
+			int susu = deckS.pop();
+			
+			//일단 종을 치게 되든 아니든 그 숫자를 그라운드에 넣는다
+			groundD.add(dodo);
+			groundS.add(susu);
+			
+			//종칠 사람 있나 확인
+			//종치는 사람 발생하면 그라운드를 비우면서 상대방꺼 먼저 덱에 queue처럼 밀어넣고, 내것도 밑에 밀어넣는다.
+			if (dodo == 5 || susu == 5) {
+				//도도 종
+				while (!groundS.isEmpty()) deckD.add(groundS.poll());
+				while (!groundD.isEmpty()) deckD.add(groundD.poll());
+			} else if (dodo + susu == 5) {
+				//수연 종
+				while (!groundD.isEmpty()) deckS.add(groundD.poll());
+				while (!groundS.isEmpty()) deckS.add(groundS.poll());
+			} else {
+				//누구도 종을 치지 못한다면 다음 시도로 넘어간다.
+				//덱을 다 쓴 사람 발생 시 승패는 이미 결정
+				if (deckD.size()==0) {
+					ans = "su";
+					break;
+				}
+				else if (deckS.size()==0) {
+					ans = "do";
+					break;
+				}
+				continue;
+			}
+							
+			//덱을 다 쓴 사람 발생 시 승패는 이미 결정
+			if (deckD.size()==0) {
+				ans = "su";
+				break;
+			}
+			else if (deckS.size()==0) {
+				ans = "do";
+				break;
+			}
+		}
+	
+		if (ans =="" && deckD.size() > deckS.size()) ans = "do";
+		else if (ans =="" && deckD.size() < deckS.size()) ans = "su";
+		else if (ans =="" && deckD.size() == deckS.size()) ans = "dosu";
 		
-		
-		if (deckD.size() > deckS.size()) System.out.println("do");
-		else if (deckD.size() < deckS.size()) System.out.println("su");
-		else System.out.println("dosu");
+		System.out.println(ans);
 		
 	}//main
 }//class
@@ -68,6 +111,4 @@ Deque<Integer> deckD = new ArrayDeque<>(); push
 Queue<Integer> groundD = new LinkedList<>();
 Deque<Integer> deckS = new ArrayDeque<>();
 Queue<Integer> groundS = new LinkedList<>();
-
-
 */
