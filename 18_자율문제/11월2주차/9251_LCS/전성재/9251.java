@@ -1,50 +1,42 @@
+[![1.png](https://i.postimg.cc/yxfHVWKS/1.png)](https://postimg.cc/p5n7CWp2)
+
 import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
  
 public class Main {
  
-	static char[] str1;
-	static char[] str2;
- 
-	static Integer[][] dp;
-	
 	public static void main(String[] args) throws IOException {
-    
+ 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		str1 = br.readLine().toCharArray();
-		str2 = br.readLine().toCharArray();
- 
+		char[] str1 = br.readLine().toCharArray();
+		char[] str2 = br.readLine().toCharArray();
 		
-		dp = new Integer[str1.length][str2.length];
+		int length_1 = str1.length;
+		int length_2 = str2.length;
 		
-		System.out.println(LCS(str1.length - 1, str2.length - 1));
+		// 공집합 표현을 위해 인덱스가 한 줄씩 추가 됨 
+		int[][] dp = new int[length_1 + 1][length_2 + 1];
 		
-	}
-	
-	static int LCS(int x, int y) {
-		
-		// 인덱스 밖 (공집합)일 경우 0 반환
-		if(x == -1 || y == -1) {
-			return 0;
-		}
- 
-		// 만약 탐색하지 않은 인덱스라면?
-		if(dp[x][y] == null) {
-			dp[x][y] = 0;
- 
-			// str1의 x번째 문자와 str2의 y번째 문자가 같은지 검사
-			if(str1[x] == str2[y]) {
-				dp[x][y] = LCS(x - 1, y - 1) + 1;
-			}
- 
-			// 같지 않다면 LCS(dp)[x-1][y]와 LCS(dp)[x,y-1] 중 큰 값으로 초기화
-			else {
-				dp[x][y] = Math.max(LCS(x - 1, y), LCS(x, y - 1));
+		// 1부터 시작 (index 0 은 공집합이므로 0의 값을 갖고있음) 
+		for(int i = 1; i <= length_1; i++) {
+			for(int j = 1; j <= length_2; j++) {
+				
+				// (i-1)과 (j-1) 번째 문자가 서로 같다면  
+				if(str1[i - 1] == str2[j - 1]) {
+					// 대각선 위 (i-1, j-1)의 dp에 +1 한 값으로 갱신 
+					dp[i][j] = dp[i - 1][j - 1] + 1;	
+				}
+				
+				// 같지 않다면 이전 열(i-1)과 이전 행(j-1)의 값 중 큰 것으로 갱신  
+				else {
+					dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
+				}
 			}
 		}
+		System.out.println(dp[length_1][length_2]);
 		
-		return dp[x][y];
 	}
+ 
 }
