@@ -1,6 +1,4 @@
-[![1.png](https://i.postimg.cc/yxfHVWKS/1.png)](https://postimg.cc/p5n7CWp2)
-
-	  https://postimg.cc/p5n7CWp2
+https://postimg.cc/p5n7CWp2
 
 import java.io.BufferedReader;
 import java.io.IOException;
