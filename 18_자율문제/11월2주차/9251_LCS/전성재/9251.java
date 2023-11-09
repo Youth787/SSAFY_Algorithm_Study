@@ -16,7 +16,7 @@ public class Main {
 		int length_1 = str1.length;
 		int length_2 = str2.length;
 		
-		// 공집합 표현을 위해 인덱스가 한 줄씩 추가 됨 
+
 		int[][] dp = new int[length_1 + 1][length_2 + 1];
 		
 		// 1부터 시작 (index 0 은 공집합이므로 0의 값을 갖고있음) 
