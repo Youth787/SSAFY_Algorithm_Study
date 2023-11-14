@@ -8,7 +8,6 @@ public class Main {
 	static int answer = Integer.MAX_VALUE;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		N = sc.nextInt();
 		array = new int[N + 1][N + 1];
