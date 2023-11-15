@@ -56,6 +56,7 @@ public class Main16113_시그널 {
 				for (int k=0; k<10; k++) {
 					int idx = 0;
 					if (findNum<10) break; //숫자 찾았으면 더 안해 
+					if (k==1) continue; //1은 해볼필요 없으니 넘어가 
 					outer: for (int i=r; i<r+5; i++) {
 						for (int j=c; j<c+3; j++) {
 							if (arr[i][j]!=numbers[k][0].charAt(idx++)) {
