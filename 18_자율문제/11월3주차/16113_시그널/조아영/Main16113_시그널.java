@@ -24,7 +24,7 @@ public class Main16113_시그널 {
 			for (int j=0; j<m; j++) {
 				arr[i][j] = st.charAt(cnt++);
 			}
-//			System.out.println(arr[i]);
+			System.out.println(arr[i]);
 		}
 		
 		numbers[0][0] = "####.##.##.####";
@@ -49,14 +49,23 @@ public class Main16113_시그널 {
 		if (c==m) return; //만약 배열 넘어가면 리턴해야 됨 
 		else if (arr[r][c]=='.') find(r, c+1); //해당 열의 첫칸이 공백이면 다음 열로 넘어가 
 		else { //공백이 아니면(검은색이면) 
-			if (arr[r][c+1]=='.') { //그 다음열 첫칸이 공백이면 숫자 1임 
-				sb.append("1");
+			if (c==m-1 || (c+1<m && arr[r][c+1]=='.')) { //그 다음열 첫칸이 공백이면 숫자 1 또는 4임 
+				if (c==m-1 || arr[r+2][c+1]=='.') {
+					sb.append("1");
+					find(r,c+1);
+					return;
+				}
+				else {
+					sb.append("4");
+					find(r,c+3);
+					return;
+				}
 			} else { //다음열 첫칸이 공백 아니면 나머지 숫자 중 뭔지 찾아야 돼 
 				int findNum = 10;
 				for (int k=0; k<10; k++) {
 					int idx = 0;
 					if (findNum<10) break; //숫자 찾았으면 더 안해 
-					if (k==1) continue; //1은 해볼필요 없으니 넘어가 
+					if (k==1 || k==4) continue; //1은 해볼필요 없으니 넘어가 
 					outer: for (int i=r; i<r+5; i++) {
 						for (int j=c; j<c+3; j++) {
 							if (arr[i][j]!=numbers[k][0].charAt(idx++)) {
@@ -69,8 +78,9 @@ public class Main16113_시그널 {
 					}
 				}
 				sb.append(findNum); //정답 문자열에 찾은 숫자 넣어줘 
+				find(r,c+3); //그리고 다음 숫자 ㄱㄱ 
+				return;
 			}
-			find(r,c+3); //그리고 다음 숫자 ㄱㄱ 
 			
 		} //else end 
 	} //find method end 
