@@ -18,7 +18,7 @@
     <td align="center">01</td>
     <td align="center">✅</td>
     <td align="center">lv1</td>
-    <td align="center">프로그래머스 lv1</td>
+    <td align="center">프로그래머스</td>
     <td align="center">모의고사</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">바로가기</a></td>
   </tr>
@@ -26,7 +26,7 @@
     <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center">lv2</td>
-    <td align="center">프로그래머스 lv2</td>
+    <td align="center">프로그래머스</td>
     <td align="center">구명보트</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">바로가기</a></td>
   </tr>
