@@ -1,7 +1,6 @@
 import java.io.*;
 import java.util.*;
 
-//https://loosie.tistory.com/165
 public class Main2644_촌수계산 {
 	
 	static List<Integer>[] relation;
