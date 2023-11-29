@@ -3,8 +3,6 @@ import java.util.*;
 class 구명보트 {
     public int solution(int[] people, int limit) {      
         int first = 0;
-//        int last = people.length-1;
-
         Arrays.sort(people);//먼저 정렬
 
         int ans = 0;
@@ -14,14 +12,6 @@ class 구명보트 {
         	} 
         	ans++;
         }
-        
-//        while (first <= last) {
-//            ans += 1;
-//            if (people[first] + people[last] <= limit) {
-//                first += 1;
-//            }
-//            last -= 1;
-//        }
         return ans;
     }
 }
