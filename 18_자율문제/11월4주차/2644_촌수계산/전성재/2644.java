@@ -1,54 +1,56 @@
-import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+//DFS
+public class Main{
+
+	static int N, from, to, result=-1; // result를 -1로 초기화!
+	static boolean[][] map;
+	static boolean[] visited;
 	
-	static List<Integer>[] relation;
-	static boolean[] checked;
-	static int res = -1;
-	public static void main(String[] args) throws IOException{
+	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = null;
 		
-		int n = Integer.parseInt(br.readLine());
-		relation = new ArrayList[n+1];
-		checked = new boolean[n+1];
-		for(int i=1; i<n+1; i++) {
-			relation[i] = new ArrayList<>();
-		}
+		N = Integer.parseInt(br.readLine()); // 사람의 수
+		st = new StringTokenizer(br.readLine());
+		from = Integer.parseInt(st.nextToken());
+		to = Integer.parseInt(st.nextToken());
 		
-		StringTokenizer st = new StringTokenizer(br.readLine());
-		
-		int x = Integer.parseInt(st.nextToken());
-		int y = Integer.parseInt(st.nextToken());
-		
-		int l = Integer.parseInt(br.readLine());
-		
-		for(int i=0; i<l; i++) {
+		map = new boolean[N+1][N+1];
+		int M = Integer.parseInt(br.readLine());
+		for (int i = 0; i < M; i++) { // 관계 개수만큼만 돌기!
 			st = new StringTokenizer(br.readLine());
-			int p = Integer.parseInt(st.nextToken());
-			int c = Integer.parseInt(st.nextToken());
-			relation[p].add(c);
-			relation[c].add(p);
+			int v1 = Integer.parseInt(st.nextToken());//부모
+			int v2 = Integer.parseInt(st.nextToken());//자식
+			
+			map[v1][v2]=map[v2][v1]=true;
+		}//input
+		
+		visited = new boolean[N+1];
+		dfs(from, 0);
+		
+		System.out.println(result);
+	}//end of main
+
+	private static void dfs(int p, int d) {
+		
+		//방문처리
+		visited[p] = true;
+		
+		//목표
+		if(p==to) {
+			result=d;
+			return;
 		}
 		
-		dfs(x,y, 0);
-		System.out.println(res);
-	}
-	
-	static void dfs(int start, int end, int cnt) {
-		if(start == end) {
-			res = cnt;
-			return; 
-		}
-		
-		checked[start] = true;
-		for(int i=0; i<relation[start].size(); i++) { 
-			int next = relation[start].get(i);
-			if(!checked[next]) {
-				dfs(next, end, cnt+1);
+		for (int i = 1; i <= N; i++) {
+			if(map[p][i] && !visited[i]){
+				dfs(i, d+1); // 관계가 있다면 d+1!
 			}
 		}
-	}
-}
+	}//end of dfs
+	
+}//end of class
