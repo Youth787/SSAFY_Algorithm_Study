@@ -14,8 +14,8 @@ public class Main {
 		String str = br.readLine();//기준
 		
 		for(int i=0;i<str.length();i++) {
-            abc[str.charAt(i) - 'A']++;//몇번째 알파벳인지(0번째부터), 개수 체크
-        }
+            		abc[str.charAt(i) - 'A']++;//몇번째 알파벳인지(0번째부터), 개수 체크
+        	}
 		
 		int ans = 0;//답
 		
@@ -31,34 +31,34 @@ public class Main {
 			}
 			
 			int cnt = 0;			
-            // 비교할 문자열의 알파벳 비교
-            for(int j=0;j<nowStr.length();j++){
-                int idx = nowStr.charAt(j) - 'A';
-                if(chk[idx]>0){//찾는 알파벳이 있다면
-                    cnt++;//+1
-                    chk[idx]--;//하나 깎고
-                }
-            }
+            		// 비교할 문자열의 알파벳 비교
+            		for(int j=0;j<nowStr.length();j++){
+               			int idx = nowStr.charAt(j) - 'A';
+                		if(chk[idx]>0){//찾는 알파벳이 있다면
+                    			cnt++;//기준과 비교대상 단어에 공통적으로 있는 알파벳 카운트+1
+                    			chk[idx]--;//하나 깎고
+                		}
+            		}
             
-            //확인하는 과정
-            if(str.length()-1 == nowStr.length()){ //기준 단어에서 알파벳 하나 빼기
-            	if(cnt == nowStr.length()) {
-            		ans++;
-            	}
-            } else if(str.length()+1 == nowStr.length()){//새로운 단어에서 알파벳 하나 더하기
-            	if(cnt == str.length()) {
-            		ans++;
-            	}
-            } else if(str.length() == nowStr.length()){//새로운 단어의 알파벳 하나 교환
-            	if(cnt == str.length()) {
-            		ans++;
-            	}
-            	else if(cnt == str.length()-1) {
-            		ans++;
-            	}
-            }
-			
-		}
+            		//확인하는 과정
+            		if(str.length()-1 == nowStr.length()){ //기준 단어에서 알파벳 하나 빼기
+            			if(cnt == nowStr.length()) {
+            				ans++;
+            			}//기준 단어가 알파벳이 하나 더 많고, 비교대상 단어의 알파벳 수와 cnt가 같다 = 다 같고 알파벳 하나 차이
+            		} else if(str.length()+1 == nowStr.length()){//새로운 단어에서 알파벳 하나 더하기
+            			if(cnt == str.length()) {
+            				ans++;
+            			}//비교대상 단어가 알파벳이 하나 더 많고, 기준 단어 알파벳 수와 cnt가 같다 = 다 같고 알파벳 하나 차이
+            		} else if(str.length() == nowStr.length()){//새로운 단어의 알파벳 하나 교환
+            			if(cnt == str.length()) {
+            				ans++;
+            			}//두 단어 길이는 서로 같은데 cnt가 기준단어 알파벳 수와 같다? = 완전히 [같은 구성]
+            			else if(cnt == str.length()-1) {
+            				ans++;
+            			}//두 단어 길이가 같고 기준 단어 알파벳 하나 빼고 다 겹치는 경우 = (비교대상 단어에서) 혼자 다른 그 알파벳을 교환
+            		}			
+		}//각각 단어 확인
+		
 		System.out.println(ans);
 	}//main
 }//class
