@@ -1,82 +1,75 @@
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
+import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
 public class Main {
-    static char[][] arr;
-    static boolean[][] visited;
-    static int r,c,totalW,totalS, wolf, sheep;
-    static int[] dx = {-1,0,1,0};
-    static int[] dy = {0,-1,0,1};
+	static int sh, tosh; // 양의 수
+	static int wo, towo; // 늑대 수
+	static char map[][];
+	static int[] dx = { -1, 1, 0, 0 };
+	static int[] dy = { 0, 0, -1, 1 };
+	static int r;
+	static int c;
+	static boolean visited[][];
 
-    public static void main(String[] args) throws Exception{
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        StringBuffer sb = new StringBuffer();
-        StringTokenizer st = new StringTokenizer(br.readLine()," ");
-        r = Integer.parseInt(st.nextToken());
-        c = Integer.parseInt(st.nextToken());
-        totalS = 0;
-        totalW = 0;
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		r = Integer.parseInt(st.nextToken());
+		c = Integer.parseInt(st.nextToken());
+		visited = new boolean[r][c];
+		map = new char[r][c];
 
-        arr = new char[r][c];
-        visited = new boolean[r][c];
+		for (int i = 0; i < r; i++) {
+			String s = br.readLine();
+			for (int j = 0; j < c; j++) {
+				map[i][j] = s.charAt(j);
+			}
+		} // 입력 받기
 
-        for(int i = 0; i < r; i++){
-            String input = br.readLine();
-            for(int j = 0; j< c; j++){
-                arr[i][j] = input.charAt(j);
-            }
-        }
+		for (int i = 0; i < r; i++) {
+			for (int j = 0; j < c; j++) {
+				wo = 0;
+				sh = 0;
+				if (!visited[i][j]) {
+					if (map[i][j] != '#') {
+						dfs(i, j);
+					}
+				}
+				if (wo < sh) {
+					wo = 0;
+				} else {
+					sh = 0;
+				}
+				towo += wo;
+				tosh += sh;
+			}
+		}
+		System.out.print(tosh + " ");
+		System.out.print(towo);
 
-        for(int i = 0; i< r; i++){
-            for(int j = 0; j< c; j++){
-                wolf = 0;
-                sheep = 0;
-                if(!visited[i][j]) {
-                    if(arr[i][j] == 'v' || arr[i][j] == '.' || arr[i][j] == 'o') {
-                        solve(i, j);
-                    }
-                }
-                if(sheep > wolf){
-                    wolf = 0;
-                }else{
-                    sheep = 0;
-                }
-                totalW += wolf;
-                totalS += sheep;
-            }
-        }
-        sb.append(totalS).append(" ").append(totalW);
-        bw.write(sb.toString());
-        bw.flush();
+	}
 
-        bw.close();
-        br.close();
-    }
+	static void dfs(int x, int y) {
+		visited[x][y] = true;
+		int dr = 0;
+		int dc = 0;
+		if (map[x][y] == 'v') {
+			wo++;
+		} else if (map[x][y] == 'o') {
+			sh++;
+		}
+		for (int i = 0; i < 4; i++) {
+			dr = x + dx[i];
+			dc = y + dy[i];
 
-    private static void solve(int x, int y){
-        visited[x][y] = true;
+			if (dr >= 0 && dc >= 0 && dr < r && dc < c) {
+				if (!visited[dr][dc] && map[dr][dc] != '#') {
+					dfs(dr, dc);
+				}
+			}
+		}
+	}
 
-        if(arr[x][y] == 'o'){
-            sheep += 1;
-        }else if(arr[x][y] == 'v'){
-            wolf += 1;
-        }
-
-        for(int i = 0; i< 4; i++){
-            int nextX = x + dx[i];
-            int nextY = y + dy[i];
-
-            if(nextX >= 0 && nextY >= 0 && nextX < r && nextY < c){
-                if(!visited[nextX][nextY]){
-                    if(arr[nextX][nextY] == '.' || arr[nextX][nextY] == 'v' || arr[nextX][nextY] == 'o'){
-                        solve(nextX, nextY);
-                    }
-                }
-            }
-        }
-    }
 }
