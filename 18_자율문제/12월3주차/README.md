@@ -19,13 +19,13 @@
     <td align="center">✅</td>
     <td align="center">카카오 인턴 기출</td>
     <td align="center">프로그래머스</td>
-    <td align="center">두큐합같게만들기</td>
+    <td align="center">두 큐 합 같게 만들기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center">lv2</td>
+    <td align="center">Lv2</td>
     <td align="center">프로그래머스</td>
     <td align="center">미로탈출</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/159993">바로가기</a></td>
