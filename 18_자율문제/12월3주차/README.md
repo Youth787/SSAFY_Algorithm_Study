@@ -2,13 +2,13 @@
 
 순서대로 푸는게 좋아요.
 
-추천 문제는 (✅ 체크표시) 했습니다.
+필수로 풀어야하는 문제는 (✅ 체크표시) 했습니다.
 
 <br/>
 <table>
   <tr>
     <td align="center">순서</td>
-    <td align="center">추천 문제</td>
+    <td align="center">필수 문제</td>
     <td align="center">난이도</td>
     <td align="center">문제 번호</td>
     <td align="center">문제 이름</td>
