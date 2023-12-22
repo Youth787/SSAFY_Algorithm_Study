@@ -54,13 +54,5 @@
     <td align="center">트리</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/4803">바로가기</a></td>
   </tr>
-  <tr>
-    <td align="center">06</td>
-    <td align="center"> </td>
-    <td align="center">Lv4</td>
-    <td align="center">SQL 프로그래머스</td>
-    <td align="center">자동차 대여 기록별 대여금액 구하기</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/151141">바로가기</a></td>
-  </tr>
 </table>
 <br/><br/>
