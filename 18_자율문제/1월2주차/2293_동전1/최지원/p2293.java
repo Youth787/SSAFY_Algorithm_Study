@@ -3,6 +3,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/*
+ * n가지 종류 동전으로 k가치를 만드는 경우의 수
+ */
+
 public class Main {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int n; //동전 종류
