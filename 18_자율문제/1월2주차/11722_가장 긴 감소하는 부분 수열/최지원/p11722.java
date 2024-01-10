@@ -6,7 +6,6 @@ import java.util.StringTokenizer;
 
 /*
  * 수열 a에서 가장 긴 감소하는 부분 수열을 구함
- * 재귀로 끝까지 인덱스 다 방문했으면 그 당시의 부분수열 길이를 현재 저장한 최댓값과 비교
  * 
  * */
 public class Main {
