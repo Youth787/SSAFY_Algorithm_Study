@@ -33,7 +33,7 @@
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">7569</td>
     <td align="center">토마토</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/7569">바로가기</a></td>
@@ -41,7 +41,7 @@
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">11729</td>
     <td align="center">하노이탑이동순서</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/11729">바로가기</a></td>
@@ -49,7 +49,7 @@
   <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">15486</td>
     <td align="center">퇴사합니다</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/15486">바로가기</a></td>
