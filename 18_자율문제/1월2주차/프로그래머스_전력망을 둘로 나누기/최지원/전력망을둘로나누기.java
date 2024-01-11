@@ -48,15 +48,14 @@ class Solution {
     }
  
     static int DFS(int v, boolean[] visited) {
-        visited[v] = true;
-        int cnt = 1;
+        visited[v] = true; //지금 그 노드 방문했다
+        int cnt = 1; //현재 노드를 포함하여 탐색 1번 했다
  
-        for (int next : adjList[v]) {
-            if (!visited[next]) {
-                cnt += DFS(next, visited);
-            }
+        for (int next : adjList[v]) { //지금 노드에서 간선으로 연결된 노드들 순회
+            if (!visited[next]) { //방문 안했다면
+                cnt += DFS(next, visited); //계속 dfs 파고 들어가서
         }
  
-        return cnt;
+        return cnt; //현재 노드랑 연결된 노드 수
     }
 }
