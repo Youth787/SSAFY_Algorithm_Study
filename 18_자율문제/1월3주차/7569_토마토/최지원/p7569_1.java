@@ -1,3 +1,4 @@
+//아니 왜 -1만 나오는데;
 package p7569_토마토;
 
 import java.io.BufferedReader;
