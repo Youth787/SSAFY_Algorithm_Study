@@ -26,14 +26,8 @@ public class Main {
 		int count = hanoi(N, 1, 2, 3, 0, sb);
 		
 		bw.write(String.valueOf(count)+"\n");
-		bw.write(sb.toString());
-		
-		br.close();
-		bw.flush();
-		bw.close();
-		
-		
-	}
+		bw.write(sb.toString());	
+	} //main
 	
 	public static int hanoi(int n, int start, int sub, int to, int count, StringBuilder sb) {
 		
