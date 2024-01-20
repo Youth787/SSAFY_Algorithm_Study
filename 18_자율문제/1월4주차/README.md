@@ -33,7 +33,7 @@
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">2448</td>
     <td align="center">별찍기 11</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/2448">바로가기</a></td>
@@ -41,7 +41,7 @@
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">17406</td>
     <td align="center">배열 돌리기 4</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/17406">바로가기</a></td>
@@ -49,7 +49,7 @@
   <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">16236</td>
     <td align="center">아기상어</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/16236">바로가기</a></td>
