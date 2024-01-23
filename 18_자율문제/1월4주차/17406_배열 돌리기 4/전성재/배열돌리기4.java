@@ -119,4 +119,3 @@ public class Main {
 		}
 	}
 }
-출처: https://read-me.tistory.com/entry/JAVABOJG4-17406-배열-돌리기-4 [초보그래머:티스토리]
