@@ -38,7 +38,7 @@ class Solution {
         }
         
         return answer;
-    } //main
+    } //Solution
       
     static void process(String name, int total) {
         if (name.equals("-") || total == 0) {
