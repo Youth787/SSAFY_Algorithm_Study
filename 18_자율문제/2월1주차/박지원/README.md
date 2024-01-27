@@ -20,7 +20,7 @@
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
     <td align="center">17478</td>
     <td align="center">재귀함수가 뭔가요?</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17478">바로가기</a></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/17478">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
@@ -28,7 +28,7 @@
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
     <td align="center">18511</td>
     <td align="center">큰 수 구성하기</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/18511">바로가기</a></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/18511">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>

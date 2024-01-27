@@ -28,7 +28,7 @@
     <td align="center">LV 2</td>
     <td align="center">Softeer</td>
     <td align="center">바이러스</td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14mbSaAEwCFAYD">바로가기</a></td>
+    <td align="center"><a href="https://softeer.ai/practice/6284">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
