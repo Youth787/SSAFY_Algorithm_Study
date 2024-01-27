@@ -36,7 +36,7 @@
     <td align="center">LV 2</td>
     <td align="center">Softeer</td>
     <td align="center">금고털이</td>
-    <td align="center"><a href="https://softeer.ai/practice/6284">바로가기</a></td>
+    <td align="center"><a href="https://softeer.ai/practice/6288">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">04</td>
