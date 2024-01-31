@@ -24,17 +24,17 @@ public class Solution1222 {
 			if (!tmp.isEmpty()) sb.append(tmp.pop());//반복문 끝났는데 스택에 연산자 남아있으면 꺼내서 식에 써줘
 			String newStr = sb.toString();
 //			System.out.println(newStr);
-			Stack<Integer> stack = new Stack<>(); 
+			Stack<Integer> stack = new Stack<>(); //새 스택 만들어 
 			for (int i=0; i<length; i++) {
-				char c = newStr.charAt(i);
-				if (c!='+') stack.push(c-'0');
-				else {
+				char c = newStr.charAt(i); 
+				if (c!='+') stack.push(c-'0'); //숫자면 스택에 넣음 
+				else { //연산자면 스택에서 숫자 두개 꺼내서 더해줌 
 					int a = stack.pop();
 					int b = stack.pop();
-					stack.push(b+a);
+					stack.push(b+a); //그리고 그 더한 숫자를 다시 스택에 넣음 
 				}
 			}
-			int ans = stack.pop();
+			int ans = stack.pop(); //마지막에 스택에 남아있는 숫자가 정답
 			System.out.printf("#%d %d\n",t,ans);
 		}//tc
 	}//main
