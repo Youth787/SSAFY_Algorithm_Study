@@ -42,6 +42,7 @@ public class Main {
 
             que.add(new int[]{cur[0], cur[1], 0}); // 현재 상어의 위치와 이동한 거리를 큐에 추가
             visit[cur[0]][cur[1]] = true;
+            //cur[0]은 현재 상어 위치의 y좌표를 나타내며, cur[1]은 x좌표를 나타냅니다.
 
             boolean ck = false; // 상어가 먹이를 먹었는지 체크할 변수
 
