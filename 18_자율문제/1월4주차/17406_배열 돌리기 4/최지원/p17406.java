@@ -14,6 +14,9 @@ import java.util.ArrayList;
  * 회전 연산은 모두 한 번씩 사용해야 하며, 순서는 임의로 정해도 된다 = 순서를 바꿔도 된다....난리났다 백트래킹
 */
 
+//전체적인 풀이 순서. 입력 다 받고 
+//=> 회전 연산 순서를 바꿔가며 모든 경우의 수 탐색 [백트래킹]
+//각 경우의 연산 수행하고 배열 변경
 public class Main {   
     static class nums {
         int r, c, s;
@@ -60,7 +63,7 @@ public class Main {
 
     static void backtracking(int depth) {
         if (depth == k) {
-            calculation();
+            calculation(); //회전 연산을 모두 진행했을때 => 계산을 해본다
             return;
         }
         // 기존 배열 복사
@@ -76,6 +79,7 @@ public class Main {
             visited[i] = true; //방문처리
             rotation(rcs.get(i)); //회전 정보 불러와서 바꾸고
             backtracking(depth + 1); //안쪽도 회전
+		
             visited[i] = false; //복구1
             rollback(temp); //복구2
         }
