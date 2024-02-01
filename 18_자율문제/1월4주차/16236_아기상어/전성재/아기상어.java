@@ -2,8 +2,8 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 
 public class Main {
-    static int[] dy = {-1, 0, 0, 1}; // Y좌표 이동 상하좌우
-    static int[] dx = {0, -1, 1, 0}; // X좌표 이동 상하좌우
+    static int[] dy = {-1, 0, 0, 1}; // 좌표 이동 상좌우하
+    static int[] dx = {0, -1, 1, 0}; 
     static int[][] map; // 맵 정보 저장
 
     public static void main(String[] args) {
