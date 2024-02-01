@@ -28,9 +28,16 @@ public class Main {
         int move = 0; // 움직인 총 거리
 
         while (true) {
+            // que는 BFS를 수행하는 동안 상어가 이동할 위치를 저장하는 우선순위 큐
             PriorityQueue<int[]> que = new PriorityQueue<>((o1, o2) ->
                     o1[2] != o2[2] ? Integer.compare(o1[2], o2[2]) : (o1[0] != o2[0] ? Integer.compare(o1[0], o2[0]) : Integer.compare(o1[1], o2[1]))
             );
+            
+            // - Comparator는 세 가지 기준으로 우선순위를 정합니다:
+            
+            // 1. 이동 거리(o1[2]와 o2[2]): 먼저 이동 거리가 짧은 위치를 높은 우선순위로 처리합니다.
+            // 2. Y좌표(o1[0]와 o2[0]): 거리가 같을 경우 Y좌표가 작은 위치를 높은 우선순위로 처리합니다.
+            // 3. X좌표(o1[1]와 o2[1]): 거리와 Y좌표가 같을 경우 X좌표가 작은 위치를 높은 우선순위로 처리합니다.
             boolean[][] visit = new boolean[N][N];
 
             que.add(new int[]{cur[0], cur[1], 0}); // 현재 상어의 위치와 이동한 거리를 큐에 추가
