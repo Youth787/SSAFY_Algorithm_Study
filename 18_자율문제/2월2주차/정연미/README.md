@@ -17,42 +17,42 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center">D2</td>
-     <td align="center">SWEA 1288 </td>
-    <td align="center">새로운 불면증 치료법</td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+     <td align="center">17298</td>
+    <td align="center">오큰수</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/17298">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center">D3</td>
-    <td align="center">SWEA 10726 </td>
-    <td align="center">이진수 표현</td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">2493</td>
+    <td align="center">탑</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2493">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center">D4</td>
-    <td align="center">SWEA 1231 </td>
-    <td align="center">[S/W 문제해결 기본] 9일차 - 중위순회 </td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD">바로가기</a></td>
+    <td align="center">Lv2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">전화번호 목록</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center">D4</td>
-    <td align="center">SWEA 1232 </td>
-    <td align="center">[S/W 문제해결 기본] 9일차 - 사칙연산 </td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD&">바로가기</a></td>
+    <td align="center">Lv2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">게임 맵 최단거리</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
-    <td align="center">D5</td>
-    <td align="center">SWEA 1248 </td>
-    <td align="center">[S/W 문제해결 응용] 3일차 - 공통조상 </td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD">바로가기</a></td>
+    <td align="center">Lv2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">실패율</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>

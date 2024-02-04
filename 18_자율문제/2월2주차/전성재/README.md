@@ -19,7 +19,7 @@
     <td align="center">✅</td>
     <td align="center">Lv1</td>
     <td align="center">프로그래머스</td>
-    <td align="center">진법 뒤집기</td>
+    <td align="center">3진법 뒤집기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935">바로가기</a></td>
   </tr>
       <tr>
