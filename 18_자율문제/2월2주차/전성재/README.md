@@ -14,46 +14,47 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-  <tr>
+    <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center">D2</td>
-     <td align="center">SWEA 1288 </td>
-    <td align="center">새로운 불면증 치료법</td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN">바로가기</a></td>
+    <td align="center">Lv1</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">진법 뒤집기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935">바로가기</a></td>
   </tr>
-  <tr>
+      <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center">D3</td>
-    <td align="center">SWEA 10726 </td>
-    <td align="center">이진수 표현</td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXRSXf_a9qsDFAXS">바로가기</a></td>
+    <td align="center">Lv1</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">약수의 합</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12928">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center">D4</td>
-    <td align="center">SWEA 1231 </td>
-    <td align="center">[S/W 문제해결 기본] 9일차 - 중위순회 </td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD">바로가기</a></td>
+    <td align="center">Lv2</td>
+     <td align="center">프로그래머스</td>
+    <td align="center">실패율</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">바로가기</a></td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center">D4</td>
-    <td align="center">SWEA 1232 </td>
-    <td align="center">[S/W 문제해결 기본] 9일차 - 사칙연산 </td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD&">바로가기</a></td>
+    <td align="center">Lv2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">과제 진행하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/176962">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
-    <td align="center">D5</td>
-    <td align="center">SWEA 1248 </td>
-    <td align="center">[S/W 문제해결 응용] 3일차 - 공통조상 </td>
-    <td align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD">바로가기</a></td>
+    <td align="center">Lv2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">방문 길이</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/49994">바로가기</a></td>
   </tr>
+
 </table>
 <br/><br/>
 
