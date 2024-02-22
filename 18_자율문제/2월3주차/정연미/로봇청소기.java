@@ -59,21 +59,6 @@ public class 로봇청소기 {
         // 후진한다.
         int ar = r-direction[d][0];
         int ac = c-direction[d][1];
-
-        // 후진할 수 있는 경우에만 후진
-        //if(ar >0 && ac > 0 && ar < N-1 && ac < M-1) { //은 안된다 왜지?
-
-        /* 예외 
-        7 7
-        4 2 1
-        1 1 1 1 1 1 1
-        1 0 0 0 1 0 1
-        1 0 1 1 0 0 1
-        1 0 0 0 0 1 1
-        1 0 0 1 0 0 1
-        1 0 0 0 0 0 1
-        1 1 1 1 1 1 1
-        */
         
         if(arr[ar][ac]!=1){
             cleanroom(ar, ac);
