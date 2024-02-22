@@ -42,3 +42,27 @@ public class 문자열잘라내기 {
         System.out.println(cnt);
     }
 }
+
+/*
+Stirng으로 형변환하는 메서드 
+
+1. String.valueOf()
+: null값이 들어가면 null 반환 
+2. Object.toString()
+: null 값이 들어가면 오류. 
+
+*/
+
+/*
+문자열 자르기 
+substring
+
+ex)
+String str = "Hello";
+
+System.out.println(str.substring(2)); // "llo"        
+System.out.println(str.substring(5)); // ""        
+System.out.println(str.substring(-1)); // StringIndexOutOfBoundsException        
+System.out.println(str.substring(6)); // StringIndexOutOfBoundsException
+
+*/
