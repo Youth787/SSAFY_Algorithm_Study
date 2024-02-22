@@ -100,9 +100,9 @@ public class Main {
 				}
 			}
 		}	
-		int p = sum / tmq.size();
-		while (!tmq.isEmpty()) {
-			Point cur = tmq.poll();
+		int p = sum / tmpQueue.size();
+		while (!tmpQueue.isEmpty()) {
+			Point cur = tmpQueue.poll();
 			map[cur.r][cur.c] = p; //연합국 인구 평균으로 값을 바꾸는 것 = 인구 이동 처리
 		} 
 	} //bfs
