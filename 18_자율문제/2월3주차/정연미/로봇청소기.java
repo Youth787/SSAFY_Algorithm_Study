@@ -1,10 +1,9 @@
+package ALGO_STUDY.Fev_3주차;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
-// 아직 문제 있다. 
 
 public class 로봇청소기 {
     static int clean=0;
@@ -32,45 +31,52 @@ public class 로봇청소기 {
                 arr[i][j] = Integer.parseInt(st.nextToken());
             }
         }
-
-        // 맨처음에는 r,c위치의 칸을 청소한다.
-        arr[r][c] = 2;
-        clean++;
         // 탐색하는 메서드 실행
         cleanroom(r,c);
         // 청소한 칸의 개수 출력
         System.out.println(clean);
-
     }
 
     // 4방향 탐색.(왼쪽으로 회전하며) 0인 칸이면, 해당 칸으로 이동하고., 해당 칸을 청소 => 다시 4방향 탐색
     // 0인 칸이 없으면, d방향 바라본채로 후진. 후진후, 해당칸을 청소(0이면) 청소후 다시 4방향 탐색
     // 후진할 수 없으면 메서드 빠져나옴.
     public static void cleanroom(int r, int c){
+        if(arr[r][c] == 0){ // 청소하지 않은 공간이면
+            arr[r][c] = 2; // 청소한다.
+            clean++;
+        }
         // 현재 d 먼저 탐색, 시계방향으로 회전하며 0인 칸찾기.
         for(int i=0; i<4; i++){
-//            dir(d);
+            d = (d+3)%4;
             int ar = r+direction[d][0];
             int ac = c +direction[d][1];
-            if(ar>=0 && ac >=0 && ar <N && ac <M && arr[ar][ac]==0){
-                arr[ar][ac] = 2; // 앞으로 나아가서 해당칸을 청소
-                clean++;
+            if(arr[ar][ac]==0){
                 cleanroom(ar,ac); // 다시 4방향 탐색 들어가기
                 return;
             }
-            d = (d+1)%4;
         }
         // 0인 칸이 없다!
-//        dir(d);
+        // 후진한다.
         int ar = r-direction[d][0];
         int ac = c-direction[d][1];
-        if(ar>0 && ac >0 && ar <N-1 && ac <M-1){
-            if(arr[ar][ac]==0) {
-                arr[ar][ac] = 1; // 앞으로 나아가서 해당칸을 청소
-                clean++;
-            }
-            cleanroom(ar,ac); // 다시 4방향 탐색 들어가기
-            return;
+
+        // 후진할 수 있는 경우에만 후진
+        //if(ar >0 && ac > 0 && ar < N-1 && ac < M-1) { //은 안된다 왜지?
+
+        /* 예외 
+        7 7
+        4 2 1
+        1 1 1 1 1 1 1
+        1 0 0 0 1 0 1
+        1 0 1 1 0 0 1
+        1 0 0 0 0 1 1
+        1 0 0 1 0 0 1
+        1 0 0 0 0 0 1
+        1 1 1 1 1 1 1
+        */
+        
+        if(arr[ar][ac]!=1){
+            cleanroom(ar, ac);
         }
     } // method end
 
