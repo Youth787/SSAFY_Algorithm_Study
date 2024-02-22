@@ -15,17 +15,20 @@ public class Main {
 			this.r = r;
 			this.c = c;
 		}
-	} //Point라는 class를 만들어준다
+	} //Point라는 class를 만들어준다(각 국가 위치)
 
 	static int N; //n*n
-	static int L; //국경선 열지 말지 결정하는 범위(왼)
+	static int L; //국경선 열지 말지 결정하는 인구 차이 범위(왼)
 	static int R; //(오)
-	static boolean flag;
-	static int[][] map;
-	static boolean[][] v;
+	static boolean flag; //인구 이동 발생했는지 확인
+	static int[][] map; //인구 수 저장
+	static boolean[][] visited; //방문처리
 
 	static int[] dr = { 1, 0, -1, 0 };
 	static int[] dc = { 0, -1, 0, 1 }; //하 좌 상 우
+
+	static Queue<Point> queue; //BFS 용 queue
+	static Queue<Point> tmpQueue; //연합 국가 임시 저장 용 queue
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -46,40 +49,36 @@ public class Main {
 		int answer = -1;
 
 		while (flag) {
-			v = new boolean[N][N]; //하루마다 방문 배열 다시 만들어줘야함
-			flag = false; //오늘은 인구 이동 shareCountry() 하기로 했음. 이제 false로 바꿔놓고
-
-			shareCountry(); //만약 queue에 더 들어가서 인구 이동이 발생할 수 있다면 플래그가 이 과정에서 true로 바뀔 것
-			answer++; //하루 추가
+			visited = new boolean[N][N]; //하루 시작할 때마다 방문 배열 다시 초기화해줘야 함
+			flag = false; //원래 true = 오늘은 인구 이동하니까 이제 false로 바꿔놓고
+			shareCountry(); //인구이동 처리. 만약 queue에 뭐가 더 들어가서 인구 이동이 발생할 수 있다면 플래그가 이 과정에서 true로 바뀔 것
+			answer++; //인구이동하고 하루가 갔다
 
 		}
 		System.out.println(answer);
 	} //main
-
-	static Queue<Point> que;
-	static Queue<Point> tmq;
 	
 	static void shareCountry() {
-		que = new LinkedList<>();
+		queue = new LinkedList<>();
 		for (int r = 0; r < N; r++) {
 			for (int c = 0; c < N; c++) {
-				if (!v[r][c]) {
-					que.offer(new Point(r, c));
-					v[r][c] = true;
-					int sum = map[r][c];
-					tmq = new LinkedList<>();
-					tmq.offer(new Point(r, c));
-					bfs(sum);
+				if (!visited[r][c]) { //아직 방문 안한 국가라면
+					queue.offer(new Point(r, c)); //bfs 탐색을 위해 queue에 추가하고
+					visited[r][c] = true; //방문처리하고
+					int sum = map[r][c]; //현재 국가의 인구 수로 sum을 초기화하고
+					tmpQueue = new LinkedList<>(); //연합을 이루는 국가들 저장하는 queue 초기화하고
+					tmpQueue.offer(new Point(r, c)); //현재 국가를 연합 큐에 추가
+					bfs(sum); //bfs 갔다오면 sum 값이 이제 각 국가 인구가 연합 국 평균으로 바껴있음
 				}
 			}
 		}
 	} //shareCountry
 	
 	static void bfs(int sum) {
-		while (!que.isEmpty()) {
-			Point cur = que.poll();
+		while (!queue.isEmpty()) {
+			Point cur = queue.poll();
 
-			//사방으로 닿아있는 국가들의 인구가 
+			//사방으로 닿아있는 국가들 확인 
 			for (int d = 0; d < 4; d++) {
 				int nr = cur.r + dr[d];
 				int nc = cur.c + dc[d];
@@ -89,24 +88,29 @@ public class Main {
 				} //n*n 밖으로 넘어간 경우는 패스
 				
 				int val = Math.abs(map[nr][nc] - map[cur.r][cur.c]); //두 국가 간 인구 차이
-				if (!v[nr][nc] && (val >= L && val <= R)) { //범위 내라면 국경선을 연다
-					sum += map[nr][nc]; //연합인 나라들 인구 합침
-					v[nr][nc] = true; //방문했다
-					que.offer(new Point(nr, nc));
-					tmq.offer(new Point(nr, nc));
+				if (!visited[nr][nc] && (val >= L && val <= R)) { //인구 차이가 범위 내라면 국경선을 연다
+					sum += map[nr][nc]; //연합인 나라들 인구 sum에 합침
+					visited[nr][nc] = true; //방문했다
+					queue.offer(new Point(nr, nc)); //bfs 탐색을 위해 queue에 추가
+					tmpQueue.offer(new Point(nr, nc)); //연합에도 추가
 					flag = true; //새로 넣은 값이 있으니까 다음 날도 인구이동이 발생하도록 플래그 설정
 
 				}
 			}
 		}	
-        	movePeople(sum);
-	} //bfs
-
-	static void movePeople(int sum) {
+        	// movePeople(sum);
 		int p = sum / tmq.size();
 		while (!tmq.isEmpty()) {
 			Point cur = tmq.poll();
-			map[cur.r][cur.c] = p;
-		}
-	} //인구이동
+			map[cur.r][cur.c] = p; //연합국 인구 평균으로 값을 바꾸는 것 = 인구 이동 처리
+		} 
+	} //bfs
+
+	// static void movePeople(int sum) {
+	// 	int p = sum / tmq.size();
+	// 	while (!tmq.isEmpty()) {
+	// 		Point cur = tmq.poll();
+	// 		map[cur.r][cur.c] = p;
+	// 	}
+	// } //인구이동
 } //class
