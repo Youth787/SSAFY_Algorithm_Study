@@ -6,7 +6,7 @@
 
 📌마감 기한 : 매주 수요일 23시
 
-💰벌금 : 문제당 5000원, 지각 3000원, 결석 5000원  <br/>
+💰벌금 : 문제당 5000원, 지각 5000원, 결석 5000원  <br/>
 (벌금은 🍺회식비로 맛있게 사용할 예정입니다.)
 
 <br/>
@@ -55,8 +55,10 @@
       <td height="140px" align="center"> <a href="https://github.com/Youth787"><img src="https://avatars.githubusercontent.com/u/90955152?v=4" width="140px" /><br/>SSAFY 10기<br/>🐔 정연미 <br/> (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/aycho00"><img src="https://avatars.githubusercontent.com/u/141216710?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 조아영 <br/> (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/zzionyy"><img src="https://avatars.githubusercontent.com/u/122343467?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 박지원 <br/> (JAVASCRIPT)</a></td>
+        <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 김연화 <br/> (JAVA)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/jw-choi-kzz"><img src="https://avatars.githubusercontent.com/u/141205653?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 <br/> (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 <br/> (JAVA)</a></td>
+      
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/ar77gt"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt" /></a><br/>
