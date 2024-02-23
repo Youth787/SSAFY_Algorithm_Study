@@ -58,7 +58,6 @@
         <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 김연화 <br/> (JAVA)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/jw-choi-kzz"><img src="https://avatars.githubusercontent.com/u/141205653?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 <br/> (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 <br/> (JAVA)</a></td>
-      
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/ar77gt"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt" /></a><br/>
