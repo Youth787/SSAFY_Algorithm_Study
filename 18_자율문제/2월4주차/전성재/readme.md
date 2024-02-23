@@ -25,51 +25,35 @@
      <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
-    <td align="center">1916</td>
-    <td align="center">최소비용 구하기</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1916">바로가기</a></td>
+    td align="center">LV1</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">[PCCE 기출문제] 9번 / 이웃한 칸</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/250125">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1043</td>
-    <td align="center">거짓말</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1043">바로가기</a></td>
+    <td align="center">LV2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">귤 고르기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">바로가기</a></td>
   </tr>
 
    <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1987</td>
-    <td align="center">알파벳</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1987">바로가기</a></td>
+    <td align="center">LV2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">숫자 카드 나누기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1967</td>
-    <td align="center">트리의 지름</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1967">바로가기</a></td>
-  </tr>
-    <tr>
-    <td align="center">06</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
-    <td align="center">1932</td>
-    <td align="center">정수 삼각형</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1932">바로가기</a></td>
-  </tr>
-    <tr>
-    <td align="center">07</td>
-    <td align="center"></td>
     <td align="center">LV3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">베스트 앨범</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">바로가기</a></td>
+    <td align="center">헤비 유저가 소유한 장소</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77487">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
