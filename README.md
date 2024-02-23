@@ -63,6 +63,7 @@
       <td align="center"><a href="https://solved.ac/ar77gt"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt" /></a><br/>
       <td align="center"><a href="https://solved.ac/aycho00"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aycho00" /></a><br/>
       <td align="center"><a href="https://solved.ac/wldnjs1123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123" /></a><br/>
+         <td align="center"><a href="https://solved.ac/jeonseongjae"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jeonseongjae" />
       <td align="center"><a href="https://solved.ac/jiwonq"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jiwonq" /></a><br/>
       <td align="center"><a href="https://solved.ac/jeonseongjae"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jeonseongjae" />
   </tr>
