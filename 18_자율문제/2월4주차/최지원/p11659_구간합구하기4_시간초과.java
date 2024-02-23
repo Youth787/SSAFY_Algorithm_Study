@@ -1,4 +1,4 @@
-package p11659_구간합구하기4;
+package p11659_구간합구하기4; //시간 초과
 
 import java.io.BufferedReader;
 import java.io.IOException;
