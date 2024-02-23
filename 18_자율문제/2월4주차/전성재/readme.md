@@ -25,7 +25,7 @@
      <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    td align="center">LV1</td>
+    <td align="center">LV1</td>
     <td align="center">프로그래머스</td>
     <td align="center">[PCCE 기출문제] 9번 / 이웃한 칸</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/250125">바로가기</a></td>
