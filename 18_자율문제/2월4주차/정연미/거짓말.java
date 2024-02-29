@@ -13,15 +13,19 @@ public class 거짓말1043 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken()); // 사람의 수
         int M = Integer.parseInt(st.nextToken()); // 파티의 수
+        int ans = M;
+        List<Integer>[] party = new ArrayList[M];
+        Queue<Integer> truth = new LinkedList<>();
+        boolean[] partyCheck = new boolean[M];
+        boolean[] peopleCheck = new boolean[N+1];
 
         st = new StringTokenizer(br.readLine());
         int knowp = Integer.parseInt(st.nextToken());
-        Set<Integer> truth= new HashSet<>();
         for(int i=0; i<knowp; i++){
-            truth.add(Integer.parseInt(st.nextToken()));
+            int person = Integer.parseInt(st.nextToken());
+            truth.add(person);
+            peopleCheck[person] =true;
         }
-
-        List<Integer>[] party = new ArrayList[M];
 
         for(int i=0; i<M; i++){
             st = new StringTokenizer(br.readLine());
@@ -32,18 +36,20 @@ public class 거짓말1043 {
             }
         }// 입력받기 완료
 
-        int cnt =0;
-        out : for(int i=0; i<M; i++){
-            for(int j=0; j<party[i].size(); j++){
-                if(truth.contains(party[i].get(j))) {
-                    continue out;
+        while(!truth.isEmpty()){
+            int now = truth.poll();
+            for(int i=0; i<M; i++){
+                if(partyCheck[i]) continue;
+                if(!party[i].contains(now)) continue;
+                for(int j=0; j<party[i].size(); j++){
+                    if(peopleCheck[party[i].get(j)]) continue;
+                    peopleCheck[party[i].get(j)] = true;
+                    truth.add(party[i].get(j));
                 }
-            }
-            for(int j=0; j<party[i].size(); j++) {
-                truth.add(party[i].get(j));
+                partyCheck[i] = true;
+                ans--;
             }
         }
-
-        System.out.println(cnt);
+        System.out.println(ans);
     }
 }
