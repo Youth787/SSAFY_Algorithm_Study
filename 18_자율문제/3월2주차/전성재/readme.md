@@ -69,7 +69,7 @@
     <td align="center">레벨5</td>
     <td align="center">엘리스</td>
     <td align="center">물건별 판매량 출력하기</td>
-    <td align="center"><a href="https://academy.elice.io/courses/18815/lectures/153525/lecturepages/1549540">바로가기</a></td>
+    <td align="center"><a href="https://academy.elice.io/courses/18815/lectures/153525/lecturepages/1549485">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
