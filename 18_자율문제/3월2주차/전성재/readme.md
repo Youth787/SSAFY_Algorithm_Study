@@ -33,7 +33,7 @@
     <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center">LV2</td>
+    <td align="center">실버2</td>
     <td align="center">3085</td>
     <td align="center">사탕 게임</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/3085">바로가기</a></td>
