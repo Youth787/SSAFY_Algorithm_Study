@@ -41,28 +41,20 @@
     <td align="center">04</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">9252</td>
-    <td align="center">LCS2</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/9252">바로가기</a></td>
+    <td align="center">18427</td>
+    <td align="center">함께 블록 쌓기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/18427">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
-    <td align="center">프로그래머스</td>
-    <td align="center">LV2</td>
-    <td align="center">튜플</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">바로가기</a></td>
-  </tr>
-   <tr>
-    <td align="center">06</td>
-    <td align="center"></td>
     <td align="center">SQL LV3</td>
     <td align="center">프로그래머스</td>
     <td align="center">자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/157340">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">07</td>
+    <td align="center">06</td>
     <td align="center"></td>
     <td align="center">SQL LV3</td>
     <td align="center">프로그래머스</td>
@@ -70,7 +62,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/59043">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">08</td>
+    <td align="center">07</td>
     <td align="center"></td>
     <td align="center">SQL 2021-DEV-MATCHING</td>
     <td align="center">프로그래머스</td>
