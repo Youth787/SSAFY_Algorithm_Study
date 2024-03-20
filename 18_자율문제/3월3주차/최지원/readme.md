@@ -27,16 +27,8 @@
     <td align="center">링크와 스타트</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/15661">바로가기</a></td>
   </tr>
-   <tr>
-    <td align="center">03</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
-    <td align="center">21943</td>
-    <td align="center">연산 최대로</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/21943">바로가기</a></td>
-  </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center">lv2</td>
     <td align="center">1025</td>
@@ -44,7 +36,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/284527">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">05</td>
+    <td align="center">04</td>
     <td align="center">✅</td>
     <td align="center">lv2</td>
     <td align="center">15686</td>
@@ -52,7 +44,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/144854">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">06</td>
+    <td align="center">05</td>
     <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">21278</td>
@@ -60,12 +52,20 @@
     <td align="center"><a href="https://www.acmicpc.net/problem/21278">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">07</td>
+    <td align="center">06</td>
     <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">16637</td>
     <td align="center">괄호 추가하기</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/16637">바로가기</a></td>
+  </tr>
+     <tr>
+    <td align="center">07</td>
+    <td align="center"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
+    <td align="center">21943</td>
+    <td align="center">연산 최대로</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/21943">바로가기</a></td>
   </tr>
  
 </table>
