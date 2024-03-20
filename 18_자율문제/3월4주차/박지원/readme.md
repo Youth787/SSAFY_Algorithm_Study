@@ -16,16 +16,16 @@
     <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center">프로그래머스(JS)</td>
     <td align="center">LV 2</td>
+    <td align="center">프로그래머스(JS)</td>
     <td align="center">연속된 부분 수열의 합</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/178870?language=javascript">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center">프로그래머스(JS)</td>
     <td align="center">LV 2</td>
+    <td align="center">프로그래머스(JS)</td>
     <td align="center">더 맵게</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=javascript">바로가기</a></td>
   </tr>
