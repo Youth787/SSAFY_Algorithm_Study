@@ -1,14 +1,21 @@
 class Solution {
 
   //코드 처리하기
-    public String solution(String code) {
+        public String solution(String code) {
         String answer = "";
-        int mode = 0;
-        for (int i = 0; i < code.length(); i++) {
-            if (code.charAt(i) == '1') mode = 1 - mode;
-            else if (i % 2 == mode) answer += code.charAt(i);
+        int mod = 0;
+        for (int i=0; i<code.length(); i++) {
+            char c = code.charAt(i); 
+            if (c=='1') {
+                if (mod==0) mod=1;
+                else mod=0;
+              //mod = 1-mod; 
+            } else {
+                if (mod==0 && i%2==0) answer+=c; 
+                if (mod==1 && i%2==1) answer+=c; 
+            }
         }
-        return "".equals(answer) ? "EMPTY" : answer;
+        return answer.equals("") ? "EMPTY" : answer ;
     }
 
   //등차수열의 특정한 항만 더하기
