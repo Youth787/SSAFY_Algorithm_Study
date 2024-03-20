@@ -38,18 +38,18 @@
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center">lv1</td>
+    <td align="center">lv2</td>
     <td align="center">1025</td>
-    <td align="center">인기있는아이스크림</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133024">바로가기</a></td>
+    <td align="center">조건에 맞는 사원정보 조회하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/284527">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
     <td align="center">lv2</td>
     <td align="center">15686</td>
-    <td align="center">흉부외과 또는 일반외과 의사 목록 출력하기</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/132203">바로가기</a></td>
+    <td align="center">조건에맞는도서와저자리스트출력하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/144854">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">06</td>
