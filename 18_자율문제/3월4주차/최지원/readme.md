@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td align="center">02</td>
-    <td align="center"></td>
+    <td align="center">3월23일</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">21278</td>
     <td align="center">호석이 두 마리 치킨</td>
