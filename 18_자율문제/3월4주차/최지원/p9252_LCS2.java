@@ -21,9 +21,9 @@ public class Main {
 	static String str2;
 	static int len1;
 	static int len2;
-	static int[][] strings;
+	static int[][] strings; //dp용 2차원 배열(해당 위치까지의 가능한 lcs 문자 개수 저장)
 	static Stack<Character> stack; //char가 아니었구나
-	static String ans="";
+	static String ans=""; //최종 문자열
 	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -34,11 +34,12 @@ public class Main {
 		strings = new int[len1+1][len2+1];
 		stack = new Stack<>();
 		
-		dp();	
-		System.out.println(strings[len1][len2]);
+		dp(); //dp 메서드를 사용해서 strings을 채운다
+		System.out.println(strings[len1][len2]); //strings[len1][len2]에 들어있는 수는 lcs 길이
 		
-		if (strings[len1][len2] > 0) {
-			makeLCS();
+		if (strings[len1][len2] > 0) { 
+			//"LCS의 길이가 0인 경우에는 둘째 줄을 출력하지 않는다"
+			makeLCS(); //lcs 문자열 쌓기
 			System.out.println(ans);			
 		}	
 	} //main
@@ -46,9 +47,11 @@ public class Main {
 	static void dp() {
 		for (int i = 1; i <= len1; i++) {
 			for (int j = 1; j <= len2; j++) {
+				//두 문자가 같으면 lcs 길이 1이 늘어남, r&c포인터 둘 다 다음으로 이동
 				if (str1.charAt(i-1) == str2.charAt(j-1)) {
 					strings[i][j] = strings[i-1][j-1] + 1;
 				} else {
+					//두 문자가 다르다면 lcs 길이는 그대로, r 또는 c 포인터를 이동시키기 위해 최대값 비교
 					strings[i][j] = Math.max(strings[i-1][j], strings[i][j-1]);
 				}
 			}
@@ -56,7 +59,9 @@ public class Main {
 	} //dp
 	
 	static void makeLCS() {
-		int i = len1, j = len2;
+		int i = len1; 
+		int j = len2;
+		//거꾸로 탐색하기(문자가 같을 때와, 좌 vs 상 값 비교하며 stack에 역순으로 문자열 push
 		while (i > 0 && j > 0) {
 			if (str1.charAt(i-1) == str2.charAt(j-1)){
 				stack.push(str1.charAt(i-1));
