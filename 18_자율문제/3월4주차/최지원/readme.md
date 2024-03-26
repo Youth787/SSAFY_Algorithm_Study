@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
+    <td align="center">3월25일</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">16637</td>
     <td align="center">괄호 추가하기</td>
@@ -45,7 +45,7 @@
   </tr>
      <tr>
     <td align="center">05</td>
-    <td align="center"></td>
+    <td align="center">3월26일</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
     <td align="center">21943</td>
     <td align="center">연산 최대로</td>
