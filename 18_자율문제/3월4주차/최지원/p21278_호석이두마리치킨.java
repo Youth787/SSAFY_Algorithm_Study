@@ -15,16 +15,16 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /*
- * 접근 방법: 완전 탐색으로 2개를 선택하고 > 거리 합 비교
+ * 접근 방법: 완전 탐색으로 2개를 선택하고 > 모든 건물로부터의 최단거리 합 비교 > 최소의 총합 최단 시간을 가지는 경우를 찾기  
  * */
 public class Main {
 	static int n; //건물 수
 	static int m; //도로 수
-	static ArrayList<ArrayList<Node>> road = new ArrayList<>();
-	static boolean[] visited;
-	static boolean[] checked;
-	static int[] choice;
-	static int ans;
+	static ArrayList<ArrayList<Node>> road = new ArrayList<>(); //각 건물에서 다른 건물로의 도로 정보를 저장하는 리스트
+	static boolean[] visited; //dfs 탐색할 때 방문처리할 배열
+	static boolean[] checked; //bfs 탐색할 때 방문처리할 배열
+	static int[] choice; //치킨집 위치(건물 번호) 저장하는 배열
+	static int ans; //합 최소값
 	
 	public static class Node {
 		int from;
@@ -43,7 +43,7 @@ public class Main {
 		n = Integer.parseInt(st.nextToken()); //건물 수
 		m = Integer.parseInt(st.nextToken()); //도로 수
 		for (int i = 0; i <= n; i++) {
-			road.add(new ArrayList<>());
+			road.add(new ArrayList<>()); //각 건물마다 도로 정보 저장
 		}
 		visited = new boolean[n+1]; //건물
 		choice= new int[2];
@@ -57,7 +57,7 @@ public class Main {
 			road.get(b).add(new Node(b,a,0)); //양방향 이동 가능
 		} //도로 정보 입력
 		
-		dfs(1, 0);
+		dfs(1, 0); //1번 건물부터
 		System.out.println(choice[0]+" "+choice[1]+" "+ans*2);
 		
 	} //main
@@ -65,25 +65,25 @@ public class Main {
 	static void dfs(int idx, int sIdx) {
 		//기저
 		if (sIdx == 2) {
-			bfs(); //건물 2개 선택했으면 bfs로 시간 판단
+			bfs(); //건물 2개 선택했으면 bfs로 최단거리 합 판단
 			return;
 		}
 		
-		//재귀
+		//재귀(1번부터 n번까지)
 		for (int i = idx; i <= n; i++) {
 			if (visited[i]) {
 				continue;
 			}
 			visited[i] = true;
-			dfs(i+1, sIdx+1);
+			dfs(i+1, sIdx+1); //건물 선택하고 재귀호출
 			visited[i] = false; //백트래킹(현재 건물 선택 취소)
 		}
 	} //재귀를 통한 dfs (2곳 선택)
 	
 	static void bfs() {
-		checked = new boolean[n+1]; //방문 추적
+		checked = new boolean[n+1]; //방문 배열 초기화
 		Queue <Node> queue = new LinkedList<>(); //현재 탐색 중인 건물 저장
-		int tmp = 0;
+		int tmp = 0; //현재 조합으로 얼마나 걸리는지 합
 		for (int i = 0; i <= n; i++) {
 			if (visited[i]) {
 				queue.offer(new Node(i, 0, 0));
@@ -102,13 +102,13 @@ public class Main {
 					//아직 방문안한 건물이면 queue에 추가(이동 횟수는 +1), 이 때 방문처리, 
 					queue.offer(new Node (building.to, 0, cnt +1));
 					checked[building.to] = true;
-					tmp += cnt + 1;
+					tmp += cnt + 1; //이동시간 추가
 				}
 			}
 		}
 		
 		if (ans > tmp) {
-			ans = tmp;
+			ans = tmp; //현재 조합의 총 이동 시간이 최소값보다 작으면 값도 갱신하고, 건물번호도 바꿈..
 			choice[0] = 0;
 			choice[1] = 0;
 			for (int i = 1; i <= n; i++) {
