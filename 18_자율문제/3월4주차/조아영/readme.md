@@ -53,7 +53,7 @@
     <td align="center">LV0</td>
     <td align="center">프로그래머스</td>
     <td align="center">세균 증식</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/181928">120910</a></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/120910">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
