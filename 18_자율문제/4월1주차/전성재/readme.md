@@ -72,9 +72,9 @@
   </tr>
     <tr>
     <td align="center">0328 목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">22:20</td>
+    <td align="center">✅</td>
+    <td align="center">음양 더하기</td>
     <td align="center"></td>
   </tr>
    <tr>
