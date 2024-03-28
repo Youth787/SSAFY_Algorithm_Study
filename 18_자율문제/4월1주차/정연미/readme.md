@@ -72,10 +72,10 @@
   </tr>
     <tr>
     <td align="center">0328 목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0329 01:03am</td>
+    <td align="center">✅</td>
+    <td align="center">2206</td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">0329 금</td>
