@@ -17,17 +17,17 @@
     <td align="center">01</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1647</td>
-    <td align="center">도시 분할 계획</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1647">바로가기</a></td>
+    <td align="center">프로그래머스</td>
+    <td align="center">[PCCP 기출문제] 3번 / 아날로그 시계</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/250135">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">9935</td>
-    <td align="center">문자열 폭발</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/9935">바로가기</a></td>
+    <td align="center">1197</td>
+    <td align="center">최소 스패닝 트리</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1197">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
@@ -41,17 +41,17 @@
     <td align="center">04</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
-    <td align="center">2206</td>
-    <td align="center">벽 부수고 이동하기</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2206">바로가기</a></td>
+    <td align="center">프로그래머스</td>
+    <td align="center">음양 더하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
-    <td align="center">1600</td>
-    <td align="center">말이되고픈원숭이</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1600">바로가기</a></td>
+    <td align="center">프로그래머스</td>
+    <td align="center">귤 고르기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138476">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
