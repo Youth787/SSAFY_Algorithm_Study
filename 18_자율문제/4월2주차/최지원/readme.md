@@ -229,9 +229,9 @@
   </tr>
     <tr>
     <td align="center">0405 금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-05 2시 11분</td>
+    <td align="center">✅</td>
+    <td align="center">1157</td>
     <td align="center"></td>
   </tr>
    <tr>
