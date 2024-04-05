@@ -1,14 +1,5 @@
-## 📚 이분탐색, 백트래킹, 다익스트라, 플로이드 등
-*필수로 풀어야하는 문제 ✅ 체크표시*  
-  
-✅ IF문좀대신써줘 실버3 https://www.acmicpc.net/problem/19637  
-✅ N번째 큰 수 실버 2 https://www.acmicpc.net/problem/2075  
-✅ N-Queen 골드 4 https://www.acmicpc.net/problem/9663  
-✅ 최단경로 골드4 https://www.acmicpc.net/problem/1753  
-  
-🟨 플로이드 골드 4 https://www.acmicpc.net/problem/11404  
-🟨 카드 정렬하기 골드 4 https://www.acmicpc.net/problem/1715  
-  
+## 📚 4월 2주차 & 3주차 문제
+
 <br/>
 <table>
   <tr>
