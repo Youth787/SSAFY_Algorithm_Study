@@ -32,7 +32,7 @@
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/08.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">15661</td>
     <td align="center">링크와 스타트</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/15661">바로가기</a></td>
@@ -40,7 +40,7 @@
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"></td>
     <td align="center">14501</td>
     <td align="center">퇴사</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/14501">바로가기</a></td>
