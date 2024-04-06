@@ -241,6 +241,13 @@
     <td align="center">1236</td>
     <td align="center"></td>
   </tr>
+     <tr>
+    <td align="center">0406 토</td>
+    <td align="center">2024-04-07 2:50</td>
+    <td align="center">✅</td>
+    <td align="center">1268</td>
+    <td align="center"></td>
+  </tr>
   <tr>
     <td align="center">0407 일</td>
     <td align="center"></td>
