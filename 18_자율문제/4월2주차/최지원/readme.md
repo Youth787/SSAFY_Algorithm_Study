@@ -229,16 +229,16 @@
   </tr>
     <tr>
     <td align="center">0405 금</td>
-    <td align="center">2024-04-05 2시 11분</td>
+    <td align="center">2024-04-05 14:11</td>
     <td align="center">✅</td>
     <td align="center">1157</td>
     <td align="center"></td>
   </tr>
    <tr>
     <td align="center">0406 토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">19637</td>
+    <td align="center">2024-04-07 0:30</td>
+    <td align="center">✅</td>
+    <td align="center">1236</td>
     <td align="center"></td>
   </tr>
   <tr>
