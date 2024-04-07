@@ -250,9 +250,9 @@
   </tr>
   <tr>
     <td align="center">0407 일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">2075</td>
+    <td align="center">2024-04-08 2:47</td>
+    <td align="center">✅</td>
+    <td align="center">1292</td>
     <td align="center"></td>
   </tr>
   <tr>
