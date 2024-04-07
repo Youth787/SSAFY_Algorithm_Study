@@ -95,7 +95,7 @@
     <td align="center">0407 일</td>
     <td align="center">20:00</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">귤 고르기</td>
     <td align="center"></td>
   </tr>
   <tr>
