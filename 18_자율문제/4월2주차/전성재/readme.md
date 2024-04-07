@@ -55,3 +55,61 @@
   </tr>
 </table>
 <br/><br/>
+
+## 📚 하루에 한 문제씩 풀어보자
+필수 문제 4문제 <br>
+면제권 2번 <br>
+문제당 2000원 <br>
+제출 기한 : 다음날 오전 9시 <br>
+
+<table>
+  <tr>
+    <td align="center">날짜</td>
+    <td align="center">인증 시각</td>
+    <td align="center">완료체크</td>
+    <td align="center">푼 문제</td>
+    <td align="center">벌금</td>
+  </tr>
+    <tr>
+    <td align="center">0328 목</td>
+    <td align="center">22:20</td>
+    <td align="center">✅</td>
+    <td align="center">음양 더하기</td>
+    <td align="center"></td>
+  </tr>
+   <tr>
+    <td align="center">0405 금</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">0406 토</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">0407 일</td>
+    <td align="center">20:00</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">0408 월</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">0409 화</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
