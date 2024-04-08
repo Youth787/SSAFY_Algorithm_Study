@@ -276,6 +276,13 @@
     <td align="center">1357</td>
     <td align="center"></td>
   </tr>
+        <tr>
+    <td align="center">0408 월</td>
+    <td align="center">2024-04-08 17:00</td>
+    <td align="center">✅</td>
+    <td align="center">1834</td>
+    <td align="center"></td>
+  </tr>
   <tr>
     <td align="center">0409 화</td>
     <td align="center"></td>
