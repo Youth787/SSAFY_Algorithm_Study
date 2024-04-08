@@ -102,7 +102,7 @@
     <td align="center">0408 월</td>
     <td align="center">17:00</td>
     <td align="center">✅</td>
-    <td align="center">비슷한 단어</td>
+    <td align="center">비슷한단어</td>
     <td align="center"></td>
   </tr>
   <tr>
