@@ -257,9 +257,9 @@
   </tr>
   <tr>
     <td align="center">0408 월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">9663</td>
+    <td align="center">2024-04-08 10:25</td>
+    <td align="center">✅</td>
+    <td align="center">15649</td>
     <td align="center"></td>
   </tr>
   <tr>
