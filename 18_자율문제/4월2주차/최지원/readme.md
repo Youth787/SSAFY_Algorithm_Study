@@ -285,9 +285,9 @@
   </tr>
   <tr>
     <td align="center">0409 화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">1753</td>
+    <td align="center">2024-04-10 7:59</td>
+    <td align="center">✅</td>
+    <td align="center">2839</td>
     <td align="center"></td>
   </tr>
   <tr>
