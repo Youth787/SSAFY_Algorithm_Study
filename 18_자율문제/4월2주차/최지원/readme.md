@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">순서</td>
-    <td align="center">필수 문제</td>
+    <td align="center">푼 문제</td>
     <td align="center">난이도</td>
     <td align="center">문제 번호</td>
     <td align="center">문제 이름</td>
@@ -76,7 +76,7 @@
   </tr>
       <tr>
     <td align="center">01</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">17298</td>
     <td align="center">오큰수</td>
@@ -84,7 +84,7 @@
   </tr>
    <tr>
     <td align="center">02</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">1987</td>
     <td align="center">알파벳</td>
@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td align="center">03</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">2812</td>
     <td align="center">크게만들기</td>
@@ -108,7 +108,7 @@
   </tr>
     <tr>
     <td align="center">05</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">10819</td>
     <td align="center">차이를최대로</td>
@@ -116,7 +116,7 @@
   </tr>
     <tr>
     <td align="center">06</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
     <td align="center">2529</td>
     <td align="center">부등호</td>
@@ -124,7 +124,7 @@
   </tr>
     <tr>
     <td align="center">07</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
     <td align="center">19236</td>
     <td align="center">청소년상어</td>
@@ -140,7 +140,7 @@
   </tr>
     <tr>
     <td align="center">09</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"></td>
     <td align="center">2579</td>
     <td align="center">계단오르기</td>
@@ -148,7 +148,7 @@
   </tr>
     <tr>
     <td align="center">10</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
     <td align="center">2156</td>
     <td align="center">포도주시식</td>
@@ -164,7 +164,7 @@
   </tr>
       <tr>
     <td align="center">01</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">Level2</td>
     <td align="center">42860</td>
     <td align="center">조이스틱</td>
@@ -172,7 +172,7 @@
   </tr>
    <tr>
     <td align="center">02</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">Level2</td>
     <td align="center">42747</td>
     <td align="center">h-index</td>
@@ -180,7 +180,7 @@
   </tr>
   <tr>
     <td align="center">03</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">Level2</td>
     <td align="center">42577</td>
     <td align="center">전화번호목록</td>
@@ -188,7 +188,7 @@
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">Level2</td>
     <td align="center">42578</td>
     <td align="center">의상</td>
@@ -196,7 +196,7 @@
   </tr>
     <tr>
     <td align="center">05</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">Level2</td>
     <td align="center">43162</td>
     <td align="center">네트워크</td>
@@ -204,7 +204,7 @@
   </tr>
     <tr>
     <td align="center">06</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">Level3</td>
     <td align="center">42895</td>
     <td align="center">n으로 표현순위</td>
