@@ -4,9 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Collections;
 
-public class 비슷한단어 {
+public class 비슷한단어2179 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
@@ -15,22 +14,26 @@ public class 비슷한단어 {
         // 입력받기
         for(int i=0; i<N; i++){
             String input = br.readLine();
-            list.add(input);
+            if(!list.contains(input)) {
+                list.add(input);
+            }
         }
 
-        Collections.sort(list,(o1,o2)->(o1.length()-o2.length()));
+//        Collections.sort(list,(o1,o2)->(o1.length()-o2.length()));
 
-        int result = Integer.MIN_VALUE;
+        int result = 0;
         String[] arr_result = new String[2];
         for(int i=0; i<N-1; i++){
             String check1 = list.get(i);
             for(int j=i+1; j<N; j++) {
                 String check2 = list.get(j);
                 int cnt =0;
-                for(int k=0; k<check1.length(); k++){
-                    if(check1.charAt(k)==check2.charAt(k)){
-                        cnt++;
+                int size=Math.min(check1.length(),check2.length());
+                for(int k=0; k<size; k++){
+                    if(check1.charAt(k)!=check2.charAt(k)){
+                        break;
                     }
+                    cnt++;
                 }
                 if(result<cnt){
                     result =cnt;
