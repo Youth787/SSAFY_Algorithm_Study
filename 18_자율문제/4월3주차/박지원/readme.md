@@ -68,28 +68,28 @@
     <tr>
     <td align="center">0411 목</td>
     <td align="center"></td>
-    <td align="center">-</td>
+    <td align="center">✅</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">0412 금</td>
     <td align="center"></td>
-    <td align="center">-</td>
+    <td align="center">✅</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">0413 토</td>
     <td align="center"></td>
-    <td align="center">-</td>
+    <td align="center">✅</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">0414 일</td>
     <td align="center"></td>
-    <td align="center">-</td>
+    <td align="center">✅</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
