@@ -67,7 +67,7 @@
   </tr>
     <tr>
     <td align="center">2024-04-11 목</td>
-    <td align="center">08:55 AM</td>
+    <td align="center">2024-04-11 목 08:55 AM</td>
     <td align="center">✅</td>
     <td align="center">마법의 엘리베이터</td>
     <td align="center"></td>
