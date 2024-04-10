@@ -6,19 +6,19 @@ public class Main {
 
     public static void main(String[] args) {
         //input
-        Scanner scanner = new Scanner(System.in);
-        int N = scanner.nextInt();  // 배열 A의 사이즈
-        int M = scanner.nextInt();  // 배열 B의 사이즈
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();  // 배열 A의 사이즈
+        int M = sc.nextInt();  // 배열 B의 사이즈
 
         List<Integer> A = new ArrayList<>();
         for(int i  = 0; i< N; i++){
-            int n = scanner.nextInt();
+            int n = sc.nextInt();
             A.add(n);
         }
 
         List<Integer> B = new ArrayList<>();
         for(int i = 0; i < M; i++){
-            int n = scanner.nextInt();
+            int n = sc.nextInt();
             B.add(n);
         }
 
