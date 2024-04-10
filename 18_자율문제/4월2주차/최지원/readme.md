@@ -140,7 +140,7 @@
   </tr>
     <tr>
     <td align="center">09</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"></td>
     <td align="center">2579</td>
     <td align="center">계단오르기</td>
@@ -292,7 +292,28 @@
   </tr>
   <tr>
     <td align="center">0410 수</td>
+    <td align="center">2024-04-10 10:59</td>
+    <td align="center">✅</td>
+    <td align="center">2579</td>
     <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">0410 수</td>
+    <td align="center">2024-04-10 </td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">0410 수</td>
+    <td align="center">2024-04-10 </td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">0410 수</td>
+    <td align="center">2024-04-10 </td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
