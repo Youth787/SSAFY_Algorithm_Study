@@ -66,49 +66,49 @@
     <td align="center">벌금</td>
   </tr>
     <tr>
-    <td align="center">0411 목</td>
-    <td align="center"></td>
+    <td align="center">2024-04-11 목</td>
+    <td align="center">08:55 AM</td>
     <td align="center">✅</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">마법의 엘리베이터</td>
+    <td align="center"></td>
   </tr>
    <tr>
-    <td align="center">0412 금</td>
+    <td align="center">2024-04-12 금</td>
     <td align="center"></td>
     <td align="center">✅</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">0413 토</td>
+    <td align="center">2024-04-13 토</td>
     <td align="center"></td>
     <td align="center">✅</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">0414 일</td>
+    <td align="center">2024-04-14 일</td>
     <td align="center"></td>
     <td align="center">✅</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">0415 월</td>
+    <td align="center">2024-04-15 월</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0416 화</td>
+    <td align="center">2024-04-16 화</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0417 수</td>
+    <td align="center">2024-04-17 수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
