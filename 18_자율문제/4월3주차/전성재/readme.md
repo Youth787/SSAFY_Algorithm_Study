@@ -25,7 +25,7 @@
     <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1197</td>
+    <td align="center">프로그래머스</td>
     <td align="center">[PCCE 기출문제] 10번 / 데이터 분석</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/250121">바로가기</a></td>
   </tr>
@@ -33,7 +33,7 @@
     <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">2179</td>
+    <td align="center">프로그래머스</td>
     <td align="center">당구 연습</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/169198">바로가기</a></td>
   </tr>
