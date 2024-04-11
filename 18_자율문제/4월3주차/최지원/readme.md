@@ -139,6 +139,13 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+      <tr>
+    <td align="center">0411 목</td>
+    <td align="center">2024-04-11</td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
     <tr>
     <td align="center">0412 금</td>
     <td align="center">2024-04-12</td>
