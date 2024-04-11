@@ -65,9 +65,9 @@
   </tr>
     <tr>
     <td align="center">0412 금</td>
-    <td align="center"></td>
+    <td align="center">16:50</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">특정 세대의 대장균 찾기</td>
     <td align="center"></td>
   </tr>
    <tr>
