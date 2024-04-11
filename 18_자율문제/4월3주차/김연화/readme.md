@@ -73,9 +73,9 @@
   </tr>
    <tr>
     <td align="center">0412 금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0412 12시24분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">도영이가 만든 맛있는 음식</td>
     <td align="center"></td>
   </tr>
   <tr>
