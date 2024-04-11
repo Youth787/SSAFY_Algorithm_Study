@@ -72,41 +72,41 @@
   </tr>
     <tr>
     <td align="center">0328 목</td>
-    <td align="center">22:20</td>
-    <td align="center">✅</td>
-    <td align="center">음양 더하기</td>
     <td align="center"></td>
-  </tr>
-   <tr>
-    <td align="center">0405 금</td>
-    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-  <tr>
-    <td align="center">0406 토</td>
-    <td align="center">면제</td>
+   <tr>
+    <td align="center">금</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0407 일</td>
-    <td align="center">20:00</td>
-    <td align="center">✅</td>
-    <td align="center">귤 고르기</td>
+    <td align="center">토</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0408 월</td>
-    <td align="center">17:00</td>
-    <td align="center">✅</td>
-    <td align="center">비슷한단어</td>
+    <td align="center">일</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0409 화</td>
+    <td align="center">월</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">화</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
