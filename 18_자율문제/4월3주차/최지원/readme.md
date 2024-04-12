@@ -149,7 +149,7 @@
     <tr>
     <td align="center">0412 금</td>
     <td align="center">2024-04-12</td>
-    <td align="center"></td>
+    <td align="center">🌟면제권🌟</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
