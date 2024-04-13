@@ -13,58 +13,50 @@
       <tr>
     <td align="center">01</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">17298</td>
-    <td align="center">오큰수</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/17298">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"></td>
+    <td align="center">1018</td>
+    <td align="center">체스판 다시 칠하기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1018">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">02</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1987</td>
-    <td align="center">알파벳</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1987">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">1094</td>
+    <td align="center">막대기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1094">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
-    <td align="center">2812</td>
-    <td align="center">크게만들기</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2812">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">1654</td>
+    <td align="center">랜선 자르기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1654">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">04</td>
     <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
-    <td align="center">10819</td>
-    <td align="center">차이를최대로</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/10819">바로가기</a></td>
+    <td align="center">10799</td>
+    <td align="center">쇠막대기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/10799">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">05</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
-    <td align="center">2529</td>
-    <td align="center">부등호</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2529">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">4920</td>
+    <td align="center">테트리스 게임</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/4920">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">06</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
-    <td align="center">19236</td>
-    <td align="center">청소년상어</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/19236">바로가기</a></td>
-  </tr>
-    <tr>
-    <td align="center">07</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
-    <td align="center">2156</td>
-    <td align="center">포도주시식</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2156">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">3190</td>
+    <td align="center">뱀</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
   </tr>
       <tr>
     <td align="center"></td>
