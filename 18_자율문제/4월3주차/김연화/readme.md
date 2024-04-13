@@ -87,9 +87,9 @@
   </tr>
   <tr>
     <td align="center">0414 일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0414 1시 56분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">링크와 스타트</td>
     <td align="center"></td>
   </tr>
   <tr>
