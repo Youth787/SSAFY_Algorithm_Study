@@ -147,9 +147,9 @@
   </tr>
    <tr>
     <td align="center">0413 토</td>
-    <td align="center">2024-04-13</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-14 4:10</td>
+    <td align="center">✅</td>
+    <td align="center">1018</td>
     <td align="center"></td>
   </tr>
   <tr>
