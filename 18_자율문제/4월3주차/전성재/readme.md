@@ -79,9 +79,9 @@
   </tr>
   <tr>
     <td align="center">0414 일</td>
-    <td align="center"></td>
+    <td align="center">18:00</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">[PCCE 기출문제] 10번 / 데이터 분석</td>
     <td align="center"></td>
   </tr>
   <tr>
