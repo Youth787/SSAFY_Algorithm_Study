@@ -12,7 +12,7 @@
   </tr>
       <tr>
     <td align="center">01</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"></td>
     <td align="center">1018</td>
     <td align="center">체스판 다시 칠하기</td>
