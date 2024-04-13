@@ -81,9 +81,9 @@
   </tr>
   <tr>
     <td align="center">0413 토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0414 1:20am</td>
+    <td align="center">✅</td>
+    <td align="center">도시분할계획</td>
     <td align="center"></td>
   </tr>
   <tr>
