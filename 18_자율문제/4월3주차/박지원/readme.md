@@ -66,24 +66,17 @@
     <td align="center">벌금</td>
   </tr>
     <tr>
-    <td align="center">2024-04-11 목</td>
+    <td align="center">2024-04-12 금</td>
     <td align="center">2024-04-11 목 08:55 AM</td>
     <td align="center">✅</td>
     <td align="center">마법의 엘리베이터</td>
     <td align="center">-</td>
   </tr>
    <tr>
-    <td align="center">2024-04-12 금</td>
+    <td align="center">2024-04-13 토</td>
     <td align="center">2024-04-12 금 09:12 AM</td>
     <td align="center">✅</td>
     <td align="center">k진수에서 소수 갯수 구하기</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">2024-04-13 토</td>
-    <td align="center"></td>
-    <td align="center">면제</td>
-    <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
@@ -96,12 +89,19 @@
   <tr>
     <td align="center">2024-04-15 월</td>
     <td align="center"></td>
+    <td align="center">면제</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">2024-04-16 화</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">2024-04-16 화</td>
+    <td align="center">2024-04-17 수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
