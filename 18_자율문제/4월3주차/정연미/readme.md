@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td align="center">0414 일</td>
-    <td align="center">0414 6:00</td>
+    <td align="center">0414 6:00pm</td>
     <td align="center">✅</td>
     <td align="center">행렬곱셈순서</td>
     <td align="center"></td>
