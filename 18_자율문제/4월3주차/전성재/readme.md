@@ -73,7 +73,7 @@
    <tr>
     <td align="center">0413 토</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
