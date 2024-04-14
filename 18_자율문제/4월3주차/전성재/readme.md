@@ -86,9 +86,9 @@
   </tr>
   <tr>
     <td align="center">0415 월</td>
-    <td align="center"></td>
+    <td align="center">23:16</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">과제 진행하기</td>
     <td align="center"></td>
   </tr>
   <tr>
