@@ -94,9 +94,9 @@
   </tr>
   <tr>
     <td align="center">0415 월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0415 12시 26분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">제곱수 찾기</td>
     <td align="center"></td>
   </tr>
   <tr>
