@@ -66,42 +66,42 @@
     <td align="center">벌금</td>
   </tr>
     <tr>
-    <td align="center">0411 목</td>
+    <td align="center">0412금</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
    <tr>
-    <td align="center">0412 금</td>
+    <td align="center">0413토</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0413 토</td>
+    <td align="center">0414일</td>
     <td align="center">0414 1:20am</td>
     <td align="center">✅</td>
     <td align="center">도시분할계획</td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0414 일</td>
+    <td align="center">0415월</td>
     <td align="center">0414 6:00pm</td>
     <td align="center">✅</td>
     <td align="center">행렬곱셈순서</td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0415 월</td>
+    <td align="center">0416화</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0416 화</td>
+    <td align="center">0417수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
