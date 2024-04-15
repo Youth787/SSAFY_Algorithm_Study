@@ -101,9 +101,9 @@
   </tr>
   <tr>
     <td align="center">0416 화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0415 11시 30분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">치킨 배달</td>
     <td align="center"></td>
   </tr>
   <tr>
