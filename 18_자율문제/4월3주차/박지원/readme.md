@@ -95,9 +95,9 @@
   </tr>
   <tr>
     <td align="center">2024-04-16 화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-12 월 08:07 PM</td>
+    <td align="center">✅</td>
+    <td align="center">링크와 스타트</td>
     <td align="center"></td>
   </tr>
   <tr>
