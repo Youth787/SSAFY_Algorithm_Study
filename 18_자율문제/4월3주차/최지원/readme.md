@@ -154,9 +154,9 @@
   </tr>
   <tr>
     <td align="center">0414 일</td>
-    <td align="center">2024-04-14</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-15 6:00</td>
+    <td align="center">✅</td>
+    <td align="center">1094</td>
     <td align="center"></td>
   </tr>
   <tr>
