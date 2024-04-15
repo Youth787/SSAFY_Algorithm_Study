@@ -93,9 +93,9 @@
   </tr>
   <tr>
     <td align="center">0416 화</td>
-    <td align="center"></td>
+    <td align="center">16:15</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">당구연습</td>
     <td align="center"></td>
   </tr>
   <tr>
