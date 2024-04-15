@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td align="center">03</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">1654</td>
     <td align="center">랜선 자르기</td>
@@ -161,9 +161,9 @@
   </tr>
   <tr>
     <td align="center">0415 월</td>
-    <td align="center">2024-04-15</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-16 2:24</td>
+    <td align="center">✅</td>
+    <td align="center">1654</td>
     <td align="center"></td>
   </tr>
   <tr>
