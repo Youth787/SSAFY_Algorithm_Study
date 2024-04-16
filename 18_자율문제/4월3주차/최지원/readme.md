@@ -173,11 +173,4 @@
     <td align="center">10799</td>
     <td align="center"></td>
   </tr>
-  <tr>
-    <td align="center">0417 수</td>
-    <td align="center">2024-04-17</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
 </table>
