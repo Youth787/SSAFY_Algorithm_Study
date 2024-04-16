@@ -110,7 +110,7 @@
     <td align="center">0417 수</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">주간완료</td>
     <td align="center"></td>
   </tr>
 </table>
