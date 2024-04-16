@@ -98,14 +98,14 @@
     <td align="center">2024-04-15 월 08:07 PM</td>
     <td align="center">✅</td>
     <td align="center">링크와 스타트</td>
-    <td align="center"></td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">2024-04-17 수</td>
     <td align="center">2024-04-16 화 11:43 PM</td>
     <td align="center">✅</td>
     <td align="center">퇴사</td>
-    <td align="center"></td>
+    <td align="center">-</td>
   </tr>
 </table>
 
