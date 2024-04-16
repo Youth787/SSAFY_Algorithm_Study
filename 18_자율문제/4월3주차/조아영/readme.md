@@ -96,20 +96,20 @@
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2000</td>
   </tr>
   <tr>
     <td align="center">월</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">ㅇ</td>
+    <td align="center">귤 고르기</td>
+    <td align="center">2000</td>
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">11:34PM</td>
+    <td align="center">ㅇ</td>
+    <td align="center">아날로그 시계</td>
     <td align="center"></td>
   </tr>
 </table>
