@@ -95,16 +95,16 @@
   </tr>
   <tr>
     <td align="center">0416화</td>
+    <td align="center">벌금</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2000</td>
   </tr>
   <tr>
     <td align="center">0417수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0415 11:00pm</td>
+    <td align="center">✅</td>
+    <td align="center">말이되고픈원숭이, 스도쿠</td>
     <td align="center"></td>
   </tr>
 </table>
