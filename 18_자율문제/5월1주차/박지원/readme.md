@@ -18,7 +18,7 @@
     <td align="center">✅</td>
     <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
-    <td align="center">모음사전</td>
+    <td align="center"></td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">바로가기</a></td>
   </tr>
   <tr>
@@ -26,23 +26,23 @@
     <td align="center">✅</td>
     <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
-    <td align="center">튜플</td>
+    <td align="center"></td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
-    <td align="center">13549</td>
-    <td align="center">숨바꼭질 3</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"><a href="https://www.acmicpc.net/problem/13549">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
-    <td align="center">1916</td>
-    <td align="center">최소비용 구하기</td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1916">바로가기</a></td>
   </tr>
 
