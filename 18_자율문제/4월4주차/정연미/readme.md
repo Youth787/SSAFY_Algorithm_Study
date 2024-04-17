@@ -106,20 +106,13 @@
     <td align="center">벌금</td>
   </tr>
     <tr>
-    <td align="center">0418목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-   <tr>
     <td align="center">0419금</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-  <tr>
+   <tr>
     <td align="center">0420토</td>
     <td align="center"></td>
     <td align="center"></td>
@@ -127,21 +120,28 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0421월</td>
+    <td align="center">0421일</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0422화</td>
+    <td align="center">0422월</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0423수</td>
+    <td align="center">0423화</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">0424수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
