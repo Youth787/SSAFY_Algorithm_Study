@@ -109,28 +109,28 @@
     <td align="center">0420 토</td>
     <td align="center">2024-04-20</td>
     <td align="center"></td>
-    <td align="center">1018</td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">0421 일</td>
     <td align="center">2024-04-21</td>
     <td align="center"></td>
-    <td align="center">1094</td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">0422 월</td>
     <td align="center">2024-04-22</td>
     <td align="center"></td>
-    <td align="center">1654</td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">0423 화</td>
     <td align="center">2024-04-23</td>
     <td align="center"></td>
-    <td align="center">10799</td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
 </table>
