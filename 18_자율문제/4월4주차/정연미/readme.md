@@ -16,34 +16,42 @@
     <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1647</td>
-    <td align="center">도시 분할 계획</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1647">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
+    <td align="center">1094</td>
+    <td align="center">막대기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1094">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">2239</td>
-    <td align="center">스도쿠 (다시풀기) </td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2239">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">10799</td>
+    <td align="center">쇠막대기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/10799">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
-    <td align="center">11049</td>
-    <td align="center">행렬곱셈순서 </td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/11049">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">4920</td>
+    <td align="center">테트리스게임</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/4920">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">3190</td>
+    <td align="center">뱀</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">05</td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
-    <td align="center">1600</td>
-    <td align="center">말이되고픈원숭이</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1600">바로가기</a></td>
+    <td align="center">14442</td>
+    <td align="center">벽부수고이동하기2</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/14442">바로가기</a></td>
   </tr>
     <tr>
     <td align="center"></td>
@@ -76,14 +84,6 @@
     <td align="center">lv1</td>
     <td align="center">삼총사</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131705">바로가기</a></td>
-  </tr>
-   <tr>
-    <td align="center">04</td>
-    <td align="center">✅</td>
-    <td align="center">프로그래머스</td>
-    <td align="center">lv2</td>
-    <td align="center">피로도</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
