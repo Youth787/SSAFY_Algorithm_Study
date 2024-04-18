@@ -7,6 +7,7 @@
 방문 길이 https://school.programmers.co.kr/learn/courses/30/lessons/49994  
 올바른 괄호  https://school.programmers.co.kr/learn/courses/30/lessons/12909  
 기능개발  https://school.programmers.co.kr/learn/courses/30/lessons/42586  
+할인행사  https://school.programmers.co.kr/learn/courses/30/lessons/131127  
 
 
 <br/>
@@ -146,9 +147,9 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">2024-04-19 3:35</td>
+    <td align="center">2024-04-19 5:01</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">할인행사</td>
     <td align="center"></td>
   </tr>
     <tr>
