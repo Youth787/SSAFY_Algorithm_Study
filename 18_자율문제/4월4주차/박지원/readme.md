@@ -76,7 +76,7 @@
     <td align="center">2024-04-20 토</td>
     <td align="center">2024-04-19 금 08:58 AM</td>
     <td align="center">✅</td>
-    <td align="center">튜플<td>
+    <td align="center">튜플</td>
     <td align="center">-</td>
   </tr>
   <tr>
