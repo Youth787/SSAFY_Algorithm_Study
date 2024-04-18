@@ -2,6 +2,7 @@
 ✅  
 두 개 뽑아서 더하기  https://school.programmers.co.kr/learn/courses/30/lessons/68644  
 모의고사  https://school.programmers.co.kr/learn/courses/30/lessons/42840  
+행렬의 곱셈  https://school.programmers.co.kr/learn/courses/30/lessons/12949   
 
 <br/>
 <table>
@@ -96,7 +97,7 @@
     <td align="center">벌금</td>
   </tr>
   <tr>
-    <td align="center" rowspan="2">0419 금</td>
+    <td align="center" rowspan="5">0419 금</td>
     <td align="center">2024-04-18 9:04</td>
     <td align="center">✅</td>
     <td align="center">두 개 뽑아서 더하기</td>
@@ -106,6 +107,24 @@
     <td align="center">2024-04-18 9:41</td>
     <td align="center">✅</td>
     <td align="center">모의고사</td>
+    <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">2024-04-18 9:53</td>
+    <td align="center">✅</td>
+    <td align="center">행렬의 곱셈</td>
+    <td align="center"></td>
+  </tr>
+      <tr>
+    <td align="center">2024-04-18 </td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+      <tr>
+    <td align="center">2024-04-18 </td>
+    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
     <tr>
