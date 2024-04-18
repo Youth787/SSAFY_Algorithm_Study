@@ -1,6 +1,7 @@
 ## 📚 4월 4주차 문제
 ✅  
-https://school.programmers.co.kr/learn/courses/30/lessons/68644  
+두 개 뽑아서 더하기  https://school.programmers.co.kr/learn/courses/30/lessons/68644  
+모의고사  https://school.programmers.co.kr/learn/courses/30/lessons/42840  
 
 <br/>
 <table>
@@ -102,9 +103,9 @@ https://school.programmers.co.kr/learn/courses/30/lessons/68644
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">2024-04-18</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-18 9:41</td>
+    <td align="center">✅</td>
+    <td align="center">모의고사</td>
     <td align="center"></td>
   </tr>
     <tr>
