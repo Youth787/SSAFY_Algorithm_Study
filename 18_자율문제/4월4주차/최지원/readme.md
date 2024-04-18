@@ -4,7 +4,7 @@
 모의고사  https://school.programmers.co.kr/learn/courses/30/lessons/42840  
 행렬의 곱셈  https://school.programmers.co.kr/learn/courses/30/lessons/12949   
 실패율  https://school.programmers.co.kr/learn/courses/30/lessons/42889  
-
+방문 길이 https://school.programmers.co.kr/learn/courses/30/lessons/49994  
 
 <br/>
 <table>
@@ -124,9 +124,9 @@
     <td align="center"></td>
   </tr>
       <tr>
-    <td align="center">2024-04-18 </td>
+    <td align="center">2024-04-19 3:35</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">방문 길이</td>
     <td align="center"></td>
   </tr>
     <tr>
