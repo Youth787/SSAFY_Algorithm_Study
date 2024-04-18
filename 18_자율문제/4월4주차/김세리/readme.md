@@ -14,37 +14,69 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-  <tr>
+<tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
-    <td align="center">21278</td>
-    <td align="center">호석이 두 마리 치킨</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/21278">바로가기</a></td>
+    <td align="center">LV 2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">업그레이드 된 아이템 구하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/273711">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
-    <td align="center">16637</td>
-    <td align="center">괄호 추가하기</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/16637">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">1946</td>
+    <td align="center">신입 사원</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1946">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"></td>
-    <td align="center">1789</td>
-    <td align="center">수들의 합</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1789">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">15686</td>
+    <td align="center">치킨 배달</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/15686">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"></td>
-    <td align="center">2417</td>
-    <td align="center">정수 제곱근</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/2417">바로가기</a></td>
+    <td align="center">LV 2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">조건에 맞는 사원 정보 조회하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/284527">바로가기</a></td>
+  </tr>
+<tr>
+    <td align="center">05</td>
+    <td align="center">✅</td>
+    <td align="center">LV 2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">괄호 회전하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502?language=java">바로가기</a></td>
+  </tr>
+<tr>
+    <td align="center">06</td>
+    <td align="center">✅</td>
+    <td align="center">LV 4</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">FrontEnd 개발자 찾기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/276035">바로가기</a></td>
+  </tr>
+  <tr>
+    <td align="center">07</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">14502</td>
+    <td align="center">연구소</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/14502">바로가기</a></td>
+  </tr>
+<tr>
+    <td align="center">08</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">18430</td>
+    <td align="center">무기공학</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/18430">바로가기</a></td>
   </tr>
   </table>
 
@@ -61,7 +93,7 @@
     <td align="center">0419금</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">업그레이드 된 아이템 구하기</td>
     <td align="center"></td>
   </tr>
   <tr>
