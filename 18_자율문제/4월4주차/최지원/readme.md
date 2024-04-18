@@ -5,6 +5,7 @@
 행렬의 곱셈  https://school.programmers.co.kr/learn/courses/30/lessons/12949   
 실패율  https://school.programmers.co.kr/learn/courses/30/lessons/42889  
 방문 길이 https://school.programmers.co.kr/learn/courses/30/lessons/49994  
+올바른 괄호  https://school.programmers.co.kr/learn/courses/30/lessons/12909  
 
 <br/>
 <table>
@@ -130,9 +131,21 @@
     <td align="center"></td>
   </tr>
     <tr>
-    <td align="center">0419 금</td>
-    <td align="center">2024-04-19</td>
+    <td align="center" rowspan="5">0420 토</td>
+    <td align="center">2024-04-19 4:39</td>
+    <td align="center">✅</td>
+    <td align="center">올바른 괄호</td>
     <td align="center"></td>
+  </tr>
+        <tr>
+    <td align="center">2024-04-19 3:35</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+        <tr>
+    <td align="center">2024-04-19 3:35</td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
