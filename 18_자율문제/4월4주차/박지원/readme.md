@@ -67,9 +67,9 @@
   </tr>
     <tr>
     <td align="center">2024-04-19 금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-18 목 09:13 AM</td>
+    <td align="center">✅</td>
+    <td align="center">모음사전</td>
     <td align="center">-</td>
   </tr>
    <tr>
