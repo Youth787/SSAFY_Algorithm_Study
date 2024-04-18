@@ -6,6 +6,8 @@
 실패율  https://school.programmers.co.kr/learn/courses/30/lessons/42889  
 방문 길이 https://school.programmers.co.kr/learn/courses/30/lessons/49994  
 올바른 괄호  https://school.programmers.co.kr/learn/courses/30/lessons/12909  
+기능개발  https://school.programmers.co.kr/learn/courses/30/lessons/42586  
+
 
 <br/>
 <table>
@@ -138,12 +140,24 @@
     <td align="center"></td>
   </tr>
         <tr>
+    <td align="center">2024-04-19 4:49</td>
+    <td align="center">✅</td>
+    <td align="center">기능개발</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
     <td align="center">2024-04-19 3:35</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-        <tr>
+    <tr>
+    <td align="center">2024-04-19 3:35</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+    <tr>
     <td align="center">2024-04-19 3:35</td>
     <td align="center">✅</td>
     <td align="center"></td>
