@@ -101,10 +101,10 @@
  
    <tr>
     <td align="center">0419금</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0418 18:41</td>
+    <td align="center">✅</td>
     <td align="center">업그레이드 된 아이템 구하기</td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">0420토</td>
