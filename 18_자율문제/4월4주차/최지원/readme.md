@@ -1,5 +1,5 @@
 ## 📚 4월 4주차 문제
-✅
+✅  
 https://school.programmers.co.kr/learn/courses/30/lessons/68644  
 
 <br/>
@@ -95,7 +95,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/68644
     <td align="center">벌금</td>
   </tr>
   <tr>
-    <td align="center" rowspan="2">0418 목</td>
+    <td align="center" rowspan="2">0419 금</td>
     <td align="center">2024-04-18 9:04</td>
     <td align="center">✅</td>
     <td align="center">두 개 뽑아서 더하기</td>
