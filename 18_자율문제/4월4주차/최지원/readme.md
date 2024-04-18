@@ -92,8 +92,14 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-      <tr>
-    <td align="center">0418 목</td>
+  <tr>
+    <td align="center" rowspan="2">0418 목</td>
+    <td align="center">2024-04-18 9:04</td>
+    <td align="center">✅</td>
+    <td align="center">두 개 뽑아서 더하기</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
     <td align="center">2024-04-18</td>
     <td align="center"></td>
     <td align="center"></td>
