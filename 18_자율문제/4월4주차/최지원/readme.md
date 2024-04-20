@@ -9,6 +9,8 @@
 기능개발  https://school.programmers.co.kr/learn/courses/30/lessons/42586  
 할인행사  https://school.programmers.co.kr/learn/courses/30/lessons/131127  
 카드뭉치  https://school.programmers.co.kr/learn/courses/30/lessons/159994  
+완주하지 못한 선수  https://school.programmers.co.kr/learn/courses/30/lessons/42576  
+
 
 <br/>
 <table>
@@ -160,9 +162,9 @@
     <td align="center"></td>
   </tr>
       <tr>
-    <td align="center">2024-04-19 3:35</td>
+    <td align="center">2024-04-21 2:10</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">완주하지 못한 선수</td>
     <td align="center"></td>
   </tr>
     <tr>
