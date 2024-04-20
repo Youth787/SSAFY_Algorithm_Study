@@ -114,17 +114,17 @@
   </tr>
    <tr>
     <td align="center">0420토</td>
+    <td align="center">벌금</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2000</td>
   </tr>
   <tr>
     <td align="center">0421일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">4/20 8:32pm</td>
+    <td align="center">✅</td>
+    <td align="center">막대기 1094</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">0422월</td>
