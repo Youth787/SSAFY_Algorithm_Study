@@ -75,9 +75,9 @@
   </tr>
   <tr>
     <td align="center">0421일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0421 12시 16분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">호석이 두 마리 치킨</td>
     <td align="center"></td>
   </tr>
   <tr>
