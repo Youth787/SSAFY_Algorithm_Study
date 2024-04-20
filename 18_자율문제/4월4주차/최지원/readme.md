@@ -10,7 +10,7 @@
 할인행사  https://school.programmers.co.kr/learn/courses/30/lessons/131127  
 카드뭉치  https://school.programmers.co.kr/learn/courses/30/lessons/159994  
 완주하지 못한 선수  https://school.programmers.co.kr/learn/courses/30/lessons/42576  
-
+오픈채팅방  https://school.programmers.co.kr/learn/courses/30/lessons/42888  
 
 <br/>
 <table>
@@ -168,9 +168,9 @@
     <td align="center"></td>
   </tr>
     <tr>
-    <td align="center">2024-04-19 3:35</td>
+    <td align="center">2024-04-21 2:40</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">오픈채팅방</td>
     <td align="center"></td>
   </tr>
         <tr>
