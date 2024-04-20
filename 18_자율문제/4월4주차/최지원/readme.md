@@ -8,7 +8,7 @@
 올바른 괄호  https://school.programmers.co.kr/learn/courses/30/lessons/12909  
 기능개발  https://school.programmers.co.kr/learn/courses/30/lessons/42586  
 할인행사  https://school.programmers.co.kr/learn/courses/30/lessons/131127  
-
+카드뭉치  https://school.programmers.co.kr/learn/courses/30/lessons/159994  
 
 <br/>
 <table>
@@ -134,7 +134,7 @@
     <td align="center"></td>
   </tr>
     <tr>
-    <td align="center" rowspan="5">0420 토</td>
+    <td align="center" rowspan="3">0420 토</td>
     <td align="center">2024-04-19 4:39</td>
     <td align="center">✅</td>
     <td align="center">올바른 괄호</td>
@@ -152,41 +152,53 @@
     <td align="center">할인행사</td>
     <td align="center"></td>
   </tr>
-    <tr>
-    <td align="center">2024-04-19 3:35</td>
-    <td align="center">✅</td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-    <tr>
-    <td align="center">2024-04-19 3:35</td>
-    <td align="center">✅</td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
    <tr>
-    <td align="center">0420 토</td>
-    <td align="center">2024-04-20</td>
+    <td align="center" rowspan="5">0421 일</td>
+    <td align="center">2024-04-20 17:49</td>
+    <td align="center">✅</td>
+    <td align="center">카드 뭉치</td>
     <td align="center"></td>
+  </tr>
+      <tr>
+    <td align="center">2024-04-19 3:35</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">2024-04-19 3:35</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+        <tr>
+    <td align="center">2024-04-19 3:35</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">2024-04-19 3:35</td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0421 일</td>
+    <td align="center">0422 월</td>
     <td align="center">2024-04-21</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0422 월</td>
+    <td align="center">0423 화</td>
     <td align="center">2024-04-22</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0423 화</td>
+    <td align="center">0423 수</td>
     <td align="center">2024-04-23</td>
     <td align="center"></td>
     <td align="center"></td>
