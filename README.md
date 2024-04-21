@@ -68,7 +68,7 @@
   
 </table>
 
-### 명예멤버
+### 명예멤버(이직 가즈아)
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 <br/> (JAVA)</a></td>
