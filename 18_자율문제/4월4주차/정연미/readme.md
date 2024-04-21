@@ -121,17 +121,17 @@
   </tr>
   <tr>
     <td align="center">0421일</td>
-    <td align="center">4/20 8:32pm</td>
+    <td align="center">4/20 20:32pm</td>
     <td align="center">✅</td>
     <td align="center">막대기 1094</td>
     <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">0422월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">4/21 13:37</td>
+    <td align="center">✅</td>
+    <td align="center">삼총사</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">0423화</td>
