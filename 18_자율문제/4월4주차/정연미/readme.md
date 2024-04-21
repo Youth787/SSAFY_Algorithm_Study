@@ -121,7 +121,7 @@
   </tr>
   <tr>
     <td align="center">0421일</td>
-    <td align="center">4/20 20:32pm</td>
+    <td align="center">4/20 20:32</td>
     <td align="center">✅</td>
     <td align="center">막대기 1094</td>
     <td align="center">-</td>
