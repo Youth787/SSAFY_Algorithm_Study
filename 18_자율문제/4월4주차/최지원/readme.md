@@ -11,6 +11,7 @@
 카드뭉치  https://school.programmers.co.kr/learn/courses/30/lessons/159994  
 완주하지 못한 선수  https://school.programmers.co.kr/learn/courses/30/lessons/42576  
 오픈채팅방  https://school.programmers.co.kr/learn/courses/30/lessons/42888  
+베스트앨범 https://school.programmers.co.kr/learn/courses/30/lessons/42579  
 
 <br/>
 <table>
@@ -155,7 +156,7 @@
     <td align="center"></td>
   </tr>
    <tr>
-    <td align="center" rowspan="5">0421 일</td>
+    <td align="center" rowspan="3">0421 일</td>
     <td align="center">2024-04-20 17:49</td>
     <td align="center">✅</td>
     <td align="center">카드 뭉치</td>
@@ -173,21 +174,21 @@
     <td align="center">오픈채팅방</td>
     <td align="center"></td>
   </tr>
-        <tr>
-    <td align="center">2024-04-19 3:35</td>
+  <tr>
+    <td align="center" rowspan="3">0422 월</td>
+    <td align="center">2024-04-22 1:02</td>
     <td align="center">✅</td>
+    <td align="center">베스트앨범</td>
+    <td align="center"></td>
+  </tr>
+   <tr>
+    <td align="center">2024-04-19 3:35</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
     <tr>
     <td align="center">2024-04-19 3:35</td>
-    <td align="center">✅</td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">0422 월</td>
-    <td align="center">2024-04-21</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
