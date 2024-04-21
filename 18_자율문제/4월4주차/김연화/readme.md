@@ -82,9 +82,9 @@
   </tr>
   <tr>
     <td align="center">0422월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0421 8시 19분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">괄호 추가하기</td>
     <td align="center"></td>
   </tr>
   <tr>
