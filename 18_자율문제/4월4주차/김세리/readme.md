@@ -122,10 +122,10 @@
   </tr>
   <tr>
     <td align="center">0422월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">04/22 01:27</td>
+    <td align="center">✅</td>
+    <td align="center">조건에 맞는 사원 정보 조회하기, FrontEnd 개발자 찾기</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">0423화</td>
