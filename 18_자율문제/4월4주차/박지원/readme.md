@@ -97,7 +97,7 @@
     <td align="center">2024-04-23 화</td>
     <td align="center">2024-04-23 화 08:28 AM</td>
     <td align="center">✅</td>
-    <td align="center">-</td>
+    <td align="center">숨바꼭질 3</td>
     <td align="center">-</td>
   </tr>
   <tr>
