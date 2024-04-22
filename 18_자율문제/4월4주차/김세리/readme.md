@@ -129,10 +129,10 @@
   </tr>
   <tr>
     <td align="center">0423화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">04/22 18:47</td>
+    <td align="center">✅</td>
+    <td align="center">괄호 회전하기</td>
+    <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">0424수</td>
