@@ -1,5 +1,5 @@
 
-## 😅 완전탐색 문제지만, 쉽지만은 않을듯요 ㅎㅎ(BFS 찍먹)
+## 자율문제
 
 순서대로 푸는게 좋아요.
 
@@ -89,9 +89,9 @@
   </tr>
   <tr>
     <td align="center">0423화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0422 8시 15분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">수들의 합</td>
     <td align="center"></td>
   </tr>
     <tr>
