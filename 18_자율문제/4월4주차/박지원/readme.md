@@ -95,16 +95,16 @@
   </tr>
   <tr>
     <td align="center">2024-04-23 화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-23 화 08:28 AM</td>
+    <td align="center">✅</td>
+    <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">2024-04-24 수</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">-</td>
     <td align="center">-</td>
   </tr>
 </table>
