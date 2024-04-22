@@ -135,10 +135,10 @@
   </tr>
   <tr>
     <td align="center">0423화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">4/22 22:50</td>
+    <td align="center">✅</td>
+    <td align="center">소수찾기</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">0424수</td>
