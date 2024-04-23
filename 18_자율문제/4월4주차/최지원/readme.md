@@ -12,6 +12,7 @@
 완주하지 못한 선수  https://school.programmers.co.kr/learn/courses/30/lessons/42576  
 오픈채팅방  https://school.programmers.co.kr/learn/courses/30/lessons/42888  
 베스트앨범 https://school.programmers.co.kr/learn/courses/30/lessons/42579  
+쉬운 최단거리 실버1  https://www.acmicpc.net/problem/14940   
 
 <br/>
 <table>
@@ -190,9 +191,9 @@
   </tr>
   <tr>
     <td align="center" rowspan="3">0423 수</td>
-    <td align="center">2024-04-23</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-24 3:34</td>
+    <td align="center">✅</td>
+    <td align="center">p14940_쉬운최단거리</td>
     <td align="center"></td>
   </tr>
      <tr>
