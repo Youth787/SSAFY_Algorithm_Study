@@ -175,22 +175,10 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center" rowspan="3">0422 월</td>
+    <td align="center">0422 월</td>
     <td align="center">2024-04-22 1:02</td>
     <td align="center">✅</td>
     <td align="center">베스트앨범</td>
-    <td align="center"></td>
-  </tr>
-   <tr>
-    <td align="center">2024-04-19 3:35</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-    <tr>
-    <td align="center">2024-04-19 3:35</td>
-    <td align="center"></td>
-    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
@@ -201,8 +189,20 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0423 수</td>
+    <td align="center" rowspan="3">0423 수</td>
     <td align="center">2024-04-23</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+     <tr>
+    <td align="center">2024-04-23 3:35</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">2024-04-23 3:35</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
