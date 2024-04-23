@@ -183,10 +183,10 @@
   </tr>
   <tr>
     <td align="center">0423 화</td>
-    <td align="center">2024-04-22</td>
     <td align="center">🌟면제권🌟</td>
     <td align="center">🌟면제권🌟</td>
-    <td align="center"></td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center">🌟면제권🌟</td>
   </tr>
   <tr>
     <td align="center" rowspan="3">0423 수</td>
