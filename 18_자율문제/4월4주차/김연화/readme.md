@@ -96,9 +96,9 @@
   </tr>
     <tr>
     <td align="center">0424수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0423 10시 28분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">정수 제곱근</td>
     <td align="center"></td>
   </tr>
 </table>
