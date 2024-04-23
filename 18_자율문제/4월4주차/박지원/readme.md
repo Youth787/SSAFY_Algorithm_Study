@@ -102,9 +102,9 @@
   </tr>
   <tr>
     <td align="center">2024-04-24 수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">-</td>
+    <td align="center">2024-04-24 수 08:32 AM</td>
+    <td align="center">✅</td>
+    <td align="center">최소비용 구하기</td>
     <td align="center">-</td>
   </tr>
 </table>
