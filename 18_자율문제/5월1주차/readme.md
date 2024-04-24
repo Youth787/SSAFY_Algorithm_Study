@@ -21,16 +21,8 @@
     <td align="center">마법사상어와 비바라기</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/21610">바로가기</a></td>
   </tr>
-  <tr>
-    <td align="center">03</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center">1194</td>
-    <td align="center">달이차오른다,가자</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1194">바로가기</a></td>
-  </tr>
    <tr>
-    <td align="center">04</td>
+    <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
     <td align="center">1918</td>
@@ -38,12 +30,20 @@
     <td align="center"><a href="https://www.acmicpc.net/problem/1918">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">05</td>
+    <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
     <td align="center">2093</td>
     <td align="center">괄호제거</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/2093">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">04</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
+    <td align="center">1194</td>
+    <td align="center">달이차오른다,가자</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1194">바로가기</a></td>
   </tr>
     <tr>
     <td align="center"></td>
