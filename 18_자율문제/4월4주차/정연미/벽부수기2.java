@@ -68,19 +68,15 @@ public class 벽부수고이동하기2 {
                 int c = y+dir[k][1];
 
                 if(r >= 0 && c >= 0 && r < N && c < M){
-                    // 벽이 아닌경우
                     if(arr[r][c]==0){
-                        if(wallbreak<K && !visit[r][c][0]) {// 벽을 부순적이 없다.
-                            q.add(new idxx(r,c,cnt+1,wallbreak));
-                            visit[r][c][0] = true;
-                        }else if(wallbreak>=K && !visit[r][c][1]){ // 벽을 부순적이 있다.
-                            q.add(new idxx(r,c,cnt+1,wallbreak));
-                            visit[r][c][1] = true;
+                        if(!visit[r][c][wallbreak]) {
+                            q.add(new idxx(r, c, cnt + 1, wallbreak));
+                            visit[r][c][wallbreak] = true;
                         }
-                    }else if(arr[r][c]==1){ // 벽인 경우
-                        if(wallbreak<K){
+                    }else if(arr[r][c]==1){
+                        if(wallbreak<K && !visit[r][c][wallbreak+1]){
                             q.add(new idxx(r,c,cnt+1,wallbreak+1));
-                            visit[r][c][1]= true;
+                            visit[r][c][wallbreak+1]= true;
                         }
                     }
                 }
@@ -89,5 +85,3 @@ public class 벽부수고이동하기2 {
         return -1;
     }
 }
-
-
