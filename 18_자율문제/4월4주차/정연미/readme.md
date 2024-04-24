@@ -142,9 +142,9 @@
   </tr>
   <tr>
     <td align="center">0424수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">-424 9:00</td>
+    <td align="center">✅</td>
+    <td align="center">벽부수기2</td>
     <td align="center"></td>
   </tr>
 </table>
