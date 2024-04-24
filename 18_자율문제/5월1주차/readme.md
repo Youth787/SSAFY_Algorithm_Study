@@ -54,7 +54,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">02</td>
+    <td align="center">01</td>
     <td align="center">✅</td>
     <td align="center">프로그래머스</td>
     <td align="center">월간코드챌린지</td>
