@@ -1,3 +1,12 @@
+/* 
+ * 진도가 100%일때 서비스에 반영, 
+ * 개발 속도는 모두 다르고(뒤에 있는 기능이 먼저 개발된 후 앞의 기능이 배포될 때 함께 배포됨)
+ * progresses 배포 순서대로, 몇% 진행되었는가
+ * speeds 하루에 몇% 개발이 가능한지
+ * 각 배포마다 몇개의 기능이 배포되는가
+ * 배포는 하루에 한 번 하루 끝에.
+ */
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 
@@ -9,16 +18,16 @@ class Solution {
         for (int i = 0; i < len; i++) {
             left[i] = (int) Math.ceil((100.0 - progresses[i])/speeds[i]);
         } //작업 완료까지 남은 일 수 계산 = (남은 작업 진행률 / 작업 속도 ) ceil 올림
-        int cnt = 0; //작업 완료된 개수
-        int max = left[0]; //현재까지의 최대 작업 완료까지 남은 일 수
-        for (int i = 0; i <len; i++) {
-            if (left[i] <= max) {
+        int cnt = 0; //작업 완료된 개수를 셀 때
+        int max = left[0]; //현재까지의 최대 작업 완료까지 남은 일 수(처음 작업 값으로 초기화)
+        
+        for (int i = 0; i <len; i++) { //각 작업을 순회하며
+            if (left[i] <= max) { 
                 cnt++; //현재 작업 완료까지 남은 일 수가 최대값보다 작거나 같으면 카운트 증가
             } else {
-                answer.add(cnt);
+                answer.add(cnt); //현재까지 완료된 개수 추가
                 cnt = 1;
-                max = left[i];
-                //최대값이면 cnt를 큐에 추가하고 cnt 초기화
+                max = left[i]; //최대 작업 완료까지 남은 일 수 갱신
             }
         }
         
