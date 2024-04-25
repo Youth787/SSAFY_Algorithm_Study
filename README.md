@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/ar77gt"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt" /></a><br/>
-         <td align="center"><a href="https://solved.ac/aycho00"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yerioo" /></a><br/>
+         <td align="center"><a href="https://solved.ac/onid057"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yerioo" /></a><br/>
       <td align="center"><a href="https://solved.ac/aycho00"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aycho00" /></a><br/>
       <td align="center"><a href="https://solved.ac/wldnjs1123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123" /></a><br/>
          <td align="center"><a href="https://solved.ac/itidnsld"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=itidnsld" />
