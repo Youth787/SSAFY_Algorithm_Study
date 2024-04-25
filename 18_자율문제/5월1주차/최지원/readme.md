@@ -96,9 +96,9 @@
   <tr>
     <td align="center">0426 금</td>
     <td align="center">2024-04-25</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center">🌟면제권🌟</td>
   </tr>
     <tr>
     <td align="center">0427 토</td>
