@@ -20,7 +20,7 @@
     <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
     <td align="center">교점에 별 만들기</td>
-    <td align="center"><a href="https://school.programmers.co.kr/tryouts/71847/challenges">바로가기</a></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87377">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
@@ -36,7 +36,7 @@
     <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
     <td align="center">이진 변환 반복하기</td>
-    <td align="center"><a href="https://school.programmers.co.kr/tryouts/71856/challenges">바로가기</a></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">바로가기</a></td>
   </tr>
 <tr>
     <td align="center">04</td>
@@ -52,7 +52,7 @@
     <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
     <td align="center">쿼드압축 후 개수 세기</td>
-    <td align="center"><a href="https://school.programmers.co.kr/tryouts/71862/challenges">바로가기</a></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">06</td>
