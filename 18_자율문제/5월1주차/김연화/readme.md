@@ -51,7 +51,19 @@
 
 <br/><br/>
 
-  <table제</td>
+  <table>
+  <tr>
+    <td align="center">날짜</td>
+    <td align="center">인증 시각</td>
+    <td align="center">완료체크</td>
+    <td align="center">푼 문제</td>
+    <td align="center">벌금</td>
+  </tr>
+ 
+   <tr>
+    <td align="center">0426금</td>
+    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
