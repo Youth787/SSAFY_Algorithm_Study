@@ -93,7 +93,7 @@
  
    <tr>
     <td align="center">0426금</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
