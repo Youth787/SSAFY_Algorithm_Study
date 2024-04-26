@@ -103,9 +103,9 @@
     <tr>
     <td align="center">0427 토</td>
     <td align="center">2024-04-26</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center">🌟면제권🌟</td>
   </tr>
    <tr>
     <td align="center">0428 일</td>
