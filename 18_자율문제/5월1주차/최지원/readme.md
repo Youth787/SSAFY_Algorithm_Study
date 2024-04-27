@@ -109,7 +109,7 @@
   </tr>
    <tr>
     <td align="center">0428 일</td>
-    <td align="center">2024-04-27</td>
+    <td align="center">2024-04-28 6:45</td>
     <td align="center">✅</td>
     <td align="center">조이스틱</td>
     <td align="center"></td>
