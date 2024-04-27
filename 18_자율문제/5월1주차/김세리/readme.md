@@ -107,10 +107,10 @@
   </tr>
   <tr>
     <td align="center">0428일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">4/28 02:35</td>
+    <td align="center">✅</td>
+    <td align="center">5월 식품들의 총매출 조회하기</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">0429월</td>
