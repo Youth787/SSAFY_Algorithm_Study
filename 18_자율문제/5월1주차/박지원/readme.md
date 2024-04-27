@@ -81,9 +81,9 @@
   </tr>
   <tr>
     <td align="center">2024-04-28 일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-27 토 11:20 PM</td>
+    <td align="center">✅</td>
+    <td align="center">숫자 카드 나누기</td>
     <td align="center">-</td>
   </tr>
   <tr>
