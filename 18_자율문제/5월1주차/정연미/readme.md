@@ -97,9 +97,9 @@
   </tr>
   <tr>
     <td align="center">0428일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0428 3:10</td>
+    <td align="center">✅</td>
+    <td align="center">두개뽑아서더하기</td>
     <td align="center"></td>
   </tr>
   <tr>
