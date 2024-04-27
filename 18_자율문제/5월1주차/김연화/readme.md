@@ -76,9 +76,9 @@
   </tr>
   <tr>
     <td align="center">0428일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0428 12시 7분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">IF문 좀 대신 써줘</td>
     <td align="center"></td>
   </tr>
   <tr>
