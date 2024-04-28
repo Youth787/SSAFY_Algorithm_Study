@@ -83,9 +83,9 @@
   </tr>
   <tr>
     <td align="center">0429월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0428 11시 20분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">선분 위의 점</td>
     <td align="center"></td>
   </tr>
   <tr>
