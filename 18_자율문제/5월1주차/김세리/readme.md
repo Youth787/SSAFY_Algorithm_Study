@@ -114,10 +114,10 @@
   </tr>
   <tr>
     <td align="center">0429월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">4/29 01:56</td>
+    <td align="center">✅</td>
+    <td align="center">치킨배달</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">0430화</td>
