@@ -1,6 +1,6 @@
 import java.util.*;
 
-//프로그래머스 할인 행사 map사용해서 풀었는데, 답은 맞는데 출력초과뜸 조금 더 고민해볼게요
+//프로그래머스 할인 행사. map사용해서 풀었다. 이번 농은 2번이랑 문제 비슷한듯??
 class Solution {
     public int solution(String[] want, int[] number, String[] discount) {
         int answer = 0;
@@ -18,7 +18,6 @@ class Solution {
             int count = 0;
             a: for (int j = 0; j < want.length; j++) {
                 if (temp.getOrDefault(want[j], 0) < number[j]) {
-                    System.out.println("here");
                     break a;
                 } else count++;
             }
