@@ -104,9 +104,9 @@
   </tr>
   <tr>
     <td align="center">0429월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0429 1:10</td>
+    <td align="center">✅</td>
+    <td align="center">마법사상어와비바라기</td>
     <td align="center"></td>
   </tr>
   <tr>
