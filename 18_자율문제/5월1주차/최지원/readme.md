@@ -37,7 +37,7 @@
   </tr>
    <tr>
     <td align="center">04</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">Level2</td>
     <td align="center">42747</td>
     <td align="center">h-index</td>
@@ -116,9 +116,9 @@
   </tr>
   <tr>
     <td align="center">0429 월</td>
-    <td align="center">2024-04-28</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-29 5:09</td>
+    <td align="center">✅</td>
+    <td align="center">h-index</td>
     <td align="center"></td>
   </tr>
   <tr>
