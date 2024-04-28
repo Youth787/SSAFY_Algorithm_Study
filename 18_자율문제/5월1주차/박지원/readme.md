@@ -16,7 +16,7 @@
     <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center">LV 2 JS</td>
+    <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
     <td align="center">숫자 카드 나누기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/135807">바로가기</a></td>
@@ -24,7 +24,7 @@
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center">LV 2 JS</td>
+    <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
     <td align="center">할인 행사</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127">바로가기</a></td>
@@ -91,7 +91,7 @@
     <td align="center">2024-04-29 월 08:49 AM</td>
     <td align="center">✅</td>
     <td align="center">할인 행사</td>
-    <td align="center">출력 초과 고민중</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">2024-04-30 화</td>
