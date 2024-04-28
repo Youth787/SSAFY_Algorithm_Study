@@ -88,10 +88,10 @@
   </tr>
   <tr>
     <td align="center">2024-04-29 월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">-</td>
+    <td align="center">2024-04-29 월 08:49 AM</td>
+    <td align="center">✅</td>
+    <td align="center">할인 행사</td>
+    <td align="center">출력 초과 고민중</td>
   </tr>
   <tr>
     <td align="center">2024-04-30 화</td>
