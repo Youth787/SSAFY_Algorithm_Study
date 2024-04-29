@@ -111,9 +111,9 @@
   </tr>
   <tr>
     <td align="center">0430화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0429 10:55</td>
+    <td align="center">✅</td>
+    <td align="center">후위표기식</td>
     <td align="center"></td>
   </tr>
   <tr>
