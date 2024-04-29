@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">0430화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0429 9시 35분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">입국심사</td>
     <td align="center"></td>
   </tr>
     <tr>
