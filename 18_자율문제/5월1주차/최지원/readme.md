@@ -61,7 +61,7 @@
   </tr>
     <tr>
     <td align="center">07</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">Level2</td>
     <td align="center">43162</td>
     <td align="center">네트워크</td>
@@ -123,9 +123,9 @@
   </tr>
   <tr>
     <td align="center">0430 화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-30 00:50</td>
+    <td align="center">✅</td>
+    <td align="center">네트워크</td>
     <td align="center"></td>
   </tr>
   <tr>
