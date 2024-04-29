@@ -121,10 +121,10 @@
   </tr>
   <tr>
     <td align="center">0430화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">4/30 12:06</td>
+    <td align="center">✅</td>
+    <td align="center">이진 변환 반복하기</td>
+    <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">0501수</td>
