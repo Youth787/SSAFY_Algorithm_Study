@@ -95,9 +95,9 @@
   </tr>
   <tr>
     <td align="center">2024-04-30 화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-04-30 화 08:37 AM</td>
+    <td align="center">✅</td>
+    <td align="center">지름길</td>
     <td align="center">-</td>
   </tr>
   <tr>
