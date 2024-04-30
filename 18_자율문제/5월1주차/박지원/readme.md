@@ -102,9 +102,9 @@
   </tr>
   <tr>
     <td align="center">2024-05-01 수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-05-01 수 08:52 AM</td>
+    <td align="center">✅</td>
+    <td align="center">파티</td>
     <td align="center">-</td>
   </tr>
 </table>
