@@ -128,9 +128,9 @@
   </tr>
     <tr>
     <td align="center">0501수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">5/01</td>
+    <td align="center">✅</td>
+    <td align="center">연구소</td>
+    <td align="center">0</td>
   </tr>
 </table>
