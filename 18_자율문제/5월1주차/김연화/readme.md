@@ -97,9 +97,9 @@
   </tr>
     <tr>
     <td align="center">0501수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0430 8시 10분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">색종이와 가위</td>
     <td align="center"></td>
   </tr>
 </table>
