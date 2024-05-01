@@ -1,5 +1,5 @@
 ## 📚 5월 2주차 문제
-✅  <img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">
+✅  <img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"> //rowspan="5"
 
 <br/>
 <table>
@@ -76,7 +76,7 @@
 제출 기한 : 다음날 오전 9시 <br>
 리드미 제출 : 목요일 오전 9:00까지. 미제출시 벌금 2000원 <br>
 수요일 9:00AM : 필수 4문제 미제출시 벌금 3000원 <br>
-//rowspan="5"
+
 <table>
   <tr>
     <td align="center">날짜</td>
