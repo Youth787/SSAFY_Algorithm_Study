@@ -22,7 +22,7 @@
     <tr>
     <td align="center">02</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">LV3</td>
     <td align="center">77486</td>
     <td align="center">다단계 칫솔 판매</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486">바로가기</a></td>
@@ -30,7 +30,7 @@
       <tr>
     <td align="center">03</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">LV3</td>
     <td align="center">92343</td>
     <td align="center">양과 늑대</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">바로가기</a></td>
@@ -38,7 +38,7 @@
    <tr>
     <td align="center">04</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">LV3</td>
     <td align="center">42892</td>
     <td align="center">길 찾기 게임</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">바로가기</a></td>
@@ -46,7 +46,7 @@
   <tr>
     <td align="center">05</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">LV1</td>
     <td align="center">1845</td>
     <td align="center">폰켓몬</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">바로가기</a></td>
@@ -54,7 +54,7 @@
   <tr>
     <td align="center">06</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">LV2</td>
     <td align="center">12981</td>
     <td align="center">영어 끝말잇기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981">바로가기</a></td>
@@ -62,7 +62,7 @@
     <tr>
     <td align="center">07</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">LV3</td>
     <td align="center">42861</td>
     <td align="center">섬 연결하기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42861">바로가기</a></td>
