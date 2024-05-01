@@ -18,32 +18,32 @@
     <td align="center">✅</td>
     <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
-    <td align="center"></td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">바로가기</a></td>
+    <td align="center">피로도</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
-    <td align="center"></td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">바로가기</a></td>
+    <td align="center">연속 부분 수열 합의 갯수</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131701?language=java">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/13549">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">11279</td>
+    <td align="center">최대 힙</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/11279">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1916">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">18352</td>
+    <td align="center">특정 거리 도시 찾기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/18352">바로가기</a></td>
   </tr>
 
 </table>
