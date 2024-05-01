@@ -67,9 +67,9 @@
   </tr>
     <tr>
     <td align="center">2024-05-03 금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-05-02 목 08:51 AM</td>
+    <td align="center">✅</td>
+    <td align="center">연속 수열 합의 갯수</td>
     <td align="center">-</td>
   </tr>
    <tr>
