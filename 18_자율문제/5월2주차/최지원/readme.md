@@ -21,7 +21,7 @@
   </tr>
     <tr>
     <td align="center">02</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">LV3</td>
     <td align="center">77486</td>
     <td align="center">다단계 칫솔 판매</td>
@@ -93,10 +93,10 @@
     <td align="center"></td>
   </tr>
     <tr>
-    <td align="center">0427 토</td>
-    <td align="center">2024-04-26</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0504 토</td>
+    <td align="center">2024-05-02 05:27</td>
+    <td align="center">✅</td>
+    <td align="center">다단계 칫솔 판매</td>
     <td align="center"></td>
   </tr>
    <tr>
