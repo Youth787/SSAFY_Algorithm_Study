@@ -74,9 +74,9 @@
   </tr>
    <tr>
     <td align="center">2024-05-04 토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-05-03 금 09:57 AM</td>
+    <td align="center">✅</td>
+    <td align="center">피로도</td>
     <td align="center">-</td>
   </tr>
   <tr>
