@@ -113,10 +113,10 @@
   </tr>
   <tr>
     <td align="center">0505일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">22:35pm</td>
+    <td align="center">✅</td>
+    <td align="center">연도 별 평균 미세먼지 농도 조회하기</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">0506월</td>
