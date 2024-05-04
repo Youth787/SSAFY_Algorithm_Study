@@ -74,9 +74,9 @@
   </tr>
    <tr>
     <td align="center">0505 일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0505 1시 29분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">휴게소 세우기</td>
     <td align="center"></td>
   </tr>
   <tr>
