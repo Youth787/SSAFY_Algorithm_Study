@@ -1,0 +1,9 @@
+SELECT YEAR(YM) AS 'YEAR', ROUND(AVG(PM_VAL1),2) AS 'PM10', ROUND(AVG(PM_VAL2),2) AS 'PM2.5'
+FROM AIR_POLLUTION
+WHERE LOCATION2 = '수원'
+GROUP BY YEAR(YM)
+ORDER BY YEAR(YM) ASC;
+
+// 반올림 ROUND(~ , 2) 소수점 둘째자리 '까지'
+// GROUP BY 에서 사용한 YEAR(YM) => SELECT와 ORDER BY 에서 통일해서 사용. 
+// YM 만 작성하면 틀림 
