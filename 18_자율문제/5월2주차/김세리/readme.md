@@ -100,16 +100,16 @@
   </tr>
   <tr>
     <td align="center">0504토</td>
-    <td align="center">2024 5/04 12:24</td>
+    <td align="center">24 05/04 12:24</td>
     <td align="center">✅</td>
     <td align="center">짝지어 제거하기</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">0505일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">24 05/05 01:26</td>
+    <td align="center">✅</td>
+    <td align="center">구명보트</td>
     <td align="center">0</td>
   </tr>
   <tr>
