@@ -120,10 +120,10 @@
   </tr>
   <tr>
     <td align="center">0506월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">00:40</td>
+    <td align="center">✅</td>
+    <td align="center">붕대감기</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">0507화</td>
