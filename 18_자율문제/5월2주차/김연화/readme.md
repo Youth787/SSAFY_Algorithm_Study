@@ -81,9 +81,9 @@
   </tr>
   <tr>
     <td align="center">0506 월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0506 2시 55분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">세 용액</td>
     <td align="center"></td>
   </tr>
   <tr>
