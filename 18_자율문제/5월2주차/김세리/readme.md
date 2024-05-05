@@ -88,7 +88,7 @@
     <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">0504토</td>
@@ -113,16 +113,16 @@
   </tr>
   <tr>
     <td align="center">0507화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">24 05/06 01:02</td>
+    <td align="center">✅</td>
+    <td align="center">자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기</td>
+    <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">0508수</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
 </table>
