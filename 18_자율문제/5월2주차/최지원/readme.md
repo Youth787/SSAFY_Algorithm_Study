@@ -100,18 +100,18 @@
     <td align="center"></td>
   </tr>
    <tr>
-    <td align="center">0428 일</td>
-    <td align="center">2024-04-28 6:45</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0505 일</td>
+    <td align="center">2024-05-03 4:12</td>
+    <td align="center">✅</td>
+    <td align="center">암호만들기</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">0429 월</td>
-    <td align="center">2024-04-29 5:09</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center">🌟면제권🌟</td>
+    <td align="center">🌟면제권🌟</td>
   </tr>
   <tr>
     <td align="center">0430 화</td>
