@@ -18,3 +18,10 @@ JOIN hr_grade g
 ON e.emp_no = g.emp_no
 GROUP BY e.emp_no
 ORDER BY e.emp_no
+
+-- case when ~~ then 
+--         when ~~ then 
+--         else 
+-- end as 'column명'
+
+
