@@ -127,9 +127,9 @@
   </tr>
   <tr>
     <td align="center">0507화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">00:26</td>
+    <td align="center">✅</td>
+    <td align="center">연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기</td>
     <td align="center"></td>
   </tr>
   <tr>
