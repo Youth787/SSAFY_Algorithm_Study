@@ -95,9 +95,9 @@
   </tr>
   <tr>
     <td align="center">2024-05-07 화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-05-07 화 08:24 AM</td>
+    <td align="center">✅</td>
+    <td align="center">최대 힙</td>
     <td align="center">-</td>
   </tr>
   <tr>
