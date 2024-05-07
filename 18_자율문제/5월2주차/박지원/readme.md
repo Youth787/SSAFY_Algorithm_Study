@@ -88,8 +88,8 @@
   </tr>
   <tr>
     <td align="center">2024-05-06 월</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
     <td align="center">면제</td>
     <td align="center">-</td>
   </tr>
@@ -102,9 +102,9 @@
   </tr>
   <tr>
     <td align="center">2024-05-08 수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-05-08 수 08:44 AM</td>
+    <td align="center">✅</td>
+    <td align="center">특정 거리의 도시 찾기</td>
     <td align="center">-</td>
   </tr>
 </table>
