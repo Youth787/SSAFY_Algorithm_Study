@@ -95,9 +95,9 @@
   </tr>
   <tr>
     <td align="center">0508 수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0508 1시 7분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">K번째 수</td>
     <td align="center"></td>
   </tr>
 </table>
