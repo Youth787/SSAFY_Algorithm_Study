@@ -134,9 +134,9 @@
   </tr>
   <tr>
     <td align="center">0508수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">11:10</td>
+    <td align="center">✅</td>
+    <td align="center">달이차오른다가자</td>
     <td align="center"></td>
   </tr>
 </table>
