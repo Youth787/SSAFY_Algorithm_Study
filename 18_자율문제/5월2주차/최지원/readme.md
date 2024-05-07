@@ -68,6 +68,10 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42861">바로가기</a></td>
   </tr>
 </table>
+
+
+상품 별 오프라인 매출 구하기  
+https://school.programmers.co.kr/learn/courses/30/lessons/131533  
 <br/><br/>
 
 ## 📚 하루에 한 문제씩 풀어보자
@@ -107,24 +111,25 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">0429 월</td>
+    <td align="center">0506 월</td>
     <td align="center">🌟면제권🌟</td>
     <td align="center">🌟면제권🌟</td>
     <td align="center">🌟면제권🌟</td>
     <td align="center">🌟면제권🌟</td>
   </tr>
   <tr>
-    <td align="center">0430 화</td>
+    <td align="center">0507 화</td>
     <td align="center">🌟면제권🌟</td>
     <td align="center">🌟면제권🌟</td>
     <td align="center">🌟면제권🌟</td>
     <td align="center">🌟면제권🌟</td>
   </tr>
   <tr>
-    <td align="center">0501 수</td>
-    <td align="center">2024-04-30</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0508 수</td>
+    <td align="center">2024-05-08 7:41</td>
+    <td align="center">✅</td>
+    <td align="center">
+상품 별 오프라인 매출 구하기</td>
     <td align="center"></td>
   </tr>
 </table>
