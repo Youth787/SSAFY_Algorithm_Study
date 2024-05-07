@@ -88,9 +88,9 @@
   </tr>
   <tr>
     <td align="center">0507 화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0506 11시 21분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">암벽 등반</td>
     <td align="center"></td>
   </tr>
   <tr>
