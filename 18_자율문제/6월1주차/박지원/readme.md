@@ -70,10 +70,10 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-05-21 화 02:23 PM</td>
+    <td align="center">✅</td>
+    <td align="center">리코쳇 로봇</td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">토</td>
