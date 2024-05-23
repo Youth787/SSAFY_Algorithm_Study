@@ -77,10 +77,10 @@
   </tr>
    <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">2024-05-24 금 08:49 AM</td>
+    <td align="center">시소 짝꿍</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">일</td>
