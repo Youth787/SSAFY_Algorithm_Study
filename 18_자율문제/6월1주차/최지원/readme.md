@@ -134,9 +134,9 @@
   </tr>
     <tr>
     <td align="center">240524 금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240524 06:08</td>
+    <td align="center">✅</td>
+    <td align="center">N과 M (1)</td>
     <td align="center"></td>
   </tr>
    <tr>
