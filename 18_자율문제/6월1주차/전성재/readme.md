@@ -17,7 +17,7 @@
    <tr>
     <td align="center">01</td>
     <td align="center"></td>
-    <td align="center">LV3<img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
+    <td align="center">LV.3</td>
     <td align="center">프로그래머스</td>
     <td align="center">대장균의 크기에 따라 분류하기 2</td>
     <td align="center">https://school.programmers.co.kr/learn/courses/30/lessons/301649<a href="https://www.acmicpc.net/problem">바로가기</a></td>
