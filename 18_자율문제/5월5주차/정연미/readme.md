@@ -106,9 +106,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">8:50am</td>
+    <td align="center">✅</td>
+    <td align="center">다각형의면적</td>
     <td align="center"></td>
   </tr>
   <tr>
