@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center">06</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">Lv2</td>
     <td align="center">프로그래머스</td>
     <td align="center">가장 큰 수</td>
