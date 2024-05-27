@@ -98,9 +98,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">면제</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">2024-05-28 화 08:44 AM</td>
+    <td align="center">✅</td>
+    <td align="center">랜선 자르기</td>
     <td align="center">-</td>
   </tr>
   <tr>
