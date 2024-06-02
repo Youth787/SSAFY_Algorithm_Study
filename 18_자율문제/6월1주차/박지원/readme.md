@@ -54,49 +54,30 @@
 
 <table>
   <tr>
-    <td align="center">날짜</td>
     <td align="center">인증 시각</td>
     <td align="center">완료체크</td>
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-    <tr>
-    <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+  <tr>
+    <td align="center">2024-06-02 일 04:48 PM</td>
+    <td align="center">✅</td>
+    <td align="center">줄 서는 방법</td>
+    <td align="center">-</td>
   </tr>
-   <tr>
-    <td align="center">토</td>
+  <tr>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">화</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
