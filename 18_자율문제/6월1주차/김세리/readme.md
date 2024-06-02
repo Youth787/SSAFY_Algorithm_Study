@@ -84,16 +84,16 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">12:00</td>
+    <td align="center">✅</td>
+    <td align="center">숫자의합, 경고, 밀비급일</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center">12:00</td>
-    <td align="center">✅</td>
-    <td align="center">숫자의합, 경고, 밀비급일</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
