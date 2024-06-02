@@ -66,10 +66,10 @@
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-02 일 05:07 PM</td>
+    <td align="center">✅</td>
+    <td align="center">소수 찾기</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center"></td>
