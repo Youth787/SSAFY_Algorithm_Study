@@ -16,7 +16,7 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">LEVEL 1</td>
     <td align="center">151136</td>
     <td align="center">평균 일일 대여 요금 구하기</td>
@@ -24,7 +24,7 @@
   </tr>
      <tr>
     <td align="center">02</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">LEVEL 1</td>
     <td align="center">144853</td>
     <td align="center">조건에 맞는 도서 리스트 출력하기</td>
@@ -32,7 +32,7 @@
   </tr>
    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">LEVEL 1</td>
     <td align="center">164673</td>
     <td align="center">조건에 부합하는 중고거래 댓ㄷ글 조회하기</td>
@@ -56,7 +56,7 @@
   </tr>
      <tr>
     <td align="center">06</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg"></td>
     <td align="center">1152</td>
     <td align="center">단어의 개수</td>
@@ -64,7 +64,7 @@
   </tr>
      <tr>
     <td align="center">07</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg"></td>
     <td align="center">2562</td>
     <td align="center">최댓값</td>
@@ -110,10 +110,10 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
-    <td align="center">면</td>
-    <td align="center">제</td>
-    <td align="center">권</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
    <tr>
     <td align="center">토</td>
