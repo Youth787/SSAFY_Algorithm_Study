@@ -60,16 +60,16 @@
     <td align="center">벌금</td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-08 토 03:40 PM</td>
+    <td align="center">✅</td>
+    <td align="center">무인도 여행 JAVA</td>
+    <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-08 토 03:40 PM</td>
+    <td align="center">✅</td>
+    <td align="center">무인도 여행 JavaScript</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center"></td>
