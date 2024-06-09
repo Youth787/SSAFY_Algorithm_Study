@@ -126,7 +126,7 @@
     <td align="center">일</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">151136 평균 일일 대여 요금 구하기</td>
     <td align="center"></td>
   </tr>
   <tr>
