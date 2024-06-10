@@ -48,7 +48,7 @@
   </tr>
    <tr>
     <td align="center">05</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">프로그래머스</td>
     <td align="center">Lv3</td>
     <td align="center">대장균크기에 따라 분류하기 1</td>
@@ -92,9 +92,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">20:00</td>
+    <td align="center">✅</td>
+    <td align="center">대장균</td>
     <td align="center"></td>
   </tr>
   <tr>
