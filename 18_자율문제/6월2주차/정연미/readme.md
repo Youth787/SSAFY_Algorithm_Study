@@ -92,16 +92,16 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center">20:00</td>
-    <td align="center">✅</td>
-    <td align="center">대장균</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+      <td align="center">20:00</td>
+    <td align="center">✅</td>
+    <td align="center">대장균</td>
     <td align="center"></td>
   </tr>
   <tr>
