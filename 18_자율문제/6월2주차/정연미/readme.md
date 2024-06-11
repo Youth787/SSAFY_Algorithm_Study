@@ -32,7 +32,7 @@
   </tr>
    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">2493</td>
     <td align="center">탑</td>
@@ -108,7 +108,7 @@
     <td align="center">화</td>
     <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">특정세대대장균찾기</td>
+    <td align="center">특정세대대장균찾기,탑</td>
     <td align="center"></td>
   </tr>
   <tr>
