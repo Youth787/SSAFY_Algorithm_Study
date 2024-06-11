@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center">06</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">프로그래머스</td>
     <td align="center">Lv4</td>
     <td align="center">특정 세대의 대장균 찾기</td>
@@ -107,8 +107,8 @@
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">특정세대대장균찾기</td>
     <td align="center"></td>
   </tr>
   <tr>
