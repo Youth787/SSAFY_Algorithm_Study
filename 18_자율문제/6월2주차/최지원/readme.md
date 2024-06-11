@@ -67,7 +67,7 @@
     <td align="center">1152</td>
     <td align="center">단어의 개수</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1152">바로가기</a></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
   </tr>
      <tr>
     <td align="center">07</td>
@@ -76,7 +76,7 @@
     <td align="center">2562</td>
     <td align="center">최댓값</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/2562">바로가기</a></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
   </tr>
    <tr>
     <td align="center">08</td>
