@@ -72,15 +72,15 @@
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-11 화 05:10 PM</td>
+    <td align="center">✅</td>
+    <td align="center">방문 길이 Java</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-11 화 05:10 PM</td>
+    <td align="center">✅</td>
+    <td align="center">방문 길이 JavaScript</td>
     <td align="center"></td>
   </tr>
 </table>
