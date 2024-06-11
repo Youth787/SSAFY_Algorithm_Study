@@ -89,4 +89,10 @@
     <td align="center">nQueen JavaScript</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">2024-06-11 화 06:20 PM</td>
+    <td align="center">✅</td>
+    <td align="center">연구소 Java</td>
+    <td align="center">-</td>
+  </tr>
 </table>
