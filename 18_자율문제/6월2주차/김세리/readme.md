@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-12 12:20</td>
+    <td align="center">✅</td>
+    <td align="center">회사에 있는 사람, 나는야 포켓몬 마스터 이다솜, 수강신청, 비밀번호 찾기, 걸그룹마스터 준식</td>
+    <td align="center">0</td>
   </tr>
 </table>
