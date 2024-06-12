@@ -16,43 +16,43 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 1</td>
+    <td align="center">1845번</td>
+    <td align="center">포켓몬</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 1</td>
+    <td align="center">42576번</td>
+    <td align="center">완주하지 못한 선수</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">42577</td>
+    <td align="center">전화번호 목록</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">42578번</td>
+    <td align="center">의상</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 3</td>
+    <td align="center">42579번</td>
+    <td align="center">베스트 앨범</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
