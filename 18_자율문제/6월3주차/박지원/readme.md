@@ -23,7 +23,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">01</td>
+    <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center">LV 2 JavaScript</td>
     <td align="center">프로그래머스</td>
@@ -31,7 +31,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">01</td>
+    <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center">LV 2 JAVA</td>
     <td align="center">프로그래머스</td>
@@ -39,7 +39,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12978">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">01</td>
+    <td align="center">04</td>
     <td align="center">✅</td>
     <td align="center">LV 2 JavaScript</td>
     <td align="center">프로그래머스</td>
@@ -47,7 +47,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12978">바로가기</a></td>
   </tr>
      <tr>
-    <td align="center">01</td>
+    <td align="center">05</td>
     <td align="center">✅</td>
     <td align="center">LV 2 JAVA</td>
     <td align="center">프로그래머스</td>
@@ -55,7 +55,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">01</td>
+    <td align="center">06</td>
     <td align="center">✅</td>
     <td align="center">LV 2 JavaScript</td>
     <td align="center">프로그래머스</td>
@@ -63,7 +63,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">바로가기</a></td>
   </tr>
      <tr>
-    <td align="center">01</td>
+    <td align="center">07</td>
     <td align="center">✅</td>
     <td align="center">LV 2 JAVA</td>
     <td align="center">프로그래머스</td>
@@ -71,7 +71,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">01</td>
+    <td align="center">08</td>
     <td align="center">✅</td>
     <td align="center">LV 2 JavaScript</td>
     <td align="center">프로그래머스</td>
