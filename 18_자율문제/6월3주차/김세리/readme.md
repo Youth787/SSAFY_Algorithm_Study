@@ -34,7 +34,7 @@
     <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center">Level 2</td>
-    <td align="center">42577</td>
+    <td align="center">42577번</td>
     <td align="center">전화번호 목록</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">바로가기</a></td>
   </tr>
@@ -70,10 +70,10 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-13 16:21</td>
+    <td align="center">✅</td>
+    <td align="center">포켓몬, 완주하지 못한 선수, 전화번호 목록</td>
+    <td align="center">0</td>
   </tr>
    <tr>
     <td align="center">토</td>
