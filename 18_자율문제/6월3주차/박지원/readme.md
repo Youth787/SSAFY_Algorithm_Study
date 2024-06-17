@@ -40,7 +40,7 @@
   </tr>
    <tr>
     <td align="center">04</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">LV 2 JavaScript</td>
     <td align="center">프로그래머스</td>
     <td align="center">배달</td>
@@ -48,7 +48,7 @@
   </tr>
      <tr>
     <td align="center">05</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">LV 2 JAVA</td>
     <td align="center">프로그래머스</td>
     <td align="center">오픈채팅방</td>
@@ -64,7 +64,7 @@
   </tr>
      <tr>
     <td align="center">07</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">LV 2 JAVA</td>
     <td align="center">프로그래머스</td>
     <td align="center">프로세스</td>
