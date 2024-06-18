@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-19 02:20</td>
+    <td align="center">✅</td>
+    <td align="center">의상</td>
+    <td align="center">0</td>
   </tr>
 </table>
