@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center">06</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">LV 2 JavaScript</td>
     <td align="center">프로그래머스</td>
     <td align="center">오픈채팅방</td>
@@ -103,10 +103,16 @@
     <td align="center">점프와 순간 이동 JavaScript</td>
     <td align="center">-</td>
   </tr>
-     <tr>
+  <tr>
     <td align="center">2024-06-14 금 05:20 PM</td>
     <td align="center">✅</td>
     <td align="center">배달 Java</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">2024-06-18 화 04:25 PM</td>
+    <td align="center">✅</td>
+    <td align="center">프로세스 JavaScript</td>
     <td align="center">-</td>
   </tr>
 </table>
