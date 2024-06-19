@@ -16,43 +16,35 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV2</td>
+    <td align="center">131533</td>
+    <td align="center">상품 별 오프라인 매출 구하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131533">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV2</td>
+    <td align="center">144854</td>
+    <td align="center">조건에 맞는 도서와 저자 리스트 출력하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/144854">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV3</td>
+    <td align="center">59043</td>
+    <td align="center">있었는데요 없었습니다</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/59043">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
-  </tr>
-   <tr>
-    <td align="center">05</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV3</td>
+    <td align="center">59042</td>
+    <td align="center">없어진 기록 찾기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/59042">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
