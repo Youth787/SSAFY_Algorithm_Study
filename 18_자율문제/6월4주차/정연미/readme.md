@@ -65,7 +65,7 @@
     <td align="center"></td>
     <td align="center">✅</td>
     <td align="center">수나누기게임</td>
-    <td align="center"></td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">토</td>
