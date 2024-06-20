@@ -60,5 +60,10 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-
+  <tr>
+    <td align="center">2024-06-20 목 17:00</td>
+    <td align="center">✅</td>
+    <td align="center">오픈채팅방 JavaScript</td>
+    <td align="center">-</td>
+  </tr>
 </table>
