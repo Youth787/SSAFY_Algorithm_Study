@@ -70,10 +70,10 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-21 01:56</td>
+    <td align="center">✅</td>
+    <td align="center">K번째수</td>
+    <td align="center">0</td>
   </tr>
    <tr>
     <td align="center">토</td>
