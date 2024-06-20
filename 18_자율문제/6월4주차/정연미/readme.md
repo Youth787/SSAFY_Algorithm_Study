@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center"></td>
+    <td align="center">5:41</td>
     <td align="center">✅</td>
     <td align="center">수나누기게임</td>
     <td align="center">-</td>
