@@ -77,10 +77,10 @@
   </tr>
    <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-21 14:08</td>
+    <td align="center">✅</td>
+    <td align="center">베스트 앨범</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">일</td>
