@@ -72,21 +72,21 @@
     <tr>
     <td align="center">금</td>
     <td align="center"></td>
+    <td align="center">벌금</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">5,000</td>
   </tr>
    <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240621 1시 44분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">파일정리</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
