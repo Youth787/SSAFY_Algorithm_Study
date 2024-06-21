@@ -69,10 +69,10 @@
   </tr>
    <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">10:00</td>
+    <td align="center">✅</td>
+    <td align="center">특정 조건을 만족하는 물고기별 수와 최대 길이 구하기</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">일</td>
