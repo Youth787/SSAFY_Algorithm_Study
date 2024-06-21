@@ -66,4 +66,10 @@
     <td align="center">오픈채팅방 JavaScript</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">2024-06-21 금 20:00</td>
+    <td align="center">✅</td>
+    <td align="center">오픈채팅방 Java</td>
+    <td align="center">-</td>
+  </tr>
 </table>
