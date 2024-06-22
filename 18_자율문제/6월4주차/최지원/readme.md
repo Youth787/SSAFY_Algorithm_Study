@@ -76,9 +76,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240623 03:32</td>
+    <td align="center">✅</td>
+    <td align="center">상품 별 오프라인 매출 구하기</td>
     <td align="center"></td>
   </tr>
   <tr>
