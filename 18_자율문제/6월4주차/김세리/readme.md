@@ -84,10 +84,10 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-23 12:55</td>
+    <td align="center">✅</td>
+    <td align="center">재구매가 일어난 상품과 회원 리스트 구하기</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
