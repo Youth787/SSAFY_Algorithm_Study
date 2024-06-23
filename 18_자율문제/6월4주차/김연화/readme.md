@@ -92,9 +92,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240623 8시 8분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">단어 뒤집기2</td>
     <td align="center"></td>
   </tr>
   <tr>
