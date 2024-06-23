@@ -83,9 +83,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240624 02:26</td>
+    <td align="center">✅</td>
+    <td align="center">조건에 맞는 도서와 저자 리스트 출력하기</td>
     <td align="center"></td>
   </tr>
   <tr>
