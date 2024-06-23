@@ -78,4 +78,10 @@
     <td align="center">면제</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">2024-06-23 일</td>
+    <td align="center">-</td>
+    <td align="center">면제</td>
+    <td align="center">-</td>
+  </tr>
 </table>
