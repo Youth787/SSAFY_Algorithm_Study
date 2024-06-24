@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-25 01:47</td>
+    <td align="center">✅</td>
+    <td align="center">H-Index</td>
+    <td align="center">0</td>
   </tr>
 </table>
