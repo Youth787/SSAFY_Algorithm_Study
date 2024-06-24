@@ -90,16 +90,16 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">쉬어...</td>
+    <td align="center">가겠...</td>
+    <td align="center">슴둥....</td>
+    <td align="center">ㅠㅠㅠㅠㅠㅠㅠㅠㅠ</td>
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">인쉥</td>
+    <td align="center">아자</td>
+    <td align="center">아자</td>
     <td align="center"></td>
   </tr>
 </table>
