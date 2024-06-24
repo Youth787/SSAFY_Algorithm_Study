@@ -99,9 +99,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240624 9시 22분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">문자열 게임2</td>
     <td align="center"></td>
   </tr>
   <tr>
