@@ -84,4 +84,10 @@
     <td align="center">면제</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">2024-06-25 화 08:20</td>
+    <td align="center">✅</td>
+    <td align="center">프로세스 Java</td>
+    <td align="center">-</td>
+  </tr>
 </table>
