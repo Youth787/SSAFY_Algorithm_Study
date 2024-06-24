@@ -98,10 +98,10 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-06-24 18:19</td>
+    <td align="center">✅</td>
+    <td align="center">가장 큰 수</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">수</td>
