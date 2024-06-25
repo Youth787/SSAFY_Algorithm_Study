@@ -74,20 +74,10 @@
   </tr>
   <tr>
     <td align="center">2024-06-22 토</td>
-    <td align="center">-</td>
-    <td align="center">면제</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">2024-06-23 일</td>
-    <td align="center">-</td>
-    <td align="center">면제</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">2024-06-25 화 08:20</td>
-    <td align="center">✅</td>
-    <td align="center">프로세스 Java</td>
-    <td align="center">-</td>
-  </tr>
-</table>
+  명
+![배달js](https://github.com/Youth787/SSAFY_Algorithm_Study/assets/122343467/efb0bc2e-92a7-464e-a8ea-0e772173e2e2)
+
+![js_array from](https://github.com/Youth787/SSAFY_Algorithm_Study/assets/122343467/b412ad69-3a54-4ec6-85cd-9142c7e32267)
+
+![{to}](https://github.com/Youth787/SSAFY_Algorithm_Study/assets/122343467/718cf986-bd6d-4844-910b-403c750e4fdc)
+
