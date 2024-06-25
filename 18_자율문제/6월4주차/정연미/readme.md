@@ -99,7 +99,7 @@
     <td align="center">수</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">헤비 유저가 소유한 장소</td>
+    <td align="center">-</td>
   </tr>
 </table>
