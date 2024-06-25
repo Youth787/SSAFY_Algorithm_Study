@@ -106,9 +106,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240626 1시 12분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">회문</td>
     <td align="center"></td>
   </tr>
 </table>
