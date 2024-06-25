@@ -73,8 +73,24 @@
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">2024-06-22 토</td>
-  명
+    <td align="center">2024-06-25 화 08:20</td>
+    <td align="center">✅</td>
+    <td align="center">프로세스 Java</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">2024-06-26 수 08:40</td>
+    <td align="center">✅</td>
+    <td align="center">배달 JavaScript</td>
+    <td align="center">-</td>
+  </tr>
+</table>
+
+
+
+
+
+#배달설명
 ![배달js](https://github.com/Youth787/SSAFY_Algorithm_Study/assets/122343467/efb0bc2e-92a7-464e-a8ea-0e772173e2e2)
 
 ![js_array from](https://github.com/Youth787/SSAFY_Algorithm_Study/assets/122343467/b412ad69-3a54-4ec6-85cd-9142c7e32267)
