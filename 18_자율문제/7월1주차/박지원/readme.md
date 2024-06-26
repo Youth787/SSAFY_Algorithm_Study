@@ -22,16 +22,8 @@
     <td align="center">택배상자</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131704">바로가기</a></td>
   </tr>
-   <tr>
-    <td align="center">02</td>
-    <td align="center">✅</td>
-    <td align="center">LV 2 JavaScript</td>
-    <td align="center">프로그래머스</td>
-    <td align="center">택배상자</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131704">바로가기</a></td>
-  </tr>
   <tr>
-    <td align="center">03</td>
+    <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center">LV 3 Java</td>
     <td align="center">소프티어</td>
@@ -39,15 +31,15 @@
     <td align="center"><a href="https://softeer.ai/practice/6248">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center">LV 2 Java</td>
     <td align="center">소프티어</td>
-    <td align="center">금고털</td>
+    <td align="center">금고털이</td>
     <td align="center"><a href="https://softeer.ai/practice/6288">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">05</td>
+    <td align="center">04</td>
     <td align="center">✅</td>
     <td align="center">LV 3 Java</td>
     <td align="center">소프티어</td>
