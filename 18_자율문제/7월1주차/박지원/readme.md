@@ -43,7 +43,7 @@
     <td align="center">✅</td>
     <td align="center">LV 3 Java</td>
     <td align="center">소프티어</td>
-    <td align="center">성적 평균</td>
+    <td align="center">성적평균</td>
     <td align="center"><a href="https://softeer.ai/practice/6294">바로가기</a></td>
   </tr>
 </table>
@@ -63,6 +63,12 @@
     <td align="center">2024-06-26 수 18:15</td>
     <td align="center">✅</td>
     <td align="center">금고 털이</td>
+    <td align="center">-</td>
+  </tr>
+      <tr>
+    <td align="center">2024-06-26 수 18:40</td>
+    <td align="center">✅</td>
+    <td align="center">성젹 평균</td>
     <td align="center">-</td>
   </tr>
 </table>
