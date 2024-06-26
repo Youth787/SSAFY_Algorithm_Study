@@ -78,10 +78,10 @@
   </tr>
     <tr>
     <td align="center">목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">22:25</td>
+    <td align="center">✅</td>
+    <td align="center">가장큰수</td>
+    <td align="center">-</td>
   </tr>
    <tr>
     <td align="center">금</td>
