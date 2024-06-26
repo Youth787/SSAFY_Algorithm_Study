@@ -16,43 +16,43 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
-  </tr>
-     <tr>
-    <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">42883 번</td>
+    <td align="center">큰 수 만들기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">02</td>
+    <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">42839 번</td>
+    <td align="center">소수 찾기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">03</td>
+    <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">87946 번</td>
+    <td align="center">피로도</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">바로가기</a></td>
   </tr>
    <tr>
+    <td align="center">04</td>
+    <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">1844 번</td>
+    <td align="center">게임맵 최단 거리</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">바로가기</a></td>
+  </tr>
+     <tr>
     <td align="center">05</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">Level 3</td>
+    <td align="center">6275 번</td>
+    <td align="center">로봇이 지나간 경로</td>
+    <td align="center"><a href="https://softeer.ai/practice/6275">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
@@ -71,43 +71,43 @@
     <tr>
     <td align="center">금</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
    <tr>
     <td align="center">토</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">수</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
 </table>
