@@ -59,4 +59,10 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+    <tr>
+    <td align="center">2024-06-26 수 18:15</td>
+    <td align="center">✅</td>
+    <td align="center">금고 털이</td>
+    <td align="center">-</td>
+  </tr>
 </table>
