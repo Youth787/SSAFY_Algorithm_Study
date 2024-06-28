@@ -92,10 +92,10 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">19:25</td>
+    <td align="center">✅</td>
+    <td align="center">기타레슨</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">일</td>
