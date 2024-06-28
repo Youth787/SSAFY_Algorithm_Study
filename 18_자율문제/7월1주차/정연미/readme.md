@@ -88,7 +88,7 @@
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">5000</td>
   </tr>
   <tr>
     <td align="center">토</td>
