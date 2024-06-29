@@ -93,9 +93,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240629 9시 34분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">이차열 배열과 연산</td>
     <td align="center"></td>
   </tr>
   <tr>
