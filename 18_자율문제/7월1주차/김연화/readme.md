@@ -100,9 +100,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240630 10시 30분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">게리맨더링 2</td>
     <td align="center"></td>
   </tr>
   <tr>
