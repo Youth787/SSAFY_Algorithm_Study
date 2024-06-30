@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-07-01 월 08:40</td>
+    <td align="center">✅</td>
+    <td align="center">택배상자</td>
     <td align="center">-</td>
   </tr>
     <tr>
