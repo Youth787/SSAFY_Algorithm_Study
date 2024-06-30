@@ -85,15 +85,15 @@
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center">0</td>
+    <td align="center"></td>
+    <td align="center">5000</td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-07-01 01:39</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">큰 수 만들기</td>
     <td align="center">0</td>
   </tr>
   <tr>
