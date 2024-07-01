@@ -113,7 +113,7 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">15:00</td>
     <td align="center">✅</td>
     <td align="center">적록색약</td>
     <td align="center">-</td>
