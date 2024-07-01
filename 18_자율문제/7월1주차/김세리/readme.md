@@ -98,16 +98,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2024-07-02 01:52</td>
     <td align="center">✅</td>
-    <td align="center"></td>
-    <td align="center">0</td>
-  </tr>
-  <tr>
-    <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">소수 찾기, 피로도, 게임맵 최단 거리</td>
     <td align="center">0</td>
   </tr>
 </table>
