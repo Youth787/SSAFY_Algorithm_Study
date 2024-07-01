@@ -107,9 +107,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240701 2시 5분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">스타트 택시</td>
     <td align="center"></td>
   </tr>
 
