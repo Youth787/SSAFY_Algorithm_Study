@@ -114,8 +114,8 @@
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">적록색약</td>
+    <td align="center">-</td>
   </tr>
 </table>
