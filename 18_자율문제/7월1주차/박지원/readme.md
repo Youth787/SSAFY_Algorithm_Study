@@ -95,11 +95,11 @@
     <td align="center">택배상자</td>
     <td align="center">-</td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-07-01 월 11:30</td>
+    <td align="center">✅</td>
+    <td align="center">출퇴근길</td>
     <td align="center">-</td>
   </tr>
 </table>
