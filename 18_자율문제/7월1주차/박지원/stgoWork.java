@@ -35,29 +35,27 @@ public class Main{
         s = Integer.parseInt(st.nextToken());
         t = Integer.parseInt(st.nextToken());
 
-        //출발점 -> 중간지점 저장
+        //출발점에서 갈수있는 모든 정점을 저장한다
         Set<Integer> s1 = new HashSet<>();
-        //도착점 -> 중간지점 저장소
+        //도착점(T)에서 출발하여 역방향 간선을 통해 도달할 수 있는 모든 정점들입니다
         Set<Integer> s2 = new HashSet<>();
-        //s에서 도달할 수 있는 중간 정점들 
+
         dfs(s, t, graph, s1, new boolean[n+1]);
-        //역방향 간선에 대해서 t에서 도달할 수 있는 정점 -> s->t에서 도달가능한 정점
         dfs(t, -1, reverseGraph, s2, new boolean[n+1]);
 
-        s1.retainAll(s2); //교집합
+        s1.retainAll(s2); //교집합 S에서 출발하여 도달할 수 있고, 동시에 T에서 출발하여 역방향으로 도달할 수 있는 정점들을 의미/ S에서 출발하여 T에 도달하는 경로에 포함될 수 있는 모든 정점
 
-        //도착점 -> 출발점 저장소
+        //도착점(T)에서 출발하여 도달할 수 있는 모든 정점들
         Set<Integer> s3 = new HashSet<>();
-        //출점 -> 도착점 저장
+        //출발점(S)에서 출발하여 역방향 간선을 통해 도달할 수 있는 모든 정점들
         Set<Integer> s4 = new HashSet<>();
-        //t에서 도달할 수 있는 정점들
+
         dfs(t, s, graph, s3, new boolean[n+1]);
-        //역방향 간선에 대해서 s에서 도달할 수 있는 정점들 
         dfs(s, -1, reverseGraph, s4, new boolean[n+1]);
 
-        s3.retainAll(s4);
+        s3.retainAll(s4); //T에서 출발하여 S에 도달하는 경로에 포함될 수 있는 모든 정점을 식별
 
-        //최종적으로 s1, s3의 교집
+        //S에서 T로 가는 경로와 T에서 S로 가는 경로에 모두 포함되는 정점들을 식별합니다. 이렇게 함으로써, S에서 T로 가는 경로와 T에서 S로 가는 경로에서 공통으로 도달 가능한 모든 정점을 구하게 됩니다.
         s1.retainAll(s3);
         
         int answer = s1.size();
@@ -90,3 +88,5 @@ public class Main{
 
     }
 }
+
+//이 과정이 필요한 이유는 방향 그래프에서 특정 두 정점 사이의 경로에 포함된 정점들을 정확히 식별하기 위함입니다. 두 정점 사이의 경로를 양방향으로 탐색하여 두 경로에 공통으로 포함되는 정점들을 구해야만 S와 T 사이의 모든 경로에 포함된 정점을 올바르게 찾을 수 있습니다.
