@@ -14,37 +14,39 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">17135</td>
+    <td align="center">캐슬 디펜스</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/17135">바로가기</a></td>
   </tr>
-     <tr>
+  <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">17140</td>
+    <td align="center">이차열 배열과 연산
+</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/17140">바로가기</a></td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">17779</td>
+    <td align="center">게리맨더링 2
+</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/17779">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
+    <td align="center">19238</td>
+    <td align="center">스타트 택시</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/19238">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
@@ -68,46 +70,47 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
     <tr>
     <td align="center">금</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
    <tr>
     <td align="center">토</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">월</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
+
 </table>
