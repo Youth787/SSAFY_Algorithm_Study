@@ -35,7 +35,9 @@ public class Main{
         s = Integer.parseInt(st.nextToken());
         t = Integer.parseInt(st.nextToken());
 
+        //출발점 -> 중간지점 저장
         Set<Integer> s1 = new HashSet<>();
+        //도착점 -> 중간지점 저장소
         Set<Integer> s2 = new HashSet<>();
         //s에서 도달할 수 있는 중간 정점들 
         dfs(s, t, graph, s1, new boolean[n+1]);
@@ -44,7 +46,9 @@ public class Main{
 
         s1.retainAll(s2); //교집합
 
+        //도착점 -> 출발점 저장소
         Set<Integer> s3 = new HashSet<>();
+        //출점 -> 도착점 저장
         Set<Integer> s4 = new HashSet<>();
         //t에서 도달할 수 있는 정점들
         dfs(t, s, graph, s3, new boolean[n+1]);
@@ -53,16 +57,19 @@ public class Main{
 
         s3.retainAll(s4);
 
+        //최종적으로 s1, s3의 교집
         s1.retainAll(s3);
         
         int answer = s1.size();
 
+        //출발점, 도착점이 포함되어있다면 사이즈 하나 줄이기
         if(s1.contains(s)) answer--;
         if(s1.contains(t)) answer--;
 
         System.out.println(answer);
     }
 
+    //node에서 시작하여 stop이 되면 멈추는 재귀함수
     public static void dfs(int node, int stop, List<List<Integer>> graph, Set<Integer> set, boolean[] visited){
         if(stop!=-1 && node==stop){
             return;
@@ -74,6 +81,7 @@ public class Main{
             if(visited[next]) continue;
 
             visited[node] = true;
+            //방문한 정점 추가
             set.add(next);
             dfs(next, stop, graph, set, visited);
         }
