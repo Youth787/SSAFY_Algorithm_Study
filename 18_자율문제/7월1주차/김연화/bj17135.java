@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
  
-public class BOJ_17135_캐슬디펜스 {
+public class Main {
    static int N,M,D;
    static int[] picked = new int[3];
    static int[][] map;
