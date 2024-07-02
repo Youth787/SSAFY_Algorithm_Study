@@ -17,7 +17,7 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">12865</td>
     <td align="center">평범한 배낭</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/12865">바로가기</a></td>
@@ -25,7 +25,7 @@
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/19.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/17.svg"></td>
     <td align="center">12920</td>
     <td align="center">평범한 배낭2</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/12920">바로가기</a></td>
@@ -33,7 +33,7 @@
   <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">2512</td>
     <td align="center">예산</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/2512">바로가기</a></td>
@@ -41,7 +41,7 @@
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">19951</td>
     <td align="center">태상이의 훈련소 생활</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/19951">바로가기</a></td>
