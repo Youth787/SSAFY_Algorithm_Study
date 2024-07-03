@@ -64,11 +64,19 @@
   </tr>
   <tr>
     <td align="center">07</td>
-    <td align="center"></td>
+    <td align="center">완료</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">2668</td>
     <td align="center">숫자고르기(DFS)</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/2668">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">08</td>
+    <td align="center">완료</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">13549</td>
+    <td align="center">숨바꼭질3(BFS)</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/13549">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
@@ -88,7 +96,7 @@
     <td align="center">목</td>
     <td align="center">10:00</td>
     <td align="center">✅</td>
-    <td align="center">숫자고르기</td>
+    <td align="center">숫자고르기,숨바꼭질3</td>
     <td align="center">-</td>
   </tr>
    <tr>
