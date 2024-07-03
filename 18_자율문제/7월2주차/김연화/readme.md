@@ -70,9 +70,9 @@
   </tr>
     <tr>
     <td align="center">목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240703 6시 47분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">순열사이클</td>
     <td align="center"></td>
   </tr>
     <tr>
