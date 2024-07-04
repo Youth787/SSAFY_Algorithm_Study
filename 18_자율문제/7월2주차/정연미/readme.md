@@ -101,10 +101,10 @@
   </tr>
    <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">20:00</td>
+    <td align="center">✅</td>
+    <td align="center">랜선자르기</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">토</td>
