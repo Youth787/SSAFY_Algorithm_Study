@@ -39,3 +39,16 @@ FROM ANIMAL_INS
 ORDER BY ANIMAL_ID;
 
 /* IS NULL */
+
+---------------------------------------
+
+https://school.programmers.co.kr/learn/courses/30/lessons/59411
+오랜 기간 보호한 동물(2)
+
+SELECT a.ANIMAL_ID, a.NAME
+FROM ANIMAL_INS a 
+join ANIMAL_OUTS b on a.ANIMAL_ID = b.ANIMAL_ID	
+order by DATEDIFF(b.DATETIME, a.DATETIME) desc limit 2;
+
+/* DATEDIFF */
+
