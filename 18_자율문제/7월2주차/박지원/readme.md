@@ -76,9 +76,9 @@
   </tr>
     <tr>
     <td align="center">토</td>
-    <td align="center">-</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-07-05 금 10:30 AM</td>
+    <td align="center">✅</td>
+    <td align="center">평범한 배낭</td>
     <td align="center">-</td>
   </tr>
 </table>
