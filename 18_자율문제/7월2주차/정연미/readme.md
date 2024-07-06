@@ -115,10 +115,10 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">24:00</td>
+    <td align="center">✅</td>
+    <td align="center">알약</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">월</td>
