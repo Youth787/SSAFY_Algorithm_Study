@@ -52,3 +52,24 @@ order by DATEDIFF(b.DATETIME, a.DATETIME) desc limit 2;
 
 /* DATEDIFF */
 
+---------------------------------------
+https://school.programmers.co.kr/learn/courses/30/lessons/301649
+대장균의 크기에 따라 분류하기 2
+
+SELECT ID,
+CASE WHEN RANK_SIZE <= ((SELECT COUNT(*) FROM ECOLI_DATA)*0.25) THEN 'CRITICAL'
+     WHEN RANK_SIZE <= ((SELECT COUNT(*) FROM ECOLI_DATA)*0.50) THEN 'HIGH'
+     WHEN RANK_SIZE <= ((SELECT COUNT(*) FROM ECOLI_DATA)*0.75) THEN 'MEDIUM' 
+     ELSE 'LOW' END AS COLONY_NAME
+FROM (
+    SELECT ID, RANK() OVER (ORDER BY SIZE_OF_COLONY DESC) AS RANK_SIZE
+    FROM ECOLI_DATA
+) AS AA
+ORDER BY 1;
+
+/* RANK() OVER -> 1등이 2명이면 그 다음은 3등으로 표기된다. 1, 1 ,3,4 이런식. 
+    DENSE_RANK() OVER 이면 1,1,2,3 이런식으로 표기된다. 
+*/
+
+
+
