@@ -89,14 +89,14 @@
     <td align="center"></td>
     <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">2024-07-07 12:08</td>
     <td align="center">✅</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">17135번 캐슬디펜스</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
