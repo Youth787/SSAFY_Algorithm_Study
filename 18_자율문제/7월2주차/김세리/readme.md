@@ -100,10 +100,10 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-07-08 03:25</td>
     <td align="center">✅</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">17779번 게리맨더링2</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
