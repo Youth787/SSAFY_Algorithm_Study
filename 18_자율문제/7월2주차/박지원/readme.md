@@ -88,4 +88,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2024-07-07 일 22:49 AM</td>
+    <td align="center">✅</td>
+    <td align="center">예산</td>
+    <td align="center">-</td>
+  </tr>
 </table>
