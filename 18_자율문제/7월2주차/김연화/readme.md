@@ -98,13 +98,20 @@
   </tr>
   <tr>
     <td align="center">월</td>
+    <td align="center">240707 9시 5분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">반복 수열</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">화</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-  <tr>
-    <td align="center">화</td>
+   <tr>
+    <td align="center">수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
