@@ -95,4 +95,11 @@
     <td align="center">예산</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">화</td>
+    <td align="center">2024-07-08 월 17:50 AM</td>
+    <td align="center">✅</td>
+    <td align="center">평범한 배낭 2</td>
+    <td align="center">-</td>
+  </tr>
 </table>
