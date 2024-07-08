@@ -80,5 +80,11 @@ FROM ANIMAL_INS
 WHERE NAME like '%el%' and ANIMAL_TYPE = 'Dog'
 ORDER BY NAME;
 
-/* 포함하는 
-like '%포함하는단어%' */
+/* 
+포함하는 
+like '%포함하는단어%' 
+시작하는 
+like '시작단어%'
+끝나는
+like '%끝나는'
+*/
