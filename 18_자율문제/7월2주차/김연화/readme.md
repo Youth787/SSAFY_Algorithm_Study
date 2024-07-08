@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240708 8시 27분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">안전 영역</td>
     <td align="center"></td>
   </tr>
    <tr>
