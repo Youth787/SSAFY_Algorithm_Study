@@ -107,10 +107,17 @@
   </tr>
   <tr>
     <td align="center">화</td>
+    <td align="center">2024-07-09 01:47</td>
+    <td align="center">✅</td>
+    <td align="center">17140번 이차원배열과연산</td>
+    <td align="center">0</td>
+  </tr>
+  <tr>
+    <td align="center">수</td>
     <td align="center"></td>
     <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
 
 </table>
