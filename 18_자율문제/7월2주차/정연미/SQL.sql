@@ -71,5 +71,14 @@ ORDER BY 1;
     DENSE_RANK() OVER 이면 1,1,2,3 이런식으로 표기된다. 
 */
 
+---------------------------------------
+https://school.programmers.co.kr/learn/courses/30/lessons/59047
 
 
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE NAME like '%el%' and ANIMAL_TYPE = 'Dog'
+ORDER BY NAME;
+
+/* 포함하는 
+like '%포함하는단어%' */
