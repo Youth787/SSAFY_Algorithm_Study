@@ -114,3 +114,18 @@ LEFT(문자, 가져올 개수)
 RIGHT(문자, 가져올개수)
 MID(문자, 시작위치, 가져올개수)
 */
+
+---------------------------------------
+https://school.programmers.co.kr/learn/courses/30/lessons/151137
+
+SELECT CAR_TYPE, COUNT(*) AS 'CARS'
+FROM CAR_RENTAL_COMPANY_CAR
+WHERE OPTIONS REGEXP '가죽시트|열선시트|통풍시트'
+--하나 이상의 옵션이 포함
+GROUP BY CAR_TYPE
+ORDER BY CAR_TYPE;
+
+/*
+정규식 사용
+where options REGEXP '이거|저거|그거' -- 중 하나이상 포함 
+*/
