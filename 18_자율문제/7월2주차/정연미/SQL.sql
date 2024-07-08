@@ -99,3 +99,18 @@ ORDER BY ANIMAL_ID;
 /*
 data_format(datatime,'%Y-%M-%d')
 */
+
+---------------------------------------
+https://school.programmers.co.kr/learn/courses/30/lessons/131529
+
+SELECT LEFT(PRODUCT_CODE,2) AS CATEGORY, COUNT(*) AS 'PRODUCTS'
+FROM PRODUCT
+GROUP BY 1
+ORDER BY 1;
+
+/*
+부분 문자열 가져오기 
+LEFT(문자, 가져올 개수)
+RIGHT(문자, 가져올개수)
+MID(문자, 시작위치, 가져올개수)
+*/
