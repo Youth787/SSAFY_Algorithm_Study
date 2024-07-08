@@ -88,3 +88,14 @@ like '시작단어%'
 끝나는
 like '%끝나는'
 */
+
+---------------------------------------
+https://school.programmers.co.kr/learn/courses/30/lessons/59414#fn1
+
+SELECT ANIMAL_ID, NAME, DATE_FORMAT(DATETIME,'%Y-%m-%d') as '날짜'
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID;
+
+/*
+data_format(datatime,'%Y-%M-%d')
+*/
