@@ -129,3 +129,15 @@ ORDER BY CAR_TYPE;
 정규식 사용
 where options REGEXP '이거|저거|그거' -- 중 하나이상 포함 
 */
+
+---------------------------------------
+https://school.programmers.co.kr/learn/courses/30/lessons/59046
+
+SELECT ANIMAL_ID, NAME, SEX_UPON_INTAKE
+FROM ANIMAL_INS
+WHERE NAME IN ('Lucy','Ella','Pickle','Rogan','Sabrina','Mitty')
+ORDER BY ANIMAL_ID;
+
+/*
+where name in ('문자열','문자열')
+*/
