@@ -136,9 +136,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">22:00</td>
+    <td align="center">23:00</td>
     <td align="center">✅</td>
-    <td align="center">캐슬디펜스</td>
+    <td align="center">캐슬디펜스, 컨베이어로봇</td>
     <td align="center"></td>
   </tr>
 </table>
