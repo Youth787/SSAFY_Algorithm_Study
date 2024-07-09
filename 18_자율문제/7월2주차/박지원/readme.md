@@ -102,4 +102,11 @@
     <td align="center">평범한 배낭 2</td>
     <td align="center">-</td>
   </tr>
+      <tr>
+    <td align="center">수</td>
+    <td align="center">2024-07-09 화 16:50 AM</td>
+    <td align="center">✅</td>
+    <td align="center">태상이의 훈련소 생활</td>
+    <td align="center">-</td>
+  </tr>
 </table>
