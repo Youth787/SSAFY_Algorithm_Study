@@ -114,9 +114,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-07-10 12:40</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">19238번 스타트택시</td>
     <td align="center">0</td>
   </tr>
 
