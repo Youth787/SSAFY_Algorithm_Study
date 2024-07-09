@@ -112,9 +112,9 @@
   </tr>
    <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240709 9시 26분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">연결 요소의 개수</td>
     <td align="center"></td>
   </tr>
 
