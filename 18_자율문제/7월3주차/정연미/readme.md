@@ -17,7 +17,7 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">19951</td>
     <td align="center">태상이의 훈련소 생활</td>
