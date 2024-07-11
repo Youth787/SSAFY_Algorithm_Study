@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td align="center">02</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
     <td align="center">1080</td>
     <td align="center">행렬</td>
@@ -160,7 +160,7 @@
     <td align="center">금</td>
     <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">회의실 배정</td>
+    <td align="center">회의실 배정,행렬</td>
     <td align="center">-</td>
   </tr>
    <tr>
