@@ -76,11 +76,18 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">금</td>
     <td align="center">2024-07-11 목 12:55</td>
     <td align="center">✅</td>
     <td align="center">스타트 택시</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-07-12 금 09:30</td>
+    <td align="center">✅</td>
+    <td align="center">N과 M</td>
     <td align="center">-</td>
   </tr>
 </table>
