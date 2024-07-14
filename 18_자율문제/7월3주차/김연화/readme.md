@@ -91,16 +91,16 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240714 9시 4분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">주차장</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">240714 9시 4분 PM</td>
-    <td align="center">✅</td>
-    <td align="center">주차장</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
