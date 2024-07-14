@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center">2024-07-15 01:23</td>
+    <td align="center">2024-07-15 02:04</td>
     <td align="center">✅</td>
-    <td align="center">4811번 알약</td>
+    <td align="center">4811번 알약, 2668번 숫자고르기</td>
     <td align="center">0</td>
   </tr>
   <tr>
