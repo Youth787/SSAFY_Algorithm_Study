@@ -91,10 +91,10 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-07-15 01:23</td>
+    <td align="center">✅</td>
+    <td align="center">4811번 알약</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
