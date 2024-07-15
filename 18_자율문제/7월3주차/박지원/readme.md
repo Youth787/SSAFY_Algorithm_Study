@@ -104,4 +104,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">화</td>
+    <td align="center">2024-07-15 월 09:59</td>
+    <td align="center">✅</td>
+    <td align="center">N과 M2</td>
+    <td align="center">-</td>
+  </tr>
 </table>
