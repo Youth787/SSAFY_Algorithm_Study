@@ -113,7 +113,7 @@
   </tr>
      <tr>
     <td align="center">04</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">1699</td>
     <td align="center">제곱수의 합</td>
@@ -188,7 +188,7 @@
     <td align="center">화</td>
     <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">2×n 타일링,01타일,가장 큰 증가하는 부분 수열</td>
+    <td align="center">2×n 타일링,01타일,가장 큰 증가하는 부분 수열,제곱수의 합</td>
     <td align="center">-</td>
   </tr>
 </table>
