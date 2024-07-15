@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td align="center">01</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"></td>
     <td align="center">11727</td>
     <td align="center">2×n 타일링 2</td>
@@ -187,8 +187,8 @@
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">2×n 타일링</td>
+    <td align="center">-</td>
   </tr>
 </table>
