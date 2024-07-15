@@ -98,9 +98,16 @@
   </tr>
   <tr>
     <td align="center">화</td>
+    <td align="center">2024-07-16 12:39</td>
+    <td align="center">✅</td>
+    <td align="center">13549번 숨바꼭질3</td>
+    <td align="center">0</td>
+  </tr>
+  <tr>
+    <td align="center">수</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
 </table>
