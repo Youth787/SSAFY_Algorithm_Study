@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-07-17 12:56</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">19951번 태상이의훈련소생활</td>
     <td align="center">0</td>
   </tr>
 </table>
