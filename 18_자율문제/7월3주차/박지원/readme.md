@@ -111,4 +111,11 @@
     <td align="center">N과 M2</td>
     <td align="center">-</td>
   </tr>
+      <tr>
+    <td align="center">수</td>
+    <td align="center">2024-07-16 화 13:25</td>
+    <td align="center">✅</td>
+    <td align="center">보석 도둑</td>
+    <td align="center">-</td>
+  </tr>
 </table>
