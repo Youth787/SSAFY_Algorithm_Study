@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240716 9시 38분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">양 한마리... 양 두마리...</td>
     <td align="center"></td>
   </tr>
 </table>
