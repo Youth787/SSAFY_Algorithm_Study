@@ -69,7 +69,7 @@
   </tr>
     <tr>
     <td align="center">04</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">13164</td>
     <td align="center">행복유치원</td>
@@ -188,7 +188,7 @@
     <td align="center">화</td>
     <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">2×n 타일링,01타일,가장 큰 증가하는 부분 수열,제곱수의 합</td>
+    <td align="center">2×n 타일링,01타일,가장 큰 증가하는 부분 수열,제곱수의 합,행복유치원</td>
     <td align="center">-</td>
   </tr>
 </table>
