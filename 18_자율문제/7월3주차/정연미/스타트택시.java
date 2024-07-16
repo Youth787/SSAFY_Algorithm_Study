@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class 스타트택시test {
+public class 스타트택시 {
     static int[][] dir = new int[][]{{0,-1},{0,1},{1,0},{-1,0}};
     static boolean[][] visit;
     static int[][] road;
@@ -30,6 +30,7 @@ public class 스타트택시test {
         int starty = Integer.parseInt(st.nextToken())-1;
 
         List<int[]> info_customer = new ArrayList<>();
+
         for(int i=0; i<M; i++){
             st = new StringTokenizer(br.readLine());
             int startr = Integer.parseInt(st.nextToken())-1;
@@ -47,56 +48,50 @@ public class 스타트택시test {
                 return;
             }
 
-            int distance1 = BFS(startx, starty, closestCustomer[0], closestCustomer[1]);
-            if (distance1 == -1 || distance1 > fe) {
+            int taxitoCustomer = BFS(startx, starty, closestCustomer[0], closestCustomer[1]);
+            if (taxitoCustomer == -1 || taxitoCustomer > fe) {
                 System.out.println(-1);
                 System.exit(0);
             }
                 startx = closestCustomer[0];
                 starty = closestCustomer[1];
-                fe -= distance1;
+                fe -= taxitoCustomer;
 
 
-            int distance2 = BFS(startx, starty, closestCustomer[2], closestCustomer[3]);
-            if (distance2 == -1 || distance2 > fe) {
+            int customertoReach = BFS(startx, starty, closestCustomer[2], closestCustomer[3]);
+            if (customertoReach == -1 || customertoReach > fe) {
                 System.out.println(-1);
                 System.exit(0);
             }
                 startx = closestCustomer[2];
                 starty = closestCustomer[3];
-                fe += distance2;
+                fe += customertoReach;
 
                 info_customer.remove(closestCustomer);
         }
         System.out.println(fe);
     }
-    public static int[] findClosestCustomer(int x, int y, List<int[]> customers){
-        PriorityQueue<int[]> q = new PriorityQueue<>((a, b) -> {
-            int distA = Math.abs(x - a[0]) + Math.abs(y - a[1]);
-            int distB = Math.abs(x - b[0]) + Math.abs(y - b[1]);
-            if (distA != distB) {
-                return distA - distB;
-            } else {
-                if (a[0] != b[0]) {
-                    return a[0] - b[0];
+
+    public static int[] findClosestCustomer(int sx, int sy, List<int[]> customers){
+        int min = Integer.MAX_VALUE;
+        int[] customer = null;
+        for(int i=0; i<customers.size(); i++){
+            int dist = BFS(sx,sy,customers.get(i)[0],customers.get(i)[1]);
+            if(dist<min){
+                min = dist;
+                customer = customers.get(i);
+            }else if(dist==min){
+                if(customer[0]==customers.get(i)[0]) {
+                    min = customer[1] < customers.get(i)[1]? min : dist;
+                    customer = customer[1] < customers.get(i)[1]? customer : customers.get(i);
                 } else {
-                    return a[1] - b[1];
+                    min = customer[0] < customers.get(i)[0]? min : dist;
+                    customer = customer[0] < customers.get(i)[0]? customer : customers.get(i);
                 }
             }
-        });
-        
-        for (int[] customer : customers) {
-            q.add(customer);
         }
 
-        while (!q.isEmpty()) {
-            int[] customer = q.poll();
-            int distance = BFS(x, y, customer[0], customer[1]);
-            if (distance != -1) {
-                return customer;
-            }
-        }
-        return null;
+        return customer;
     }
 
     public static int BFS(int startx, int starty, int endx, int endy){
