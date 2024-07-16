@@ -188,7 +188,14 @@
     <td align="center">화</td>
     <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">2×n 타일링,01타일,가장 큰 증가하는 부분 수열,제곱수의 합,행복유치원</td>
+    <td align="center">2×n 타일링,01타일,가장 큰 증가하는 부분 수열,제곱수의 합</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">행복유치원, 스타트택시</td>
     <td align="center">-</td>
   </tr>
 </table>
