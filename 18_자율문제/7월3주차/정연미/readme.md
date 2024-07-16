@@ -25,7 +25,7 @@
   </tr>
    <tr>
     <td align="center">02</td>
-    <td align="center">fail</td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
     <td align="center">19238</td>
     <td align="center">스타트 택시</td>
