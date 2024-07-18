@@ -96,7 +96,7 @@
     <td align="center">금</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
 </table>
