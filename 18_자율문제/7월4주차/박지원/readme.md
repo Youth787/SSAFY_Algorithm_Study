@@ -69,4 +69,18 @@
     <td>N과 M3</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>토</td>
+    <td>면제</td>
+    <td></td>
+    <td></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>일</td>
+    <td>면제</td>
+    <td></td>
+    <td></td>
+    <td>-</td>
+  </tr>
 </table>
