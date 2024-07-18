@@ -64,9 +64,9 @@
   </tr>
   <tr>
     <td>금</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2024-07-19 금 08:24</td>
+    <td>✅</td>
+    <td>N과 M3</td>
+    <td>-</td>
   </tr>
 </table>
