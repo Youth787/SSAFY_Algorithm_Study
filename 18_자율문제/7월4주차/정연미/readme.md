@@ -34,7 +34,7 @@
   </tr>
      <tr>
     <td align="center">03</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">14502</td>
     <td align="center">연구소</td>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">1261</td>
     <td align="center">알고스팟</td>
@@ -98,5 +98,12 @@
     <td align="center"></td>
     <td align="center">면제</td>
     <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">12:45am</td>
+    <td align="center">✅</td>
+    <td align="center">연구소, 알고스팟</td>
+    <td align="center">-</td>
   </tr>
 </table>
