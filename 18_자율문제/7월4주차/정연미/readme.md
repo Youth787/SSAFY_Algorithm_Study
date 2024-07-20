@@ -50,7 +50,7 @@
   </tr>
 <tr>
     <td align="center">05</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">6593</td>
     <td align="center">상범빌딩</td>
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td align="center">06</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
     <td align="center">11057</td>
     <td align="center">오르막 수</td>
@@ -104,6 +104,13 @@
     <td align="center">12:45am</td>
     <td align="center">✅</td>
     <td align="center">연구소, 알고스팟</td>
+    <td align="center">-</td>
+  </tr>
+   <tr>
+    <td align="center">일</td>
+    <td align="center">1:35am</td>
+    <td align="center">✅</td>
+    <td align="center">상범빌딩, 오르막수</td>
     <td align="center">-</td>
   </tr>
 </table>
