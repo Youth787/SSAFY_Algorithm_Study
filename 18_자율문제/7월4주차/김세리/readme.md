@@ -107,10 +107,10 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-07-22 03:13</td>
+    <td align="center">✅</td>
+    <td align="center">7569번 토마토</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
