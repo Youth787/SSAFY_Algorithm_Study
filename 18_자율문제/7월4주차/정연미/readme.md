@@ -113,4 +113,11 @@
     <td align="center">상범빌딩, 오르막수</td>
     <td align="center">-</td>
   </tr>
+  r>
+    <td align="center">-</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">주간완료</td>
+    <td align="center">-</td>
+  </tr>
 </table>
