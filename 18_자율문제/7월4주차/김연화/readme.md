@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240722 12시 11분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">괄호의 값</td>
     <td align="center"></td>
   </tr>
   <tr>
