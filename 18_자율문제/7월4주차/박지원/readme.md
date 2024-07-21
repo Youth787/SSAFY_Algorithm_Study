@@ -83,4 +83,11 @@
     <td></td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>월</td>
+    <td>2024-07-22 월 08:24</td>
+    <td>✅</td>
+    <td>N과 M4</td>
+    <td>-</td>
+  </tr>
 </table>
