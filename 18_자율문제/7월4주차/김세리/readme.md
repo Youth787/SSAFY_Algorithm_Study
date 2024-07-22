@@ -114,15 +114,15 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-07-23 01:35</td>
+    <td align="center">✅</td>
+    <td align="center">입국심사</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">수</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
