@@ -98,9 +98,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240722 9시 16분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">N번째 큰 수, 연산자 끼워넣기</td>
     <td align="center"></td>
   </tr>
 
