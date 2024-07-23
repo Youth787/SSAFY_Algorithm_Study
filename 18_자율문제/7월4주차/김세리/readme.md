@@ -80,7 +80,42 @@
     <td align="center">인증 시각</td>
     <td align="center">완료체크</td>
     <td align="center">푼 문제</td>
-    <td align="center">벌금기</td>
+    <td align="center">벌금</td>
+  </tr>
+    <tr>
+    <td align="center">금</td>
+    <td align="center">면제권</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+   <tr>
+    <td align="center">토</td>
+    <td align="center">면제권</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">면제권</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2024-07-22 03:13</td>
+    <td align="center">✅</td>
+    <td align="center">7569번 토마토</td>
     <td align="center">0</td>
   </tr>
   <tr>
+    <td align="center">화</td>
+    <td align="center">2024-07-23 01:35</td>
+    <td align="center">✅</td>
+    <td align="center">입국심사, 징검다리 건너기, 아기상어</td>
+    <td align="center">0</td>
+  </tr>
+</table>
+<br/><br/>
