@@ -16,35 +16,35 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">14719</td>
+    <td align="center">빗물</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/14719">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">3085</td>
+    <td align="center">사탕 게임</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/3085">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">2293</td>
+    <td align="center">동전 1</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2293">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">2294</td>
+    <td align="center">동전 2</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2294">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
@@ -67,6 +67,13 @@
     <td align="center">완료체크</td>
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
+  </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
     <tr>
     <td align="center">금</td>
@@ -103,11 +110,5 @@
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-  <tr>
-    <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
+  
 </table>
