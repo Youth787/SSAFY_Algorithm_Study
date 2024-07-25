@@ -73,10 +73,10 @@
   </tr>
    <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">10:30</td>
+    <td align="center">✅</td>
+    <td align="center">3월에 태어난 여성 회원 목록 출력하기	</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">토</td>
