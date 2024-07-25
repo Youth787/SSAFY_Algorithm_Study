@@ -60,11 +60,18 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">목</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-07-25 목 17:30</td>
+    <td align="center">✅</td>
+    <td align="center">특정한 최단 경로</td>
     <td align="center">-</td>
   </tr>
 </table>
