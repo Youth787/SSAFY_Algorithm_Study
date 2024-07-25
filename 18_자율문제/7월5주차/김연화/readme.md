@@ -77,15 +77,15 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240726 12시 13분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">빗물</td>
     <td align="center"></td>
   </tr>
    <tr>
     <td align="center">토</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
