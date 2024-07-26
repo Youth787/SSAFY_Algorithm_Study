@@ -74,4 +74,11 @@
     <td align="center">특정한 최단 경로</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-07-26 금 15:57</td>
+    <td align="center">❌</td>
+    <td align="center">감시</td>
+    <td align="center">안보고 내일 다시 풀 문제라 엑스침ㅠ 근데 풀긴풀었어..</td>
+  </tr>
 </table>
