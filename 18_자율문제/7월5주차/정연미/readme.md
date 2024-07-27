@@ -87,10 +87,10 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">12:00</td>
+    <td align="center">✅</td>
+    <td align="center">ROOT 아이템 구하기</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">월</td>
