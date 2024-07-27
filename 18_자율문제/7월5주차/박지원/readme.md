@@ -81,4 +81,11 @@
     <td align="center">감시</td>
     <td align="center">안보고 내일 다시 풀 문제라 엑스침ㅠ 근데 풀긴풀었어..</td>
   </tr>
+    <tr>
+    <td align="center">일</td>
+    <td align="center">2024-07-27 토 15:53</td>
+    <td align="center">✅</td>
+    <td align="center">감시</td>
+    <td align="center">-</td>
+  </tr>
 </table>
