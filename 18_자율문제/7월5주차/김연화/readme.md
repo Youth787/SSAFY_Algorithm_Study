@@ -92,15 +92,15 @@
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240728 4시 49분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">사탕게임</td>
     <td align="center"></td>
   </tr>
   <tr>
