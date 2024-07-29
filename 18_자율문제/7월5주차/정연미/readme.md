@@ -101,9 +101,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">10:30</td>
+    <td align="center">✅</td>
+    <td align="center">물고기 종류 별 잡은 수 구하기,조건에 부합하는 중고거래 상태 조회하기</td>
+    <td align="center">-</td>
   </tr>
 </table>
