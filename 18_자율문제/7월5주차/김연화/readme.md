@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240730 12시 46분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">동전 1, 동전 2</td>
     <td align="center"></td>
   </tr>
   
