@@ -6,14 +6,14 @@ public class Main {
     static int[] height;
  
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         
-        h = scan.nextInt();
-        w = scan.nextInt();
+        h = sc.nextInt();
+        w = sc.nextInt();
  
         height = new int[w];
         for(int i = 0; i < w; i++) {
-            height[i] = scan.nextInt();
+            height[i] = sc.nextInt();
         }
  
         int result = 0;
