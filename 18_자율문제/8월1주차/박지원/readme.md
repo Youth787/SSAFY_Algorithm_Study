@@ -67,4 +67,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2024-07-31 수 19:33</td>
+    <td align="center">✅</td>
+    <td align="center">회의실 배정</td>
+    <td align="center">-</td>
+  </tr>
 </table>
