@@ -77,9 +77,9 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240801 5시 59분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">전쟁 - 전투</td>
     <td align="center"></td>
   </tr>
    <tr>
