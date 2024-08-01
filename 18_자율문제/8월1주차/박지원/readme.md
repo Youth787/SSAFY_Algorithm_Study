@@ -74,4 +74,11 @@
     <td align="center">회의실 배정</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-08-01 목 14:39</td>
+    <td align="center">✅</td>
+    <td align="center">구간합 구하기 4</td>
+    <td align="center">-</td>
+  </tr>
 </table>
