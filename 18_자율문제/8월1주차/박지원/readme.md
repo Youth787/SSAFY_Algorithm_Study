@@ -81,4 +81,11 @@
     <td align="center">구간합 구하기 4</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-08-02 금 10:46</td>
+    <td align="center">✅</td>
+    <td align="center">이중 우선순위 큐</td>
+    <td align="center">-</td>
+  </tr>
 </table>
