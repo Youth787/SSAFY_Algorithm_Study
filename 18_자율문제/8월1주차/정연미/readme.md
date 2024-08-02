@@ -78,7 +78,7 @@
     <td align="center">토</td>
     <td align="center">15:30</td>
     <td align="center">✅</td>
-    <td align="center">네트워크 복구</td>
+    <td align="center">네트워크 복구,소문난 칠공주</td>
     <td align="center">-</td>
   </tr>
   <tr>
