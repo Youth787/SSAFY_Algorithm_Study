@@ -98,9 +98,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240804 8시 12분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">A → B</td>
     <td align="center"></td>
   </tr>
   <tr>
