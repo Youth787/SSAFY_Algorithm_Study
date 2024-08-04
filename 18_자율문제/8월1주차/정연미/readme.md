@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2:00</td>
+    <td align="center">✅</td>
+    <td align="center">감시,징검다리</td>
     <td align="center"></td>
   </tr>
   <tr>
