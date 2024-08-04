@@ -95,4 +95,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">월</td>
+    <td align="center">2024-08-04 일 22:14</td> 
+    <td align="center">✅</td>
+    <td align="center">DSLR</td>
+    <td align="center">-</td>
+  </tr>
 </table>
