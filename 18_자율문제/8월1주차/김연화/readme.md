@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240806 7시 11분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">숨바꼭질 2</td>
     <td align="center"></td>
   </tr>
 
