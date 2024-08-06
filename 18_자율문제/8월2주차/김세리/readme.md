@@ -16,43 +16,51 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 3</td>
+    <td align="center">77486 번</td>
+    <td align="center">다단계 칫솔 판매</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 3</td>
+    <td align="center">42861 번</td>
+    <td align="center">섬 연결하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42861">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
-  </tr>
-  <tr>
-    <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 3</td>
+    <td align="center">77886 번</td>
+    <td align="center">110 옮기기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77886">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">05</td>
+    <td align="center">04</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">17086번</td>
+    <td align="center">아기 상어 2</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/17086">바로가기</a></td>
+  </tr>
+  <tr>
+    <td align="center">06</td>
     <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">1325번</td>
+    <td align="center">효율적인 해킹</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1325">바로가기</a></td>
+  </tr>
+  <tr>
+    <td align="center">07</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">14940번</td>
+    <td align="center">쉬운 최단거리</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/14940">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
@@ -67,6 +75,13 @@
     <td align="center">완료체크</td>
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
+  </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
     <tr>
     <td align="center">금</td>
@@ -98,13 +113,6 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
