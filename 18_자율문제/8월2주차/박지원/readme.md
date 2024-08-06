@@ -62,9 +62,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-08-06 화 9:30</td>
+    <td align="center">✅</td>
+    <td align="center">2 x n 타일링 2</td>
     <td align="center">-</td>
   </tr>
 </table>
