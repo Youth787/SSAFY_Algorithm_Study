@@ -41,7 +41,7 @@
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"></td>
     <td align="center">11727</td>
     <td align="center">2 x n 타일링 2</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/11727">바로가기</a></td>
