@@ -64,7 +64,7 @@
     <td align="center">목</td>
     <td align="center">10:00</td>
     <td align="center">✅</td>
-    <td align="center">A와B</td>
+    <td align="center">A와B,두 배열의 합</td>
     <td align="center">-</td>
   </tr>
    <tr>
