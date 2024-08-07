@@ -67,4 +67,11 @@
     <td align="center">2 x n 타일링 2</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2024-08-07 수 10:30</td>
+    <td align="center">✅</td>
+    <td align="center">AC</td>
+    <td align="center">-</td>
+  </tr>
 </table>
