@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">2024-08-06 화 9:30</td>
+    <td align="center">2024-08-06 화 09:30</td>
     <td align="center">✅</td>
     <td align="center">2 x n 타일링 2</td>
     <td align="center">-</td>
@@ -72,6 +72,13 @@
     <td align="center">2024-08-07 수 10:30</td>
     <td align="center">✅</td>
     <td align="center">AC</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-08-08 목 09:45</td>
+    <td align="center">✅</td>
+    <td align="center">적록색약</td>
     <td align="center">-</td>
   </tr>
 </table>
