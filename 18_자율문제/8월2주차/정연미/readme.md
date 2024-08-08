@@ -70,8 +70,8 @@
    <tr>
     <td align="center">금</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">회문</td>
     <td align="center"></td>
   </tr>
   <tr>
