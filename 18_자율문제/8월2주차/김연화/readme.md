@@ -84,9 +84,9 @@
   </tr>
    <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240809 10시 14분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">퇴사 2</td>
     <td align="center"></td>
   </tr>
   <tr>
