@@ -96,4 +96,11 @@
     <td align="center">계단 오르기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-08-09 금 09:20</td>
+    <td align="center">✅</td>
+    <td align="center">테트로미노</td>
+    <td align="center">-</td>
+  </tr>
 </table>
