@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240810 11시 39분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">점프</td>
     <td align="center"></td>
   </tr>
   <tr>
