@@ -98,9 +98,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240811 11시 36분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">1, 2, 3 더하기 4</td>
     <td align="center"></td>
   </tr>
   <tr>
