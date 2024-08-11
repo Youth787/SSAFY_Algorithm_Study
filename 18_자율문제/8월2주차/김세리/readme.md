@@ -101,7 +101,7 @@
     <td align="center">일</td>
     <td align="center">2024-08-11 22:31</td>
     <td align="center">✅</td>
-    <td align="center">77486번 다단계 칫솔 판매</td>
+    <td align="center">bj_77486번 다단계 칫솔 판매, pg_17086번 아기상어2</td>
     <td align="center">0</td>
   </tr>
   <tr>
