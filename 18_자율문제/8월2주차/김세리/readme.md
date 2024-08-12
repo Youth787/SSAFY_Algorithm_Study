@@ -99,23 +99,23 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center">2024-08-11 22:31</td>
-    <td align="center">✅</td>
-    <td align="center">bj_77486번 다단계 칫솔 판매, pg_17086번 아기상어2</td>
-    <td align="center">0</td>
+    <td align="center">미제출</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">5,000 원</td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-08-11 22:31</td>
+    <td align="center">✅</td>
+    <td align="center">다단계 칫솔 판매, 아기상어2</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-08-13 12:46</td>
+    <td align="center">✅</td>
+    <td align="center">섬 연결하기, 110 옮기기</td>
     <td align="center">0</td>
   </tr>
 </table>
