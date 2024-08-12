@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240812 11시 05분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">기타리스트</td>
     <td align="center"></td>
   </tr>
 
