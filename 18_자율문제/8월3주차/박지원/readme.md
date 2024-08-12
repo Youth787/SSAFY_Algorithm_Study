@@ -70,9 +70,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-08-13 화 08:46</td>
+    <td align="center">✅</td>
+    <td align="center">경로 찾기</td>
     <td align="center">-</td>
   </tr>
 </table>
