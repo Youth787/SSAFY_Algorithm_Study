@@ -88,4 +88,11 @@
     <td align="center">면제</td>
     <td align="center"></td>
   </tr>
+   <tr>
+    <td align="center">월</td>
+    <td align="center"></td>
+    <td align="center">미완</td>
+    <td align="center">캐슬디팬스</td>
+    <td align="center"></td>
+  </tr>
 </table>
