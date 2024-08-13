@@ -10,12 +10,12 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        N = Integer.parseInt(st.nextToken());
-        S = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
+        N = Integer.parseInt(st.nextToken()); // N = 곡의 개수
+        S = Integer.parseInt(st.nextToken()); // S = 시작 볼륨
+        M = Integer.parseInt(st.nextToken()); // M = 볼륨의 최대
 
         st = new StringTokenizer(br.readLine());
-        V = new int[N + 1];
+        V = new int[N + 1]; // 각 곡이 시작하기 전에 줄 수 있는 볼륨의 차이
 
         dp = new boolean[N + 1][M + 1];
         dp[0][S] = true;
