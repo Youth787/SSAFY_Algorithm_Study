@@ -47,7 +47,28 @@
     <td align="center"><a href="https://www.acmicpc.net/problem/20922">바로가기</a></td>
   </tr>
    <tr>
-    <td align="cente목</td>
+    <td align="center">05</td>
+    <td align="center"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+  </tr>
+</table>
+<br/><br/>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">날짜</td>
+    <td align="center">인증 시각</td>
+    <td align="center">완료체크</td>
+    <td align="center">푼 문제</td>
+    <td align="center">벌금</td>
+  </tr>
+   <tr>
+    <td align="center">목</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
