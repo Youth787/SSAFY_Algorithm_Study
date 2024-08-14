@@ -1,5 +1,5 @@
 //백준 RGB거리 자바
-//DP
+//DP + 재귀
 
 import java.io.*;
 import java.util.*;
