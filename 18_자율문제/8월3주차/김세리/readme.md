@@ -85,9 +85,9 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-08-16 12:14</td>
+    <td align="center">✅</td>
+    <td align="center">1495번 기타리스트</td>
     <td align="center">0</td>
   </tr>
    <tr>
