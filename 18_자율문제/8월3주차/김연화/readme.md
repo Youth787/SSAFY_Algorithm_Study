@@ -83,9 +83,9 @@
   </tr>
    <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240817 12시 25분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">헌내기는 친구가 필요해</td>
     <td align="center"></td>
   </tr>
   <tr>
