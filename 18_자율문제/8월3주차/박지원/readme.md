@@ -82,4 +82,11 @@
     <td align="center">RGB거리</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-08-16 금 15:34</td>
+    <td align="center">✅</td>
+    <td align="center">트리 순회</td>
+    <td align="center">-</td>
+  </tr>
 </table>
