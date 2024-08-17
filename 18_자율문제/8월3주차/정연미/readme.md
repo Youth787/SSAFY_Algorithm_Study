@@ -89,4 +89,11 @@
     <td align="center">면제</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">14:00</td>
+    <td align="center">✅</td>
+    <td align="center">기타리스트</td>
+    <td align="center"></td>
+  </tr>
 </table>
