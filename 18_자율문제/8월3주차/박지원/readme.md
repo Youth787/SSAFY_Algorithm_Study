@@ -89,4 +89,11 @@
     <td align="center">트리 순회</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2024-08-17 토 15:43</td>
+    <td align="center">✅</td>
+    <td align="center">뱀과 사다리 게임</td>
+    <td align="center">-</td>
+  </tr>
 </table>
