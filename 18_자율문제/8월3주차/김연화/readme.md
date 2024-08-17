@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240818 12시 39분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">외판원 순회 2</td>
     <td align="center"></td>
   </tr>
   <tr>
