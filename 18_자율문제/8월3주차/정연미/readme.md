@@ -96,4 +96,11 @@
     <td align="center">기타리스트</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">19:00</td>
+    <td align="center">✅</td>
+    <td align="center">110옮기기</td>
+    <td align="center"></td>
+  </tr>
 </table>
