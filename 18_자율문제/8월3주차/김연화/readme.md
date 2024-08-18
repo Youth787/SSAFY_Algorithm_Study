@@ -97,9 +97,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240818 3시 4분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">시그널</td>
     <td align="center"></td>
   </tr>
   <tr>
