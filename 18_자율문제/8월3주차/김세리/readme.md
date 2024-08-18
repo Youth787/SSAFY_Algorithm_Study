@@ -106,9 +106,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-08-19 12:18</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">17609번 회문</td>
     <td align="center">0</td>
   </tr>
   <tr>
