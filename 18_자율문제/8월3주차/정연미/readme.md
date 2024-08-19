@@ -103,4 +103,11 @@
     <td align="center">110옮기기</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">15:00</td>
+    <td align="center">✅</td>
+    <td align="center">테트로미노</td>
+    <td align="center"></td>
+  </tr>
 </table>
