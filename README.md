@@ -56,6 +56,7 @@
       <td height="140px" align="center"> <a href="https://github.com/zzionyy"><img src="https://avatars.githubusercontent.com/u/122343467?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 박지원 <br/> (JAVA)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/myeon0109"><img src="https://avatars.githubusercontent.com/u/124342362?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 김연화 <br/> (JAVA)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/jw-choi-kzz"><img src="https://avatars.githubusercontent.com/u/141205653?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 <br/> (JAVA)</a></td>
+        <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 <br/> (JAVA)</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/ar77gt"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt" /></a><br/>
@@ -64,18 +65,9 @@
       <td align="center"><a href="https://solved.ac/wldnjs1123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123" /></a><br/>
          <td align="center"><a href="https://solved.ac/itidnsld"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=itidnsld" />
       <td align="center"><a href="https://solved.ac/jiwonq"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jiwonq" /></a><br/>
+       <td align="center"><a href="https://solved.ac/jeonseongjae"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jeonseongjae" />
   </tr>
   
-</table>
-
-### 명예멤버(이직 가즈아)
-<table>
-    <tr>
-        <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 <br/> (JAVA)</a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://solved.ac/jeonseongjae"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jeonseongjae" />
-    </tr>
 </table>
 
 
