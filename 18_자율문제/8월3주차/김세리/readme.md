@@ -113,7 +113,14 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2024-08-19 21:32</td>
+    <td align="center">✅</td>
+    <td align="center">pg250136번 석유시추</td>
+    <td align="center">0</td>
+  </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2024-08-20</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
