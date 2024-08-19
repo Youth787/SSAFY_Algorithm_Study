@@ -95,12 +95,19 @@
     <td align="center">✅</td>
     <td align="center">뱀과 사다리 게임</td>
     <td align="center">-</td>
-  </dtr>
+  </tr>
     <tr>
     <td align="center">월</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">-</td>
-  </dtr>
+  </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2024-08-19 월 10:33</td>
+    <td align="center">✅</td>
+    <td align="center">플로이드</td>
+    <td align="center">-</td>
+  </tr>
 </table>
