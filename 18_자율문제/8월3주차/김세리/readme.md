@@ -120,7 +120,7 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">2024-08-20</td>
+    <td align="center">2024-08-20 16:51</td>
     <td align="center">✅</td>
     <td align="center">pg12971번 스티커모으기(2)</td>
     <td align="center">0</td>
