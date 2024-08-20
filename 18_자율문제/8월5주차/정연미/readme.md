@@ -46,14 +46,6 @@
     <td align="center"></td>
     <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
   </tr>
-   <tr>
-    <td align="center">05</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
-  </tr>
 </table>
 <br/><br/>
 
@@ -69,13 +61,20 @@
     <td align="center">벌금</td>
   </tr>
     <tr>
-    <td align="center">금</td>
+    <td align="center">목</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
    <tr>
+    <td align="center">금</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
     <td align="center">토</td>
     <td align="center"></td>
     <td align="center"></td>
@@ -98,13 +97,6 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
