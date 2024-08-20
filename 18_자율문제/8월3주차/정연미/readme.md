@@ -110,4 +110,11 @@
     <td align="center">테트로미노</td>
     <td align="center"></td>
   </tr>
+    <tr>
+    <td align="center">수</td>
+    <td align="center">23:00</td>
+    <td align="center">✅</td>
+    <td align="center">섬연결하기</td>
+    <td align="center"></td>
+  </tr>
 </table>
