@@ -68,4 +68,11 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2024-08-20 화 10:09</td>
+    <td align="center">✅</td>
+    <td align="center">과일 탕후루</td>
+    <td align="center">-</td>
+  </tr>
 </table>
