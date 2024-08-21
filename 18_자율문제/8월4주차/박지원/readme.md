@@ -75,4 +75,11 @@
     <td align="center">과일 탕후루</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-08-21 수 10:06</td>
+    <td align="center">✅</td>
+    <td align="center">미로 탐색</td>
+    <td align="center">-</td>
+  </tr>
 </table>
