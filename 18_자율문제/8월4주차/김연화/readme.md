@@ -70,9 +70,9 @@
   </tr>
     <tr>
     <td align="center">목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240821 7시 25분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">비슷한 단어</td>
     <td align="center"></td>
   </tr>
     <tr>
