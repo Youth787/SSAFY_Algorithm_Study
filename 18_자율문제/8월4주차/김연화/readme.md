@@ -71,9 +71,9 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240823 12시 11분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">촌수계산</td>
     <td align="center"></td>
   </tr>
    <tr>
