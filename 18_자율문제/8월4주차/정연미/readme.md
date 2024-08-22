@@ -68,4 +68,11 @@
     <td align="center">싸지방에간준하</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">금</td>
+    <td align="center">14:30</td>
+    <td align="center">✅</td>
+    <td align="center">내리막길</td>
+    <td align="center">-</td>
+  </tr>
 </table>
