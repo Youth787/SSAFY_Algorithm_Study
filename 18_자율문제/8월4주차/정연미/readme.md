@@ -84,9 +84,9 @@
   </tr>
      <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">17:00</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">괄호추가하기</td>
     <td align="center">-</td>
   </tr>
    <tr>
