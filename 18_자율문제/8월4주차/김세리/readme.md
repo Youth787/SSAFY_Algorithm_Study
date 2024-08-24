@@ -99,9 +99,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-08-24 22:09</td>
+    <td align="center">✅</td>
+    <td align="center">2294번 동전2</td>
     <td align="center">0</td>
   </tr>
   <tr>
