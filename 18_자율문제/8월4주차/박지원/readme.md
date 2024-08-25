@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center">2024-08-23 금 16:22</td>
-    <td align="center">✅</td>
-    <td align="center">트리의 지름</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center">-</td>
   </tr>
 </table>
