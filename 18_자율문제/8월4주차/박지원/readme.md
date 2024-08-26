@@ -103,4 +103,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2024-08-26 월 10:19</td>
+    <td align="center">✅</td>
+    <td align="center">후위표기식</td>
+    <td align="center">-</td>
+  </tr>
 </table>
