@@ -54,6 +54,46 @@
     <td align="center">트리의 지름</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1167">바로가기</a></td>
   </tr>
+  <tr>
+    <td align="center">06</td>
+    <td align="center">✅</td>
+    <td align="center">LV 3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">아이템 줍기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87694">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">07</td>
+    <td align="center">✅</td>
+    <td align="center">LV 3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">금과 은 운반하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86053">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">08</td>
+    <td align="center">✅</td>
+    <td align="center">LV 3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">퍼즐 조각 채우기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84021">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">09</td>
+    <td align="center">✅</td>
+    <td align="center">LV 3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">카드 짝 맞추기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72415">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">10</td>
+    <td align="center">✅</td>
+    <td align="center">LV 3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">억억단을 외우자</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/138475">바로가기</a></td>
+  </tr>
 </table>
 <br/><br/>
 
