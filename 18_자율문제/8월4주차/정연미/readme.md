@@ -98,9 +98,9 @@
   </tr>
    <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">23:00</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">문제 추천 시스템 Version 1</td>
     <td align="center">-</td>
   </tr>
 </table>
