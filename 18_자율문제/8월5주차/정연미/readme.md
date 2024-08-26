@@ -31,28 +31,28 @@
     <td align="center"><a href="https://www.acmicpc.net/problem/17140">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">17141</td>
     <td align="center">연구소2</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/17141">바로가기</a></td>
   </tr>
+   <tr>
+    <td align="center">04</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">16234</td>
+    <td align="center">인구이동</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/16234">바로가기</a></td>
+  </tr>
   <tr>
-    <td align="center">03</td>
+    <td align="center">05</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">21608</td>
     <td align="center">상어초등학교</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/21608">바로가기</a></td>
-  </tr>
-  <tr>
-    <td align="center">05</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
-    <td align="center">1167</td>
-    <td align="center">트리의 지름</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1167">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">06</td>
