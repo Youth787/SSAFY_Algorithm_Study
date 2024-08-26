@@ -99,9 +99,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240826 10시 39분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">구명보트</td>
     <td align="center"></td>
   </tr>
 </table>
