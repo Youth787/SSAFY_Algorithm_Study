@@ -19,7 +19,7 @@
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"></td>
     <td align="center">9375</td>
-    <td align="center">패션왕 신해</td>
+    <td align="center">패션왕 신해빈</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/9375">바로가기</a></td>
   </tr>
   <tr>
@@ -107,5 +107,12 @@
     <td align="center">완료체크</td>
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
+  </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2024-08-27 화 12:03</td>
+    <td align="center">✅</td>
+    <td align="center">패션왕 신해빈</td>
+    <td align="center">-</td>
   </tr>
 </table>
