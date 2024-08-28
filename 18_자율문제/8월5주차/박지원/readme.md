@@ -119,7 +119,14 @@
     <td align="center">금</td>
     <td align="center">2024-08-28 수 11:03</td>
     <td align="center">✅</td>
-    <td align="center">마인크래프트, 아이템줍기</td>
+    <td align="center">마인크래프트</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-08-28 수 13:18</td>
+    <td align="center">✅</td>
+    <td align="center">아이템줍기</td>
     <td align="center">-</td>
   </tr>
 </table>
