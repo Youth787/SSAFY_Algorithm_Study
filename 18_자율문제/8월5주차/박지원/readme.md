@@ -115,4 +115,11 @@
     <td align="center">패션왕 신해빈</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-08-28 수 11:03</td>
+    <td align="center">✅</td>
+    <td align="center">마인크래프트</td>
+    <td align="center">-</td>
+  </tr>
 </table>
