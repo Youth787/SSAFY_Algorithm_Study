@@ -69,9 +69,9 @@
   </tr>
    <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240829 11시 56분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">1로만들기</td>
     <td align="center"></td>
   </tr>
   <tr>
