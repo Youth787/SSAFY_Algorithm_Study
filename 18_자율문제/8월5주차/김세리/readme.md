@@ -101,9 +101,9 @@
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
+    <td align="center">2024-08-29 23:12</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">21608 번 상어 초등학교</td>
     <td align="center">0</td>
   </tr>
    <tr>
