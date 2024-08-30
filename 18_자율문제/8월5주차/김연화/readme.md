@@ -76,9 +76,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240830 10시 21분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">양</td>
     <td align="center"></td>
   </tr>
   <tr>
