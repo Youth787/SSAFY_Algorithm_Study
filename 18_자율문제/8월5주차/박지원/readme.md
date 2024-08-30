@@ -129,4 +129,11 @@
     <td align="center">아이템줍기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2024-08-30 금 22:18</td>
+    <td align="center">✅</td>
+    <td align="center">금과 은 운반하기</td>
+    <td align="center">-</td>
+  </tr>
 </table>
