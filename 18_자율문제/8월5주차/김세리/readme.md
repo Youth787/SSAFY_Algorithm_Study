@@ -108,9 +108,9 @@
   </tr>
    <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-08-31 01:02</td>
+    <td align="center">✅</td>
+    <td align="center">16234 번 인구이동</td>
     <td align="center">0</td>
   </tr>
   <tr>
