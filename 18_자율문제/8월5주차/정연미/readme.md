@@ -124,9 +124,9 @@
   </tr>
    <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">21:00</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">억억단</td>
     <td align="center">-</td>
   </tr>
    <tr>
