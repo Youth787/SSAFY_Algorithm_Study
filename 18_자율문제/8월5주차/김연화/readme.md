@@ -83,9 +83,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240831 8시 47분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">최소직사각형</td>
     <td align="center"></td>
   </tr>
   <tr>
