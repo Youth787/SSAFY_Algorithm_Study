@@ -115,9 +115,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">2024-08-31 23:57</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">15685번 드래곤커브</td>
     <td align="center">0</td>
   </tr>
   <tr>
