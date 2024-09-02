@@ -145,9 +145,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">22:00</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">카드짝</td>
     <td align="center">-</td>
   </tr>
 </table>
