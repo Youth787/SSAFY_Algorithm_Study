@@ -97,9 +97,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240902 10시 3분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">의상</td>
     <td align="center"></td>
   </tr>
 </table>
