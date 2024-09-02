@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align="center">03</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
     <td align="center">9465</td>
     <td align="center">스티커</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">2206</td>
     <td align="center">벽 부수고 이동하기</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td align="center">05</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
     <td align="center">1167</td>
     <td align="center">트리의 지름</td>
@@ -80,7 +80,7 @@
   </tr>
     <tr>
     <td align="center">09</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">LV 3</td>
     <td align="center">프로그래머스</td>
     <td align="center">카드 짝 맞추기</td>
@@ -88,7 +88,7 @@
   </tr>
     <tr>
     <td align="center">10</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center">LV 3</td>
     <td align="center">프로그래머스</td>
     <td align="center">억억단을 외우자</td>
