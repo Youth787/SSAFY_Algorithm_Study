@@ -150,4 +150,11 @@
     <td align="center">카드짝</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">20:00</td>
+    <td align="center">✅</td>
+    <td align="center">퍼즐</td>
+    <td align="center">-</td>
+  </tr>
 </table>
