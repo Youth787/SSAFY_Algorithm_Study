@@ -76,4 +76,11 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-09-03 화 09:50</td>
+    <td align="center">✅</td>
+    <td align="center">스티커</td>
+    <td align="center">-</td>
+  </tr>
 </table>
