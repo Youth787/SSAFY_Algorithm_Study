@@ -70,9 +70,9 @@
   </tr>
    <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">12:00</td>
+    <td align="center">✅</td>
+    <td align="center">카펫</td>
     <td align="center"></td>
   </tr>
   <tr>
