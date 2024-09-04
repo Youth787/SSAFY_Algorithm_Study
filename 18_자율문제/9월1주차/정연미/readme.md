@@ -25,42 +25,66 @@
      <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center">Lv2</td>
+    <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">영어 끝말잇기</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981">바로가기</a></td>
+    <td align="center">이중우선순위큐</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center">Lv2</td>
+    <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">행렬의 곱셈</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12949">바로가기</a></td>
+    <td align="center">네트워크</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43162">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center">Lv2</td>
+    <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">의상</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">바로가기</a></td>
+    <td align="center">여행경로</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43164">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
     <td align="center"></td>
-    <td align="center">Lv2</td>
+    <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">캐시</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680">바로가기</a></td>
+    <td align="center">입국심사</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">06</td>
     <td align="center"></td>
     <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
+    <td align="center">단속카메라</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42884">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">07</td>
+    <td align="center"></td>
+    <td align="center">Lv3</td>
+    <td align="center">프로그래머스</td>
     <td align="center">퍼즐 조각 채우기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84021">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">08</td>
+    <td align="center">✅</td>
+    <td align="center">SQL</td>
+    <td align="center">Leetcode</td>
+    <td align="center">570. Managers with at Least 5 Direct Reports</td>
+    <td align="center"><a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50">바로가기</a></td>
+  </tr>
+  <tr>
+    <td align="center">09</td>
+    <td align="center">✅</td>
+    <td align="center">SQL</td>
+    <td align="center">Leetcode</td>
+    <td align="center">1193. Monthly Transactions I</td>
+    <td align="center"><a href="https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50">바로가기</a></td>
   </tr>
   
 </table>
