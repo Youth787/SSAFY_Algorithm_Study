@@ -55,11 +55,11 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">05</td>
+    <td align="center">06</td>
     <td align="center"></td>
-    <td align="center">Lv2</td>
+    <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">퍼즐</td>
+    <td align="center">퍼즐 조각 채우기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84021">바로가기</a></td>
   </tr>
   
