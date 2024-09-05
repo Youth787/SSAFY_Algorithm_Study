@@ -110,9 +110,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">10:00</td>
+    <td align="center">✅</td>
+    <td align="center">네트워크</td>
     <td align="center"></td>
   </tr>
   <tr>
