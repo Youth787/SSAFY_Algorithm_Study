@@ -83,4 +83,11 @@
     <td align="center">스티커</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-09-05 목 11:00</td>
+    <td align="center">✅</td>
+    <td align="center">벽 부수고 이동하기</td>
+    <td align="center">-</td>
+  </tr>
 </table>
