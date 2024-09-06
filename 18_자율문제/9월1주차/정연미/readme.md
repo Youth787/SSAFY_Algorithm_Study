@@ -117,9 +117,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">21:00</td>
+    <td align="center">✅</td>
+    <td align="center">이중우선순위큐</td>
     <td align="center"></td>
   </tr>
   <tr>
