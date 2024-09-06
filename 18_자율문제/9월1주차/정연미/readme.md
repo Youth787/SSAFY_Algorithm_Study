@@ -48,7 +48,7 @@
   </tr>
    <tr>
     <td align="center">05</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
     <td align="center">입국심사</td>
@@ -119,7 +119,7 @@
     <td align="center">일</td>
     <td align="center">21:00</td>
     <td align="center">✅</td>
-    <td align="center">이중우선순위큐</td>
+    <td align="center">이중우선순위큐,입국심사</td>
     <td align="center"></td>
   </tr>
   <tr>
