@@ -100,9 +100,9 @@
   </tr>
    <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">2024-09-08 01:36</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">1325번 효율적인해킹</td>
     <td align="center">0</td>
   </tr>
   <tr>
