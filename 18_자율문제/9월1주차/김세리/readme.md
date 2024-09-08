@@ -107,9 +107,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-09-08 19:10</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">14940번 쉬운최단거리, 21939번 문제추천시스템Version1, 2607번 비슷한단어</td>
     <td align="center">0</td>
   </tr>
   <tr>
