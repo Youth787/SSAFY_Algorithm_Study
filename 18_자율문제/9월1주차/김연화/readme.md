@@ -84,9 +84,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240908 10시 52분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">빗물</td>
     <td align="center"></td>
   </tr>
   <tr>
