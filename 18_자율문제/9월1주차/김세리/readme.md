@@ -116,7 +116,7 @@
     <td align="center">화</td>
     <td align="center">2024-09-10 12:00</td>
     <td align="center">✅</td>
-    <td align="center">1463번 1로만들기</td>
+    <td align="center">1463번 1로만들기, pg138475번 억억단을외우자</td>
     <td align="center">0</td>
   </tr>
   <tr>
