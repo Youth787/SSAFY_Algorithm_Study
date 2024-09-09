@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240909 11시 29분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">두 큐 합 같게 만들기</td>
     <td align="center"></td>
   </tr>
       <tr>
