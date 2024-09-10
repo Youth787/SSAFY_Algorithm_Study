@@ -140,7 +140,7 @@
     <td align="center">수</td>
     <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">570</td>
+    <td align="center">570,1193</td>
     <td align="center"></td>
   </tr>
 </table>
