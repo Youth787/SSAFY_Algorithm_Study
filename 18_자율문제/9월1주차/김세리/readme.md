@@ -121,9 +121,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-09-11 12:06</td>
+    <td align="center">✅</td>
+    <td align="center">87694번 아이템 줍기</td>
     <td align="center">0</td>
   </tr>
 </table>
