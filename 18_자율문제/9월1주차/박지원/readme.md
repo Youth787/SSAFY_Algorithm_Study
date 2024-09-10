@@ -113,9 +113,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">2024-09-10 화 12:50</td>
+    <td align="center">2024-09-10 화 22:50</td>
     <td align="center">✅</td>
-    <td align="center">카드 짝 맞추기</td>
+    <td align="center">카드 짝 맞추기, 트리의 지름</td>
     <td align="center">-</td>
   </tr>
 </table>
