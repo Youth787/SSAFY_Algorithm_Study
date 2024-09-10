@@ -98,9 +98,9 @@
   </tr>
       <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240910 11시 2분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">미로탈출</td>
     <td align="center"></td>
   </tr>
 </table>
