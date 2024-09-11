@@ -70,9 +70,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-09-11 수 10:23</td>
+    <td align="center">✅</td>
+    <td align="center">Four Squares</td>
     <td align="center">-</td>
   </tr>
 </table>
