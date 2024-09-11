@@ -39,7 +39,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">06</td>
+    <td align="center">04</td>
     <td align="center">✅</td>
     <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
@@ -47,7 +47,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72415">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">04</td>
+    <td align="center">05</td>
      <td align="center">✅</td>
     <td align="center">Easy</td>
     <td align="center">LeetCode 1</td>
@@ -55,7 +55,7 @@
     <td align="center"><a href="https://leetcode.com/problems/two-sum">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">05</td>
+    <td align="center">06</td>
     <td align="center">✅</td>
     <td align="center">Easy</td>
     <td align="center">LeetCode 121</td>
