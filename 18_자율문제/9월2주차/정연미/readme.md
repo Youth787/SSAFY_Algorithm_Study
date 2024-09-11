@@ -25,7 +25,7 @@
     <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center">2019 KAKAO BLIND RECRUITMENT</td>
+    <td align="center">2019 KAKAO</td>
     <td align="center">프로그래머스</td>
     <td align="center">오픈채팅방</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">바로가기</a></td>
@@ -33,7 +33,7 @@
    <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center">2019 KAKAO BLIND RECRUITMENT</td>
+    <td align="center">2019 KAKAO</td>
     <td align="center">프로그래머스</td>
     <td align="center">실패율</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">바로가기</a></td>
