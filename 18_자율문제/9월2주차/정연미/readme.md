@@ -50,16 +50,16 @@
     <td align="center">04</td>
      <td align="center">✅</td>
     <td align="center">Easy</td>
-    <td align="center">LeetCode</td>
-    <td align="center">1. Two Sum</td>
+    <td align="center">LeetCode 1</td>
+    <td align="center">Two Sum</td>
     <td align="center"><a href="https://leetcode.com/problems/two-sum">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
     <td align="center">✅</td>
     <td align="center">Easy</td>
-    <td align="center">LeetCode</td>
-    <td align="center">121. Best Time to Buy and Sell Stock</td>
+    <td align="center">LeetCode 121</td>
+    <td align="center">Best Time to Buy and Sell Stock</td>
     <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock">바로가기</a></td>
   </tr>
 </table>
