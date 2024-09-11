@@ -31,32 +31,24 @@
     <td align="center"><a href="https://www.acmicpc.net/problem/16946">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center">프로그래머스</td>
     <td align="center">Summer/Winter Coding(~2018)</td>
     <td align="center">방문길이</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/49994">바로가기</a></td>
   </tr>
-   <tr>
-    <td align="center">06</td>
-    <td align="center">✅</td>
-    <td align="center">프로그래머스</td>
-    <td align="center">Lv2</td>
-    <td align="center">할인행사</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127">바로가기</a></td>
-  </tr>
     <tr>
-    <td align="center">05</td>
-    <td align="center"></td>
+    <td align="center">04</td>
+    <td align="center">✅</td>
     <td align="center">프로그래머스</td>
     <td align="center">2019 KAKAO BLIND RECRUITMENT</td>
     <td align="center">오픈채팅방</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">03</td>
-    <td align="center"></td>
+    <td align="center">05</td>
+    <td align="center">✅</td>
     <td align="center">프로그래머스</td>
     <td align="center">2019 KAKAO BLIND RECRUITMENT
 </td>
@@ -64,18 +56,18 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">07</td>
+    <td align="center">06</td>
      <td align="center">✅</td>
-    <td align="center">LeetCode</td>
     <td align="center">Easy</td>
+    <td align="center">LeetCode</td>
     <td align="center">1. Two Sum</td>
     <td align="center"><a href="https://leetcode.com/problems/two-sum">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">08</td>
+    <td align="center">07</td>
     <td align="center">✅</td>
-    <td align="center">LeetCode</td>
     <td align="center">Easy</td>
+    <td align="center">LeetCode</td>
     <td align="center">121. Best Time to Buy and Sell Stock</td>
     <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock">바로가기</a></td>
   </tr>
