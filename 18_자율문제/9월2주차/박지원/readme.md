@@ -75,4 +75,11 @@
     <td align="center">Four Squares</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-09-12 목 11:30</td>
+    <td align="center">✅</td>
+    <td align="center">파도반 수열</td>
+    <td align="center">-</td>
+  </tr>
 </table>
