@@ -78,9 +78,9 @@
   </tr>
    <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">11:00</td>
+    <td align="center">✅</td>
+    <td align="center">leet 1,121</td>
     <td align="center"></td>
   </tr>
   <tr>
