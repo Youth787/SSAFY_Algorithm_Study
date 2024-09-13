@@ -69,28 +69,28 @@
   </tr>
     <tr>
     <td align="center">토</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-09-14 01:27</td>
+    <td align="center">✅</td>
+    <td align="center">pg42884번 단속카메라</td>
     <td align="center">0</td>
   </tr>
    <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
