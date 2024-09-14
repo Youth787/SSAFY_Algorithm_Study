@@ -92,10 +92,10 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">16:00</td>
+    <td align="center">✅</td>
+    <td align="center">벽부수고 이동하기4</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">월</td>
