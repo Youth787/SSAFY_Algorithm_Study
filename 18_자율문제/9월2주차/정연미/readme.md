@@ -108,7 +108,7 @@
     <td align="center">화</td>
     <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">오픈채팅방</td>
+    <td align="center">오픈채팅방,실패율</td>
     <td align="center"></td>
   </tr>
   <tr>
