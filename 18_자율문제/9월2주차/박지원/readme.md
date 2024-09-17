@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">2024-09-17 화 15:47</td>
+    <td align="center">2024-09-17 화 17:00</td>
     <td align="center">✅</td>
-    <td align="center">부대복귀</td>
+    <td align="center">부대복귀, 억억단을 외우자</td>
     <td align="center">-</td>
   </tr>
 </table>
