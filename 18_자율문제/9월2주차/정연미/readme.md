@@ -113,9 +113,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">면제</td>
+    <td align="center">8:00</td>
+    <td align="center">✅</td>
+    <td align="center">카드짝</td>
     <td align="center"></td>
   </tr>
 </table>
