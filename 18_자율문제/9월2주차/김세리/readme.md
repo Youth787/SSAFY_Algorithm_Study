@@ -84,22 +84,22 @@
   <tr>
     <td align="center">월</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-09-17 23:37</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">pg72415번 카드짝맞추기</td>
     <td align="center">0</td>
   </tr>
 </table>
