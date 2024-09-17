@@ -82,7 +82,7 @@
     <td align="center">파도반 수열</td>
     <td align="center">-</td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">일</td>
     <td align="center">면제</td>
     <td align="center"></td>
@@ -96,11 +96,18 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
-      <tr>
+  <tr>
     <td align="center">화</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2024-09-17 화 15:47</td>
+    <td align="center">✅</td>
+    <td align="center">부대복귀</td>
     <td align="center">-</td>
   </tr>
 </table>
