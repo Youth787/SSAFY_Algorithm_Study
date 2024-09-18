@@ -14,24 +14,8 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-   <tr>
-    <td align="center">01</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">14499</td>
-    <td align="center">주사위 굴리기</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/14499">바로가기</a></td>
-  </tr>
      <tr>
-    <td align="center">02</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">3190</td>
-    <td align="center">뱀</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
-  </tr>
-   <tr>
-    <td align="center">03</td>
+    <td align="center">01</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">15684</td>
@@ -39,12 +23,28 @@
     <td align="center"><a href="https://www.acmicpc.net/problem/15684">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">15685</td>
     <td align="center">드래곤 커브</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/15685">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">03</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">14499</td>
+    <td align="center">주사위 굴리기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/14499">바로가기</a></td>
+  </tr>
+     <tr>
+    <td align="center">04</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">3190</td>
+    <td align="center">뱀</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
