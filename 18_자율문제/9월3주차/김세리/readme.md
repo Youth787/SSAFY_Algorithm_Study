@@ -28,7 +28,7 @@
     <td align="center">Lv3</td>
     <td align="center">프로그래머스</td>
     <td align="center">네트워크</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/parts/12421">바로가기</a></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43162">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">03</td>
