@@ -16,35 +16,51 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">14499</td>
+    <td align="center">주사위 굴리기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/14499">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">3190</td>
+    <td align="center">뱀</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">15684</td>
+    <td align="center">사다리 조작</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/15684">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">15685</td>
+    <td align="center">드래곤 커브</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/15685">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">05</td>
+    <td align="center">✅</td>
+    <td align="center">Easy</td>
+    <td align="center">leetcode 21</td>
+    <td align="center">Merge Two Sorted Lists</td>
+    <td align="center"><a href="https://leetcode.com/problems/merge-two-sorted-lists">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">06</td>
+    <td align="center">✅</td>
+    <td align="center">Easy</td>
+    <td align="center">leetcode 141</td>
+    <td align="center">Linked List Cycle</td>
+    <td align="center"><a href="https://leetcode.com/problems/linked-list-cycle">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
@@ -61,45 +77,45 @@
     <td align="center">벌금</td>
   </tr>
     <tr>
-    <td align="center">목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-   <tr>
     <td align="center">금</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">토</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">월</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
     <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
+  </tr>
+   <tr>
+    <td align="center">수</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
 </table>
