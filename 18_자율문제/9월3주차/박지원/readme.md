@@ -75,4 +75,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-09-20 금 15:32</td>
+    <td align="center">✅</td>
+    <td align="center">정수 삼각형</td>
+    <td align="center">-</td>
+  </tr>
 </table>
