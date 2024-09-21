@@ -60,32 +60,26 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-    <tr>
-    <td align="center">목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">면제</td>
-    <td align="center"></td>
-  </tr>
+
    <tr>
     <td align="center">금</td>
     <td align="center"></td>
-    <td align="center"></td>
     <td align="center">면제</td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">토</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240921 11시 02분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">영역 구하기</td>
     <td align="center"></td>
   </tr>
   <tr>
@@ -97,6 +91,13 @@
   </tr>
   <tr>
     <td align="center">화</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+      <tr>
+    <td align="center">수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
