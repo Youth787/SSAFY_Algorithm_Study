@@ -82,4 +82,11 @@
     <td align="center">정수 삼각형</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">알</td>
+    <td align="center">2024-09-21 토 22:34</td>
+    <td align="center">✅</td>
+    <td align="center">대장균의 크기에 따라 분류하기 1</td>
+    <td align="center">-</td>
+  </tr>
 </table>
