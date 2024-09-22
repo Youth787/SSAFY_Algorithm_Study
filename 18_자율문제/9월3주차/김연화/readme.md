@@ -84,9 +84,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240922 7시 56분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">녹색 옷 입은 애가 젤다지?</td>
     <td align="center"></td>
   </tr>
   <tr>
