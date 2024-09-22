@@ -63,35 +63,35 @@
   <tr>
     <td align="center">금</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">토</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
    <tr>
     <td align="center">일</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-09-23 01:44</td>
+    <td align="center">✅</td>
+    <td align="center">pg49189번 가장 먼 노드</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
