@@ -99,9 +99,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">12:30</td>
+    <td align="center">✅</td>
+    <td align="center">사다리</td>
     <td align="center"></td>
   </tr>
   <tr>
