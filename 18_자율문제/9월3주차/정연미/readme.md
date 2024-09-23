@@ -106,9 +106,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">19:58</td>
+    <td align="center">✅</td>
+    <td align="center">141.Linked List Cycle</td>
     <td align="center"></td>
   </tr>
    <tr>
