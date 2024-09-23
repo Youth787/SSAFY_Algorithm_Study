@@ -96,4 +96,11 @@
     <td align="center">트리의 지름</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2024-09-23 월 23:34</td>
+    <td align="center">✅</td>
+    <td align="center">파괴되지 않은 건물</td>
+    <td align="center">-</td>
+  </tr>
 </table>
