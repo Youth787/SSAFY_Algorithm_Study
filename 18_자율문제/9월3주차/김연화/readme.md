@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240923 11시 4분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">가장 먼 노드</td>
     <td align="center"></td>
   </tr>
       <tr>
