@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2024-09-24 01:51</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">pg43162번 네트워크</td>
     <td align="center">0</td>
   </tr>
   <tr>
