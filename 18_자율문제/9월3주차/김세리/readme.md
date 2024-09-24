@@ -97,9 +97,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-09-25 01:55</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">pg132266번 부대복귀, pg84021번 퍼즐 조각 채우기</td>
     <td align="center">0</td>
   </tr>
 </table>
