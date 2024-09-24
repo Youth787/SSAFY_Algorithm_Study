@@ -98,9 +98,9 @@
   </tr>
       <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240924 1시 27분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">네트워크</td>
     <td align="center"></td>
   </tr>
 </table>
