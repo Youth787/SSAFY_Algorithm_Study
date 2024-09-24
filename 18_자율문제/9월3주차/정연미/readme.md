@@ -113,9 +113,9 @@
   </tr>
    <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">8:50</td>
+    <td align="center">✅</td>
+    <td align="center">드래곤커브</td>
     <td align="center"></td>
   </tr>
 </table>
