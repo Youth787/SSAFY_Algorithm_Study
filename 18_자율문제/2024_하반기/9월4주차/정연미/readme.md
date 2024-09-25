@@ -14,14 +14,6 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-   <tr>
-    <td align="center">01</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
-    <td align="center">14499</td>
-    <td align="center">주사위 굴리기</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/14499">바로가기</a></td>
-  </tr>
      <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
@@ -30,21 +22,29 @@
     <td align="center">경사로</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/14890">바로가기</a></td>
   </tr>
-   <tr>
-    <td align="center">03</td>
+  <tr>
+    <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center">14891</td>
-    <td align="center">톱니바퀴</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/14891">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">14499</td>
+    <td align="center">주사위 굴리기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/14499">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">16234</td>
+    <td align="center">인구 이동</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/16234">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">03</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">14891</td>
+    <td align="center">톱니바퀴</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/14891">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
