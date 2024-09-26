@@ -70,9 +70,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-09-27 03:31</td>
+    <td align="center">✅</td>
+    <td align="center">연도별 평균 미세먼지 농도 조회하기, 서울에 위치한 식당 목록 출력하기</td>
     <td align="center">0</td>
   </tr>
     <tr>
