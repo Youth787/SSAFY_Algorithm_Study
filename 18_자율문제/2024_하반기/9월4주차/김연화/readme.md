@@ -70,15 +70,15 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240928 12시 16분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">가장 긴 감소하는 부분 수열</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
