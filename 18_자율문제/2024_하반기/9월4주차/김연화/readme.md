@@ -84,9 +84,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240929 10시 16분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">동전 1</td>
     <td align="center"></td>
   </tr>
   <tr>
