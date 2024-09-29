@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-09-30 01:37</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">정수삼각형</td>
     <td align="center">0</td>
   </tr>
   <tr>
