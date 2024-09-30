@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">240930 11시 35분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">전력망을 둘로 나누기</td>
     <td align="center"></td>
   </tr>
       <tr>
