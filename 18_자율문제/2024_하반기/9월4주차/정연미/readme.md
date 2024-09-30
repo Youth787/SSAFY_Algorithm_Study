@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">12:00</td>
+    <td align="center">✅</td>
+    <td align="center">인구이동</td>
     <td align="center"></td>
   </tr>
    <tr>
