@@ -98,9 +98,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2024-10-01 12:53</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">불량사용자</td>
     <td align="center">0</td>
   </tr>
   <tr>
