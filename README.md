@@ -52,20 +52,20 @@
     <tr>
       <td height="140px" align="center"> <a href="https://github.com/Youth787"><img src="https://avatars.githubusercontent.com/u/90955152?v=4" width="140px" /><br/>SSAFY 10기<br/>🐔 정연미 <br/> (JAVA)</a></td>
 <td height="140px" align="center"> <a href="https://github.com/onid057"><img src="https://avatars.githubusercontent.com/u/141606477?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 김세리 <br/> (JAVA)</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/myeon0109"><img src="https://avatars.githubusercontent.com/u/124342362?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 김연화 <br/> (JAVA)</a></td>
+       <td height="140px" align="center"> <a href="https://github.com/zzionyy"><img src="https://avatars.githubusercontent.com/u/122343467?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 박지원 <br/> (JAVA)</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 <br/> (JAVA)</a></td>
       <td height="140px" align="center"> <a href="https://github.com/aycho00"><img src="https://avatars.githubusercontent.com/u/141216710?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 조아영 <br/> (JAVA)</a></td>
-      <td height="140px" align="center"> <a href="https://github.com/zzionyy"><img src="https://avatars.githubusercontent.com/u/122343467?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 박지원 <br/> (JAVA)</a></td>
-        <td height="140px" align="center"> <a href="https://github.com/myeon0109"><img src="https://avatars.githubusercontent.com/u/124342362?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 김연화 <br/> (JAVA)</a></td>
         <td height="140px" align="center"> <a href="https://github.com/jw-choi-kzz"><img src="https://avatars.githubusercontent.com/u/141205653?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 최지원 <br/> (JAVA)</a></td>
-        <td height="140px" align="center"> <a href="https://github.com/jeonseongjae98"><img src="https://avatars.githubusercontent.com/u/84118644?v=4" width="140px" /><br/>SSAFY 10기<br/>🐣 전성재 <br/> (JAVA)</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/ar77gt"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ar77gt" /></a><br/>
          <td align="center"><a href="https://solved.ac/yerioo"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yerioo" /></a><br/>
+              <td align="center"><a href="https://solved.ac/itidnsld"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=itidnsld" />
+                   <td align="center"><a href="https://solved.ac/wldnjs1123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123" /></a><br/>
+                            <td align="center"><a href="https://solved.ac/jeonseongjae"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jeonseongjae" />
       <td align="center"><a href="https://solved.ac/aycho00"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=aycho00" /></a><br/>
-      <td align="center"><a href="https://solved.ac/wldnjs1123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wldnjs1123" /></a><br/>
-         <td align="center"><a href="https://solved.ac/itidnsld"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=itidnsld" />
       <td align="center"><a href="https://solved.ac/jiwonq"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jiwonq" /></a><br/>
-       <td align="center"><a href="https://solved.ac/jeonseongjae"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jeonseongjae" />
   </tr>
   
 </table>
