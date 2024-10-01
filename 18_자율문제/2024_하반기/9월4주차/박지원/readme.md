@@ -103,4 +103,11 @@
     <td align="center">웜홀</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2024-10-02 수 07:19</td>
+    <td align="center">✅</td>
+    <td align="center">표 편집</td>
+    <td align="center">-</td>
+  </tr>
 </table>
