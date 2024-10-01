@@ -98,9 +98,9 @@
   </tr>
       <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241001 7시 00분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">기지국 설치</td>
     <td align="center"></td>
   </tr>
 </table>
