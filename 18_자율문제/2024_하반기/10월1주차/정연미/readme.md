@@ -13,38 +13,62 @@
     <td align="center">문제 번호</td>
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
-  </tr>
-   <tr>
-    <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
-  </tr>
+  </tr>  
      <tr>
-    <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">01</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">1182</td>
+    <td align="center">부분수열의 합</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1182">바로가기</a></td>
   </tr>
    <tr>
+    <td align="center">02</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">6603</td>
+    <td align="center">로또</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/6603">바로가기</a></td>
+  </tr>
+  <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">1759</td>
+    <td align="center">암호 만들기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1759">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">16987</td>
+    <td align="center">계란으로 계란치기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/16987">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">05</td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">2573</td>
+    <td align="center">빙산</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2573">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">06</td>
+    <td align="center">✅</td>
+    <td align="center">easy</td>
+    <td align="center">leetcode sql</td>
+    <td align="center">1141</td>
+    <td align="center"><a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">07</td>
+    <td align="center">✅</td>
+    <td align="center">easy</td>
+    <td align="center">leetcode sql</td>
+    <td align="center">1789</td>
+    <td align="center"><a href="https://leetcode.com/problems/primary-department-for-each-employee/?envType=study-plan-v2&envId=top-sql-50">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
