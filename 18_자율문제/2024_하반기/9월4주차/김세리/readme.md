@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-10-02 01:24</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">파괴되지 않은 건물</td>
     <td align="center">0</td>
   </tr>
 </table>
