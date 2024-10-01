@@ -97,9 +97,9 @@
   </tr>
    <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">12:00</td>
+    <td align="center">✅</td>
+    <td align="center">14890</td>
     <td align="center"></td>
   </tr>
 </table>
