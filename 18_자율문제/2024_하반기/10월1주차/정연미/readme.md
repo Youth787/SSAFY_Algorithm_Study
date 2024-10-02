@@ -70,6 +70,14 @@
     <td align="center">1789</td>
     <td align="center"><a href="https://leetcode.com/problems/primary-department-for-each-employee/?envType=study-plan-v2&envId=top-sql-50">바로가기</a></td>
   </tr>
+   <tr>
+    <td align="center">08</td>
+    <td align="center"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">1865</td>
+    <td align="center">웜홀</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1865">바로가기</a></td>
+  </tr>
 </table>
 <br/><br/>
 
