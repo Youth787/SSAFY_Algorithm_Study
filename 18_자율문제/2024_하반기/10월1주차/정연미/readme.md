@@ -78,6 +78,14 @@
     <td align="center">웜홀</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1865">바로가기</a></td>
   </tr>
+    <tr>
+    <td align="center">09</td>
+    <td align="center"></td>
+    <td align="center">LV3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">불량 사용자</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">바로가기</a></td>
+  </tr>
 </table>
 <br/><br/>
 
