@@ -47,15 +47,15 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/301646">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">05</td>
     <td align="center">✅</td>
     <td align="center">LV2</td>
     <td align="center">프로그래머스</td>
-    <td align="center">연도별 대장균 크기의 편차 구하기 </td>
+    <td align="center">연도별 대장균 크기의 편차 구하기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/299310">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">06</td>
     <td align="center">✅</td>
     <td align="center">LV2</td>
     <td align="center">프로그래머스</td>
@@ -63,7 +63,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/301647">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">07</td>
     <td align="center">✅</td>
     <td align="center">LV3</td>
     <td align="center">프로그래머스</td>
@@ -71,7 +71,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/299305">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
+    <td align="center">08</td>
     <td align="center">✅</td>
     <td align="center">LV3</td>
     <td align="center">프로그래머스</td>
@@ -79,7 +79,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/299307">바로가기</a></td>
   </tr>
     <tr>
-    <td align="center">04</td>
+    <td align="center">09</td>
     <td align="center">✅</td>
     <td align="center">LV3</td>
     <td align="center">프로그래머스</td>
@@ -87,7 +87,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/301649">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">05</td>
+    <td align="center">10</td>
     <td align="center">✅</td>
     <td align="center">LV4</td>
     <td align="center">프로그래머스</td>
@@ -95,7 +95,7 @@
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/301650">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">05</td>
+    <td align="center">11</td>
     <td align="center">✅</td>
     <td align="center">LV5</td>
     <td align="center">프로그래머스</td>
@@ -118,9 +118,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
+    <td align="center">2024-10-04 12:03</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">특정 형질을 가지는 대장균 찾기, 연도별 대장균 크기의 편차 구하기, 부모의 형질을 모두 가지는 대장균 찾기, 대장균들의 자식의 수 구하기, 대장균의 크기에 따라 분류하기 1, 대장균의 크기에 따라 분류하기 2, 특정 세대의 대장균 찾기, 멸종위기의 대장균 찾기</td>
     <td align="center">0</td>
   </tr>
     <tr>
