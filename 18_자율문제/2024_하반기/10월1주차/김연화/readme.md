@@ -63,9 +63,9 @@
    
    <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241003 11시 24분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">회전초밥</td>
     <td align="center"></td>
   </tr>
   <tr>
@@ -78,14 +78,14 @@
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">월</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
