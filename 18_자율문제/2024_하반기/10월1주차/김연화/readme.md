@@ -70,9 +70,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241004 9시 53분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">지뢰찾기</td>
     <td align="center"></td>
   </tr>
   <tr>
