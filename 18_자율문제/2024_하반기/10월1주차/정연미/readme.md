@@ -110,8 +110,8 @@
   <tr>
     <td align="center">토</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">1141</td>
     <td align="center"></td>
   </tr>
   <tr>
