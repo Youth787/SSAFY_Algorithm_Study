@@ -126,22 +126,22 @@
     <tr>
     <td align="center">토</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
    <tr>
     <td align="center">일</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-10-07 01:33</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">가장 긴 팰린드롬</td>
     <td align="center">0</td>
   </tr>
   <tr>
