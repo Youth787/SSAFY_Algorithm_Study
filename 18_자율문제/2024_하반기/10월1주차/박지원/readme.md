@@ -43,7 +43,7 @@
     <td align="center">✅</td>
     <td align="center">LV 3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">양과 늑</td>
+    <td align="center">양과 늑대</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">바로가기</a></td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@
     <td align="center">✅</td>
     <td align="center">SQL LV 3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">부모의 형질을 모두 가지는 대장균 찾</td>
+    <td align="center">부모의 형질을 모두 가지는 대장균 찾기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/301647">바로가기</a></td>
   </tr>
 </table>
@@ -87,6 +87,13 @@
     <td align="center">2024-10-05 토 15:06</td>
     <td align="center">✅</td>
     <td align="center">치즈</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2024-10-06 일 09:57</td>
+    <td align="center">✅</td>
+    <td align="center">피보나치 수 6</td>
     <td align="center">-</td>
   </tr>
 </table>
