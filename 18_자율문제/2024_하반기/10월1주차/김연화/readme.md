@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241007 10시 57분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">N으로 표현</td>
     <td align="center"></td>
   </tr>
    <tr>
