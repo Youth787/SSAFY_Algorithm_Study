@@ -96,4 +96,11 @@
     <td align="center">피보나치 수 6</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2024-10-08 화 08:45</td>
+    <td align="center">✅</td>
+    <td align="center">부모의 형질을 모두 가지는 대장균 찾기</td>
+    <td align="center">-</td>
+  </tr>
 </table>
