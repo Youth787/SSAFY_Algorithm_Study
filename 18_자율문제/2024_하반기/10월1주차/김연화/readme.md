@@ -98,9 +98,9 @@
   </tr>
    <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241008 2시 48분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">연속 펄스 부분 수열의 합</td>
     <td align="center"></td>
   </tr>
 </table>
