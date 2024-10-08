@@ -35,7 +35,7 @@
     <td align="center">✅</td>
     <td align="center">LV3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">셔틀버스</td>
+    <td align="center">1차 셔틀버스</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678">바로가기</a></td>
   </tr>
   <tr>
@@ -153,9 +153,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-10-09 12:56</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">순위, 1차 셔틀버스</td>
     <td align="center">0</td>
   </tr>
 </table>
