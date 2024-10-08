@@ -137,9 +137,9 @@
   </tr>
    <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">17:00</td>
+    <td align="center">✅</td>
+    <td align="center">1789,2573</td>
     <td align="center"></td>
   </tr>
 </table>
