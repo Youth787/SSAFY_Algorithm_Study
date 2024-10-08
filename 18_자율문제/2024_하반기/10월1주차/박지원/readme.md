@@ -103,4 +103,11 @@
     <td align="center">부모의 형질을 모두 가지는 대장균 찾기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2024-10-08 화 17:10</td>
+    <td align="center">✅</td>
+    <td align="center">양과 늑대</td>
+    <td align="center">-</td>
+  </tr>
 </table>
