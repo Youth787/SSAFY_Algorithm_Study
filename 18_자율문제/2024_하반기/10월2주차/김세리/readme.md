@@ -190,9 +190,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center"></td>
+    <td align="center">2024-10-11 01:41</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">가장비싼상품구하기,카테고리별상품개수구하기, 상품별오프라인매출구하기, 가격대별상품개수구하기, 재구매가일어난상품과회원리스트구하기, 년월성별별상품구매회원수구하기, 상품을구매한회원비율구하기, 우유와요거트가담긴장바구니</td>
     <td align="center">0</td>
   </tr>
     <tr>
