@@ -70,9 +70,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-10-10 목 20:53</td>
+    <td align="center">✅</td>
+    <td align="center">거짓말</td>
     <td align="center">-</td>
   </tr>
 </table>
