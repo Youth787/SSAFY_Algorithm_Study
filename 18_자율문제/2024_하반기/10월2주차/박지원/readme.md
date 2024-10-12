@@ -75,4 +75,18 @@
     <td align="center">거짓말</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2024-10-12 토 </td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
 </table>
