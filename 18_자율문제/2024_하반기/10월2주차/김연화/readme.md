@@ -77,9 +77,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241012 7시 12분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">토마토</td>
     <td align="center"></td>
   </tr>
   <tr>
