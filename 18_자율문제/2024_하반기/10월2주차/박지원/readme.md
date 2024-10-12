@@ -84,9 +84,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center">2024-10-12 토 </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-10-12 토 13:55</td>
+    <td align="center">✅</td>
+    <td align="center">징검다리 건너기</td>
     <td align="center">-</td>
   </tr>
 </table>
