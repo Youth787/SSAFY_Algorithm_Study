@@ -84,9 +84,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241013 10시 35분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">하노이탑이동순서</td>
     <td align="center"></td>
   </tr>
   <tr>
