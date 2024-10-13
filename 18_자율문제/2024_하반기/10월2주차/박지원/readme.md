@@ -89,4 +89,11 @@
     <td align="center">징검다리 건너기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2024-10-13 일 11:15</td>
+    <td align="center">✅</td>
+    <td align="center">알파벳</td>
+    <td align="center">-</td>
+  </tr>
 </table>
