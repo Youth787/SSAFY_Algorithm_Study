@@ -218,9 +218,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
+    <td align="center">2024-10-14 23:52</td>
     <td align="center"></td>
-    <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">즐겨찾기가가장많은식당정보출력하기, Python개발자찾기, 자동차대여기록별대여금액구하기, 대여횟수가많은자동차들의월별대여횟수구하기, 입양시각구하기2</td>
     <td align="center">0</td>
   </tr>
   <tr>
