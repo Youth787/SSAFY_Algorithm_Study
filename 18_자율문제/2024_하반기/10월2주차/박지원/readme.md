@@ -96,4 +96,11 @@
     <td align="center">알파벳</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2024-10-14 월 10:45</td>
+    <td align="center">✅</td>
+    <td align="center">불량 사용자</td>
+    <td align="center">-</td>
+  </tr>
 </table>
