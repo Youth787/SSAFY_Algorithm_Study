@@ -225,9 +225,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
+    <td align="center">2024-10-16 01:09</td>
     <td align="center"></td>
-    <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">bj 1655번 가운데를 말해요</td>
     <td align="center">0</td>
   </tr>
 </table>
