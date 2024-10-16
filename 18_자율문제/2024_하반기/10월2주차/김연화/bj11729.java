@@ -5,9 +5,9 @@ public class Main {
 	public static StringBuilder sb = new StringBuilder();
  
 	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
  
-		int N = in.nextInt();
+		int N = sc.nextInt();
  
 		sb.append((int) (Math.pow(2, N) - 1)).append('\n');
  
