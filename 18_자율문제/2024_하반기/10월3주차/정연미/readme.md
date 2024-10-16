@@ -17,13 +17,21 @@
    <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
+    <td align="center">1701</td>
+    <td align="center">Cubeditor</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1701">바로가기</a></td>
+  </tr>
+   <tr>
+    <td align="center">02</td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">22866</td>
     <td align="center">탑 보기</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/22866">바로가기</a></td>
   </tr>
    <tr>
-    <td align="center">02</td>
+    <td align="center">03</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">20210</td>
@@ -31,20 +39,12 @@
     <td align="center"><a href="https://www.acmicpc.net/problem/20210">바로가기</a></td>
   </tr>
      <tr>
-    <td align="center">03</td>
+    <td align="center">04</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">1253</td>
     <td align="center">좋다</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1253">바로가기</a></td>
-  </tr>
-   <tr>
-    <td align="center">04</td>
-    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1976</td>
-    <td align="center">여행가자</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1976">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">05</td>
