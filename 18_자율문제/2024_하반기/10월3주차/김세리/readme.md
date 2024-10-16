@@ -14,37 +14,37 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-   <tr>
+ <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Lv2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">전력망을 둘로 나누기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/86971">바로가기</a></td>
   </tr>
-     <tr>
+    <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">조이스틱</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860">바로가기</a></td>
   </tr>
-   <tr>
+    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">이중우선순위큐</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Lv4</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">징검다리</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43236">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
@@ -60,46 +60,46 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">면제권</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center">0</td>
+  </tr>
     <tr>
-    <td align="center">목</td>
+    <td align="center">토</td>
+    <td align="center">면제권</td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
    <tr>
-    <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
     <td align="center">일</td>
+    <td align="center">면제권</td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
+    <td align="center">0</td>
+  </tr>
+  <tr>
+    <td align="center">수</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
+    <td align="center">0</td>
   </tr>
 </table>
