@@ -25,10 +25,10 @@
    <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">20166</td>
-    <td align="center">문자열 지옥에 빠진 호석</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/20166">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">20210</td>
+    <td align="center">파일 탐색기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/20210">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">03</td>
