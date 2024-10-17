@@ -62,9 +62,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
+    <td align="center">2024-10-17 23:16</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">전력망을둘로나누기, 이중우선순위큐</td>
     <td align="center">0</td>
   </tr>
     <tr>
