@@ -70,9 +70,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center"></td>
+    <td align="center">2024-10-17 목 23:04</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">내려가기</td>
     <td align="center">-</td>
   </tr>
 
