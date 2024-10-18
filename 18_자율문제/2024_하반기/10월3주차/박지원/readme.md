@@ -75,5 +75,19 @@
     <td align="center">내려가기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-10-18 금 17:48</td>
+    <td align="center">✅</td>
+    <td align="center">디스크 컨트롤러</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
 
 </table>
