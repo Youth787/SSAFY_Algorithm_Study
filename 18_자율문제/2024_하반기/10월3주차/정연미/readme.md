@@ -94,14 +94,14 @@
   </tr>
    <tr>
     <td align="center">금</td>
-    <td align="center">17일 1:30</td>
+    <td align="center">목 1:30</td>
     <td align="center">✅</td>
     <td align="center">22866</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">18일 19:00</td>
+    <td align="center">금 19:00</td>
     <td align="center">✅</td>
     <td align="center">20210,1253</td>
     <td align="center"></td>
