@@ -103,7 +103,7 @@
     <td align="center">토</td>
     <td align="center">18일 19:00</td>
     <td align="center">✅</td>
-    <td align="center">20210</td>
+    <td align="center">20210,1253</td>
     <td align="center"></td>
   </tr>
   <tr>
