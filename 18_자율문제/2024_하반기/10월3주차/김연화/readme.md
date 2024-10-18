@@ -70,9 +70,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241018 8시 42분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">오큰수</td>
     <td align="center"></td>
   </tr>
   <tr>
