@@ -94,7 +94,7 @@
   </tr>
    <tr>
     <td align="center">금</td>
-    <td align="center">17일 1:30am</td>
+    <td align="center">17일 1:30</td>
     <td align="center">✅</td>
     <td align="center">22866</td>
     <td align="center"></td>
