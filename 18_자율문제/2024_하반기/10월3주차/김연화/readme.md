@@ -77,9 +77,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241019 9시 46분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">탑</td>
     <td align="center"></td>
   </tr>
   <tr>
