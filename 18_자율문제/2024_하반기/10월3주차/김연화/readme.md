@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241021 7시 4분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">전화번호 목록</td>
     <td align="center"></td>
   </tr>
       <tr>
