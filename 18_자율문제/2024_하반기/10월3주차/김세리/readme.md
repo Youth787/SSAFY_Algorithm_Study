@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2024-10-21 23:49</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">조이스틱</td>
     <td align="center">0</td>
   </tr>
   <tr>
