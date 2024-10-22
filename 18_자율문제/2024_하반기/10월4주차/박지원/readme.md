@@ -32,6 +32,7 @@
   </tr>
   <tr>
     <td align="center">03</td>
+    <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">14938</td>
     <td align="center">서강그라운드</td>
