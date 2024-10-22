@@ -98,9 +98,9 @@
   </tr>
       <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241022 10시 34분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">게임 맵 최단거리</td>
     <td align="center"></td>
   </tr>
 </table>
