@@ -97,9 +97,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-10-22 12:03</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">징검다리</td>
     <td align="center">0</td>
   </tr>
 </table>
