@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">2024-10-22 화 18:07</td>
+    <td align="center">2024-10-22 화 18:30</td>
     <td align="center">✅</td>
-    <td align="center">미로탈출명령어</td>
+    <td align="center">미로 탈출 명령어, 이진 검색 트리</td>
     <td align="center">-</td>
   </tr>
 
