@@ -16,35 +16,35 @@
   </tr>
    <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">1759</td>
+    <td align="center">암호 만들기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1759">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">1018</td>
+    <td align="center">체스판 다시 칠하기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1018">바로가기</a></td>
   </tr>
    <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">호텔 대실</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651">바로가기</a></td>
   </tr>
-  <tr>
+    <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV1</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">공원 산책</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/172928">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
@@ -60,13 +60,7 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-    <tr>
-    <td align="center">목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
+    
    <tr>
     <td align="center">금</td>
     <td align="center"></td>
@@ -97,6 +91,13 @@
   </tr>
   <tr>
     <td align="center">화</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">수</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
