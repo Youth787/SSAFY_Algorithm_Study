@@ -4,14 +4,14 @@ import java.util.Stack;
 public class Main {
 	public static void main(String[] args) {
 		
-		Scanner in = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		Stack<Integer> stack = new Stack<Integer>();
 		
-		int N = in.nextInt();
+		int N = sc.nextInt();
 		int[] seq = new int[N];
 		
 		for(int i = 0; i < N; i++) {
-			seq[i] = in.nextInt();
+			seq[i] = sc.nextInt();
 		}
  
  
@@ -31,7 +31,7 @@ public class Main {
 		}
 		
 		/*
-		 * 스택의 모든 원소를 pop하면서 해당 인덱스의 value를
+		 * 스택의 모든 원소를 pop하면서 해당 인덱스의 값을
 		 * -1로 초기화한다.
 		 */
 		while(!stack.isEmpty()) {
