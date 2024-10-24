@@ -85,10 +85,17 @@
     <td align="center">벌금</td>
   </tr>
   <tr>
-    <td align="center">금</td>
+    <td align="center">목</td>
     <td align="center">2024-10-23 15:57</td>
     <td align="center">✅</td>
     <td align="center">디스크 컨트롤러</td>
+    <td align="center">0</td>
+  </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-10-24 13:11</td>
+    <td align="center">✅</td>
+    <td align="center">카펫, 줄 서는 방법</td>
     <td align="center">0</td>
   </tr>
     <tr>
