@@ -63,15 +63,15 @@
     
    <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241024 10시 17분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">암호 만들기</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">토</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
