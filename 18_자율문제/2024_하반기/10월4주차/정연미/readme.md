@@ -21,7 +21,7 @@
     <td align="center">16724</td>
     <td align="center">피리 부는 사나이
 </td>
-    <td align="center"><a href="\https://www.acmicpc.net/problem/16724">바로가기</a></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/16724">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">02</td>
