@@ -76,6 +76,12 @@
     <td align="center">A -> B</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-10-24 목 17:57</td>
+    <td align="center">✅</td>
+    <td align="center">미세먼지 안녕!</td>
+    <td align="center">-</td>
+  </tr>
 
 </table>
