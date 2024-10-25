@@ -100,9 +100,9 @@
   </tr>
     <tr>
     <td align="center">토</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-10-25 12:43</td>
+    <td align="center">✅</td>
+    <td align="center">하노이 탑 이동 순서</td>
     <td align="center">0</td>
   </tr>
    <tr>
