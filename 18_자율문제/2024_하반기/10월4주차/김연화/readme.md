@@ -77,9 +77,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241026 9시 5분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">체스판 다시 칠하기</td>
     <td align="center"></td>
   </tr>
   <tr>
