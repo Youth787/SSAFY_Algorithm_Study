@@ -84,9 +84,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241027 8시 22분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">호텔 대실</td>
     <td align="center"></td>
   </tr>
   <tr>
