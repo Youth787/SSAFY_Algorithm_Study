@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241028 4시 11분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">공원 산책</td>
     <td align="center"></td>
   </tr>
   <tr>
