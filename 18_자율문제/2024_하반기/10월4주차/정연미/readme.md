@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">9466</td>
+    <td align="center">텀프로젝트</td>
     <td align="center"></td>
   </tr>
 </table>
