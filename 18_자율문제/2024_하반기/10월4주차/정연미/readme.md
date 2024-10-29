@@ -96,4 +96,11 @@
     <td align="center">텀프로젝트</td>
     <td align="center"></td>
   </tr>
+   <tr>
+    <td align="center">수</td>
+    <td align="center">✅</td>
+    <td align="center">bj16724</td>
+    <td align="center">피리 부는 사나이</td>
+    <td align="center"></td>
+  </tr>
 </table>
