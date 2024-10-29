@@ -118,4 +118,11 @@
     <td align="center">서강그라운드</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2024-10-29 화 17:39</td>
+    <td align="center">✅</td>
+    <td align="center">베스트앨범</td>
+    <td align="center">-</td>
+  </tr>
 </table>
