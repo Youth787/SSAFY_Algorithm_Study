@@ -128,9 +128,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-10-29 18:14</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">이진 검색 트리, 오큰수, 파일탐색기</td>
     <td align="center">0</td>
   </tr>
 </table>
