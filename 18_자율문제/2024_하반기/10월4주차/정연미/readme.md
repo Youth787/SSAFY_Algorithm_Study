@@ -100,7 +100,7 @@
     <td align="center">수</td>
     <td align="center">✅</td>
     <td align="center">bj16724</td>
-    <td align="center">피리 부는 사나이</td>
+    <td align="center">피리 부는 사나이,할로윈의 양아치</td>
     <td align="center"></td>
   </tr>
 </table>
