@@ -62,9 +62,9 @@
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">Readme 제출</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-10-30 12:44</td>
+    <td align="center">✅</td>
+    <td align="center">암호 만들기</td>
     <td align="center">0</td>
   </tr>
   <tr>
