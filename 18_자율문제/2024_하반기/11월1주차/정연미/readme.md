@@ -48,7 +48,7 @@
   </tr>
    <tr>
     <td align="center">05</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">1148</td>
     <td align="center">단어 만들기</td>
