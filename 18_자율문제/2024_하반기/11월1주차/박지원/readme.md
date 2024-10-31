@@ -75,4 +75,11 @@
     <td align="center">문자열 폭발</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-10-31 목 15:37</td>
+    <td align="center">✅</td>
+    <td align="center">야근 지수</td>
+    <td align="center">-</td>
+  </tr>
 </table>
