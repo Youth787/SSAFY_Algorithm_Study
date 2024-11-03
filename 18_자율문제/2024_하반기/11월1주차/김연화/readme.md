@@ -83,9 +83,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241103 9시 53분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">계단 오르기</td>
     <td align="center"></td>
   </tr>
   <tr>
