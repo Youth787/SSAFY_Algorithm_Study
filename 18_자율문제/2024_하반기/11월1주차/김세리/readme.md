@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center">면제권</td>
+    <td align="center">2024-11-03 22:28</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">빙산</td>
     <td align="center">0</td>
   </tr>
   <tr>
