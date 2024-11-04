@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241104 11시 31분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">퇴사 2</td>
     <td align="center"></td>
   </tr>
     <tr>
