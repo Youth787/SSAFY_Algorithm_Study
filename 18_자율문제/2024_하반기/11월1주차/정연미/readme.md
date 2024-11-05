@@ -109,12 +109,18 @@
   </tr>
   <tr>
     <td align="center">월</td>
+    <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">암호</td>
     <td align="center">1394</td>
     <td align="center"></td>
   </tr>
-  
+   <tr>
+    <td align="center">화</td>
+    <td align="center"></td>
+    <td align="center">✅</td>
+    <td align="center">1414</td>
+    <td align="center"></td>
+  </tr>
   <tr>
     <td align="center">수</td>
     <td align="center">20:00</td>
