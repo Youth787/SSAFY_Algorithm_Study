@@ -114,11 +114,12 @@
     <td align="center">1394</td>
     <td align="center"></td>
   </tr>
+  
   <tr>
-    <td align="center">화</td>
-    <td align="center">21:00</td>
+    <td align="center">수</td>
+    <td align="center">20:00</td>
     <td align="center">✅</td>
-    <td align="center">불우이웃돕기</td>
+    <td align="center">16934,1375</td>
     <td align="center"></td>
   </tr>
 </table>
