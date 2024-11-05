@@ -104,9 +104,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">2024-11-05 17:04</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">미세먼지 안녕!</td>
     <td align="center">0</td>
   </tr>
 </table>
