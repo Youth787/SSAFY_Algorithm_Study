@@ -97,9 +97,9 @@
   </tr>
     <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241105 11시 4분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">평범한 배낭</td>
     <td align="center"></td>
   </tr>
 </table>
