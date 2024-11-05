@@ -105,9 +105,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">2024-11-05 화 13:37</td>
+    <td align="center">2024-11-05 화 13:37, 16:30</td>
     <td align="center">✅</td>
-    <td align="center">사전 순 최대 공통 부분 수열</td>
+    <td align="center">사전 순 최대 공통 부분 수열, 숫자 게임</td>
     <td align="center">-</td>
   </tr>
 </table>
