@@ -69,9 +69,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
+    <td align="center">2024-11-07 16:28</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">퇴사2</td>
     <td align="center">0</td>
   </tr>
     <tr>
