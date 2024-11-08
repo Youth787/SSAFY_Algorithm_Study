@@ -69,9 +69,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241108 12시 12분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">오르막 수</td>
     <td align="center"></td>
   </tr>
   <tr>
