@@ -76,9 +76,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241109 12시 47분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">동전 2</td>
     <td align="center"></td>
   </tr>
   <tr>
