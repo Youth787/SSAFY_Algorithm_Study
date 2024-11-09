@@ -82,4 +82,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2024-11-09 토 21:50</td>
+    <td align="center">✅</td>
+    <td align="center">숨바꼭질2</td>
+    <td align="center">-</td>
+  </tr>
 </table>
