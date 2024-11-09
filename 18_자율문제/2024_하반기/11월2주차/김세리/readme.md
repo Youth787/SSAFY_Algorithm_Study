@@ -83,9 +83,9 @@
   </tr>
    <tr>
     <td align="center">일</td>
-    <td align="center">면제권</td>
+    <td align="center">2024-11-10 12:28</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">회의실배정(그리디_최적, dp+이분탐색 두 가지 방식)</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
