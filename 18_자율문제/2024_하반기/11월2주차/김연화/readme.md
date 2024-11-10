@@ -35,7 +35,7 @@
   <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
     <td align="center">1520</td>
-    <td align="center">내리막 </td>
+    <td align="center">내리막 길</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1520">바로가기</a></td>
   </tr>
   <tr>
@@ -83,15 +83,15 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241110 4시 13분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">내리막 길</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
