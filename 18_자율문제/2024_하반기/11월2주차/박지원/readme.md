@@ -89,4 +89,11 @@
     <td align="center">숨바꼭질2</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2024-11-10 일 22:22</td>
+    <td align="center">✅</td>
+    <td align="center">Σ</td>
+    <td align="center">-</td>
+  </tr>
 </table>
