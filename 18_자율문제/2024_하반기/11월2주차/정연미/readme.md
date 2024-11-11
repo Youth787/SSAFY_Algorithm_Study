@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">5:00</td>
+    <td align="center">✅</td>
+    <td align="center">11049</td>
     <td align="center"></td>
   </tr>
 </table>
