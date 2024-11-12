@@ -103,4 +103,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2024-11-12 화 16:42</td>
+    <td align="center">✅</td>
+    <td align="center">스티커 모으기(2)</td>
+    <td align="center">-</td>
+  </tr>
 </table>
