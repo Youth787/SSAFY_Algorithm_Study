@@ -97,16 +97,16 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">2024-11-12 16:44</td>
-    <td align="center">✅</td>
-    <td align="center">피리부는 사나이</td>
+    <td align="center">면제권</td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-11-12 16:44</td>
+    <td align="center">✅</td>
+    <td align="center">피리부는 사나이</td>
     <td align="center">0</td>
   </tr>
 </table>
