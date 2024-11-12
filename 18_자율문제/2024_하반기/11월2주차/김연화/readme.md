@@ -97,9 +97,9 @@
   </tr>
     <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241112 8시 22분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">전깃줄</td>
     <td align="center"></td>
   </tr>
 </table>
