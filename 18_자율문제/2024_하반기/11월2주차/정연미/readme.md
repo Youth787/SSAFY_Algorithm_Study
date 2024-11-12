@@ -95,4 +95,11 @@
     <td align="center">11049</td>
     <td align="center"></td>
   </tr>
+    <tr>
+    <td align="center">수</td>
+    <td align="center">17:00</td>
+    <td align="center">✅</td>
+    <td align="center">1766</td>
+    <td align="center"></td>
+  </tr>
 </table>
