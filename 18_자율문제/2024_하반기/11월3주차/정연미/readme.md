@@ -46,6 +46,14 @@
     <td align="center">강의실 2</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1379">바로가기</a></td>
   </tr>
+  <tr>
+    <td align="center">05</td>
+   <td align="center"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">1374</td>
+    <td align="center">강의실</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1374">바로가기</a></td>
+  </tr>
 </table>
 <br/><br/>
 
