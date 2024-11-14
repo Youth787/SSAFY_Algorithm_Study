@@ -59,4 +59,11 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-11-14 목 17:32</td>
+    <td align="center">✅</td>
+    <td align="center">가장 긴 바이토닉 부분 수열</td>
+    <td align="center">벌금</td>
+  </tr>
 </table>
