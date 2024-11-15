@@ -70,9 +70,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241115 11시 7분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">음악프로그램</td>
     <td align="center"></td>
   </tr>
   <tr>
