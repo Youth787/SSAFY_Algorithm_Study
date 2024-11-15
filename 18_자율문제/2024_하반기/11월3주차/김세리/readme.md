@@ -78,9 +78,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-11-16 12:49</td>
+    <td align="center">✅</td>
+    <td align="center">음악 프로그램</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
