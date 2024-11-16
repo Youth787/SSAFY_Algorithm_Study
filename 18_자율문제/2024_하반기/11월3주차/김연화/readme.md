@@ -77,9 +77,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241116 10시 49분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">순회강연</td>
     <td align="center"></td>
   </tr>
   <tr>
