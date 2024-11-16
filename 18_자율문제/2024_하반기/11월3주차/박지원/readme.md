@@ -66,4 +66,18 @@
     <td align="center">가장 긴 바이토닉 부분 수열</td>
     <td align="center">벌금</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">면제</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">면제</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
 </table>
