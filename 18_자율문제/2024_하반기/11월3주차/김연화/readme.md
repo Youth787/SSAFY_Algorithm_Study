@@ -84,9 +84,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241117 10시 41분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">컵라면</td>
     <td align="center"></td>
   </tr>
   <tr>
