@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241118 9시 51분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">강의실 2</td>
     <td align="center"></td>
   </tr>
 </table>
