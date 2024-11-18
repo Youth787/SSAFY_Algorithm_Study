@@ -25,18 +25,18 @@
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">10830</td>
-    <td align="center">행렬 제곱</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/10830">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">1309</td>
+    <td align="center">동물원</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1309">바로가기</a></td>
   </tr>
     <tr>
     <td align="center">03</td>
     <td align="center">✅</td>
-    <td align="center">LV 3</td>
-    <td align="center">프로그래머스</td>
-    <td align="center">합승 택시 요금</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
+    <td align="center">1058</td>
+    <td align="center">친</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1058">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
