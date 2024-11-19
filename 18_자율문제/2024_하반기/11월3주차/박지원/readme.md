@@ -94,4 +94,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2024-11-19 화 17:55</td>
+    <td align="center">✅</td>
+    <td align="center">셔틀버스</td>
+    <td align="center">벌금</td>
+  </tr>
 </table>
