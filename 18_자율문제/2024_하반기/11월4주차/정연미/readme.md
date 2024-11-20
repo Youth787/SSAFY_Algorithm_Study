@@ -15,36 +15,44 @@
     <td align="center">문제 링크</td>
   </tr>
    <tr>
+    <td align="center">03</td>
+  <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
+    <td align="center">1781</td>
+    <td align="center">컵라면</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1781">바로가기</a></td>
+  </tr>
+   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">2623</td>
+    <td align="center">음악프로그램 </td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2623">바로가기</a></td>
   </tr>
      <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/">바로가기</a></td>
-  </tr>
-   <tr>
-    <td align="center">03</td>
-  <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">2109</td>
+    <td align="center">순회강연</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/2109">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
    <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center">1379</td>
+    <td align="center">강의실 2</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1379">바로가기</a></td>
+  </tr>
+  <tr>
+    <td align="center">05</td>
+   <td align="center"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center">1374</td>
+    <td align="center">강의실</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1374">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
@@ -64,21 +72,21 @@
     <td align="center">금</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">토</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">일</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">면제</td>
     <td align="center"></td>
   </tr>
   <tr>
