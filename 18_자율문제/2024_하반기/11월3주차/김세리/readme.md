@@ -106,9 +106,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-11-21 02:07</td>
+    <td align="center">✅</td>
+    <td align="center">컵라면, 강의실2</td>
     <td align="center">0</td>
   </tr>
 </table>
