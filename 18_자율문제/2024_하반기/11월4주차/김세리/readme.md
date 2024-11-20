@@ -43,7 +43,7 @@
     <td align="center">✅</td>
     <td align="center">LV 3</td>
     <td align="center">60059</td>
-    <td align="center">자물쇠와 열</td>
+    <td align="center">자물쇠와 열쇠</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60059">바로가기</a></td>
   </tr>
 </table>
