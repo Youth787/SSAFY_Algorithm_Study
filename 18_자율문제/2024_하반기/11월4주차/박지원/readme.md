@@ -25,7 +25,7 @@
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">1806</td>
     <td align="center">부분합</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1806">바로가기</a></td>
