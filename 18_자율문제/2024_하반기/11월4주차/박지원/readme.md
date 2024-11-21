@@ -59,4 +59,11 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-11-21 목 15:04</td>
+    <td align="center">✅</td>
+    <td align="center">행렬 제곱</td>
+    <td align="center">-</td>
+  </tr>
 </table>
