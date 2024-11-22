@@ -66,4 +66,25 @@
     <td align="center">행렬 제곱</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-11-22 금 20:23</td>
+    <td align="center">✅</td>
+    <td align="center">부분합</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">면제</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">면제</td>
+    <td align="center">-</td>
+  </tr>
 </table>
