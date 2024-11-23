@@ -76,9 +76,9 @@
   </tr>
   <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241123 11시 16분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">단축키 지정</td>
     <td align="center"></td>
   </tr>
   <tr>
