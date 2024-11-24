@@ -83,9 +83,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241124 9시 45분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">달력</td>
     <td align="center"></td>
   </tr>
   <tr>
