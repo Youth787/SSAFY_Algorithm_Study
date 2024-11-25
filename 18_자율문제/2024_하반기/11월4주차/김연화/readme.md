@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241125 9시 20분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">사다리 타기</td>
     <td align="center"></td>
   </tr>
 </table>
