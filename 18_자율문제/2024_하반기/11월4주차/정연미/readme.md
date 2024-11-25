@@ -93,7 +93,7 @@
     <td align="center">월</td>
     <td align="center">8:45</td>
     <td align="center">✅</td>
-    <td align="center">1379</td>
+    <td align="center">1379,2623</td>
     <td align="center"></td>
   </tr>
   <tr>
