@@ -97,7 +97,7 @@
   <tr>
     <td align="center">수</td>
     <td align="center">2024-11-26 화 11:57</td>
-    <td align="center">✅</tr>
+    <td align="center">✅</td>
     <td align="center">자물쇠와 열쇠, 가장 긴 팰린드롬</td>
     <td align="center">-</td>
   </tr>
