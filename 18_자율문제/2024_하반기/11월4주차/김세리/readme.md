@@ -97,9 +97,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-11-27 12:43</td>
+    <td align="center">✅</td>
+    <td align="center">사다리타기, 자물쇠와 열쇠</td>
     <td align="center">0</td>
   </tr>
 </table>
