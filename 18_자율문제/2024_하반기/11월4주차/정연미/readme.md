@@ -93,14 +93,21 @@
     <td align="center">월</td>
     <td align="center">8:45</td>
     <td align="center">✅</td>
-    <td align="center">1379,2623</td>
+    <td align="center">1379</td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center">화</td>
+    <td align="center">✅</td>
     <td align="center"></td>
+    <td align="center">2623</td>
     <td align="center"></td>
-    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">✅</td>
+    <td align="center">23:50</td>
+    <td align="center">2109</td>
     <td align="center"></td>
   </tr>
 </table>
