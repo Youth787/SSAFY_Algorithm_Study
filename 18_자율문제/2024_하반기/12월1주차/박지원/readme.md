@@ -59,4 +59,11 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+    <tr>
+    <td align="center">금</td>
+    <td align="center">2024-11-28 목 21:13</td>
+    <td align="center">✅</td>
+    <td align="center">퍼즐 게임 챌린지</td>
+    <td align="center">-</td>
+  </tr>
 </table>
