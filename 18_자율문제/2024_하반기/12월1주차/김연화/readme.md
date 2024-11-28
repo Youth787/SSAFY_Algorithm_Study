@@ -62,9 +62,9 @@
   </tr>
    <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241128 9시 50분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">랜선자르기</td>
     <td align="center"></td>
   </tr>
   <tr>
