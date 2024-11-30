@@ -66,4 +66,18 @@
     <td align="center">퍼즐 게임 챌린지</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">토</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+    <tr>
+    <td align="center">일</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
 </table>
