@@ -83,9 +83,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">7:00</td>
+    <td align="center">✅</td>
+    <td align="center">3020</td>
     <td align="center"></td>
   </tr>
   <tr>
