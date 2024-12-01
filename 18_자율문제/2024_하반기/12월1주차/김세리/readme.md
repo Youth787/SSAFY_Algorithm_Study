@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-12-02 01:46</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">강의실</td>
     <td align="center">0</td>
   </tr>
   <tr>
