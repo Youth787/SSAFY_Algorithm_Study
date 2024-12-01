@@ -83,9 +83,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241201 10시 53분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">입국심사</td>
     <td align="center"></td>
   </tr>
   <tr>
