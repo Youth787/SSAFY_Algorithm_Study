@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">241202 11시 27분 PM</td>
+    <td align="center">✅</td>
+    <td align="center">공유기 설치</td>
     <td align="center"></td>
   </tr>
 </table>
