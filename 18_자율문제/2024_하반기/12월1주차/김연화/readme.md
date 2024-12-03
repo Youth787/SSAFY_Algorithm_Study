@@ -95,4 +95,11 @@
     <td align="center">공유기 설치</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">241204 3시 39분 AM</td>
+    <td align="center">✅</td>
+    <td align="center">개똥벌레</td>
+    <td align="center"></td>
+  </tr>
 </table>
