@@ -13,7 +13,7 @@
     <td align="center">문제 번호</td>
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
-  </tr>a
+  </tr>
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
