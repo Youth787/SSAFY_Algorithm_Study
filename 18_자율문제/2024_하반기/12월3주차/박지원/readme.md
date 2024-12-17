@@ -66,4 +66,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2024-12-17 화 17:31</td>
+    <td align="center">✅</td>
+    <td align="center">용액</td>
+    <td align="center">-</td>
+  </tr>
 </table>
