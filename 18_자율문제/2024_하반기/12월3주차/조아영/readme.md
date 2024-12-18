@@ -75,9 +75,9 @@
   </tr>
     <tr>
     <td align="center">목</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-12-19 1:25AM</td>
+    <td align="center">✅</td>
+    <td align="center">숨바꼭질</td>
     <td align="center"></td>
   </tr>
     <tr>
