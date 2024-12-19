@@ -77,14 +77,14 @@
     <td align="center">목</td>
     <td align="center">2024-12-19 1:25AM</td>
     <td align="center">✅</td>
-    <td align="center">숨바꼭질</td>
+    <td align="center">숨바꼭질1</td>
     <td align="center"></td>
   </tr>
     <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-12-20 2:38AM</td>
+    <td align="center">✅</td>
+    <td align="center">숨바꼭질2</td>
     <td align="center"></td>
   </tr>
     <tr>
