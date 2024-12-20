@@ -121,9 +121,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">2024-12-21 01:47</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">말이 되고픈 원숭이, 개똥벌레</td>
     <td align="center">0</td>
   </tr>
     <tr>
