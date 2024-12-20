@@ -94,4 +94,11 @@
     <td align="center">광물 캐기</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">일</td>
+    <td align="center">2024-12-20 금 17:42</td>
+    <td align="center">✅</td>
+    <td align="center">표현가능한 이진트리</td>
+    <td align="center">-</td>
+  </tr>
 </table>
