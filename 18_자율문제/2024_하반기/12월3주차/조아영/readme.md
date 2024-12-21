@@ -96,9 +96,9 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-12-22 1:46AM</td>
+    <td align="center">✅</td>
+    <td align="center">숨바꼭질3</td>
     <td align="center"></td>
   </tr>
 </table>
