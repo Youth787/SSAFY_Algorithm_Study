@@ -101,4 +101,11 @@
     <td align="center">숨바꼭질3</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2024-12-23 2:31AM</td>
+    <td align="center">✅</td>
+    <td align="center">숨바꼭질4</td>
+    <td align="center"></td>
+  </tr>
 </table>
