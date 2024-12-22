@@ -14,41 +14,64 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">9252</td>
+    <td align="center">LCS 2</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/9252">바로가기</a></td>
   </tr>
-     <tr>
+  <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/">바로가기</a></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">10942</td>
+    <td align="center">팰린드롬?</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/10942">바로가기</a></td>
   </tr>
-   <tr>
+    <tr>
     <td align="center">03</td>
-  <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV 2</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">혼자서 하는 틱택토</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/160585?language=java">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-   <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
+    <td align="center">✅</td>
+    <td align="center">SQL</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">서울에 위치한 식당 목록 출력하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131118">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">05</td>
     <td align="center"></td>
+    <td align="center">SQL</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">언어별 개발자 분류하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/276036">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">06</td>
     <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/">바로가기</a></td>
+    <td align="center">SQL</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">서울에 위치한 식당 목록 출력하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131118">바로가기</a></td>
+  </tr>
+    <tr>
+    <td align="center">07</td>
+    <td align="center"></td>
+    <td align="center">SQL</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">노선별 평균 역 사이 거리 조회하기</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/284531">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
-
 
 <br>
 
@@ -60,39 +83,11 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-   <tr>
-    <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
   <tr>
     <td align="center">화</td>
+    <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">-</td>
   </tr>
 </table>
