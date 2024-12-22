@@ -102,10 +102,17 @@
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">월</td>
+    <td align="center">일</td>
     <td align="center">2024-12-21 토 19:42</td>
     <td align="center">✅</td>
     <td align="center">합승 택시 요금(실패코드)</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2024-12-23 월 08:43</td>
+    <td align="center">✅</td>
+    <td align="center">합승 택시 요금</td>
     <td align="center">-</td>
   </tr>
 </table>
