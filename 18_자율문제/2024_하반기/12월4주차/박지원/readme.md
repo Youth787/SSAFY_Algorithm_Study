@@ -84,7 +84,22 @@
     <td align="center">벌금</td>
   </tr>
   <tr>
-    <td align="center">화</td>
+    <td align="center">수</td>
+    <td align="center">2024-12-24 화 16:27</td>
+    <td align="center">✅</td>
+    <td align="center">혼자서 하는 틱택토</td>
+    <td align="center">-</td>
+  </tr>
+    <tr>
+    <td align="center">목</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+  </tr>
+    <tr>
+    <td align="center">금</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
