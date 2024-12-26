@@ -66,18 +66,40 @@
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">12/26</td>
     <td align="center"></td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">12/27</td>
+    <td align="center"></td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">12/28</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center">12/29</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">12/30</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  
 </table>
