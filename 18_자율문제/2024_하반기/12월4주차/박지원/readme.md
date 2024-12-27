@@ -105,4 +105,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-12-27 금 22:35</td>
+    <td align="center">✅</td>
+    <td align="center">LCS2</td>
+    <td align="center">-</td>
+  </tr>
 </table>
