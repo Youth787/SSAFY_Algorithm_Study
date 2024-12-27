@@ -82,9 +82,9 @@
   </tr>
     <tr>
     <td align="center">12/28</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-12-28 AM2:22</td>
+    <td align="center">✅</td>
+    <td align="center">직사각형 네개의 합집합의 면적 구하기</td>
     <td align="center"></td>
   </tr>
   <tr>
