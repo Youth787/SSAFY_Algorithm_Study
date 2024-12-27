@@ -112,4 +112,11 @@
     <td align="center">LCS2</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">일</td>
+    <td align="center">2024-12-27 금 23:00</td>
+    <td align="center">✅</td>
+    <td align="center">서울에 위치한 식당 목록 출력하기</td>
+    <td align="center">-</td>
+  </tr>
 </table>
