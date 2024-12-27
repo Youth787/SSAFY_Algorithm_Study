@@ -1,6 +1,5 @@
 //백준 LCS2 자바
 //DP
-
 import java.util.*;
 import java.io.*;
 
@@ -24,8 +23,8 @@ public class Main {
             } else if (dp[len1][len2] == dp[len1 - 1][len2]) len1--;
             else if (dp[len1][len2] == dp[len1][len2 - 1]) len2--;
         }
-        if (answer == 0) return;
         System.out.println(answer);
+        if (answer == 0) return;
         System.out.println(sb.toString());
     }
     private static int getLength() {
