@@ -130,9 +130,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">2024-12-28 12:48</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">나의 인생에는 수학과 함께</td>
     <td align="center">0</td>
   </tr>
     <tr>
