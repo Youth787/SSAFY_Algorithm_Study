@@ -139,7 +139,7 @@
     <td align="center">일</td>
     <td align="center">2024-12-29 12:12</td>
     <td align="center">✅</td>
-    <td align="center">트리와 쿼리 민서의 응급수술</td>
+    <td align="center">트리와 쿼리, 민서의 응급수술</td>
     <td align="center">0</td>
   </tr>
   <tr>
