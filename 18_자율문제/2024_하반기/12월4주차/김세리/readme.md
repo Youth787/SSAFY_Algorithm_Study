@@ -35,7 +35,7 @@
   <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">20955</td>
-    <td align="center">민서의 응급 수</td>
+    <td align="center">민서의 응급 수술</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/20955">바로가기</a></td>
   </tr>
   <tr>
@@ -137,9 +137,9 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center">2024-12-28 23:19</td>
+    <td align="center">2024-12-29 12:12</td>
     <td align="center">✅</td>
-    <td align="center">트리와 쿼리</td>
+    <td align="center">트리와 쿼리 민서의 응급수술</td>
     <td align="center">0</td>
   </tr>
   <tr>
