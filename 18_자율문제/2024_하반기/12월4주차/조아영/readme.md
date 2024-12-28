@@ -89,9 +89,9 @@
   </tr>
   <tr>
     <td align="center">12/29</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-12-29 AM1:03</td>
+    <td align="center">✅</td>
+    <td align="center">색종이</td>
     <td align="center"></td>
   </tr>
   <tr>
