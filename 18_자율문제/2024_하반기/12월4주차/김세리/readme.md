@@ -137,9 +137,9 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">2024-12-28 23:19</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">트리와 쿼리</td>
     <td align="center">0</td>
   </tr>
   <tr>
