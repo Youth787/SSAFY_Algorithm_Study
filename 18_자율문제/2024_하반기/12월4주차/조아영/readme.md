@@ -35,7 +35,7 @@
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">2628</td>
-    <td align="center">빙고</td>
+    <td align="center">종이자르기기</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/2628">바로가기</a></td>
   </tr>
   <tr>
@@ -96,9 +96,9 @@
   </tr>
   <tr>
     <td align="center">12/30</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2024-12-30 AM1:10</td>
+    <td align="center">✅</td>
+    <td align="center">종이자르기</td>
     <td align="center"></td>
   </tr>
   
