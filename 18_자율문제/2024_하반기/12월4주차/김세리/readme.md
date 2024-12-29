@@ -144,9 +144,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-12-29 23:36</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">개미굴</td>
     <td align="center">0</td>
   </tr>
 </table>
