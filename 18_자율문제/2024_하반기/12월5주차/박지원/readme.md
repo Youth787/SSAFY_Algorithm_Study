@@ -85,9 +85,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">2024-12-30 월 </td>
+    <td align="center">2024-12-30 월 16:45</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">주식가격</td>
     <td align="center">-</td>
   </tr>
 
