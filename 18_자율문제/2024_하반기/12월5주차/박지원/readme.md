@@ -97,4 +97,11 @@
     <td align="center">이중우선순위 큐</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-12-30 월 21:45</td>
+    <td align="center">✅</td>
+    <td align="center">입국심사</td>
+    <td align="center">-</td>
+  </tr>
 </table>
