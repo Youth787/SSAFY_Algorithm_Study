@@ -90,5 +90,11 @@
     <td align="center">주식가격</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2024-12-30 월 20:45</td>
+    <td align="center">✅</td>
+    <td align="center">이중우선순위 큐</td>
+    <td align="center">-</td>
+  </tr>
 </table>
