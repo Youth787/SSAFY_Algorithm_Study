@@ -115,15 +115,15 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-01-02 11:30</td>
+    <td align="center">✅</td>
+    <td align="center">적록색약, ABCDE</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">토</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
