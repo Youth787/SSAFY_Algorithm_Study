@@ -73,11 +73,18 @@
     <td align="center">면제</td>
     <td align="center"></td>
   </tr>
-      <tr>
+  <tr>
     <td align="center">1/3</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">면제</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">1/4</td>
+    <td align="center">2025-1-4 4:03AM</td>
+    <td align="center">✅</td>
+    <td align="center">수열</td>
     <td align="center"></td>
   </tr>
 </table>
