@@ -122,15 +122,15 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-01-03 16:16</td>
+    <td align="center">✅</td>
+    <td align="center">NxM 보드 완주하기, 욕심쟁이 판다</td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">일</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
