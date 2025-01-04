@@ -87,4 +87,18 @@
     <td align="center">수열</td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center">1/4</td>
+    <td align="center">2025-1-5 4:08AM</td>
+    <td align="center">✅</td>
+    <td align="center">자리배정</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">1/4</td>
+    <td align="center">2025-1-5 4:08AM</td>
+    <td align="center">✅</td>
+    <td align="center">개미</td>
+    <td align="center"></td>
+  </tr>
 </table>
