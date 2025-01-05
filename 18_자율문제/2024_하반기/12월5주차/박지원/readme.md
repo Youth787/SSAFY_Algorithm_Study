@@ -118,4 +118,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2025-01-05 일 23:21</td>
+    <td align="center">✅</td>
+    <td align="center">다각형의 면적</td>
+    <td align="center">-</td>
+  </tr>
 </table>
