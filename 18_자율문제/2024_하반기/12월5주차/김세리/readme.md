@@ -136,9 +136,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
+    <td align="center">2025-01-06 12:04</td>
     <td align="center"></td>
-    <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">출근 기록</td>
     <td align="center">0</td>
   </tr>
 </table>
