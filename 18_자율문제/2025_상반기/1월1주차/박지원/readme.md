@@ -66,5 +66,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2024-01-07 화 14:30</td>
+    <td align="center">✅</td>
+    <td align="center">RGB 거리 2</td>
+    <td align="center">-</td>
+  </tr>
 </table>
