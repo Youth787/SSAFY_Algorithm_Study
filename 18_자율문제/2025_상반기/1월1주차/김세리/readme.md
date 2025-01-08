@@ -108,21 +108,21 @@
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-01-08 18:19</td>
+    <td align="center">✅</td>
+    <td align="center">최소 회의실 개수</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">금</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
