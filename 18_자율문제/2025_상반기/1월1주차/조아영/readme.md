@@ -66,4 +66,18 @@
     <td align="center">면제</td>
     <td align="center"></td>
   </tr>
+    <tr>
+    <td align="center">1/9 목</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+  </tr>
+    <tr>
+    <td align="center">1/10 금</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+  </tr>
 </table>
