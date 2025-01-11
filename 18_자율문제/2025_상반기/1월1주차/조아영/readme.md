@@ -80,4 +80,11 @@
     <td align="center">면제</td>
     <td align="center"></td>
   </tr>
+      <tr>
+    <td align="center">1/11 토</td>
+    <td align="center">2025-1-12 AM 12:28</td>
+    <td align="center">✅</td>
+    <td align="center">최소 힙</td>
+    <td align="center"></td>
+  </tr>
 </table>
