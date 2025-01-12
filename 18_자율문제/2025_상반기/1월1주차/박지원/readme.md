@@ -87,4 +87,18 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2024-01-12 일 21:30</td>
+    <td align="center">✅</tr>
+    <td align="center">요격 시스템, 스킬트리</td>
+    <td align="center">-</td>
+  </tr>
 </table>
