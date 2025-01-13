@@ -136,9 +136,16 @@
   </tr>
   <tr>
     <td align="center">월</td>
+    <td align="center">벌금</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">??</td>
+  </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-01-14 12:57</td>
+    <td align="center">✅</td>
+    <td align="center">할로윈의 양아치, 보석 도둑</td>
     <td align="center">0</td>
   </tr>
 </table>
