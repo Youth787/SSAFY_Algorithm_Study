@@ -66,4 +66,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2024-01-14 화 23:23</td>
+    <td align="center">✅</td>
+    <td align="center">두 원 사이의 정수쌍</td>
+    <td align="center">-</td>
+  </tr>
 </table>
