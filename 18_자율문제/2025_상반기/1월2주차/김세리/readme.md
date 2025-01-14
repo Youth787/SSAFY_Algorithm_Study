@@ -17,7 +17,7 @@
    <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center">Lv 3</td>
+    <td align="center">프로그래머스 LV3</td>
     <td align="center">43164</td>
     <td align="center">여행 경로</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43164">바로가기</a></td>
@@ -25,7 +25,7 @@
      <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center">Lv 3</td>
+    <td align="center">프로그래머스 LV3</td>
     <td align="center">77486</td>
     <td align="center">다단계 칫솔 판매</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486">바로가기</a></td>
@@ -33,7 +33,7 @@
    <tr>
     <td align="center">03</td>
   <td align="center">✅</td>
-    <td align="center">Lv 2</td>
+    <td align="center">프로그래머스 LV2</td>
     <td align="center">20303</td>
     <td align="center">호텔 객실</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651">바로가기</a></td>
@@ -41,7 +41,7 @@
   <tr>
     <td align="center">04</td>
    <td align="center">✅</td>
-    <td align="center">Lv 2</td>
+    <td align="center">프로그래머스 LV2</td>
     <td align="center">250136</td>
     <td align="center">석유 시추</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/250136">바로가기</a></td>
