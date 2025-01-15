@@ -73,4 +73,11 @@
     <td align="center">두 원 사이의 정수쌍</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2024-01-15 수 14:00</td>
+    <td align="center">✅</td>
+    <td align="center">수 나누기 게임</td>
+    <td align="center">-</td>
+  </tr>
 </table>
