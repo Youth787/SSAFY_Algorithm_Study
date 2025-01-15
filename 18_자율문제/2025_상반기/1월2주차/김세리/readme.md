@@ -108,9 +108,9 @@
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-01-15 23:08</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">여행 경로, 다단계 칫솔 판매</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
