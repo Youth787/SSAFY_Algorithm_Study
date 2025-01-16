@@ -84,7 +84,7 @@
     <td align="center">토</td>
     <td align="center">2024-01-16 목 15:00</td>
     <td align="center">✅</td>
-    <td align="center">ACM Craft</td>
+    <td align="center">ACM Craft, 택배 배송과 수거하기</td>
     <td align="center">-</td>
   </tr>
 </table>
