@@ -35,7 +35,7 @@
   <td align="center">✅</td>
     <td align="center">프로그래머스 LV2</td>
     <td align="center">20303</td>
-    <td align="center">호텔 객실</td>
+    <td align="center">호텔 대실</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651">바로가기</a></td>
   </tr>
   <tr>
@@ -115,9 +115,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-01-16 23:56</td>
+    <td align="center">✅</td>
+    <td align="center">호텔 대실, 석유 시추</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
