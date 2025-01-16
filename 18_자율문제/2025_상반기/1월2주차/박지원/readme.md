@@ -80,4 +80,11 @@
     <td align="center">수 나누기 게임</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2024-01-16 목 15:00</td>
+    <td align="center">✅</td>
+    <td align="center">ACM Craft</td>
+    <td align="center">-</td>
+  </tr>
 </table>
