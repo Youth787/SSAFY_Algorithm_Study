@@ -100,20 +100,20 @@
   <tr>
     <td align="center">목</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-01-24 02:00</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">특정한 최단 경로</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
