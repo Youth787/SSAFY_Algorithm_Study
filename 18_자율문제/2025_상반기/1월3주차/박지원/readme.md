@@ -66,5 +66,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-01-24 금 10:03</td>
+    <td align="center">✅</td>
+    <td align="center">두 배열의 합</td>
+    <td align="center">-</td>
+  </tr>
 </table>
