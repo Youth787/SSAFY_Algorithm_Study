@@ -73,4 +73,11 @@
     <td align="center">두 배열의 합</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2025-01-24 금 10:46</td>
+    <td align="center">✅</td>
+    <td align="center">앱</td>
+    <td align="center">-</td>
+  </tr>
 </table>
