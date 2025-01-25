@@ -114,15 +114,15 @@
   <tr>
     <td align="center">토</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-01-25 23:59</td>
+    <td align="center">✅</td>
+    <td align="center">치즈</td>
     <td align="center">0</td>
   </tr>
   <tr>
