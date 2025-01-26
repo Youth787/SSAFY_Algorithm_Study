@@ -127,9 +127,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-01-26 23:02</td>
+    <td align="center">✅</td>
+    <td align="center">Strahler 순서, 영어 끝말잇기</td>
+    <td align="center">0</td>
   </tr>
 </table>
