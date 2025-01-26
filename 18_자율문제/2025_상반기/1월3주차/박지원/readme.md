@@ -80,4 +80,11 @@
     <td align="center">앱</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2025-01-26 일 23:00</td>
+    <td align="center">✅</td>
+    <td align="center">등굣길, 가장 큰 수</td>
+    <td align="center">-</td>
+  </tr>
 </table>
