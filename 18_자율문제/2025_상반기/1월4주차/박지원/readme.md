@@ -73,5 +73,11 @@
     <td align="center">Dance Dance Revolution</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-01-30 목 15:22</td>
+    <td align="center">✅</td>
+    <td align="center">디펜스 게임</td>
+    <td align="center">-</td>
+  </tr>
 </table>
