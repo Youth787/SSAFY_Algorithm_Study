@@ -120,14 +120,14 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-01-30 22:47</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">입국심사</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
