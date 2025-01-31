@@ -127,14 +127,14 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-01-31 14:59</td>
+    <td align="center">✅</td>
+    <td align="center">소문난 칠공주, 선물 전달</td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
