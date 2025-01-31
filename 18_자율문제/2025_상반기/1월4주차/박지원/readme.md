@@ -91,7 +91,7 @@
     <td align="center">일</td>
     <td align="center">2025-01-31 금 15:02</td>
     <td align="center">✅</td>
-    <td align="center">110옮기기</td>
+    <td align="center">세 용액</td>
     <td align="center">-</td>
   </tr>
 </table>
