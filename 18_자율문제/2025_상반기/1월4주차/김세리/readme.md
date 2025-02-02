@@ -141,9 +141,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center">2025-02-02 18:47</td>
     <td align="center"></td>
+    <td align="center">가장 긴 증가하는 부분 수열</td>
     <td align="center">0</td>
   </tr>
 </table>
