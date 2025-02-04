@@ -113,9 +113,9 @@
   </tr>
    <tr>
     <td align="center">수</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-02-04 16:59</td>
+    <td align="center">✅</td>
+    <td align="center">지정좌석 배치하기1, 친구비</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
