@@ -81,4 +81,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-02-07 금 16:03</td>
+    <td align="center">✅</td>
+    <td align="center">행렬 곱셈 순서</td>
+    <td align="center">-</td>
+  </tr>
 </table>
