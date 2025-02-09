@@ -88,4 +88,11 @@
     <td align="center">행렬 곱셈 순서</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2025-02-10 월 00:34</td>
+    <td align="center">✅</td>
+    <td align="center">합승 택시 요금, 석유 시추</td>
+    <td align="center">-</td>
+  </tr>
 </table>
