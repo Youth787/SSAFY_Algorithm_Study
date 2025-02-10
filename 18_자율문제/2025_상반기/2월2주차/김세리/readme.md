@@ -92,9 +92,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">리드미 제출</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">리드미 제출, 2025-02-10 23:47</td>
+    <td align="center">✅</td>
+    <td align="center">암호</td>
     <td align="center">0</td>
   </tr>
    <tr>
