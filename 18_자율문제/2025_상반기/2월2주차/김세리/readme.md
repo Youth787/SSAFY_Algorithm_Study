@@ -113,9 +113,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-02-14 12:15</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">사탕 가게</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
