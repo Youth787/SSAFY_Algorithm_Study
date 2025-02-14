@@ -120,9 +120,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-02-15 01:05</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">동전, 앱</td>
     <td align="center">0</td>
   </tr>
     <tr>
@@ -134,7 +134,7 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
