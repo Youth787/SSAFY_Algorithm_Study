@@ -17,7 +17,7 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
     <td align="center">16234</td>
     <td align="center">인구이동</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/16234">바로가기</a></td>
@@ -25,7 +25,7 @@
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"></td>
     <td align="center">7453</td>
     <td align="center">합이 0인 네 정수</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/7453">바로가기</a></td>
