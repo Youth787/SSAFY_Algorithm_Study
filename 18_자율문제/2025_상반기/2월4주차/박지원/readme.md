@@ -81,4 +81,11 @@
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-02-27 목 13:53</td>
+    <td align="center">✅</td>
+    <td align="center">인구 이동</td>
+    <td align="center">-</td>
+  </tr>
 </table>
