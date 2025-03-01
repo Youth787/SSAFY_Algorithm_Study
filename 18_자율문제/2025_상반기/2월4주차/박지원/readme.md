@@ -95,4 +95,11 @@
     <td align="center">합이 0인 네 정수</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2025-03-01 토 10:25</td>
+    <td align="center">✅</td>
+    <td align="center">대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기</td>
+    <td align="center">-</td>
+  </tr>
 </table>
