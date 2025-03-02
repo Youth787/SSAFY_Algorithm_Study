@@ -102,4 +102,11 @@
     <td align="center">대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2025-03-03 월 00:45</td>
+    <td align="center">✅</td>
+    <td align="center">ㅇㅖ상 대진표</td>
+    <td align="center">-</td>
+  </tr>
 </table>
