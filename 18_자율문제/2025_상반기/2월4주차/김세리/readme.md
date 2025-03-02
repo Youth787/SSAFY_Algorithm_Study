@@ -119,9 +119,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
+    <td align="center">2025-03-02 23:58</td>
     <td align="center">✅</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">최소비용 구하기, 방의 개수</td>
     <td align="center">0</td>
   </tr>
 </table>
