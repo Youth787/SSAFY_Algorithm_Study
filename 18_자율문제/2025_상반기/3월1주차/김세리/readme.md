@@ -102,7 +102,7 @@
   <tr>
     <td align="center">화</td>
     <td align="center">리드미 제출</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
@@ -116,14 +116,14 @@
   <tr>
     <td align="center">목</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
-    <td align="center">내리막길</td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">금</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
@@ -131,7 +131,7 @@
     <td align="center">토</td>
     <td align="center"></td>
     <td align="center">✅</td>
-    <td align="center">ACM Craft</td>
+    <td align="center"></td>
     <td align="center">0</td>
   </tr>
     <tr>
