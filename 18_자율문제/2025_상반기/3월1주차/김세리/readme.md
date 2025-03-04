@@ -108,9 +108,9 @@
   </tr>
    <tr>
     <td align="center">수</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-03-04 23:43</td>
+    <td align="center">✅</td>
+    <td align="center">작업, 줄 세우기</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -129,8 +129,8 @@
   </tr>
   <tr>
     <td align="center">토</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
