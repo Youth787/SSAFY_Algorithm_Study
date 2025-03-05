@@ -115,9 +115,9 @@
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-03-05 16:08</td>
+    <td align="center">✅</td>
+    <td align="center">음악 프로그램, Strahler 순서, ACM Craft</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -136,8 +136,8 @@
   </tr>
     <tr>
     <td align="center">일</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
