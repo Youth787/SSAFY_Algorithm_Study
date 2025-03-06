@@ -81,5 +81,11 @@
     <td align="center">카드 정리 1</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-03-06 목 12:53</td>
+    <td align="center">✅</td>
+    <td align="center">한 해에 잡은 물고기 수 구하기</td>
+    <td align="center">-</td>
+  </tr>
 </table>
