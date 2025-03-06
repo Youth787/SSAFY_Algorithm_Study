@@ -122,9 +122,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-03-06 23:00</td>
+    <td align="center">✅</td>
+    <td align="center">영우는 사기꾼, 장난감 조립</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -143,8 +143,8 @@
   </tr>
   <tr>
     <td align="center">월</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
