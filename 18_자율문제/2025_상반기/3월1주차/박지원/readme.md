@@ -88,4 +88,18 @@
     <td align="center">한 해에 잡은 물고기 수 구하기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2025-03-08 토 22:53</td>
+    <td align="center">✅</td>
+    <td align="center">문제집</td>
+    <td align="center">-</td>
+  </tr>
 </table>
