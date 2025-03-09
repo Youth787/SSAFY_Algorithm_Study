@@ -102,4 +102,11 @@
     <td align="center">문제집</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2025-03-09 일 22:53</td>
+    <td align="center">✅</td>
+    <td align="center">서버 증설 횟수</td>
+    <td align="center">-</td>
+  </tr>
 </table>
