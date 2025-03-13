@@ -81,12 +81,12 @@
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
-    <td align="center">목</td>
-    <td align="center">2025-03-05 수 21:53</td>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-03-13 목 18:53</td>
     <td align="center">✅</td>
-    <td align="center">카드 정리 1</td>
+    <td align="center">백도어</td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
 
 </table>
