@@ -126,9 +126,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-03-17 23:46</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">택배, 우수 마을</td>
     <td align="center">0</td>
   </tr>
 </table>
