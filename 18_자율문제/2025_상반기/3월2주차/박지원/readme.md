@@ -92,7 +92,7 @@
     <td align="center">화</td>
     <td align="center">2025-03-17 월 17:53</td>
     <td align="center">✅</td>
-    <td align="center">해킹, 메뉴리뉴얼</td>
+    <td align="center">해킹, 메뉴리뉴얼, 자동차 대여 기록 별 대여 금액 구하기</td>
     <td align="center">-</td>
   </tr>
 </table>
