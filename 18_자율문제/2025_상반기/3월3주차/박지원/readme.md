@@ -69,17 +69,18 @@
   </tr>
   <tr>
     <td align="center">수</td>
+    <td align="center">2025-03-18 화 18:53</td>
+    <td align="center">✅</td>
+    <td align="center">방 번호</td>
+    <td align="center">-</td>
+  </tr>
+<!--   <tr>
+    <td align="center">수</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center">-</td>
     <td align="center">-</td>
-  </tr>
-<!--   <tr>
-    <td align="center">금</td>
-    <td align="center">2025-03-13 목 18:53</td>
-    <td align="center">✅</td>
-    <td align="center">백도어</td>
-    <td align="center">-</td>
   </tr> -->
+
 
 </table>
