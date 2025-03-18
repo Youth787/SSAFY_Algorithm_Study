@@ -101,9 +101,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">리드미 제출</td>
+    <td align="center">2025-03-18 22:48</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">미로 만들기</td>
     <td align="center">0</td>
   </tr>
   <tr>
