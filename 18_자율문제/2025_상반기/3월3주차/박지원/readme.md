@@ -74,6 +74,13 @@
     <td align="center">방 번호</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2025-03-19 수 10:01</td>
+    <td align="center">✅</td>
+    <td align="center">가르침</td>
+    <td align="center">-</td>
+  </tr>
 <!--   <tr>
     <td align="center">수</td>
     <td align="center">면제</td>
