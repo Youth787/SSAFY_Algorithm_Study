@@ -81,6 +81,13 @@
     <td align="center">가르침</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-03-20 목 15:01</td>
+    <td align="center">✅</td>
+    <td align="center">취소되지 않은 예약 조회하기</td>
+    <td align="center">-</td>
+  </tr>
 <!--   <tr>
     <td align="center">수</td>
     <td align="center">면제</td>
