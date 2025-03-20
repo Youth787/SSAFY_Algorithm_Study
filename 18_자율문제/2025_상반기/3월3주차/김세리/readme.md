@@ -115,9 +115,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-03-20 14:35</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">벼락치기</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
