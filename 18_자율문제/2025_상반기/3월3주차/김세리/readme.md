@@ -136,9 +136,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-03-24 12:51</td>
+    <td align="center">✅</td>
+    <td align="center">1학년</td>
     <td align="center">0</td>
   </tr>
 </table>
