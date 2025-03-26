@@ -109,15 +109,15 @@
   <tr>
     <td align="center">수</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-03-27  12:29</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">로봇 조종하기</td>
     <td align="center">0</td>
   </tr>
   <tr>
