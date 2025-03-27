@@ -35,14 +35,14 @@ public class Main {
         if (a == 0) {
             for (int i = 0; i < z; i++) {
                 sb.append("z");
-                return;
             }
+            return;
         }
         if (z == 0) {
             for (int i = 0; i < a; i++) {
                 sb.append("a");
-                return;
             }
+            return;
         }
 
         double check = check(a - 1, z);
