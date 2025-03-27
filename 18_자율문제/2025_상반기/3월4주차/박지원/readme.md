@@ -73,6 +73,13 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-03-27 목 15:43</td>
+    <td align="center">✅</td>
+    <td align="center">사전</td>
+    <td align="center">-</td>
+  </tr>
 <!--   <tr>
     <td align="center">수</td>
     <td align="center">면제</td>
