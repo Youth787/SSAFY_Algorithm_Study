@@ -84,7 +84,7 @@
     <td align="center">토</td>
     <td align="center">2025-03-28 금 22:02</td>
     <td align="center">✅</td>
-    <td align="center">최소 스패닝 트리</td>
+    <td align="center">최소 스패닝 트리, 당구 연습</td>
     <td align="center">-</td>
   </tr>
 <!--   <tr>
