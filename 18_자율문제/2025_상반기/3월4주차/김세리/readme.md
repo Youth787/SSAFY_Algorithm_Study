@@ -143,9 +143,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-03-31 02:43</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">미로 탈출, 회전 초밥</td>
     <td align="center">0</td>
   </tr>
 </table>
