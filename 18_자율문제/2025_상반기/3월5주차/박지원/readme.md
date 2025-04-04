@@ -82,9 +82,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">2025-04-04 금 15:03</td>
+    <td align="center">2025-04-04 금 23:03</td>
     <td align="center">✅</td>
-    <td align="center">수열</td>
+    <td align="center">수열, 트리</td>
     <td align="center">-</td>
   </tr>
 
