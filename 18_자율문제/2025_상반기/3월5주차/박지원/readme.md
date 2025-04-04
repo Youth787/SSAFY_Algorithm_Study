@@ -66,20 +66,28 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
-    <td align="center">금</td>
-    <td align="center">2025-03-27 목 15:43</td>
-    <td align="center">✅</td>
-    <td align="center">사전</td>
-    <td align="center">-</td>
-  </tr> -->
-<!--   <tr>
-    <td align="center">수</td>
+  <tr>
+    <td align="center">목</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center">-</td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-04-04 금 15:03</td>
+    <td align="center">✅</td>
+    <td align="center">수열</td>
+    <td align="center">-</td>
+  </tr>
+
 
 
 </table>
