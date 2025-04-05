@@ -87,7 +87,13 @@
     <td align="center">수열, 트리</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2025-04-05 토 16:03</td>
+    <td align="center">✅</td>
+    <td align="center">점찍기</td>
+    <td align="center">-</td>
+  </tr>
 
 
 </table>
