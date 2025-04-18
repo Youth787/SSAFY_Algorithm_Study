@@ -100,15 +100,15 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-04-15</td>
+    <td align="center">✅</td>
+    <td align="center">회사 문화1</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">목</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
@@ -121,14 +121,14 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-04-19 12:23</td>
+    <td align="center">✅</td>
+    <td align="center">내일로 여행</td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
