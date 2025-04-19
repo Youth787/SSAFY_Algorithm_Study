@@ -87,5 +87,11 @@
     <td align="center">리모컨 </td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">알</td>
+    <td align="center">2025-04-19 토 20:00</td>
+    <td align="center">✅</td>
+    <td align="center">문자열 압축 </td>
+    <td align="center">-</td>
+  </tr>
 </table>
