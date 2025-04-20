@@ -88,10 +88,17 @@
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">알</td>
+    <td align="center">일</td>
     <td align="center">2025-04-19 토 20:00</td>
     <td align="center">✅</td>
     <td align="center">문자열 압축 </td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2025-04-20 일 21:00</td>
+    <td align="center">✅</td>
+    <td align="center">그룹별 조건에 맞는 식당 목록 출력하기 </td>
     <td align="center">-</td>
   </tr>
 </table>
