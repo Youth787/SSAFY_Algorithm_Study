@@ -135,9 +135,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-04-20 22:28</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">무인도 여행</td>
     <td align="center">0</td>
   </tr>
 </table>
