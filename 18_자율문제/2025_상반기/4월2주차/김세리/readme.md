@@ -140,4 +140,11 @@
     <td align="center">무인도 여행</td>
     <td align="center">0</td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-04-21 23:57</td>
+    <td align="center">✅</td>
+    <td align="center">스티커 붙이기</td>
+    <td align="center">0</td>
+  </tr>
 </table>
