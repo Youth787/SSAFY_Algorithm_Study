@@ -17,7 +17,7 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
     <td align="center">1080</td>
     <td align="center">행렬</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1080">바로가기</a></td>
@@ -25,7 +25,7 @@
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">1717</td>
     <td align="center">집합의 표현</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/1717">바로가기</a></td>
