@@ -100,9 +100,9 @@
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-04-23 18:56</td>
+    <td align="center">✅</td>
+    <td align="center">두 수의 합</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
