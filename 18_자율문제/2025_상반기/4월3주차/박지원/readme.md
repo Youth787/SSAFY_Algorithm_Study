@@ -66,12 +66,12 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
+  <tr>
     <td align="center">목</td>
-    <td align="center">2025-04-16 수 13:00</td>
+    <td align="center">2025-04-23 수 10:00</td>
     <td align="center">✅</td>
-    <td align="center">효율적인 해킹 </td>
+    <td align="center">행렬</td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
 
 </table>
