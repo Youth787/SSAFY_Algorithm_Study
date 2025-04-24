@@ -84,7 +84,7 @@
     <td align="center">토</td>
     <td align="center">2025-04-24 목 17:00</td>
     <td align="center">✅</td>
-    <td align="center">보호소에서 중성화...</td>
+    <td align="center">보호소에서 중성화한 동물</td>
     <td align="center">-</td>
   </tr>
 </table>
