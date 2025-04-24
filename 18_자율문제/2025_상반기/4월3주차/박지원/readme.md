@@ -80,5 +80,11 @@
     <td align="center">집합의 표현</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-04-24 목 17:00</td>
+    <td align="center">✅</td>
+    <td align="center">보호소에서 중성화...</td>
+    <td align="center">-</td>
+  </tr>
 </table>
