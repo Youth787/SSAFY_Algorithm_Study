@@ -87,4 +87,11 @@
     <td align="center">보호소에서 중성화한 동물</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">일</td>
+    <td align="center">2025-04-25 금 15:00</td>
+    <td align="center">✅</td>
+    <td align="center">괄호 변환 </td>
+    <td align="center">-</td>
+  </tr>
 </table>
