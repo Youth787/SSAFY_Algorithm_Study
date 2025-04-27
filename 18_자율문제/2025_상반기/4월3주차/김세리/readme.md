@@ -128,9 +128,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2024-04-28 12:36</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">두 용액</td>
     <td align="center">0</td>
   </tr>
   <tr>
