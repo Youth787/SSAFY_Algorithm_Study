@@ -61,17 +61,10 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">면제</td>
+    <td align="center">2025-04-28 월 23:50</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">점프</td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
-    <td align="center">목</td>
-    <td align="center">2025-04-23 수 10:00</td>
-    <td align="center">✅</td>
-    <td align="center">행렬</td>
-    <td align="center">-</td>
-  </tr> -->
 
 </table>
