@@ -135,9 +135,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-04-28 22:45</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">트리, k번째 수</td>
     <td align="center">0</td>
   </tr>
 </table>
