@@ -108,9 +108,9 @@
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-05-01 02:06</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">마법의 엘리베이터</td>
     <td align="center">0</td>
   </tr>
   <tr>
