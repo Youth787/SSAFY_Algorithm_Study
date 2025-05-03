@@ -129,9 +129,9 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">2025-05-03 23:29</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">점프와 순간 이동</td>
     <td align="center">0</td>
   </tr>
   <tr>
