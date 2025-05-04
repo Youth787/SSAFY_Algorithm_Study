@@ -73,4 +73,32 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">면제</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">면제</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">면제</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
+    <tr>
+    <td align="center">월</td>
+    <td align="center">면제</td>
+    <td align="center">✅</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+  </tr>
 </table>
