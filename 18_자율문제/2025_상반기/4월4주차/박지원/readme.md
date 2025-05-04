@@ -94,11 +94,11 @@
     <td align="center"></td>
     <td align="center">-</td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">월</td>
-    <td align="center">면제</td>
+    <td align="center">2025-05-04 일 15:50</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">단어 수학 </td>
     <td align="center">-</td>
   </tr>
 </table>
