@@ -98,7 +98,7 @@
     <td align="center">월</td>
     <td align="center">2025-05-04 일 15:50</td>
     <td align="center">✅</td>
-    <td align="center">단어 수학 </td>
+    <td align="center">단어 수학, 노선별 평균 역 사이 거리 조회하기</td>
     <td align="center">-</td>
   </tr>
 </table>
