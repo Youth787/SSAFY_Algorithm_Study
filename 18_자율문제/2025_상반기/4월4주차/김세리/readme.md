@@ -143,9 +143,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-05-05 17:59</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">시소 짝궁, 행렬 테두리 회전하기</td>
     <td align="center">0</td>
   </tr>
 </table>
