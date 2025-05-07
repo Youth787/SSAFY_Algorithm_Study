@@ -66,6 +66,13 @@
     <td align="center">그림</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-05-07 수 17:40</td>
+    <td align="center">✅</td>
+    <td align="center">도서관</td>
+    <td align="center">-</td>
+  </tr>
 <!--   <tr>
     <td align="center">금</td>
     <td align="center">면제</td>
