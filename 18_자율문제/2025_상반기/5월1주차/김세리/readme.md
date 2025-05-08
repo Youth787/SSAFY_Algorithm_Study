@@ -109,15 +109,15 @@
   <tr>
     <td align="center">목</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-05-08 17:33</td>
+    <td align="center">✅</td>
+    <td align="center">예상 대진표, [1차] 캐시</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
