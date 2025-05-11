@@ -130,15 +130,15 @@
     <tr>
     <td align="center">일</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-05-11 22:23</td>
+    <td align="center">✅</td>
+    <td align="center">[1차] 뉴스 클러스터링</td>
     <td align="center">0</td>
   </tr>
   <tr>
