@@ -80,12 +80,18 @@
     <td align="center">멀쩡한 사각형 </td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
-    <td align="center">금</td>
+  <tr>
+    <td align="center">일</td>
     <td align="center">면제</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">-</td>
-  </tr> -->
-
+  </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2025-05-11 일 21:40</td>
+    <td align="center">✅</td>
+    <td align="center">부서별 평균 연봉 조회하기 </td>
+    <td align="center">-</td>
+  </tr>
 </table>
