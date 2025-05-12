@@ -143,9 +143,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-05-13 01:16</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">모음 사전</td>
     <td align="center">0</td>
   </tr>
 </table>
