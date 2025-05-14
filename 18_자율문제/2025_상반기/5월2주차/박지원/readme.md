@@ -73,5 +73,11 @@
     <td align="center">삼각 달팽이 </td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-05-14 수 22:20</td>
+    <td align="center">✅</td>
+    <td align="center">유기농 배추</td>
+    <td align="center">-</td>
+  </tr>
 </table>
