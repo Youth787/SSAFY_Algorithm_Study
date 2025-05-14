@@ -66,12 +66,12 @@
     <td align="center">그림</td>
     <td align="center">-</td>
   </tr> -->
-<!--   <tr>
-    <td align="center">일</td>
-    <td align="center">면제</td>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2025-05-14 수 17:20</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">삼각 달팽이 </td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
 
 </table>
