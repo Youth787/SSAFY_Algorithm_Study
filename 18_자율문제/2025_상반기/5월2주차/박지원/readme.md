@@ -87,4 +87,11 @@
     <td align="center">도시 분할 계획</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2025-05-15 목 15:19</td>
+    <td align="center">✅</td>
+    <td align="center">특정 조건을 만족하는 물고기별 수와 최대 길이 구하기 </td>
+    <td align="center">-</td>
+  </tr>
 </table>
