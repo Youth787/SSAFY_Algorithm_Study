@@ -116,7 +116,7 @@
   <tr>
     <td align="center">금</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
@@ -129,9 +129,9 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-05-17 22:31</td>
+    <td align="center">✅</td>
+    <td align="center">행렬의 곱셈</td>
     <td align="center">0</td>
   </tr>
   <tr>
