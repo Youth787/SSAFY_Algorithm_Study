@@ -136,9 +136,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-05-18 23:59</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">방문 길이</td>
     <td align="center">0</td>
   </tr>
   <tr>
