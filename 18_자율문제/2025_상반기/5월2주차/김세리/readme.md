@@ -143,9 +143,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-05-20 12:46</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">괄호 회전하기, 주식 가격</td>
     <td align="center">0</td>
   </tr>
 </table>
