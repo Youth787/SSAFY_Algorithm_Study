@@ -104,9 +104,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-05-25 22:31</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">계단수</td>
     <td align="center">0</td>
   </tr>
   <tr>
