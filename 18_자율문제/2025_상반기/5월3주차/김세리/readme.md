@@ -111,9 +111,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-05-26 23:28</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">택배, 방의 개수</td>
     <td align="center">0</td>
   </tr>
 </table>
