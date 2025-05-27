@@ -17,7 +17,7 @@
   <tr>
     <td align="center">01</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
     <td align="center">10844</td>
     <td align="center">쉬운 계단 수</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/10844">바로가기</a></td>
@@ -25,7 +25,7 @@
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"></td>
     <td align="center">14503</td>
     <td align="center">로봇청소기</td>
     <td align="center"><a href="https://www.acmicpc.net/problem/14503">바로가기</a></td>
