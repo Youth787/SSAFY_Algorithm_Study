@@ -74,6 +74,13 @@
     <td align="center">쉬운 계단 수</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-05-29 목 15:19</td>
+    <td align="center">✅</td>
+    <td align="center">타겟 넘버</td>
+    <td align="center">-</td>
+  </tr>
 <!--   <tr>
     <td align="center">수</td>
     <td align="center">면제</td>
