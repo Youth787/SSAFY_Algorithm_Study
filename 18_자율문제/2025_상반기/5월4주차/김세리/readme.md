@@ -90,14 +90,14 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-05-31 12:19</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">퍼즐 조각 채우기</td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
