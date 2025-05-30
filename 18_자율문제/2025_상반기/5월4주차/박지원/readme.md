@@ -81,6 +81,13 @@
     <td align="center">타겟 넘버</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-05-30 금 17:30</td>
+    <td align="center">✅</td>
+    <td align="center">로봇 청소기 </td>
+    <td align="center">-</td>
+  </tr>
 <!--   <tr>
     <td align="center">수</td>
     <td align="center">면제</td>
