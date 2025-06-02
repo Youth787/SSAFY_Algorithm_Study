@@ -111,9 +111,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-06-02 23:46</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">부대 복귀, 호텔</td>
     <td align="center">0</td>
   </tr>
 </table>
