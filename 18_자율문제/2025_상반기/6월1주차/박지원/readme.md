@@ -59,19 +59,19 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-<!--   <tr>
-    <td align="center">일, 월</td>
+  <tr>
+    <td align="center">목</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">화</td>
-    <td align="center">2025-06-02 월 18:33</td>
+    <td align="center">금</td>
+    <td align="center">2025-06-06 금 10:52</td>
     <td align="center">✅</td>
-    <td align="center">물고기 종류 별 잡은 수 구하기</td>
+    <td align="center">베르트와 공준 </td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
 
 </table>
