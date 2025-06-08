@@ -97,9 +97,9 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">2025-06-08 13:56</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">가장 긴 팰린드롬, [1차] 셔틀버스, 불량사용자</td>
     <td align="center">0</td>
   </tr>
   <tr>
