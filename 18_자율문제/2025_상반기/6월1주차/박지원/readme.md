@@ -73,5 +73,18 @@
     <td align="center">베르트와 공준 </td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">토,일,월</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-06-09 월 11:52</td>
+    <td align="center">✅</td>
+    <td align="center">압축 </td>
+    <td align="center">-</td>
+  </tr>
 </table>
