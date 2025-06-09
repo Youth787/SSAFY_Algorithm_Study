@@ -87,4 +87,11 @@
     <td align="center">압축 </td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2025-06-09 월 14:00</td>
+    <td align="center">✅</td>
+    <td align="center">오큰수 </td>
+    <td align="center">-</td>
+  </tr>
 </table>
