@@ -94,4 +94,11 @@
     <td align="center">오큰수 </td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-06-09 월 16:00</td>
+    <td align="center">✅</td>
+    <td align="center">월별 잡은 물고기 수 구하rl</td>
+    <td align="center">-</td>
+  </tr>
 </table>
