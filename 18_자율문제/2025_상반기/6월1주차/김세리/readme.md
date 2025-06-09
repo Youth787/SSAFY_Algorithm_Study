@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-06-09 20:18</td>
     <td align="center">✅</td>
     <td align="center">양궁대회</td>
     <td align="center">0</td>
