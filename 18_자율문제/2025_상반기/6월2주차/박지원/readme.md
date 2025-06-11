@@ -59,19 +59,20 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-06-11 수 18:52</td>
+    <td align="center">✅</td>
+    <td align="center">연산자 끼워넣기 </td>
+    <td align="center">-</td>
+  </tr>
 <!--   <tr>
     <td align="center">목</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center">-</td>
     <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">금</td>
-    <td align="center">2025-06-06 금 10:52</td>
-    <td align="center">✅</td>
-    <td align="center">베르트와 공준 </td>
-    <td align="center">-</td>
   </tr> -->
+
 
 </table>
