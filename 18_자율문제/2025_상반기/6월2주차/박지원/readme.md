@@ -66,6 +66,13 @@
     <td align="center">연산자 끼워넣기 </td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-06-12 목 11:09</td>
+    <td align="center">✅</td>
+    <td align="center">가장 긴 증가하는 부분 수열2</td>
+    <td align="center">-</td>
+  </tr>
 <!--   <tr>
     <td align="center">목</td>
     <td align="center">면제</td>
