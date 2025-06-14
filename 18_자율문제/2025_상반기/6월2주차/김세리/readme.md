@@ -91,15 +91,15 @@
   <tr>
     <td align="center">토</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">2025-06-14 20:06</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">등굣길</td>
     <td align="center">0</td>
   </tr>
   <tr>
