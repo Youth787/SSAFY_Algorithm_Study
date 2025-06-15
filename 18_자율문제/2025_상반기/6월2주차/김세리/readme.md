@@ -104,9 +104,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-06-15 23:36</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">N으로 표현</td>
     <td align="center">0</td>
   </tr>
   <tr>
