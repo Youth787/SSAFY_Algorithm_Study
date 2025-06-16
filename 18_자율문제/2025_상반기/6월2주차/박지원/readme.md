@@ -73,13 +73,19 @@
     <td align="center">가장 긴 증가하는 부분 수열2</td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
-    <td align="center">목</td>
+  <tr>
+    <td align="center">일, 월</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center">-</td>
     <td align="center">-</td>
-  </tr> -->
-
+  </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-06-16 월 14:21</td>
+    <td align="center">✅</td>
+    <td align="center">단속카메라</td>
+    <td align="center">-</td>
+  </tr>
 
 </table>
