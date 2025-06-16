@@ -111,9 +111,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-06-16 18:54</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">사칙연산, 도둑질</td>
     <td align="center">0</td>
   </tr>
 </table>
