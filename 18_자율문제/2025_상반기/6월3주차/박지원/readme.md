@@ -59,14 +59,14 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-<!--   <tr>
-    <td align="center">토</td>
-    <td align="center">2025-06-12 목 11:09</td>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2025-06-17 화 17:01</td>
     <td align="center">✅</td>
-    <td align="center">가장 긴 증가하는 부분 수열2</td>
+    <td align="center">물고기 종류 별 대어 찾기 </td>
     <td align="center">-</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center">일, 월</td>
     <td align="center">면제</td>
     <td align="center"></td>
