@@ -66,12 +66,12 @@
     <td align="center">물고기 종류 별 대어 찾기 </td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
-    <td align="center">일, 월</td>
+  <tr>
+    <td align="center">금</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center">-</td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
 
 </table>
