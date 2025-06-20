@@ -90,15 +90,15 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-06-20 22:35</td>
+    <td align="center">✅</td>
+    <td align="center">선입 선출 스케줄링</td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">일</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
