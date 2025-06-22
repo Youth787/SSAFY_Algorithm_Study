@@ -104,9 +104,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-06-22 22:43</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">등산코스 정하기</td>
     <td align="center">0</td>
   </tr>
   <tr>
