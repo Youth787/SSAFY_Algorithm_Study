@@ -75,9 +75,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">2025-06-23 월 11:51, 15:36</td>
+    <td align="center">2025-06-23 월 11:51, 15:36, 16L10</td>
     <td align="center">✅</td>
-    <td align="center">부분수열의 합, 뱀 </td>
+    <td align="center">부분수열의 합, 뱀, 정수 삼각형</td>
     <td align="center">-</td>
   </tr>
 </table>
