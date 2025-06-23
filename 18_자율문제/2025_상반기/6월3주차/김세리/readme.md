@@ -111,9 +111,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-06-24 12:44</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">기지국 설치, 보석 쇼핑</td>
     <td align="center">0</td>
   </tr>
 </table>
