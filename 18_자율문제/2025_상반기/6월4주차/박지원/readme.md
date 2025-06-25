@@ -59,13 +59,13 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-<!--   <tr>
+  <tr>
     <td align="center">목</td>
-    <td align="center">2025-06-17 화 17:01</td>
+    <td align="center">2025-06-25 수 10:31</td>
     <td align="center">✅</td>
-    <td align="center">물고기 종류 별 대어 찾기 </td>
+    <td align="center">스도쿠</td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
   <tr>
     <td align="center">금</td>
     <td align="center">면제</td>
