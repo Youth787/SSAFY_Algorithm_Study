@@ -73,4 +73,18 @@
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-06-27 금 10:22</td>
+    <td align="center">✅</td>
+    <td align="center">섬의 개수</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">일,월</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
 </table>
