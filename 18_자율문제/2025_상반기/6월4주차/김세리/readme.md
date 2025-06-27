@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center"></td>
+    <td align="center">2025-06-27 13:28</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">선입 선출 스케줄링</td>
     <td align="center">0</td>
   </tr>
     <tr>
