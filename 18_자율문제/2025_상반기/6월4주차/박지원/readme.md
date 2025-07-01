@@ -87,4 +87,11 @@
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-07-01 화 11:30</td>
+    <td align="center">✅</td>
+    <td align="center">게임 맵 최단거리</td>
+    <td align="center">-</td>
+  </tr>
 </table>
