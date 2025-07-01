@@ -104,16 +104,16 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-07-01 22:03</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">보석 쇼핑</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-07-01 22:03</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">등산코스 정하기, 기지국 설치</td>
     <td align="center">0</td>
   </tr>
 </table>
