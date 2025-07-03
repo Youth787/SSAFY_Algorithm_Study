@@ -73,4 +73,11 @@
     <td align="center">스타트와 링크</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">토</td>
+    <td align="center">2025-07-03 목 17:57</td>
+    <td align="center">✅</td>
+    <td align="center">Fly me to the Alpha Centauri</td>
+    <td align="center">-</td>
+  </tr>
 </table>
