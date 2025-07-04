@@ -87,4 +87,11 @@
     <td align="center">조건별로 분류하여 주문상태 출력하기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2025-07-04 금 13:57</td>
+    <td align="center">✅</td>
+    <td align="center">순위</td>
+    <td align="center">-</td>
+  </tr>
 </table>
