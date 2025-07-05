@@ -90,16 +90,16 @@
   </tr>
   <tr>
     <td align="center">토</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-07-06 12:42</td>
+    <td align="center">✅</td>
+    <td align="center">배달, 멸종위기의 대장균 찾기</td>
     <td align="center">0</td>
   </tr>
   <tr>
