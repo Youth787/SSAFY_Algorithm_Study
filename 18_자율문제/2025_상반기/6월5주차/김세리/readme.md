@@ -104,16 +104,16 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-07-06 22:06</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">언어별 개발자 분류하기</td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-07-06 22:06</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">상품을 구매한 회원 비율 구하기</td>
     <td align="center">0</td>
   </tr>
 </table>
