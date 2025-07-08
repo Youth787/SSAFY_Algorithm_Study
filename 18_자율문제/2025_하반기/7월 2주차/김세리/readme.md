@@ -14,45 +14,36 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-   <tr>
-    <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <tr>
+  <td align="center">01</td>
+   <td align="center">✅</td>
+    <td align="center">Level 3</td>
+    <td align="center">133500</td>
+    <td align="center">등대</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133500">바로가기</a></td>
   </tr>
-     <tr>
+      <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
-  </tr>
-   <tr>
-    <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">388352</td>
+    <td align="center">비밀 코드 해독</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/388352">바로가기</a></td>
   </tr>
   <tr>
-    <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">03</td>
+    <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">147354</td>
+    <td align="center">테이블 해시 함수</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/147354">바로가기</a></td>
   </tr>
-   <tr>
-    <td align="center">05</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+  <td align="center">04</td>
+   <td align="center">✅</td>
+    <td align="center">Level 2</td>
+    <td align="center">250135</td>
+    <td align="center">[PCCP 기출문제] 3번 / 아날로그 시계</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/250135">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
@@ -68,46 +59,53 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-    <tr>
-    <td align="center">금</td>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">리드미 작성</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-   <tr>
-    <td align="center">토</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
+    <td align="center">목</td>
+    <td align="center">면제권</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">0</td>
+  </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">면제권</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">0</td>
+  </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">면제권</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">0</td>
+  </tr>
+    <tr>
     <td align="center">일</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">화</td>
     <td align="center"></td>
+    <td align="center">✅</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">0</td>
   </tr>
 </table>
