@@ -68,9 +68,9 @@
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-07-09 14:16</td>
+    <td align="center">✅</td>
+    <td align="center">등대</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">면제권</td>
     <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
