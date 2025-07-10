@@ -75,9 +75,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">면제권</td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2025-07-10 13:28</td>
+    <td align="center">✅</td>
+    <td align="center">비밀 코드 해독</td>
     <td align="center">0</td>
   </tr>
   <tr>
@@ -90,14 +90,14 @@
     <tr>
     <td align="center">일</td>
     <td align="center">면제권</td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
   <tr>
     <td align="center">월</td>
+    <td align="center">면제권</td>
     <td align="center"></td>
-    <td align="center">✅</td>
     <td align="center"></td>
     <td align="center">0</td>
   </tr>
