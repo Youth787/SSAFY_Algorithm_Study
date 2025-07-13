@@ -60,18 +60,18 @@
     <td align="center">벌금</td>
   </tr>
   <tr>
-    <td align="center">목</td>
+    <td align="center">목금토일</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
-    <td align="center">금</td>
-    <td align="center">2025-07-03 목 17:38</td>
+  <tr>
+    <td align="center">월</td>
+    <td align="center">2025-07-13 일 20:50</td>
     <td align="center">✅</td>
-    <td align="center">스타트와 링크</td>
+    <td align="center">쇠막대기</td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
 
 </table>
