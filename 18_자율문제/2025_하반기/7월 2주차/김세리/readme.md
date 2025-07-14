@@ -103,9 +103,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">면제권</td>
+    <td align="center">2025-07-14 23:54</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">[PCCP 기출문제] 3번 / 아날로그 시계</td>
     <td align="center">0</td>
   </tr>
 </table>
