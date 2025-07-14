@@ -75,9 +75,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">2025-07-14 월 13:50, 14:16</td>
+    <td align="center">2025-07-14 월 13:50, 14:16, 14:31</td>
     <td align="center">✅</td>
-    <td align="center">안전 영역, 캐시</td>
+    <td align="center">안전 영역, 캐시, 업그레이드 할 수 없는 아이템 구하기</td>
     <td align="center">-</td>
   </tr>
 </table>
