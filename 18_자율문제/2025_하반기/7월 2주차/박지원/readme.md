@@ -73,5 +73,11 @@
     <td align="center">쇠막대기</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-07-14 월 13:50</td>
+    <td align="center">✅</td>
+    <td align="center">안전 영역</td>
+    <td align="center">-</td>
+  </tr>
 </table>
