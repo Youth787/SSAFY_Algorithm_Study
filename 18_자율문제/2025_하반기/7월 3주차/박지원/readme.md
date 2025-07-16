@@ -59,19 +59,19 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center">목</td>
     <td align="center">면제</td>
     <td align="center"></td>
     <td align="center">-</td>
     <td align="center">-</td>
-  </tr>
-<!--   <tr>
-    <td align="center">월</td>
-    <td align="center">2025-07-13 일 20:50</td>
-    <td align="center">✅</td>
-    <td align="center">쇠막대기</td>
-    <td align="center">-</td>
   </tr> -->
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2025-07-16 수 21:16</td>
+    <td align="center">✅</td>
+    <td align="center">내리막 길</td>
+    <td align="center">-</td>
+  </tr>
 
 </table>
