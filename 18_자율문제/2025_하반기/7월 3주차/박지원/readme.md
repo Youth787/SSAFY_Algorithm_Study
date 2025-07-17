@@ -73,5 +73,11 @@
     <td align="center">내리막 길</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-07-17 목 12:35</td>
+    <td align="center">✅</td>
+    <td align="center">터렛</td>
+    <td align="center">-</td>
+  </tr>
 </table>
