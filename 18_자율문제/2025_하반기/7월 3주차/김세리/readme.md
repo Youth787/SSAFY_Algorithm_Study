@@ -89,9 +89,9 @@
   </tr>
     <tr>
     <td align="center">일</td>
-    <td align="center"></td>
+    <td align="center">2025-07-20 12:17</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">광고 삽입</td>
     <td align="center">0</td>
   </tr>
   <tr>
