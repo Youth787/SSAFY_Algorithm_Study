@@ -96,9 +96,9 @@
   </tr>
   <tr>
     <td align="center">월</td>
-    <td align="center"></td>
+    <td align="center">2025-07-21 12:16</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">순위 검색</td>
     <td align="center">0</td>
   </tr>
   <tr>
