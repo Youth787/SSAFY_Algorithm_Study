@@ -103,9 +103,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center"></td>
+    <td align="center">2025-07-22 01:12</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">혼자 놀기의 달인, 혼자서 하는 틱택토</td>
     <td align="center">0</td>
   </tr>
 </table>
