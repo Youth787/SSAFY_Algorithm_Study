@@ -82,9 +82,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">2025-07-21 월 16:18</td>
+    <td align="center">2025-07-21 월 16:18, 17:56</td>
     <td align="center">✅</td>
-    <td align="center">서울에 위치한 식당 목록 출력하기</td>
+    <td align="center">서울에 위치한 식당 목록 출력하기, 여행경로</td>
     <td align="center">-</td>
   </tr>
 </table>
