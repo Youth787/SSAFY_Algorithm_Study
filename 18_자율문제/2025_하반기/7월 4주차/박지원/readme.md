@@ -46,6 +46,14 @@
     <td align="center">5월 식품들의 총매출 조회하기</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131117">바로가기</a></td>
   </tr>
+  <tr>
+    <td align="center">스터디시간에못푼것</td>
+    <td align="center">✅</td>
+    <td align="center">LV 3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">보행자 천국</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1832">바로가기</a></td>
+  </tr>
 </table>
 <br/><br/>
 
