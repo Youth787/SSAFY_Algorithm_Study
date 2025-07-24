@@ -74,13 +74,13 @@
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
-<!--   <tr>
-    <td align="center">목</td>
-    <td align="center">2025-07-16 수 21:16</td>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2025-07-24 목 14:35</td>
     <td align="center">✅</td>
-    <td align="center">내리막 길</td>
+    <td align="center">보석쇼핑</td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
 
 
 </table>
