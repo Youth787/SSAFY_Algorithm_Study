@@ -81,6 +81,12 @@
     <td align="center">보석쇼핑</td>
     <td align="center">-</td>
   </tr>
-
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-07-25 금 10:28</td>
+    <td align="center">✅</td>
+    <td align="center">나이트의 이동</td>
+    <td align="center">-</td>
+  </tr>
 
 </table>
