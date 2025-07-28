@@ -97,9 +97,9 @@
   </tr>
   <tr>
     <td align="center">화</td>
-    <td align="center">2025-07-28 월 14:48</td>
+    <td align="center">2025-07-28 월 14:48, 15:27</td>
     <td align="center">✅</td>
-    <td align="center">이분 그랲프</td>
+    <td align="center">이분 그랲프, 5월 식품들의 총매출 조회하기</td>
     <td align="center">-</td>
   </tr>
 </table>
