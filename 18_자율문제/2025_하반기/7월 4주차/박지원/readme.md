@@ -88,5 +88,18 @@
     <td align="center">나이트의 이동</td>
     <td align="center">-</td>
   </tr>
-
+    <tr>
+    <td align="center">일, 월</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-07-28 월 14:48</td>
+    <td align="center">✅</td>
+    <td align="center">이분 그랲프</td>
+    <td align="center">-</td>
+  </tr>
 </table>
