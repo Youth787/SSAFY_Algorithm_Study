@@ -59,13 +59,7 @@
     <td align="center">푼 문제</td>
     <td align="center">벌금</td>
   </tr>
-<!--     <tr>
-    <td align="center">목</td>
-    <td align="center">면제</td>
-    <td align="center"></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-  </tr> -->
+
   <tr>
     <td align="center">목</td>
     <td align="center">2025-07-29 화 16:57</td>
@@ -73,5 +67,18 @@
     <td align="center">카드 구매하기</td>
     <td align="center">-</td>
   </tr>
-
+      <tr>
+    <td align="center">금</td>
+    <td align="center">면제</td>
+    <td align="center"></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2025-08-01 금 16:24</td>
+    <td align="center">✅</td>
+    <td align="center">주사위 굴리기</td>
+    <td align="center">-</td>
+  </tr>
 </table>
