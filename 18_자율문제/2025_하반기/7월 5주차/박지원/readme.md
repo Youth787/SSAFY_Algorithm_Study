@@ -81,4 +81,11 @@
     <td align="center">주사위 굴리기</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2025-08-05 화 11:34</td>
+    <td align="center">✅</td>
+    <td align="center">기둥과 보 설치</td>
+    <td align="center">-</td>
+  </tr>
 </table>
