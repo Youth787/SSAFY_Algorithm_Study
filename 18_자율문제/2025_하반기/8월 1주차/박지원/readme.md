@@ -57,14 +57,14 @@
     <td align="center">인증 시각</td>
     <td align="center">완료체크</td>
     <td align="center">푼 문제</td>
-    <td align="center">벌금</td>
+    <td align="center">벨로그 링크</td>
   </tr>
   <tr>
     <td align="center">금</td>
     <td align="center">2025-08-07 목 11:23</td>
     <td align="center">✅</td>
     <td align="center">타일 채우기</td>
-    <td align="center">-</td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-%EB%B0%B1%EC%A4%80-2133-%ED%83%80%EC%9D%BC-%EC%B1%84%EC%9A%B0%EA%B8%B0">바로가기</a></td>
   </tr>
 <!--    <tr>
     <td align="center">금</td>
