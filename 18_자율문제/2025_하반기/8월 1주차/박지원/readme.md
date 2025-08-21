@@ -71,7 +71,7 @@
     <td align="center">2025-08-22 목 12:17</td>
     <td align="center">✅</td>
     <td align="center">오르막 수</td>
-    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-%EB%B0%B1%EC%A4%80-2133-%ED%83%80%EC%9D%BC-%EC%B1%84%EC%9A%B0%EA%B8%B0">바로가기</a></td>
+    <td align="center">-</td>
   </tr>
 <!--    <tr>
     <td align="center">금</td>
