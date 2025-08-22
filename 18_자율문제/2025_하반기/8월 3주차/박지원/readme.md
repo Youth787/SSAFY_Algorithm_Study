@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td align="center">토</td>
-    <td align="center">2025-08-22 목 12:17</td>
+    <td align="center">2025-08-21 목 12:17</td>
     <td align="center">✅</td>
     <td align="center">오르막 수</td>
     <td align="center">-</td>
@@ -80,5 +80,11 @@
     <td align="center">-</td>
     <td align="center">-</td>
   </tr> -->
-
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2025-08-22 금 21:17</td>
+    <td align="center">✅</td>
+    <td align="center">도넛과 막대 그래프</td>
+    <td align="center">-</td>
+  </tr>
 </table>
