@@ -87,4 +87,11 @@
     <td align="center">도넛과 막대 그래프</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">화</td>
+    <td align="center">2025-08-25 월 21:57</td>
+    <td align="center">✅</td>
+    <td align="center">식품분류별 가장 비싼 식품의 정보 조회하기</td>
+    <td align="center">-</td>
+  </tr>
 </table>
