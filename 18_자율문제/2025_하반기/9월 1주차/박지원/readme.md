@@ -64,7 +64,7 @@
     <td align="center">2025-08-28 목 17:28</td>
     <td align="center">✅</td>
     <td align="center">여행 가자</td>
-    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-%EB%B0%B1%EC%A4%80-2133-%ED%83%80%EC%9D%BC-%EC%B1%84%EC%9A%B0%EA%B8%B0">바로가기</a></td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-%EB%B0%B1%EC%A4%80-1976-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9E%90">바로가기</a></td>
   </tr>
 <!--   <tr>
     <td align="center">토</td>
