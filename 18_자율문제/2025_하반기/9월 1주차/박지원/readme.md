@@ -14,49 +14,40 @@
     <td align="center">문제 이름</td>
     <td align="center">문제 링크</td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">01</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
+    <td align="center">1406</td>
+    <td align="center">에디터</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1406">바로가기</a></td>
   </tr>
-     <tr>
+  <tr>
     <td align="center">02</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"></td>
+    <td align="center">1976</td>
+    <td align="center">여행 가자</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1976">바로가기</a></td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">03</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">LV 3</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">외벽 점검/td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062?language=java">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
-  </tr>
-   <tr>
-    <td align="center">05</td>
-    <td align="center"></td>
-    <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.acmicpc.net/problem">바로가기</a></td>
+    <td align="center">✅</td>
+    <td align="center">SQL</td>
+    <td align="center">프로그래머스</td>
+    <td align="center">대장균의 크기에 따라 분류하기 2</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/301649">바로가기</a></td>
   </tr>
 </table>
 <br/><br/>
-
 
 <br>
 
@@ -66,48 +57,28 @@
     <td align="center">인증 시각</td>
     <td align="center">완료체크</td>
     <td align="center">푼 문제</td>
-    <td align="center">벌금</td>
+    <td align="center">벨로그 링크</td>
   </tr>
-    <tr>
+<!--   <tr>
     <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-   <tr>
+    <td align="center">2025-08-07 목 11:23</td>
+    <td align="center">✅</td>
+    <td align="center">타일 채우기</td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-%EB%B0%B1%EC%A4%80-2133-%ED%83%80%EC%9D%BC-%EC%B1%84%EC%9A%B0%EA%B8%B0">바로가기</a></td>
+  </tr> -->
+<!--   <tr>
     <td align="center">토</td>
+    <td align="center">2025-08-21 목 12:17</td>
+    <td align="center">✅</td>
+    <td align="center">오르막 수</td>
+    <td align="center">-</td>
+  </tr> -->
+<!--    <tr>
+    <td align="center">금</td>
+    <td align="center">면제</td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">일</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">월</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">수</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr> -->
+
 </table>
