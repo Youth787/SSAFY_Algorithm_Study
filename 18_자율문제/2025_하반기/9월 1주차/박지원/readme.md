@@ -66,13 +66,13 @@
     <td align="center">여행 가자</td>
     <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-%EB%B0%B1%EC%A4%80-1976-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9E%90">바로가기</a></td>
   </tr>
-<!--   <tr>
-    <td align="center">토</td>
-    <td align="center">2025-08-21 목 12:17</td>
+  <tr>
+    <td align="center">수</td>
+    <td align="center">2025-00-02 화 11:23</td>
     <td align="center">✅</td>
-    <td align="center">오르막 수</td>
+    <td align="center">에디터</td>
     <td align="center">-</td>
-  </tr> -->
+  </tr>
 <!--    <tr>
     <td align="center">금</td>
     <td align="center">면제</td>
