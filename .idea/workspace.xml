@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6daa7013-2f83-47f2-98ab-7f60f8fc49f9" name="Changes" comment="" />
+    <list default="true" id="6daa7013-2f83-47f2-98ab-7f60f8fc49f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/18_자율문제/2026_상반기/3월2주차/Ideun/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706784973552</updated>
-      <workItem from="1772940418162" duration="1715000" />
+      <workItem from="1772940418162" duration="1981000" />
     </task>
     <servers />
   </component>
