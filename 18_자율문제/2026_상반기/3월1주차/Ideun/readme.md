@@ -66,9 +66,9 @@
     <td align="center">푼 문제</td>
   </tr>
   <tr>
-    <td align="center">금</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">일</td>
+    <td align="center">15:50</td>
+    <td align="center">✅</td>
+    <td align="center">01~05번 문제</td>
   </tr>
 </table>
