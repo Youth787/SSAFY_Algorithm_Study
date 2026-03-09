@@ -103,9 +103,9 @@
     <td align="center">푼 문제</td>
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">월</td>
+    <td align="center">21:15</td>
+    <td align="center">✅</td>
+    <td align="center">01~03</td>
   </tr>
 </table>
