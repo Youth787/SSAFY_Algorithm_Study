@@ -69,10 +69,10 @@
   </tr>
 <tr>
     <td align="center">화</td>
-    <td align="center">-</td>
-    <td align="center"></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">2026-03-10 화 16:04</td>
+    <td align="center">✅</td>
+    <td align="center">외벽 점검</td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/PG-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%99%B8%EB%B2%BD%EC%A0%90%EA%B2%80LV3">바로가기</a></td>
   </tr>
 <!--
   <tr>
