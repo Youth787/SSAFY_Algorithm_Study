@@ -114,4 +114,10 @@
     <td align="center">✅</td>
     <td align="center">04~06</td>
   </tr>
+<tr>
+    <td align="center">수</td>
+    <td align="center">21:00</td>
+    <td align="center">✅</td>
+    <td align="center">07~08</td>
+  </tr>
 </table>
