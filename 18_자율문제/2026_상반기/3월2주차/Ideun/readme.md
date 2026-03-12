@@ -120,4 +120,10 @@
     <td align="center">✅</td>
     <td align="center">07~08</td>
   </tr>
+<tr>
+    <td align="center">목</td>
+    <td align="center">23:00</td>
+    <td align="center">✅</td>
+    <td align="center">09</td>
+  </tr>
 </table>
