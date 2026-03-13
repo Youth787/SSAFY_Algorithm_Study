@@ -88,22 +88,14 @@
     <td align="center">리모컨</td>
     <td align="center">-</td>
   </tr>
-<!--
   <tr>
-    <td align="center">목</td>
-    <td align="center">2026-03-05 목 17:29</td>
+    <td align="center">금</td>
+    <td align="center">2026-03-13 금 09:40>/td>
     <td align="center">✅</td>
-    <td align="center">대장균의 크기에 따라 분류하기 2</td>
+    <td align="center">보호소에서 중성화한 동물</td>
     <td align="center">-</td>
   </tr>
 
-    <tr>
-    <td align="center">수</td>
-    <td align="center">2026-03-04 수 15:09</td>
-    <td align="center">✅</td>
-    <td align="center">한수</td>
-    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-%EB%B0%B1%EC%A4%80-1976-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9E%90">바로가기</a></td>
-  </tr> -->
 
 
 </table>
