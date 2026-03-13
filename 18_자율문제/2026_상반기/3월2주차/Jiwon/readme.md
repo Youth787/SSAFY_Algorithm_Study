@@ -90,9 +90,9 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">2026-03-13 금 09:40</td>
+    <td align="center">2026-03-13 금 09:40, 09:46</td>
     <td align="center">✅</td>
-    <td align="center">보호소에서 중성화한 동물</td>
+    <td align="center">보호소에서 중성화한 동물, 툭정 세대의 대장균 찾기</td>
     <td align="center">-</td>
   </tr>
 
