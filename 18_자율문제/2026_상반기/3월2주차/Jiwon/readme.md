@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td align="center">금</td>
-    <td align="center">2026-03-13 금 09:40>/td>
+    <td align="center">2026-03-13 금 09:40</td>
     <td align="center">✅</td>
     <td align="center">보호소에서 중성화한 동물</td>
     <td align="center">-</td>
