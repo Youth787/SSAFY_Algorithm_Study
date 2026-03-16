@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6daa7013-2f83-47f2-98ab-7f60f8fc49f9" name="Changes" comment="[update] 리드미">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6daa7013-2f83-47f2-98ab-7f60f8fc49f9" name="Changes" comment="[solve] 수 묶기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773627855343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[solve] 수 묶기">
+      <option name="closed" value="true" />
+      <created>1773651180810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773651180810</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[update] 리드미" />
-    <option name="LAST_COMMIT_MESSAGE" value="[update] 리드미" />
+    <MESSAGE value="[solve] 수 묶기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[solve] 수 묶기" />
   </component>
 </project>
