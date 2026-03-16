@@ -20,15 +20,15 @@
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"></td>
     <td align="center">1138</td>
     <td align="center">한 줄로 서기</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/5014">바로가기</a></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1138">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">02</td>
     <td align="center">✅</td>
     <td align="center"><img height="23px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"></td>
-    <td align="center">1027</td>
-    <td align="center">고층 건물</td>
-    <td align="center"><a href="https://www.acmicpc.net/problem/1107">바로가기</a></td>
+    <td align="center">1744</td>
+    <td align="center">수 묶기</td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/1744">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
