@@ -49,99 +49,192 @@
 </td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/132204">바로가기</a></td>
 </tr>
-<tr>
-<td align="center">05</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">저자 별 카테고리 별 매출액 집계하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/144856">바로가기</a></td>
-</tr>
-<td align="center">06</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">서울에 위치한 식당 목록 출력하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131118">바로가기</a></td>
-</tr>
-<td align="center">07</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">년, 월, 성별 별 상품 구매 회원 수 구하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131532">바로가기</a></td>
-</tr>
-<td align="center">08</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">우유와 요거트가 담긴 장바구니
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">바로가기</a></td>
-</tr>
-<td align="center">09</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">주문량이 많은 아이스크림들 조회하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133027">바로가기</a></td>
-</tr>
-<td align="center">10</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">그룹별 조건에 맞는 식당 목록 출력하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131124">바로가기</a></td>
-</tr>
-<td align="center">11</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">오프라인/온라인 판매 데이터 통합하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131537">바로가기</a></td>
-</tr>
-</tr>
-<td align="center">12</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">입양 시각 구하기(2) 
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/59413">바로가기</a></td>
-</tr>
-</tr>
-<td align="center">13</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">자동차 대여 기록 별 대여 금액 구하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/151141">바로가기</a></td>
-</tr>
-</tr>
-<td align="center">14</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv4</td>
-<td align="center">프로그래머스</td>
-<td align="center">특정 기간동안 대여 가능한 자동차들의 대여비용 구하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339">바로가기</a></td>
-</tr>
-</tr>
-<td align="center">15</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv5</td>
-<td align="center">프로그래머스</td>
-<td align="center">상품을 구매한 회원 비율 구하기
-</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131534">바로가기</a></td>
-</tr>
+
+[//]: # (<tr>)
+
+[//]: # (<td align="center">05</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">저자 별 카테고리 별 매출액 집계하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/144856">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">06</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">서울에 위치한 식당 목록 출력하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131118">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">07</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">년, 월, 성별 별 상품 구매 회원 수 구하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131532">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">08</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">우유와 요거트가 담긴 장바구니)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">09</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">주문량이 많은 아이스크림들 조회하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133027">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">10</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">그룹별 조건에 맞는 식당 목록 출력하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131124">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">11</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">오프라인/온라인 판매 데이터 통합하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131537">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">12</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">입양 시각 구하기&#40;2&#41; )
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/59413">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">13</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">자동차 대여 기록 별 대여 금액 구하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/151141">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">14</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv4</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">특정 기간동안 대여 가능한 자동차들의 대여비용 구하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339">바로가기</a></td>)
+
+[//]: # (</tr>)
+
+[//]: # (</tr>)
+
+[//]: # (<td align="center">15</td>)
+
+[//]: # (<td align="center">✅</td>)
+
+[//]: # (<td align="center">SQL Lv5</td>)
+
+[//]: # (<td align="center">프로그래머스</td>)
+
+[//]: # (<td align="center">상품을 구매한 회원 비율 구하기)
+
+[//]: # (</td>)
+
+[//]: # (<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131534">바로가기</a></td>)
+
+[//]: # (</tr>)
 </table>
 
 </br>
