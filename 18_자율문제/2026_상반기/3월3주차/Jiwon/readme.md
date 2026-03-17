@@ -74,6 +74,13 @@
     <td align="center">수 묶기</td></td>
     <td align="center">-</td>
   </tr>
+<tr>
+    <td align="center">수</td>
+    <td align="center">2026-03-17 화 10:12</td>
+    <td align="center">✅</td>
+    <td align="center">한 줄로 서기</td></td>
+    <td align="center">-</td>
+  </tr>
 <!--
     <tr>
     <td align="center">수</td>
