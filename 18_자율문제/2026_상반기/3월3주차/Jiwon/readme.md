@@ -71,14 +71,21 @@
     <td align="center">화</td>
     <td align="center">2026-03-16 월 17:54</td>
     <td align="center">✅</td>
-    <td align="center">수 묶기</td></td>
+    <td align="center">수 묶기</td>
     <td align="center">-</td>
   </tr>
-<tr>
+  <tr>
     <td align="center">수</td>
     <td align="center">2026-03-17 화 10:12</td>
     <td align="center">✅</td>
-    <td align="center">한 줄로 서기</td></td>
+    <td align="center">한 줄로 서기</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">목</td>
+    <td align="center">2026-03-18 수 09:21</td>
+    <td align="center">✅</td>
+    <td align="center">야근지수</td>
     <td align="center">-</td>
   </tr>
 <!--
