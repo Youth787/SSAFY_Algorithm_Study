@@ -88,6 +88,13 @@
     <td align="center">야근지수</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">금</td>
+    <td align="center">2026-03-19 목 09:21</td>
+    <td align="center">✅</td>
+    <td align="center">요격시스템</td>
+    <td align="center">-</td>
+  </tr>
 <!--
     <tr>
     <td align="center">수</td>
