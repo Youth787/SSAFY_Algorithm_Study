@@ -62,9 +62,9 @@
     <td align="center">푼 문제</td>
   </tr>
  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">3/23</td>
+    <td align="center">21:00</td>
+    <td align="center">✅</td>
+    <td align="center">01</td>
   </tr>
 </table>
