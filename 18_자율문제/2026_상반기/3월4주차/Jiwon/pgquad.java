@@ -40,7 +40,7 @@ class Solution {
         if (!visited[x + len/2][y + len/2]) dfs(arr, x + len/2, y + len/2, len/2);
     }
     static void check(int[][] arr, int x, int y, int len) {
-        boolean flag = true;
+        boolean flag = true; 
         a: for (int i = x; i < x + len / 2; i++) {
             for (int j = y; j < y + len / 2; j++) {
                 if (arr[x][y] != arr[i][j]) {
