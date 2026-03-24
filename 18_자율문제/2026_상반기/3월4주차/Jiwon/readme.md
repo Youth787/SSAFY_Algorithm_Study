@@ -74,14 +74,14 @@
     <td align="center">테트로미노</td>
     <td align="center">-</td>
   </tr>
-  <!--
   <tr>
     <td align="center">수</td>
-    <td align="center">2026-03-17 화 10:12</td>
+    <td align="center">2026-03-24 화 10:25</td>
     <td align="center">✅</td>
-    <td align="center">한 줄로 서기</td>
+    <td align="center">쿼드압축 후 개수 세기</td>
     <td align="center">-</td>
   </tr>
+    <!--
   <tr>
     <td align="center">목</td>
     <td align="center">2026-03-18 수 09:21</td>
