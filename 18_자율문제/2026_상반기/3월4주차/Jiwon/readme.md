@@ -81,14 +81,14 @@
     <td align="center">쿼드압축 후 개수 세기</td>
     <td align="center">-</td>
   </tr>
-    <!--
   <tr>
     <td align="center">목</td>
-    <td align="center">2026-03-18 수 09:21</td>
+    <td align="center">2026-03-25 수 16:31</td>
     <td align="center">✅</td>
-    <td align="center">야근지수</td>
+    <td align="center">가장 긴 증가하는 부분 수열 4</td>
     <td align="center">-</td>
   </tr>
+  <!--
   <tr>
     <td align="center">금</td>
     <td align="center">2026-03-19 목 09:21</td>
