@@ -67,4 +67,10 @@
     <td align="center">✅</td>
     <td align="center">01</td>
   </tr>
+<tr>
+    <td align="center">3/25</td>
+    <td align="center">22:00</td>
+    <td align="center">✅</td>
+    <td align="center">02-03</td>
+  </tr>
 </table>
