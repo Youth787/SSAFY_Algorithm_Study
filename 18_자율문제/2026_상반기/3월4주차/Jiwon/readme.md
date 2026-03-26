@@ -88,14 +88,14 @@
     <td align="center">가장 긴 증가하는 부분 수열 4</td>
     <td align="center">-</td>
   </tr>
-  <!--
   <tr>
     <td align="center">금</td>
-    <td align="center">2026-03-19 목 09:21</td>
+    <td align="center">2026-03-26 목 13:47</td>
     <td align="center">✅</td>
-    <td align="center">요격시스템</td>
-    <td align="center">-</td>
+    <td align="center">뉴스 클러스터링</td>
+    <td align="center">https://velog.io/@wldnjs1123/PG-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81LV2</td>
   </tr>
+  <!--
   <tr>
     <td align="center">토</td>
     <td align="center">2026-03-20 금 09:27</td>
