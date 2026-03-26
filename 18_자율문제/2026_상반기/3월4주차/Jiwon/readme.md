@@ -93,7 +93,7 @@
     <td align="center">2026-03-26 목 13:47</td>
     <td align="center">✅</td>
     <td align="center">뉴스 클러스터링</td>
-    <td align="center">https://velog.io/@wldnjs1123/PG-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81LV2</td>
+    <td align="center">https://velog.io/@wldnjs1123/PG-프로그래머스-뉴스-클러스터링LV2</td>
   </tr>
   <!--
   <tr>
