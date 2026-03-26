@@ -41,10 +41,10 @@
   <tr>
     <td align="center">04</td>
     <td align="center">✅</td>
-    <td align="center">LV 3</td>
+    <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
-    <td align="center">매칭 점수</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42893">바로가기</a></td>
+    <td align="center">뉴스 클러스터링</td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">05</td>
