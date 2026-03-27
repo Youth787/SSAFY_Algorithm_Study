@@ -95,15 +95,15 @@
     <td align="center">뉴스 클러스터링</td>
     <td align="center">https://velog.io/@wldnjs1123/PG-프로그래머스-뉴스-클러스터링LV2</td>
   </tr>
-  <!--
+
   <tr>
     <td align="center">토</td>
-    <td align="center">2026-03-20 금 09:27</td>
+    <td align="center">2026-03-27 금 09:42</td>
     <td align="center">✅</td>
-    <td align="center">대장균의 크기에 따라 분류하기2</td>
+    <td align="center">FrontEnd 개발자 찾기</td>
     <td align="center">-</td>
   </tr>
-
+  <!--
     <tr>
     <td align="center">수</td>
     <td align="center">2026-03-04 수 15:09</td>
