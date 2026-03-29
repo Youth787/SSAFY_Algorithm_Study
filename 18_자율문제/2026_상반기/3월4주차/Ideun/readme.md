@@ -73,4 +73,10 @@
     <td align="center">✅</td>
     <td align="center">02-03</td>
   </tr>
+<tr>
+    <td align="center">3/29</td>
+    <td align="center">10:00</td>
+    <td align="center">✅</td>
+    <td align="center">04-05</td>
+  </tr>
 </table>
