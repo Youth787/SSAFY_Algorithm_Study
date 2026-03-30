@@ -67,14 +67,14 @@
     <td align="center">푼 문제</td>
     <td align="center">벨로그 링크</td>
   </tr>
-<!--
     <tr>
     <td align="center">화</td>
-    <td align="center">2026-03-23 월 10:54</td>
+    <td align="center">2026-03-30 월 11:06</td>
     <td align="center">✅</td>
-    <td align="center">테트로미노</td>
+    <td align="center">톱니바퀴</td>
     <td align="center">-</td>
   </tr>
+<!--
   <tr>
     <td align="center">수</td>
     <td align="center">2026-03-24 화 10:25</td>
