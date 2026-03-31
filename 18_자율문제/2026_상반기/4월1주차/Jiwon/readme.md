@@ -79,7 +79,7 @@
     <td align="center">2026-03-31 화 11:26</td>
     <td align="center">✅</td>
     <td align="center">탈출</td>
-    <td align="center">-</td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-3055-탈출">바로가기</a></td>
   </tr>
 <!--
   <tr>
@@ -96,7 +96,6 @@
     <td align="center">뉴스 클러스터링</td>
     <td align="center">https://velog.io/@wldnjs1123/PG-프로그래머스-뉴스-클러스터링LV2</td>
   </tr>
-
   <tr>
     <td align="center">토</td>
     <td align="center">2026-03-27 금 09:42</td>
