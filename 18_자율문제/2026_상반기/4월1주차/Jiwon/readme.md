@@ -74,14 +74,14 @@
     <td align="center">톱니바퀴</td>
     <td align="center">-</td>
   </tr>
-<!--
   <tr>
     <td align="center">수</td>
-    <td align="center">2026-03-24 화 10:25</td>
+    <td align="center">2026-03-31 화 11:26</td>
     <td align="center">✅</td>
-    <td align="center">쿼드압축 후 개수 세기</td>
+    <td align="center">탈출</td>
     <td align="center">-</td>
   </tr>
+<!--
   <tr>
     <td align="center">목</td>
     <td align="center">2026-03-25 수 16:31</td>
