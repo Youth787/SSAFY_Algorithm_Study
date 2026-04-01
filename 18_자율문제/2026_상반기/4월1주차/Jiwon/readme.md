@@ -81,14 +81,14 @@
     <td align="center">탈출</td>
     <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-3055-탈출">바로가기</a></td>
   </tr>
-<!--
   <tr>
     <td align="center">목</td>
-    <td align="center">2026-03-25 수 16:31</td>
+    <td align="center">2026-04-01 수 11:11</td>
     <td align="center">✅</td>
-    <td align="center">가장 긴 증가하는 부분 수열 4</td>
+    <td align="center">그룹별 조건에 맞는 식당 목록 출력하기</td>
     <td align="center">-</td>
   </tr>
+<!--
   <tr>
     <td align="center">금</td>
     <td align="center">2026-03-26 목 13:47</td>
