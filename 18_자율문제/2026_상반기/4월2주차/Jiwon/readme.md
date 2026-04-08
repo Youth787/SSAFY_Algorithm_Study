@@ -74,27 +74,34 @@
     <td align="center">하노이의탑</td>
     <td align="center">-</td>
   </tr>
-  <!--
   <tr>
     <td align="center">수</td>
-    <td align="center">2026-03-31 화 11:26</td>
-    <td align="center">✅</td>
-    <td align="center">탈출</td>
-    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-3055-탈출">바로가기</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">면제</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center">목</td>
-    <td align="center">2026-04-01 수 11:11</td>
+    <td align="center">2026-04-08 수 22:55</td>
     <td align="center">✅</td>
-    <td align="center">그룹별 조건에 맞는 식당 목록 출력하기</td>
+    <td align="center">전깃줄</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">금</td>
+    <td align="center">2026-04-08 수 23:04</td>
+    <td align="center">✅</td>
+    <td align="center">5월 식품들의 총매출 조회하기</td>
+    <td align="center">-</td>
+  </tr>
+    <!--
   <tr>
     <td align="center">금</td>
     <td align="center">2026-04-02 목 09:47</td>
     <td align="center">✅</td>
     <td align="center">보물섬</td>
-    <td align="center">-</td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-3055-탈출">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">토</td>
