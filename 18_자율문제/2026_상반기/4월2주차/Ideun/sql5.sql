@@ -1,0 +1,35 @@
+WITH CT AS (
+    SELECT
+        CRCC.CAR_TYPE
+        , CRCC.DAILY_FEE
+        , CRCRH. HISTORY_ID
+        , CRCRH.CAR_ID
+        , CRCRH.END_DATE - CRCRH.START_DATE + 1 AS DATEDIFF
+    FROM
+        CAR_RENTAL_COMPANY_CAR CRCC
+        , CAR_RENTAL_COMPANY_RENTAL_HISTORY CRCRH
+    WHERE 1=1
+    AND CRCC.CAR_ID = CRCRH.CAR_ID
+    AND CRCC.CAR_TYPE = '트럭'
+)
+
+SELECT
+    CT.HISTORY_ID
+    , FLOOR(CT.daily_fee * CT.DATEDIFF * (100- NVL(REGEXP_REPLACE(CRCDP.discount_rate,'[^0-9]',''),0)) /100)
+    AS FEE
+FROM CT
+LEFT JOIN CAR_RENTAL_COMPANY_DISCOUNT_PLAN CRCDP
+ON CT.CAR_TYPE = CRCDP.CAR_TYPE
+AND CRCDP.DURATION_TYPE = (
+    CASE WHEN CT.DATEDIFF >= 90 THEN '90일 이상'
+    WHEN CT.DATEDIFF >= 30 THEN '30일 이상'
+    WHEN CT.DATEDIFF >= 7 THEN '7일 이상'
+    ELSE NULL
+    END
+)
+ORDER BY 2 DESC, 1 DESC
+
+/*
+^[0-9] 대괄호 밖은 시작하는 이라는 의미 0~9 숫자로 시작하는 문자열을 찾아라
+[^0-9] 대괄호 안의 ^는 not 부정의 의미 0-9 숫자가 아닌것들
+*/
