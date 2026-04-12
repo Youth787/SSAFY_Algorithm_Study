@@ -49,6 +49,15 @@
 <td align="center">상품을 구매한 회원 비율 구하기
 </td>
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131534">바로가기</a></td>
+</tr><tr>
+<td align="center">05</td>
+<td align="center">✅</td>
+<td align="center">Summer/Winter Coding(2019)
+</td>
+<td align="center">프로그래머스</td>
+<td align="center">우유와 요거트가 담긴 장바구니
+</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/62284">바로가기</a></td>
 </tr>
 </table>
 
@@ -63,7 +72,7 @@
  <tr>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">✅</td>
+    <td align="center"></td>
     <td align="center"></td>
   </tr>
 </table>
