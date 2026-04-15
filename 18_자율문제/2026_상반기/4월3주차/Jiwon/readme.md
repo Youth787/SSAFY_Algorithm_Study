@@ -81,20 +81,20 @@
     <td align="center">괄호의값</td>
     <td align="center">-</td>
   </tr>
-<!--
   <tr>
     <td align="center">목</td>
-    <td align="center">2026-04-01 수 11:11</td>
+    <td align="center">2026-04-15 수 13:41</td>
     <td align="center">✅</td>
-    <td align="center">그룹별 조건에 맞는 식당 목록 출력하기</td>
-    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-3055-탈출">-</a></td>
+    <td align="center">조건별로 분류하여 주문상태 출력하기</td>
+    <td align="center">-</td>
   </tr>
+<!--
   <tr>
     <td align="center">금</td>
     <td align="center">2026-04-02 목 09:47</td>
     <td align="center">✅</td>
     <td align="center">보물섬</td>
-    <td align="center">-</td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-3055-탈출">-</a></td>
   </tr>
   <tr>
     <td align="center">토</td>
