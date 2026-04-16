@@ -88,14 +88,15 @@
     <td align="center">조건별로 분류하여 주문상태 출력하기</td>
     <td align="center">-</td>
   </tr>
-<!--
+
   <tr>
     <td align="center">금</td>
-    <td align="center">2026-04-02 목 09:47</td>
+    <td align="center">2026-04-16 목 09:28</td>
     <td align="center">✅</td>
-    <td align="center">보물섬</td>
-    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-3055-탈출">-</a></td>
+    <td align="center">강의실배정</td>
+    <td align="center">-</td>
   </tr>
+  <!--
   <tr>
     <td align="center">토</td>
     <td align="center">2026-04-03 금 10:42</td>
