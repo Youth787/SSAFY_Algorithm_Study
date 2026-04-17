@@ -96,15 +96,14 @@
     <td align="center">강의실배정</td>
     <td align="center">-</td>
   </tr>
-  <!--
   <tr>
     <td align="center">토</td>
-    <td align="center">2026-04-03 금 10:42</td>
+    <td align="center">2026-04-17 금 10:22</td>
     <td align="center">✅</td>
-    <td align="center">사라지는 발판</td>
-    <td align="center">-</td>
+    <td align="center">충돌위험찾기</td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/PG-프로그래머스-충돌위험-찾기LV2">바로가기</a></td>
   </tr>
 
--->
+
 
 </table>
