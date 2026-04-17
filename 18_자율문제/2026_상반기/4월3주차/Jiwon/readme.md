@@ -103,6 +103,14 @@
     <td align="center">충돌위험찾기</td>
     <td align="center"><a href="https://velog.io/@wldnjs1123/PG-프로그래머스-충돌위험-찾기LV2">바로가기</a></td>
   </tr>
+  <tr>
+    <td align="center">일</td>
+    <td align="center">2026-04-17 금 10:46</td>
+    <td align="center">✅</td>
+    <td align="center">[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기</td>
+    <td align="center">-</td>
+  </tr>
+  
 
 
 
