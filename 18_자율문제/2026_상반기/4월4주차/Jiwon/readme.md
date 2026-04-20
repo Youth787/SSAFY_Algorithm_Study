@@ -67,14 +67,14 @@
     <td align="center">푼 문제</td>
     <td align="center">벨로그 링크</td>
   </tr>
-<!--
     <tr>
     <td align="center">화</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">면제</td>
+    <td align="center">2026-04-20 월 11:37</td>
+    <td align="center">✅</td>
+    <td align="center">마법의 엘리베이터</td>
     <td align="center">-</td>
   </tr>
+<!--
   <tr>
     <td align="center">수</td>
     <td align="center">2026-04-14 화 09:46</td>
@@ -89,7 +89,6 @@
     <td align="center">조건별로 분류하여 주문상태 출력하기</td>
     <td align="center">-</td>
   </tr>
-
   <tr>
     <td align="center">금</td>
     <td align="center">2026-04-16 목 09:28</td>
@@ -111,7 +110,6 @@
     <td align="center">[자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기</td>
     <td align="center">-</td>
   </tr>
-  
 -->
 
 
