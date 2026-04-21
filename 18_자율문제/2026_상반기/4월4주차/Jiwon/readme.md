@@ -74,14 +74,14 @@
     <td align="center">마법의 엘리베이터</td>
     <td align="center">-</td>
   </tr>
-<!--
   <tr>
     <td align="center">수</td>
-    <td align="center">2026-04-14 화 09:46</td>
+    <td align="center">2026-04-21 화 10:13</td>
     <td align="center">✅</td>
-    <td align="center">괄호의값</td>
+    <td align="center">숨바꼭질4</td>
     <td align="center">-</td>
   </tr>
+<!--
   <tr>
     <td align="center">목</td>
     <td align="center">2026-04-15 수 13:41</td>
