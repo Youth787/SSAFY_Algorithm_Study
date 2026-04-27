@@ -41,7 +41,7 @@
 <td align="center">-</td>
 </tr>
 <tr>
-<td align="center">03</td>
+<td align="center">04</td>
 <td align="center">✅</td>
 <td align="center">SQL Lv4</td>
 <td align="center">프로그래머스</td>
@@ -50,7 +50,7 @@
 <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339">바로가기</a></td>
 </tr>
 <tr>
-<td align="center">04</td>
+<td align="center">05</td>
 <td align="center">✅</td>
 <td align="center">SQL Lv5</td>
 <td align="center">프로그래머스</td>
