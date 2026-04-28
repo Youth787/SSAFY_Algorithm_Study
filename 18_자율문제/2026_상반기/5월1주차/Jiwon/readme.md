@@ -74,14 +74,14 @@
     <td align="center">기타레슨</td>
     <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-2343-기타-레슨">바로가기</a></td>
   </tr>
-<!--
   <tr>
     <td align="center">수</td>
-    <td align="center">2026-04-21 화 10:13</td>
+    <td align="center">2026-04-28 화 10:00</td>
     <td align="center">✅</td>
-    <td align="center">숨바꼭질4</td>
-    <td align="center">-</td>
+    <td align="center">사다리조작</td>
+    <td align="center">백준 안녕~~</td>
   </tr>
+<!--
   <tr>
     <td align="center">목</td>
     <td align="center">2026-04-22 수 09:45</td>
