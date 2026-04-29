@@ -81,14 +81,14 @@
     <td align="center">사다리조작</td>
     <td align="center">백준 안녕~~</td>
   </tr>
-<!--
   <tr>
     <td align="center">목</td>
-    <td align="center">2026-04-22 수 09:45</td>
+    <td align="center">2026-04-29 수 10:11</td>
     <td align="center">✅</td>
-    <td align="center">1로만들기2</td>
+    <td align="center">뒤에 있는 큰 수 찾기</td>
     <td align="center">-</td>
   </tr>
+  <!--
   <tr>
     <td align="center">금</td>
     <td align="center">2026-04-24 금 09:22</td>
