@@ -88,14 +88,14 @@
     <td align="center">뒤에 있는 큰 수 찾기</td>
     <td align="center">-</td>
   </tr>
-  <!--
   <tr>
     <td align="center">금</td>
-    <td align="center">2026-04-24 금 09:22</td>
+    <td align="center">2026-04-30 목 10:22</td>
     <td align="center">✅</td>
-    <td align="center">숫자타자대회</td>
+    <td align="center">표현 가능한 이진 트리</td>
     <td align="center">-</td>
   </tr>
+  <!--
   <tr>
     <td align="center">토</td>
     <td align="center">2026-04-24 금 09:36</td>
