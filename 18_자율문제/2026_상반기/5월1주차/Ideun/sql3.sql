@@ -1,0 +1,11 @@
+SELECT R1.id
+  , r1.start_time 
+  , r1.end_time 
+FROM RESERVATION R1
+WHERE NOT EXISTS (
+    SELECT 1 FROM RESERVATION R2
+    WHERE R1.ID > R2.ID
+      AND R1.START_TIME < R2.END_TIME 
+      AND R1.END_TIME > R2.START_TIME
+)
+order by 2
