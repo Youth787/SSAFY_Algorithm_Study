@@ -81,7 +81,6 @@
     <td align="center">연속부분수열합의갯수</td>
     <td align="center">-</td>
   </tr>
-
   <tr>
     <td align="center">금</td>
     <td align="center">2026-05-06 수 09:51</td>
@@ -89,14 +88,14 @@
     <td align="center">롤케이크자르기</td>
     <td align="center">-</td>
   </tr>
-      <!--
-        <tr>
-    <td align="center">금</td>
-    <td align="center">2026-04-30 목 10:22</td>
+  <tr>
+    <td align="center">토</td>
+    <td align="center">2026-05-07 목 10:20</td>
     <td align="center">✅</td>
-    <td align="center">표현 가능한 이진 트리</td>
-    <td align="center"><a href="https://velog.io/@wldnjs1123/BOJ-백준-2343-기타-레슨">바로가기</a></td>
+    <td align="center">오랜 기간 보호한 동물(2), 퍼즐게임챌린지</td>
+    <td align="center">-</td>
   </tr>
+        <!--
   <tr>
     <td align="center">토</td>
     <td align="center">2026-04-30 목 10:26</td>
