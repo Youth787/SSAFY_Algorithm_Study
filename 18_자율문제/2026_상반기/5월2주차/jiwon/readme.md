@@ -95,13 +95,12 @@
     <td align="center">오랜 기간 보호한 동물(2), 퍼즐게임챌린지</td>
     <td align="center">-</td>
   </tr>
-        <!--
   <tr>
-    <td align="center">토</td>
-    <td align="center">2026-04-30 목 10:26</td>
+    <td align="center">일</td>
+    <td align="center">2026-05-08 금 11:26</td>
     <td align="center">✅</td>
-    <td align="center">조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기</td>
+    <td align="center">등대</td>
     <td align="center">-</td>
   </tr>
--->
+
 </table>
