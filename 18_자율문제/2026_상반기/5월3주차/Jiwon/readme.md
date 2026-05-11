@@ -69,9 +69,9 @@
   </tr>
     <tr>
     <td align="center">화</td>
-    <td align="center">2026-05-11 월</td>
+    <td align="center">2026-05-11 월 13:22</td>
     <td align="center">✅</td>
-    <td align="center">-</td>
+    <td align="center">피로도</td>
     <td align="center">-</td>
   </tr>
 <!--
