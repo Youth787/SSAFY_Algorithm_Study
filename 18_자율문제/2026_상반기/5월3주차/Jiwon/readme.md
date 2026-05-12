@@ -28,7 +28,7 @@
     <td align="center">LV 2</td>
     <td align="center">프로그래머스</td>
     <td align="center">완전범죄</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87694?language=java">바로가기</a></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/389480?language=java">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">03</td>
@@ -36,7 +36,7 @@
     <td align="center">LV 3</td>
     <td align="center">프로그래머스</td>
     <td align="center">아이템줍기</td>
-    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/340212?language=java">바로가기</a></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87694?language=java">바로가기</a></td>
   </tr>
   <tr>
     <td align="center">04</td>
@@ -74,14 +74,14 @@
     <td align="center">피로도</td>
     <td align="center">-</td>
   </tr>
-<!--
   <tr>
-    <td align="center">목</td>
-    <td align="center">2026-05-06 수 09:20</td>
+    <td align="center">수</td>
+    <td align="center">2026-05-12 화 11:29</td>
     <td align="center">✅</td>
-    <td align="center">연속부분수열합의갯수</td>
-    <td align="center">-</td>
+    <td align="center">아이템줍기</td>
+    <td align="center"><a href="https://velog.io/@wldnjs1123/PG-프로그래머스-아이템-줍기LV3">바로가기</a></td>
   </tr>
+  <!--
   <tr>
     <td align="center">금</td>
     <td align="center">2026-05-06 수 09:51</td>
