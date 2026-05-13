@@ -81,14 +81,14 @@
     <td align="center">아이템줍기</td>
     <td align="center"><a href="https://velog.io/@wldnjs1123/PG-프로그래머스-아이템-줍기LV3">바로가기</a></td>
   </tr>
-  <!--
   <tr>
-    <td align="center">금</td>
-    <td align="center">2026-05-06 수 09:51</td>
+    <td align="center">목</td>
+    <td align="center">2026-05-13 수 17:17</td>
     <td align="center">✅</td>
-    <td align="center">롤케이크자르기</td>
+    <td align="center">업그레이드 할 수 없는 아이템 구하기</td>
     <td align="center">-</td>
   </tr>
+<!--
   <tr>
     <td align="center">토</td>
     <td align="center">2026-05-07 목 10:20</td>
