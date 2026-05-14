@@ -88,6 +88,13 @@
     <td align="center">업그레이드 할 수 없는 아이템 구하기</td>
     <td align="center">-</td>
   </tr>
+    <tr>
+    <td align="center">금</td>
+    <td align="center">2026-05-14 목 10:40</td>
+    <td align="center">✅</td>
+    <td align="center">연속펄스부분수열의합</td>
+    <td align="center">-</td>
+  </tr>
 <!--
   <tr>
     <td align="center">토</td>
@@ -96,12 +103,6 @@
     <td align="center">오랜 기간 보호한 동물(2), 퍼즐게임챌린지</td>
     <td align="center">-</td>
   </tr>
-  <tr>
-    <td align="center">일</td>
-    <td align="center">2026-05-08 금 11:26</td>
-    <td align="center">✅</td>
-    <td align="center">등대</td>
-    <td align="center">-</td>
-  </tr>
+
 -->
 </table>
