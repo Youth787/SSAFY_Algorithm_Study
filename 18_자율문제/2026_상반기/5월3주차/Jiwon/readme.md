@@ -95,14 +95,12 @@
     <td align="center">연속펄스부분수열의합</td>
     <td align="center">-</td>
   </tr>
-<!--
   <tr>
     <td align="center">토</td>
-    <td align="center">2026-05-07 목 10:20</td>
+    <td align="center">2026-05-15 금 10:25</td>
     <td align="center">✅</td>
-    <td align="center">오랜 기간 보호한 동물(2), 퍼즐게임챌린지</td>
+    <td align="center">완전범죄</td>
     <td align="center">-</td>
   </tr>
 
--->
 </table>
