@@ -11,7 +11,7 @@
 <td align="center">난이도</td>
 <td align="center">문제 번호</td>
 <td align="center">문제</td>
-<td align="center">링</td>
+<td align="center">링크</td>
 </tr>
 
 <tr>
@@ -20,34 +20,25 @@
 <td align="center">SQL Lv5</td>
 <td align="center">sqlsolve</td>
 <td align="center">카테고리 별 매출 비율</td>
-<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=java">바로가기</a></td>
+<td align="center"><a href="https://solvesql.com/problems/revenue-pct-per-category/">바로가기</a></td>
 </tr>
-
 <tr>
-<td align="center">01</td>
+<td align="center">02</td>
 <td align="center">✅</td>
-<td align="center">SQL Lv5</td>
+<td align="center">SQL Lv3</td>
 <td align="center">sqlsolve</td>
-<td align="center">
-</td>
-<td align="center"></td>
-</tr><tr>
-<td align="center">01</td>
+<td align="center">온라인 쇼핑몰의 월 별 매출액 집계</td>
+<td align="center"><a href="https://solvesql.com/problems/shoppingmall-monthly-summary/">바로가기</a></td>
+</tr>
+<tr>
+<td align="center">03</td>
 <td align="center">✅</td>
-<td align="center">SQL Lv5</td>
+<td align="center">SQL Lv3</td>
 <td align="center">sqlsolve</td>
-<td align="center">
-</td>
-<td align="center"></td>
-</tr><tr>
-<td align="center">01</td>
-<td align="center">✅</td>
-<td align="center">SQL Lv5</td>
-<td align="center">sqlsolve</td>
-<td align="center">
-</td>
-<td align="center"></td>
-</tr><tr>
+<td align="center">지역별 주문의 특징</td>
+<td align="center"><a href="https://solvesql.com/problems/characteristics-of-orders/">바로가기</a></td>
+</tr>
+<tr>
 <td align="center">01</td>
 <td align="center">✅</td>
 <td align="center">SQL Lv5</td>
