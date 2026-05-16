@@ -13,15 +13,16 @@
 <td align="center">문제</td>
 <td align="center">링</td>
 </tr>
+
 <tr>
 <td align="center">01</td>
 <td align="center">✅</td>
 <td align="center">SQL Lv5</td>
 <td align="center">sqlsolve</td>
-<td align="center">
-</td>
-<td align="center"></td>
+<td align="center">카테고리 별 매출 비율</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=java">바로가기</a></td>
 </tr>
+
 <tr>
 <td align="center">01</td>
 <td align="center">✅</td>
