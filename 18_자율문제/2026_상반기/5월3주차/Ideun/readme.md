@@ -39,13 +39,20 @@
 <td align="center"><a href="https://solvesql.com/problems/characteristics-of-orders/">바로가기</a></td>
 </tr>
 <tr>
-<td align="center">01</td>
+<td align="center">04</td>
 <td align="center">✅</td>
 <td align="center">SQL Lv5</td>
 <td align="center">sqlsolve</td>
-<td align="center">
-</td>
-<td align="center"></td>
+<td align="center">레스토랑 요일 별 구매금액 Top 3 영수증</td>
+<td align="center"><a href="https://solvesql.com/problems/top-3-bill/">바로가기</a></td>
+</tr>
+<tr>
+<td align="center">05</td>
+<td align="center">✅</td>
+<td align="center">SQL Lv4</td>
+<td align="center">sqlsolve</td>
+<td align="center">신규 유입을 견인하는 카테고리</td>
+<td align="center"><a href="https://solvesql.com/problems/first-order-category/">바로가기</a></td>
 </tr>
 </table>
 
