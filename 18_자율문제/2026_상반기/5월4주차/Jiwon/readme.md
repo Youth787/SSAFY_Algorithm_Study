@@ -43,7 +43,7 @@
     <td align="center">✅</td>
     <td align="center">LV 3</td>
     <td align="center">프로그래머스</td>
-    <td align="center">미로탈명령어</td>
+    <td align="center">미로탈출명령어</td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150365">바로가기</a></td>
   </tr>
   <tr>
@@ -74,14 +74,15 @@
     <td align="center">소수찾기</td>
     <td align="center">-</td>
   </tr>
-<!--
+
   <tr>
     <td align="center">수</td>
-    <td align="center">2026-05-12 화 11:29</td>
+    <td align="center">2026-05-18 월 15:43</td>
     <td align="center">✅</td>
-    <td align="center">아이템줍기</td>
-    <td align="center"><a href="https://velog.io/@wldnjs1123/PG-프로그래머스-아이템-줍기LV3">바로가기</a></td>
+    <td align="center">타겟넘버</td>
+    <td align="center">-</td>
   </tr>
+  <!--
   <tr>
     <td align="center">목</td>
     <td align="center">2026-05-13 수 17:17</td>
