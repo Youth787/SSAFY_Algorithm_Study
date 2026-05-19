@@ -82,14 +82,14 @@
     <td align="center">타겟넘버</td>
     <td align="center">-</td>
   </tr>
-  <!--
   <tr>
     <td align="center">목</td>
-    <td align="center">2026-05-13 수 17:17</td>
+    <td align="center">2026-05-19 화 13:43</td>
     <td align="center">✅</td>
-    <td align="center">업그레이드 할 수 없는 아이템 구하기</td>
+    <td align="center">전력망을둘로나누기</td>
     <td align="center">-</td>
   </tr>
+  <!--
     <tr>
     <td align="center">금</td>
     <td align="center">2026-05-14 목 10:40</td>
