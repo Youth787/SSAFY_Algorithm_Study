@@ -96,13 +96,12 @@
     <td align="center">미로탈출명령어</td>
     <td align="center">-</td>
   </tr>
-  <!--
   <tr>
     <td align="center">토</td>
-    <td align="center">2026-05-15 금 10:25</td>
+    <td align="center">2026-05-22 금 09:25</td>
     <td align="center">✅</td>
-    <td align="center">완전범죄</td>
+    <td align="center">ROOT아이템구하기</td>
     <td align="center">-</td>
   </tr>
--->
+
 </table>
