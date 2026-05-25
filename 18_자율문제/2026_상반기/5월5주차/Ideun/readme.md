@@ -17,42 +17,42 @@
 <tr>
 <td align="center">01</td>
 <td align="center">✅</td>
-<td align="center">SQL Lv5</td>
-<td align="center">sqlsolve</td>
-<td align="center">카테고리 별 매출 비율</td>
-<td align="center"><a href="https://solvesql.com/problems/revenue-pct-per-category/">바로가기</a></td>
+<td align="center">SQL Lv2</td>
+<td align="center">프로그래머스</td>
+<td align="center">-</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=2&languages=oracle&page=1">바로가기</a></td>
 </tr>
 <tr>
 <td align="center">02</td>
 <td align="center">✅</td>
-<td align="center">SQL Lv5</td>
-<td align="center">sqlsolve</td>
-<td align="center">세션 재정의하기</td>
-<td align="center"><a href="https://solvesql.com/problems/redefine-session/">바로가기</a></td>
+<td align="center">SQL Lv3</td>
+<td align="center">프로그래머스</td>
+<td align="center">-</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=3&languages=oracle&page=1">바로가기</a></td>
 </tr>
 <tr>
 <td align="center">03</td>
 <td align="center">✅</td>
-<td align="center">SQL Lv5</td>
-<td align="center">sqlsolve</td>
-<td align="center">세션 유지 시간을 10분으로 재정의하기</td>
-<td align="center"><a href="https://solvesql.com/problems/redefine-session-2/">바로가기</a></td>
+<td align="center">SQL Lv4</td>
+<td align="center">프로그래머스</td>
+<td align="center">-</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=4&languages=oracle&page=1">바로가기</a></td>
 </tr>
 <tr>
 <td align="center">04</td>
 <td align="center">✅</td>
 <td align="center">SQL Lv5</td>
-<td align="center">sqlsolve</td>
-<td align="center">	연속된 이틀간의 누적 주문 계산하기</td>
-<td align="center"><a href="https://solvesql.com/problems/cumulative-orders/">바로가기</a></td>
+<td align="center">프로그래머스</td>
+<td align="center">-</td>
+<td align="center"><a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&languages=oracle&page=1&levels=5">바로가기</a></td>
 </tr>
 <tr>
 <td align="center">05</td>
 <td align="center">✅</td>
-<td align="center">SQL Lv5</td>
-<td align="center">sqlsolve</td>
-<td align="center">도시별 VIP 고객 찾기</td>
-<td align="center"><a href="https://solvesql.com/problems/vip-of-cities/">바로가기</a></td>
+<td align="center">TEST</td>
+<td align="center">프로그래머스</td>
+<td align="center">-</td>
+<td align="center"><a href="https://certi.programmers.co.kr/about/sample">바로가기</a></td>
 </tr>
 </table>
 
