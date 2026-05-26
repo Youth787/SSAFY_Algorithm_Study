@@ -76,9 +76,9 @@
   </tr>
   <tr>
     <td align="center">수</td>
-    <td align="center">2026-05-26 화 15:43</td>
+    <td align="center">2026-05-26 화 10:43</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">시소짝꿍</td>
     <td align="center">-</td>
   </tr>
 <!--
