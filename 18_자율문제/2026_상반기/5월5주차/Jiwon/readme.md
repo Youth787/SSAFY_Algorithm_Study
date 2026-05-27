@@ -81,14 +81,14 @@
     <td align="center">시소짝꿍</td>
     <td align="center">-</td>
   </tr>
-<!--
   <tr>
     <td align="center">목</td>
-    <td align="center">2026-05-19 화 13:43</td>
+    <td align="center">2026-05-27 수 10:43</td>
     <td align="center">✅</td>
-    <td align="center">전력망을둘로나누기</td>
+    <td align="center">2차원동전뒤집기</td>
     <td align="center">-</td>
   </tr>
+  <!--
     <tr>
     <td align="center">금</td>
     <td align="center">2026-05-21 목 10:05</td>
