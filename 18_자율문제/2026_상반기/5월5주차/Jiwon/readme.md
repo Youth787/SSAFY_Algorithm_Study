@@ -88,14 +88,14 @@
     <td align="center">2차원동전뒤집기</td>
     <td align="center">-</td>
   </tr>
-  <!--
-    <tr>
+  <tr>
     <td align="center">금</td>
-    <td align="center">2026-05-21 목 10:05</td>
+    <td align="center">2026-05-28 목 22:05</td>
     <td align="center">✅</td>
-    <td align="center">미로탈출명령어</td>
+    <td align="center">택배배달과수거</td>
     <td align="center">-</td>
   </tr>
+    <!--
   <tr>
     <td align="center">토</td>
     <td align="center">2026-05-22 금 09:25</td>
