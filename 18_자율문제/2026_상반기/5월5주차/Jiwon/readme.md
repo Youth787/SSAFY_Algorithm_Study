@@ -95,13 +95,11 @@
     <td align="center">택배배달과수거</td>
     <td align="center">-</td>
   </tr>
-    <!--
   <tr>
-    <td align="center">토</td>
-    <td align="center">2026-05-22 금 09:25</td>
+    <td align="center">일</td>
+    <td align="center">2026-05-30 토 21:44</td>
     <td align="center">✅</td>
-    <td align="center">ROOT아이템구하기</td>
+    <td align="center">5월 식품들의 총매출 조회하기,대여 기록이 존재하는 자동차 리스트 구하기 </td>
     <td align="center">-</td>
   </tr>
--->
 </table>
